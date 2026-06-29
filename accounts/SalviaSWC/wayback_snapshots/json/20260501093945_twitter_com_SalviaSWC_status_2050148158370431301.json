@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050148112635760640"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2049765699443376625",
+    "created_at": "2026-05-01T09:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050148158370431301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cUAcing2Yo",
+          "end": 23,
+          "expanded_url": "https://x.com/SalviaSWC/status/2050148158370431301/photo/1",
+          "media_key": "3_2050148112635760640",
+          "start": 0,
+          "url": "https://t.co/cUAcing2Yo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050148158370431301",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049765699443376625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/cUAcing2Yo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3006,
+        "media_key": "3_2050148112635760640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOW2KaXkAA3wwQ.jpg",
+        "width": 2776
+      },
+      {
+        "height": 2998,
+        "media_key": "3_2049510672824934401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFTGSEaIAEd3-6.jpg",
+        "width": 2127
+      },
+      {
+        "height": 2335,
+        "media_key": "3_2049510686259335168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFTHEHa0AAn7ou.jpg",
+        "width": 2127
+      },
+      {
+        "height": 2860,
+        "media_key": "3_2049510706429546496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHFTIPQX0AAtJaB.jpg",
+        "width": 2127
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050148112635760640"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2049765699443376625",
+        "created_at": "2026-05-01T09:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050148158370431301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cUAcing2Yo",
+              "end": 23,
+              "expanded_url": "https://x.com/SalviaSWC/status/2050148158370431301/photo/1",
+              "media_key": "3_2050148112635760640",
+              "start": 0,
+              "url": "https://t.co/cUAcing2Yo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050148158370431301",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049765699443376625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/cUAcing2Yo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049510672824934401",
+            "3_2049510686259335168",
+            "3_2049510706429546496"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2049765699443376625",
+        "created_at": "2026-04-30T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049765699443376625"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 168,
+              "start": 162,
+              "tag": "上头电子烟"
+            }
+          ],
+          "urls": [
+            {
+              "description": "FreeODwiki, 人人都可以编辑的Overdose百科全书. Contribute to SalviaSWC/FreeODwiki development by creating an account on GitHub.",
+              "display_url": "github.com/SalviaSWC/Free…",
+              "end": 137,
+              "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%8A%A5%E5%91%8A/erowid/115933.md",
+              "start": 114,
+              "status": 200,
+              "title": "FreeODwiki/报告/erowid/115933.md at main · SalviaSWC/FreeODwiki",
+              "unwound_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%8A%A5%E5%91%8A/erowid/115933.md",
+              "url": "https://t.co/gwYZalwHKl"
+            },
+            {
+              "display_url": "pic.x.com/nfRnzYfptM",
+              "end": 192,
+              "expanded_url": "https://x.com/SalviaSWC/status/2049765699443376625/photo/1",
+              "media_key": "3_2049510672824934401",
+              "start": 169,
+              "url": "https://t.co/nfRnzYfptM"
+            },
+            {
+              "display_url": "pic.x.com/nfRnzYfptM",
+              "end": 192,
+              "expanded_url": "https://x.com/SalviaSWC/status/2049765699443376625/photo/1",
+              "media_key": "3_2049510686259335168",
+              "start": 169,
+              "url": "https://t.co/nfRnzYfptM"
+            },
+            {
+              "display_url": "pic.x.com/nfRnzYfptM",
+              "end": 192,
+              "expanded_url": "https://x.com/SalviaSWC/status/2049765699443376625/photo/1",
+              "media_key": "3_2049510706429546496",
+              "start": 169,
+              "url": "https://t.co/nfRnzYfptM"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2049403311703400646",
+              "start": 193,
+              "url": "https://t.co/4G4LqspsHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049765699443376625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4061,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049403311703400646",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day12——替来他明的药效\n\n一外国小哥吸食了高纯度的的替来他明晶体，这是他的身体发生的变化(bushi)\n\n好像是典型的解离剂体验呢。剂量足的话，药效是够的，但是副作用较多，后效较长，敬请大家注意🤓\n\n文字版链接： https://t.co/gwYZalwHKl 持续关注FreeODwiki，了解更多报告！\n\n#上头电子烟 https://t.co/nfRnzYfptM https://t.co/4G4LqspsHh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4218,
+          "following_count": 997,
+          "like_count": 22880,
+          "listed_count": 11,
+          "media_count": 480,
+          "tweet_count": 7353
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

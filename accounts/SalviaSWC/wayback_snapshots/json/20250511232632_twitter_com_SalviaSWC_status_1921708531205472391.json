@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1921704273542271132",
+    "created_at": "2025-05-11T23:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T00:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921708531205472391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1545736499597307904",
+          "start": 0,
+          "username": "Andy1782010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921708531205472391",
+    "in_reply_to_user_id": "1545736499597307904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921704273542271132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Andy1782010 中考加油喵()\n现在高考都不用收音机了，为什么中考还用🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 418,
+        "media_key": "3_1921704271063793664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqtD2lgbwAAIQPR.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1921704273542271132",
+        "created_at": "2025-05-11T23:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T00:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921708531205472391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1545736499597307904",
+              "start": 0,
+              "username": "Andy1782010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921708531205472391",
+        "in_reply_to_user_id": "1545736499597307904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921704273542271132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Andy1782010 中考加油喵()\n现在高考都不用收音机了，为什么中考还用🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921704271063793664"
+          ]
+        },
+        "author_id": "1545736499597307904",
+        "conversation_id": "1921704273542271132",
+        "created_at": "2025-05-11T23:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T00:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921704273542271132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/0TyDxvjnGCv4…",
+              "end": 175,
+              "expanded_url": "https://mp.weixin.qq.com/s/0TyDxvjnGCv4__VcN-3f9Q",
+              "start": 152,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HDIuIWijMCTVRS3bXfq3_n92Q8zdNzmvp0O62GXL&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0TyDxvjnGCv4__VcN-3f9Q",
+              "url": "https://t.co/Zjm7QDkZB6"
+            },
+            {
+              "display_url": "pic.x.com/EgXI2iQme0",
+              "end": 199,
+              "expanded_url": "https://x.com/Andy1782010/status/1921704273542271132/photo/1",
+              "media_key": "3_1921704271063793664",
+              "start": 176,
+              "url": "https://t.co/EgXI2iQme0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921704273542271132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中考 | 2025年上海市初中学业水平考试英语听力试运转，将于今天（2025年5月12日）8:55-9:25举行（8:55-9:00为试音时间）。收听频率为：上海人民广播电台长三角之声FM（调频）89.9兆赫、AM（中波）792千赫。\n试题及音频公布时间和渠道请看原文链接\n欢迎各位收听（）\n\n原文链接：https://t.co/Zjm7QDkZB6 https://t.co/EgXI2iQme0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 71,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 566
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学在读ENTP初三牲喵（2010.06）\n（🚪9.9元 同类免费（\ncrush @guo_lao32576\n杂鱼 @mhtqwq\n妈咪 @zzzChumo\n里推@Andy1782025\n距离2025年上海市初中学业水平考试还有35天（2025.6.14-15）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 81,
+                "start": 74,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "zzzChumo"
+              },
+              {
+                "end": 109,
+                "start": 97,
+                "username": "Andy1782025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andy17820101",
+                "end": 23,
+                "expanded_url": "http://ngl.link/andy17820101",
+                "start": 0,
+                "url": "https://t.co/G9B0EMYSRr"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy1782010（备战中考）",
+        "pinned_tweet_id": "1876669495902917098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 3861,
+          "like_count": 10367,
+          "listed_count": 4,
+          "media_count": 95,
+          "tweet_count": 1281
+        },
+        "url": "https://t.co/G9B0EMYSRr",
+        "username": "Andy1782010",
+        "verified": false
+      }
+    ]
+  }
+}

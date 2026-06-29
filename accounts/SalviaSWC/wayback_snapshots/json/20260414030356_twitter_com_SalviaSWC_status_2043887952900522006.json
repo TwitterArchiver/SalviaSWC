@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2043299790486680007",
+    "created_at": "2026-04-14T03:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043887952900522006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1766412795808014336",
+          "start": 0,
+          "username": "mymod114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043887952900522006",
+    "in_reply_to_user_id": "1766412795808014336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043886248637641201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mymod114 不一定，但是它可以跟李云齐说，李云齐有路子"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043886248637641201].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043886248637641201",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043886248637641201"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043299790486680007",
+        "created_at": "2026-04-14T03:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043887952900522006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1766412795808014336",
+              "start": 0,
+              "username": "mymod114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043887952900522006",
+        "in_reply_to_user_id": "1766412795808014336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043886248637641201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mymod114 不一定，但是它可以跟李云齐说，李云齐有路子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3730,
+          "following_count": 1005,
+          "like_count": 22164,
+          "listed_count": 8,
+          "media_count": 424,
+          "tweet_count": 6790
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T10:36:50.000Z",
+        "description": "",
+        "id": "1766412795808014336",
+        "name": "_125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043883432233877504/2ezYj_TW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 334,
+          "like_count": 7274,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 792
+        },
+        "username": "mymod114",
+        "verified": false
+      }
+    ]
+  }
+}

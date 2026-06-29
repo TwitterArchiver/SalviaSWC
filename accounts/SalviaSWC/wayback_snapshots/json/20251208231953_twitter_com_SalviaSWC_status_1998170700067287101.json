@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1998017129958797627",
+    "created_at": "2025-12-08T23:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T00:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998170700067287101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826984800390889472",
+          "start": 0,
+          "username": "rcwikixyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998170700067287101",
+    "in_reply_to_user_id": "1826984800390889472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998037925230244301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rcwikixyz 没事，我感觉我已经凌驾在法律之上了，不会被抓的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1998017129958797627",
+        "created_at": "2025-12-08T23:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T00:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998170700067287101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "rcwikixyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998170700067287101",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998037925230244301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rcwikixyz 没事，我感觉我已经凌驾在法律之上了，不会被抓的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826984800390889472",
+        "conversation_id": "1998017129958797627",
+        "created_at": "2025-12-08T14:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998037925230244301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998037925230244301",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998017129958797627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 敢卖这个包被抓，参考lsz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 717,
+          "like_count": 15069,
+          "listed_count": 7,
+          "media_count": 184,
+          "tweet_count": 4119
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "多人账户 ｜ 提问 https://t.co/whvJOUTUxI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xooxosolvvme",
+                "end": 33,
+                "expanded_url": "https://ngl.link/xooxosolvvme",
+                "start": 10,
+                "url": "https://t.co/whvJOUTUxI"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "天下社",
+        "name": "全宇宙最悲伤欲绝的人",
+        "pinned_tweet_id": "1990339095210652034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998043058685071360/8zFvVXHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 125,
+          "like_count": 426,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 355
+        },
+        "username": "rcwikixyz",
+        "verified": false
+      }
+    ]
+  }
+}

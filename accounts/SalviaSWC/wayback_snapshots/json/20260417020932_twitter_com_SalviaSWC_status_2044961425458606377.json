@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044757173012746240"
+      ],
+      "media_source_tweet_id": [
+        "2044757196463047005"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2044961425458606377",
+    "created_at": "2026-04-17T02:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T03:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044961425458606377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1243590342911410176",
+          "start": 3,
+          "username": "bing2000100830"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/88eBdkuXnc",
+          "end": 86,
+          "expanded_url": "https://x.com/bing2000100830/status/2044757196463047005/photo/1",
+          "media_key": "3_2044757173012746240",
+          "start": 63,
+          "url": "https://t.co/88eBdkuXnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044961425458606377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044757196463047005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bing2000100830: 当你拼命往嘴里灌小药水的时候，有没有想过小时候在学校大礼堂看禁毒教育讲座的时候的你？ https://t.co/88eBdkuXnc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044757173012746240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBv0LVbUAAZQ-I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044757173012746240"
+          ],
+          "media_source_tweet_id": [
+            "2044757196463047005"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2044961425458606377",
+        "created_at": "2026-04-17T02:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044961425458606377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1243590342911410176",
+              "start": 3,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/88eBdkuXnc",
+              "end": 86,
+              "expanded_url": "https://x.com/bing2000100830/status/2044757196463047005/photo/1",
+              "media_key": "3_2044757173012746240",
+              "start": 63,
+              "url": "https://t.co/88eBdkuXnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044961425458606377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044757196463047005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bing2000100830: 当你拼命往嘴里灌小药水的时候，有没有想过小时候在学校大礼堂看禁毒教育讲座的时候的你？ https://t.co/88eBdkuXnc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044757173012746240"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2044757196463047005",
+        "created_at": "2026-04-16T12:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044757196463047005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88eBdkuXnc",
+              "end": 66,
+              "expanded_url": "https://x.com/bing2000100830/status/2044757196463047005/photo/1",
+              "media_key": "3_2044757173012746240",
+              "start": 43,
+              "url": "https://t.co/88eBdkuXnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044757196463047005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8142,
+          "like_count": 143,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "当你拼命往嘴里灌小药水的时候，有没有想过小时候在学校大礼堂看禁毒教育讲座的时候的你？ https://t.co/88eBdkuXnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3790,
+          "following_count": 974,
+          "like_count": 22051,
+          "listed_count": 8,
+          "media_count": 436,
+          "tweet_count": 6947
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 906,
+          "like_count": 31000,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1808
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

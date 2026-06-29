@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2016175228817461351",
+    "created_at": "2026-01-27T15:49:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:49:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016176805833740743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Open Source Guides",
+          "display_url": "CONTRIBUTING.md",
+          "end": 27,
+          "expanded_url": "http://CONTRIBUTING.md",
+          "images": [
+            {
+              "height": 122,
+              "url": "https://pbs.twimg.com/news_img/2015258094381473792/aIo2NGfU?format=png&name=orig",
+              "width": 316
+            },
+            {
+              "height": 122,
+              "url": "https://pbs.twimg.com/news_img/2015258094381473792/aIo2NGfU?format=png&name=150x150",
+              "width": 122
+            }
+          ],
+          "start": 4,
+          "status": 200,
+          "title": "CONTRIBUTING.md",
+          "unwound_url": "https://contributing.md/",
+          "url": "https://t.co/vGZmmhhBg0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016176805833740743",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016175228817461351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纠正：是https://t.co/vGZmmhhBg0\n\n自动纠正用多了导致的()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2016175228817461351",
+        "created_at": "2026-01-27T15:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016176805833740743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Open Source Guides",
+              "display_url": "CONTRIBUTING.md",
+              "end": 27,
+              "expanded_url": "http://CONTRIBUTING.md",
+              "images": [
+                {
+                  "height": 122,
+                  "url": "https://pbs.twimg.com/news_img/2015258094381473792/aIo2NGfU?format=png&name=orig",
+                  "width": 316
+                },
+                {
+                  "height": 122,
+                  "url": "https://pbs.twimg.com/news_img/2015258094381473792/aIo2NGfU?format=png&name=150x150",
+                  "width": 122
+                }
+              ],
+              "start": 4,
+              "status": 200,
+              "title": "CONTRIBUTING.md",
+              "unwound_url": "https://contributing.md/",
+              "url": "https://t.co/vGZmmhhBg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016176805833740743",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016175228817461351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纠正：是https://t.co/vGZmmhhBg0\n\n自动纠正用多了导致的()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2016175228817461351",
+        "created_at": "2026-01-27T15:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016175228817461351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FreeOD_wiki/st…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/FreeOD_wiki/status/2016172348190425185",
+              "start": 155,
+              "url": "https://t.co/J0V7sh3fXB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016175228817461351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016172348190425185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开源项目的参与者当然很接近安人啦，不过把那人当令人愤怒的东西的话，实在是鼠目寸光了（\n\n真正让人愤怒的，是那个大的......😰\n\n鉴于近期事件，我们现在已经确定发展方向，且已发布在CONTRIBUTION页面，谁都能来哦......\n\n如果你也对此愤怒，就来一起编写条目吧，加入我们，组一辈子项目组，好嘛🥹 https://t.co/J0V7sh3fXB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 793,
+          "like_count": 18410,
+          "listed_count": 8,
+          "media_count": 240,
+          "tweet_count": 5108
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

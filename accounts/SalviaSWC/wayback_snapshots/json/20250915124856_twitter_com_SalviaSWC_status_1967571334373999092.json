@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967570811755098112"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1967571334373999092",
+    "created_at": "2025-09-15T12:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T13:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967571334373999092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tpkRZLcZZy",
+          "end": 73,
+          "expanded_url": "https://x.com/SalviaSWC/status/1967571334373999092/photo/1",
+          "media_key": "3_1967570811755098112",
+          "start": 50,
+          "url": "https://t.co/tpkRZLcZZy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967571334373999092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来沙利度胺现在还在卖啊，不过商品名不叫“反应停”了，而是“反映亭”\n药企起名是懂得要避讳选词的😆 https://t.co/tpkRZLcZZy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967570811755098112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G043OokW8AAO9w3.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967570811755098112"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1967571334373999092",
+        "created_at": "2025-09-15T12:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967571334373999092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpkRZLcZZy",
+              "end": 73,
+              "expanded_url": "https://x.com/SalviaSWC/status/1967571334373999092/photo/1",
+              "media_key": "3_1967570811755098112",
+              "start": 50,
+              "url": "https://t.co/tpkRZLcZZy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967571334373999092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来沙利度胺现在还在卖啊，不过商品名不叫“反应停”了，而是“反映亭”\n药企起名是懂得要避讳选词的😆 https://t.co/tpkRZLcZZy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 447,
+          "like_count": 6529,
+          "listed_count": 5,
+          "media_count": 94,
+          "tweet_count": 2293
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

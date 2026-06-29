@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1988128416701575616",
+    "created_at": "2025-11-11T07:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T08:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988152821985013996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "moya_michaeI"
+        },
+        {
+          "end": 22,
+          "id": "1327197298930028544",
+          "start": 14,
+          "username": "un_krvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988152821985013996",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988136018416124386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moya_michaeI @un_krvy 被害妄想症犯了.jpg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1988128416701575616",
+        "created_at": "2025-11-11T07:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T08:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988152821985013996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "moya_michaeI"
+            },
+            {
+              "end": 22,
+              "id": "1327197298930028544",
+              "start": 14,
+              "username": "un_krvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988152821985013996",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988136018416124386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moya_michaeI @un_krvy 被害妄想症犯了.jpg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "1988128416701575616",
+        "created_at": "2025-11-11T06:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988136018416124386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1327197298930028544",
+              "start": 0,
+              "username": "un_krvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988136018416124386",
+        "in_reply_to_user_id": "1327197298930028544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988135760722333892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@un_krvy 我这几天魔了，我总感觉有人要害死我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1760,
+          "following_count": 676,
+          "like_count": 11325,
+          "listed_count": 6,
+          "media_count": 161,
+          "tweet_count": 3484
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "視線 未來 被 霧霾 覆蓋 空白 意外 負債 後代..",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "Michael-MoyA",
+        "pinned_tweet_id": "1987198004856815949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 125,
+          "like_count": 8023,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1151
+        },
+        "username": "moya_michaeI",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-13T10:31:21.000Z",
+        "description": "krvy|想要互fo|试图逃离od(x)|正在踏入更深的深渊",
+        "id": "1327197298930028544",
+        "location": "Macragge",
+        "name": "krvy #​心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985229486288457728/50BuRTaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 198,
+          "like_count": 5459,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 726
+        },
+        "username": "un_krvy",
+        "verified": false
+      }
+    ]
+  }
+}

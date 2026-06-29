@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1986044631927390465",
+    "created_at": "2025-11-05T13:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T14:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986061493817987135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936789334684041216",
+          "start": 0,
+          "username": "H061207Wjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986061493817987135",
+    "in_reply_to_user_id": "1936789334684041216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986060111136411805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H061207Wjh 这个游戏是大模拟类的游戏()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1986044631927390465",
+        "created_at": "2025-11-05T13:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986061493817987135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936789334684041216",
+              "start": 0,
+              "username": "H061207Wjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986061493817987135",
+        "in_reply_to_user_id": "1936789334684041216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986060111136411805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H061207Wjh 这个游戏是大模拟类的游戏()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936789334684041216",
+        "conversation_id": "1986044631927390465",
+        "created_at": "2025-11-05T13:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986060111136411805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986060111136411805",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986044631927390465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我觉得可以做成类似于《底特律变人》的那种剧情玩法，你的每一个选择都将影响之后的剧情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 656,
+          "like_count": 10416,
+          "listed_count": 7,
+          "media_count": 150,
+          "tweet_count": 3268
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T14:12:40.000Z",
+        "description": "药物百科Mediwiki编辑组成员          \n一个平平无奇的地雷妹                \n国家三级心理咨询师 \n有各种心理，药理，精神类问题都可以找我                    \n偏好：od/键政/心理学/精神病学/药理学\n＃向往共产主义＃\n☞一个共产主义左派，不是网左！\n感觉好累………",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/OvX1FmmGAV"
+              }
+            ]
+          }
+        },
+        "id": "1936789334684041216",
+        "location": "想要od  想要优美  想要pr  想要白兔  什么都想要",
+        "name": "SaTo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957273497505579008/W7ABNJXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 108,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/OvX1FmmGAV",
+        "username": "H061207Wjh",
+        "verified": false
+      }
+    ]
+  }
+}

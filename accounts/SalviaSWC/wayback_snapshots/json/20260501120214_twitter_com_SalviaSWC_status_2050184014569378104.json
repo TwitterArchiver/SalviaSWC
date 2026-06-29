@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050183350556450816"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2050184014569378104",
+    "created_at": "2026-05-01T12:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050184014569378104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+          "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+          "end": 93,
+          "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/erowid/69917.html",
+          "start": 70,
+          "status": 200,
+          "title": "69917 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/erowid/69917.html",
+          "url": "https://t.co/2VAo1l0Ybg"
+        },
+        {
+          "display_url": "pic.x.com/WEvjjWdFJc",
+          "end": 117,
+          "expanded_url": "https://x.com/SalviaSWC/status/2050184014569378104/photo/1",
+          "media_key": "3_2050183350556450816",
+          "start": 94,
+          "url": "https://t.co/WEvjjWdFJc"
+        },
+        {
+          "display_url": "x.com/sakuraiharunan…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/sakuraiharunana/status/2049987838104752306",
+          "start": 118,
+          "url": "https://t.co/Hg8VPzkYdi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050184014569378104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049987838104752306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一次od普瑞巴林，就直接吃750mg的剂量确实不是一种理智之举。\n\n没有像图中这位外国小哥一样心律失常、癫痫发作真是万幸......🥺\n\nhttps://t.co/2VAo1l0Ybg https://t.co/WEvjjWdFJc https://t.co/Hg8VPzkYdi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2783,
+        "media_key": "3_2050183350556450816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHO25R5WYAAFfBq.jpg",
+        "width": 2070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050183350556450816"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2050184014569378104",
+        "created_at": "2026-05-01T12:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050184014569378104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+              "end": 93,
+              "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/erowid/69917.html",
+              "start": 70,
+              "status": 200,
+              "title": "69917 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/erowid/69917.html",
+              "url": "https://t.co/2VAo1l0Ybg"
+            },
+            {
+              "display_url": "pic.x.com/WEvjjWdFJc",
+              "end": 117,
+              "expanded_url": "https://x.com/SalviaSWC/status/2050184014569378104/photo/1",
+              "media_key": "3_2050183350556450816",
+              "start": 94,
+              "url": "https://t.co/WEvjjWdFJc"
+            },
+            {
+              "display_url": "x.com/sakuraiharunan…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/sakuraiharunana/status/2049987838104752306",
+              "start": 118,
+              "url": "https://t.co/Hg8VPzkYdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050184014569378104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049987838104752306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次od普瑞巴林，就直接吃750mg的剂量确实不是一种理智之举。\n\n没有像图中这位外国小哥一样心律失常、癫痫发作真是万幸......🥺\n\nhttps://t.co/2VAo1l0Ybg https://t.co/WEvjjWdFJc https://t.co/Hg8VPzkYdi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809754445162639361",
+        "conversation_id": "2049987838104752306",
+        "created_at": "2026-04-30T23:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049987838104752306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049987838104752306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我并不认为 od 是一个理智之举，下面是我的报告。\n\npr 80 品鉴报告\n\n 作者:希  澈\n\n前言：极端糟糕的体验。“到底谁还在 o？”\n\n昨天下午 15 时 43 分许，我 o 了 750mg pr。\n极端糟糕的体验。\n16 时 15 分许，我感受到了焦虑减弱。\n“应该会更好吧”\n\n未曾想，这是恶梦的开始。\n\n17 时许，我开始感受到了共济失调。\n18 时 30 分许，我开始发情。（？）\n然后就是依旧天旋地转，头晕眼花\n19 时 30 分许，我吃了 3 粒补佳乐（我不知道动机）\n一边发情一边头晕。\n然后我给         发了一堆艳照。\n发情很爽但是pr什么的，还是算了吧。\n我打字头晕眼花，打了一堆错字，看到聊天框下面所有的图标在跳动。\n21 时许，开始谵妄，我发信息完全乱来，明明是 a，一睁眼发现是 b，而且乱发消息，完全就是胡打键盘了。\n\n21 时 36 分，我决定睡觉半小时，然后一觉醒来是五点二十。\npr 给我带来了 92 分高分睡眠。\n\n以上。\n\n希澈\n2026.4.27，于家中。\n\n我并不认为 o 是理智之举，\n不会在有第二次。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 721,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我并不认为 od 是一个理智之举，下面是我的报告。\n\npr 80 品鉴报告\n\n 作者:希  澈\n\n前言：极端糟糕的体验。“到底谁还在 o？”\n\n昨天下午 15 时 43 分许，我 o 了 750mg pr。\n极端糟糕的体验。\n16 时 15 分许，我感受到了焦虑减弱。\n“应该会更好吧”\n\n未曾想，这是恶梦的开始。\n\n17"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4221,
+          "following_count": 997,
+          "like_count": 22908,
+          "listed_count": 11,
+          "media_count": 481,
+          "tweet_count": 7361
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T01:01:15.000Z",
+        "description": "aka春菜...🏳️‍⚧️🍥\n家长党｜已出柜｜持证含糖｜同类互 fo｜欢迎扩列",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kizumi.site",
+                "end": 23,
+                "expanded_url": "http://kizumi.site",
+                "start": 0,
+                "url": "https://t.co/gbSTeAWfnO"
+              }
+            ]
+          }
+        },
+        "id": "1809754445162639361",
+        "location": "127.0.0.1",
+        "name": "希澈_Kizumi",
+        "pinned_tweet_id": "2043817954132013258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035752291907883008/IGwfrJ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 442,
+          "like_count": 118,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/gbSTeAWfnO",
+        "username": "sakuraiharunana",
+        "verified": true
+      }
+    ]
+  }
+}

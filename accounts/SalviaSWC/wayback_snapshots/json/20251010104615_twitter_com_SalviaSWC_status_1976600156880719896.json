@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1976600156880719896",
+    "created_at": "2025-10-10T10:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T11:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976600156880719896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976600156880719896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976599990375154172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 你可能想要用它做苯丙胺，毕竟\"苯丙氨酸\"的名字里就有，但这其实是非常困难的，这里不展开了()\n它可以作为原料，简单地制取液体苯乙胺，而且很便宜。只需将它溶解在装满高沸点溶剂的敞口容器中，加热至140℃，就会看到气泡产生，苯乙胺以黄色液体形成😋\n之后…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1976595348555497472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G25G_z9XAAAQTf1.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1976600156880719896",
+        "created_at": "2025-10-10T10:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976600156880719896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976600156880719896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976599990375154172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 你可能想要用它做苯丙胺，毕竟\"苯丙氨酸\"的名字里就有，但这其实是非常困难的，这里不展开了()\n它可以作为原料，简单地制取液体苯乙胺，而且很便宜。只需将它溶解在装满高沸点溶剂的敞口容器中，加热至140℃，就会看到气泡产生，苯乙胺以黄色液体形成😋\n之后…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976595348555497472"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976599977855242666",
+        "created_at": "2025-10-10T10:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976599990375154172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4OXNPTBEu",
+              "end": 169,
+              "expanded_url": "https://x.com/SalviaSWC/status/1976599990375154172/photo/1",
+              "media_key": "3_1976595348555497472",
+              "start": 146,
+              "url": "https://t.co/R4OXNPTBEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976599990375154172",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976599977855242666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你可能想要用它做苯丙胺，毕竟\"苯丙氨酸\"的名字里就有，但这其实是非常困难的，这里不展开了()\n它可以作为原料，简单地制取液体苯乙胺，而且很便宜。只需将它溶解在装满高沸点溶剂的敞口容器中，加热至140℃，就会看到气泡产生，苯乙胺以黄色液体形成😋\n之后可以进一步处理提纯，要是有人看窝就细🔒() https://t.co/R4OXNPTBEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 504,
+          "like_count": 8298,
+          "listed_count": 5,
+          "media_count": 116,
+          "tweet_count": 2714
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

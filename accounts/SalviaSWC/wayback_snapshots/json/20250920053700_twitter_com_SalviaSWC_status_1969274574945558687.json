@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1289190614207049728",
+          "name": "Productivity"
+        }
+      }
+    ],
+    "conversation_id": "1969204610481963171",
+    "created_at": "2025-09-20T05:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T06:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969274574945558687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1261844107392987136",
+          "start": 0,
+          "username": "ccl216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969274574945558687",
+    "in_reply_to_user_id": "1261844107392987136",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969269526941364512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccl216 是Erowid的\n“Modern humans must learn how to relate to psychoactives\nresponsibly, treating them with respect and awareness,\nworking to minimize harms and maximize benefits, and\nintegrating use into a healthy, enjoyable, and productive life.”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1289190614207049728",
+              "name": "Productivity"
+            }
+          }
+        ],
+        "conversation_id": "1969204610481963171",
+        "created_at": "2025-09-20T05:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T06:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969274574945558687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1261844107392987136",
+              "start": 0,
+              "username": "ccl216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969274574945558687",
+        "in_reply_to_user_id": "1261844107392987136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969269526941364512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccl216 是Erowid的\n“Modern humans must learn how to relate to psychoactives\nresponsibly, treating them with respect and awareness,\nworking to minimize harms and maximize benefits, and\nintegrating use into a healthy, enjoyable, and productive life.”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261844107392987136",
+        "conversation_id": "1969204610481963171",
+        "created_at": "2025-09-20T05:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T06:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969269526941364512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969269526941364512",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969204610481963171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 3（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 469,
+          "like_count": 7039,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 2451
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T02:21:04.000Z",
+        "description": "灵性|音乐|释放法练习生|涩涩大湿|\n情绪垃圾桶\n|涩涩教学分享（还有一点几乎没有的修仙分享）https://t.co/h8IDQ4dy8z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linjiangdesese",
+                "end": 70,
+                "expanded_url": "https://t.me/linjiangdesese",
+                "start": 47,
+                "url": "https://t.co/h8IDQ4dy8z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccl216",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccl216",
+                "start": 0,
+                "url": "https://t.co/4RfkiQi61W"
+              }
+            ]
+          }
+        },
+        "id": "1261844107392987136",
+        "location": "哀丽秘榭",
+        "name": "小林澄🌈",
+        "pinned_tweet_id": "1844253160262730109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885716857380110336/wRd-sg51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 490,
+          "like_count": 30860,
+          "listed_count": 11,
+          "media_count": 1362,
+          "tweet_count": 5139
+        },
+        "url": "https://t.co/4RfkiQi61W",
+        "username": "ccl216",
+        "verified": false
+      }
+    ]
+  }
+}

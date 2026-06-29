@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2025562914489614806",
+    "created_at": "2026-02-22T20:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T21:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025662393007649177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1701225401404801024",
+          "start": 0,
+          "username": "xhanjd145869"
+        },
+        {
+          "end": 26,
+          "id": "1780369819310981120",
+          "start": 14,
+          "username": "520illusion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 81,
+          "expanded_url": "https://x.com/SalviaSWC/status/2025578940400533708",
+          "start": 58,
+          "url": "https://t.co/ll3wsXZx3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025662393007649177",
+    "in_reply_to_user_id": "1701225401404801024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025578940400533708",
+        "type": "quoted"
+      },
+      {
+        "id": "2025660235411832983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhanjd145869 @520illusion 但是窝觉得没有，它不能穿过血脑屏障🥺（除非你指的是呕吐价值\n\nhttps://t.co/ll3wsXZx3u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_2025578706744340480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxNGhAXcAA6H0Q.jpg",
+        "width": 1808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2025562914489614806",
+        "created_at": "2026-02-22T20:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T21:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025662393007649177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1701225401404801024",
+              "start": 0,
+              "username": "xhanjd145869"
+            },
+            {
+              "end": 26,
+              "id": "1780369819310981120",
+              "start": 14,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 81,
+              "expanded_url": "https://x.com/SalviaSWC/status/2025578940400533708",
+              "start": 58,
+              "url": "https://t.co/ll3wsXZx3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025662393007649177",
+        "in_reply_to_user_id": "1701225401404801024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025578940400533708",
+            "type": "quoted"
+          },
+          {
+            "id": "2025660235411832983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhanjd145869 @520illusion 但是窝觉得没有，它不能穿过血脑屏障🥺（除非你指的是呕吐价值\n\nhttps://t.co/ll3wsXZx3u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025578706744340480"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2025578940400533708",
+        "created_at": "2026-02-22T14:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025578940400533708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NVc7MHA6Lc",
+              "end": 177,
+              "expanded_url": "https://x.com/SalviaSWC/status/2025578940400533708/photo/1",
+              "media_key": "3_2025578706744340480",
+              "start": 154,
+              "url": "https://t.co/NVc7MHA6Lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025578940400533708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 825,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然大家都知道愈创木酚甘油醚是一个弱效NMDA拮抗剂，但我觉得这一点并不是愈美与单方右美的药效存在差异的原因\n\n因为愈创木酚甘油醚的脂溶性太低了，它的logP是1.39(drugbank)，很可能无法透过血脑屏障，无法有中枢作用。\n\n虽然动物实验表明愈醚有一定的抗惊厥和肌松效力，不过那就是另一个兔子洞了（ https://t.co/NVc7MHA6Lc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701225401404801024",
+        "conversation_id": "2025562914489614806",
+        "created_at": "2026-02-22T19:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T20:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025660235411832983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 23,
+              "id": "1780369819310981120",
+              "start": 11,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025660235411832983",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025575447405203735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @520illusion 关键是愈创木酚甘油醚是真有药效而不是od价值啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨OD知识开源化↓请支持FreeODwiki喵！|Say Know to Drugs 💊丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 855,
+          "like_count": 19634,
+          "listed_count": 10,
+          "media_count": 303,
+          "tweet_count": 5629
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T13:25:25.000Z",
+        "description": "09年12月🍥\n不太会社交\n嗯对的 会射胶\n还是找到我了？  边缘",
+        "id": "1701225401404801024",
+        "name": "雨町雨町",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015290118345826305/5kYZV0ou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 147,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 525
+        },
+        "username": "xhanjd145869",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "所有的过去都将成为背景 迎接即将破晓的黎明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市鄞州中学高三9班",
+        "name": "ill🏳️‍⚧️",
+        "pinned_tweet_id": "2022147602737954859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004245780102615040/pktU--jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3530,
+          "following_count": 394,
+          "like_count": 7382,
+          "listed_count": 5,
+          "media_count": 586,
+          "tweet_count": 4644
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069858148702408705"
+      ],
+      "media_source_tweet_id": [
+        "2069858155123912852"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2070351640566108418",
+    "created_at": "2026-06-26T03:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T04:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070351640566108418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C3J5RvZysh",
+          "end": 46,
+          "expanded_url": "https://x.com/Numiouoo/status/2069858155123912852/photo/1",
+          "media_key": "3_2069858148702408705",
+          "start": 23,
+          "url": "https://t.co/C3J5RvZysh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070351640566108418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069858155123912852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 极品毒虫有两种： https://t.co/C3J5RvZysh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2069858148702408705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmdBQja0AE3GZY.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069858148702408705"
+          ],
+          "media_source_tweet_id": [
+            "2069858155123912852"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2070351640566108418",
+        "created_at": "2026-06-26T03:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070351640566108418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3J5RvZysh",
+              "end": 46,
+              "expanded_url": "https://x.com/Numiouoo/status/2069858155123912852/photo/1",
+              "media_key": "3_2069858148702408705",
+              "start": 23,
+              "url": "https://t.co/C3J5RvZysh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070351640566108418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069858155123912852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 极品毒虫有两种： https://t.co/C3J5RvZysh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069858148702408705"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2069858155123912852",
+        "created_at": "2026-06-24T19:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069858155123912852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3J5RvZysh",
+              "end": 32,
+              "expanded_url": "https://x.com/Numiouoo/status/2069858155123912852/photo/1",
+              "media_key": "3_2069858148702408705",
+              "start": 9,
+              "url": "https://t.co/C3J5RvZysh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069858155123912852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5993,
+          "like_count": 140,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "极品毒虫有两种： https://t.co/C3J5RvZysh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4931,
+          "following_count": 1018,
+          "like_count": 24687,
+          "listed_count": 11,
+          "media_count": 561,
+          "tweet_count": 7952
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 918,
+          "like_count": 2803,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 2150
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

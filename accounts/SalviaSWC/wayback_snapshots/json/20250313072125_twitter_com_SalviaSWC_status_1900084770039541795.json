@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900084756731121664"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1900084770039541795",
+    "created_at": "2025-03-13T07:21:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T08:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900084770039541795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/osuZygIm4a",
+          "end": 46,
+          "expanded_url": "https://x.com/SalviaSWC/status/1900084770039541795/photo/1",
+          "media_key": "3_1900084756731121664",
+          "start": 23,
+          "url": "https://t.co/osuZygIm4a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900084770039541795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是怎么回事🤬\n大家有没有也出现这样的情况的 https://t.co/osuZygIm4a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 393,
+        "media_key": "3_1900084756731121664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl51BOgX0AAnT9K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900084756731121664"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1900084770039541795",
+        "created_at": "2025-03-13T07:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T08:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900084770039541795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osuZygIm4a",
+              "end": 46,
+              "expanded_url": "https://x.com/SalviaSWC/status/1900084770039541795/photo/1",
+              "media_key": "3_1900084756731121664",
+              "start": 23,
+              "url": "https://t.co/osuZygIm4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900084770039541795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是怎么回事🤬\n大家有没有也出现这样的情况的 https://t.co/osuZygIm4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨虚无主义丨没想好名字和头像，于是随便选了头像和名字丨\n互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 20,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

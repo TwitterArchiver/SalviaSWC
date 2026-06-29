@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2025440342502170788",
+    "created_at": "2026-02-22T05:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025440342502170788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yukiukoori/sta…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/yukiukoori/status/1566175261959356417",
+          "start": 82,
+          "url": "https://t.co/nDfDC3OBpE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025440342502170788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1566175261959356417",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窝在调查OD圈历史的时候意外看到的（\n\n鉴于最近有不少人提到吃钡可以作为吃盐的替代品，窝感觉可能真的会有人去尝试🥺\n\n在尝试之前，建议大家先看看这一条贴子，好嘛🥹 https://t.co/nDfDC3OBpE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1566175245157154816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FbwsFmeaQAAtQS5.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2025440342502170788",
+        "created_at": "2026-02-22T05:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025440342502170788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukiukoori/sta…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/yukiukoori/status/1566175261959356417",
+              "start": 82,
+              "url": "https://t.co/nDfDC3OBpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025440342502170788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1566175261959356417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝在调查OD圈历史的时候意外看到的（\n\n鉴于最近有不少人提到吃钡可以作为吃盐的替代品，窝感觉可能真的会有人去尝试🥺\n\n在尝试之前，建议大家先看看这一条贴子，好嘛🥹 https://t.co/nDfDC3OBpE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1566175245157154816"
+          ]
+        },
+        "author_id": "1554740364166041600",
+        "conversation_id": "1566175261959356417",
+        "created_at": "2022-09-03T21:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2022-09-03T21:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1566175261959356417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgEbPKtY5W",
+              "end": 141,
+              "expanded_url": "https://x.com/yukiukoori/status/1566175261959356417/photo/1",
+              "media_key": "3_1566175245157154816",
+              "start": 118,
+              "url": "https://t.co/qgEbPKtY5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1566175261959356417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 0,
+          "like_count": 272,
+          "quote_count": 5,
+          "reply_count": 24,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "药娘圈热知识：如果后悔了，任何钡盐以及其他重金属离子中毒的解药是EDTA（乙二胺四乙酸二钠）以及硫代硫酸钠，当然其他金属离子螯合剂都是可以的，可以大量服用，最多丢失一点钙。平时可以在采血管中找到这种物质的单质，快转给准备重开的姐妹吧~ https://t.co/qgEbPKtY5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨OD知识开源化↓请支持FreeODwiki喵！|Say Know to Drugs 💊丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2740,
+          "following_count": 842,
+          "like_count": 19518,
+          "listed_count": 10,
+          "media_count": 299,
+          "tweet_count": 5583
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T08:06:32.000Z",
+        "description": "mtf/ENFP/糖盐晶核/精神问题：双相Ⅱ-人分-物质/精神药理专长/od理论开创者/缓慢产粮/本命雨谷小雨/地雷女导师/家里蹲/xp：湿热-SM双属性（人格）-药物-掐人（雾）/躁期接媛/郁期睡觉/可面基/sns活跃/无时区/你认识霞霞吗？",
+        "id": "1554740364166041600",
+        "location": "室女座超星系团",
+        "name": "🏳‍⚧雪雨氷織🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554740632400191488/rBe-QoFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 92,
+          "like_count": 121,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 220
+        },
+        "username": "yukiukoori",
+        "verified": false
+      }
+    ]
+  }
+}

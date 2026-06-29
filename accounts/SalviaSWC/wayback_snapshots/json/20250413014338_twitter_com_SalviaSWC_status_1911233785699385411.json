@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911231557559255040"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1911233785699385411",
+    "created_at": "2025-04-13T01:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T02:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911233785699385411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FdYxExoYY5",
+          "end": 158,
+          "expanded_url": "https://x.com/SalviaSWC/status/1911233785699385411/photo/1",
+          "media_key": "3_1911231557559255040",
+          "start": 135,
+          "url": "https://t.co/FdYxExoYY5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911233785699385411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "暴论:解离剂量的右美沙芬必定导致血清素综合征\n理由:DXO拮抗50％的NMDAR需要486nM的浓度，而DXM抑制50％的血清素转运体只需要23nM的浓度。同时因为DXO是由DXM代谢而来，所以DXO的峰值浓度≤DXM的峰值浓度，这个浓度的DXM足以导致血清素综合征。 https://t.co/FdYxExoYY5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_1911231557559255040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoYO-bfWAAAMhCL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911231557559255040"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1911233785699385411",
+        "created_at": "2025-04-13T01:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T02:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911233785699385411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdYxExoYY5",
+              "end": 158,
+              "expanded_url": "https://x.com/SalviaSWC/status/1911233785699385411/photo/1",
+              "media_key": "3_1911231557559255040",
+              "start": 135,
+              "url": "https://t.co/FdYxExoYY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911233785699385411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暴论:解离剂量的右美沙芬必定导致血清素综合征\n理由:DXO拮抗50％的NMDAR需要486nM的浓度，而DXM抑制50％的血清素转运体只需要23nM的浓度。同时因为DXO是由DXM代谢而来，所以DXO的峰值浓度≤DXM的峰值浓度，这个浓度的DXM足以导致血清素综合征。 https://t.co/FdYxExoYY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 54,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 306
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

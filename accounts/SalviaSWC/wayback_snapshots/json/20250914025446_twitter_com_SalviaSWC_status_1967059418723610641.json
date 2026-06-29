@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1966505368038592885",
+    "created_at": "2025-09-14T02:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T03:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967059418723610641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758454063535198208",
+          "start": 0,
+          "username": "huanli233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967059418723610641",
+    "in_reply_to_user_id": "1758454063535198208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966772227925569671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanli233 好哦🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1966505368038592885",
+        "created_at": "2025-09-14T02:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T03:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967059418723610641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758454063535198208",
+              "start": 0,
+              "username": "huanli233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967059418723610641",
+        "in_reply_to_user_id": "1758454063535198208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966772227925569671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanli233 好哦🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758454063535198208",
+        "conversation_id": "1966505368038592885",
+        "created_at": "2025-09-13T07:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T08:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966772227925569671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/huanli233/stat…",
+              "end": 34,
+              "expanded_url": "https://x.com/huanli233/status/1965592657293705726",
+              "start": 11,
+              "url": "https://t.co/sUdEb1DxED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966772227925569671",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965592657293705726",
+            "type": "quoted"
+          },
+          {
+            "id": "1966505368038592885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC https://t.co/sUdEb1DxED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 437,
+          "like_count": 6377,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 2249
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T11:31:42.000Z",
+        "description": "虚无主义者 无证含糖 ASD alt @imhuanli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "imhuanli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/huanli233",
+                "end": 23,
+                "expanded_url": "https://github.com/huanli233",
+                "start": 0,
+                "url": "https://t.co/ci67Havjra"
+              }
+            ]
+          }
+        },
+        "id": "1758454063535198208",
+        "location": "LOVE U",
+        "name": "huanli233🤤🍥",
+        "pinned_tweet_id": "1940320822478213331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914779782866481152/g7Y2pf9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 486,
+          "like_count": 3220,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1396
+        },
+        "url": "https://t.co/ci67Havjra",
+        "username": "huanli233",
+        "verified": true
+      }
+    ]
+  }
+}

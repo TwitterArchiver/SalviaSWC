@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1931655951846981873",
+    "created_at": "2025-06-08T10:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T11:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931658448522858896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931658448522858896",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931655951846981873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium 那肯定不是的阿,胡椒碱和吗啡的化学式是一样的,甲基苯乙胺和苯丙胺的化学式也一样,都没有被禁\n不过实际执行的时候肯定会灵活执行,真的被抓就说自己不认为这俩是无关的异构体就行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 124,
+        "media_key": "3_1931653442185146368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6ckkKbMAAyo3-.png",
+        "width": 276
+      },
+      {
+        "height": 144,
+        "media_key": "3_1931653592198574080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6ctTAacAAWWwY.png",
+        "width": 251
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1931655951846981873",
+        "created_at": "2025-06-08T10:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T11:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931658448522858896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931658448522858896",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931655951846981873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 那肯定不是的阿,胡椒碱和吗啡的化学式是一样的,甲基苯乙胺和苯丙胺的化学式也一样,都没有被禁\n不过实际执行的时候肯定会灵活执行,真的被抓就说自己不认为这俩是无关的异构体就行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931653442185146368",
+            "3_1931653592198574080"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1931655951846981873",
+        "created_at": "2025-06-08T10:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T11:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931655951846981873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1DXpYcUXw0",
+              "end": 155,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1931655951846981873/photo/1",
+              "media_key": "3_1931653442185146368",
+              "start": 132,
+              "url": "https://t.co/1DXpYcUXw0"
+            },
+            {
+              "display_url": "pic.x.com/1DXpYcUXw0",
+              "end": 155,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1931655951846981873/photo/1",
+              "media_key": "3_1931653592198574080",
+              "start": 132,
+              "url": "https://t.co/1DXpYcUXw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931655951846981873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下面两种物质分别是丙基麦斯卡林（图1）和异丙基麦斯卡林（图2），前者在去年七月被列入非药用目录，后者则没有，不知道你有没有看过管制目录的这个规定，“注：上述品种包括其可能存在的异构体、酯及醚（除非另有规定）”，那么这两个化合物属于位置异构的话是不是也被管制了呢？ https://t.co/1DXpYcUXw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 89,
+          "like_count": 2185,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 892
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计 https://t.co/TI6gzKswdQ @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "biantailab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.top",
+                "end": 130,
+                "expanded_url": "https://www.benzyl-titanium.top",
+                "start": 107,
+                "url": "https://t.co/TI6gzKswdQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev",
+                "start": 0,
+                "url": "https://t.co/yrj4arophi"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 525,
+          "like_count": 8235,
+          "listed_count": 5,
+          "media_count": 305,
+          "tweet_count": 1892
+        },
+        "url": "https://t.co/yrj4arophi",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

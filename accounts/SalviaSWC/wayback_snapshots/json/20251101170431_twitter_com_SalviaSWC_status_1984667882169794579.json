@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1984489800314077240",
+    "created_at": "2025-11-01T17:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T18:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984667882169794579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938990267560009729",
+          "start": 0,
+          "username": "huntedxschafer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984667882169794579",
+    "in_reply_to_user_id": "1938990267560009729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984666768745587160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huntedxschafer 很怀念那个时候的氛围......虽然我2007年才出生，所以只能在现在档案馆里看当时的互联网\n不过在我刚刚学会上网的2010年代，中国互联网氛围远远没有现在的严格\n希望会变好吧🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1984489800314077240",
+        "created_at": "2025-11-01T17:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984667882169794579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938990267560009729",
+              "start": 0,
+              "username": "huntedxschafer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984667882169794579",
+        "in_reply_to_user_id": "1938990267560009729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984666768745587160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huntedxschafer 很怀念那个时候的氛围......虽然我2007年才出生，所以只能在现在档案馆里看当时的互联网\n不过在我刚刚学会上网的2010年代，中国互联网氛围远远没有现在的严格\n希望会变好吧🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938990267560009729",
+        "conversation_id": "1984489800314077240",
+        "created_at": "2025-11-01T17:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984666768745587160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984666768745587160",
+        "in_reply_to_user_id": "1938990267560009729",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984666441954836533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC however, i pray for a future where we can preserve the basics of a digitally connected world, destroy the systems that are currently in place everywhere &amp; replace them with something like the internet i grew up with in the 90s &amp; the early 2000s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "#StandWithSpr1ngW1nd\n07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 0,
+                "tag": "StandWithSpr1ngW1nd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "Sᴀʟv1ᴀ～#鼠尾草",
+        "pinned_tweet_id": "1983831915678536138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983844815524581376/MlP6f7GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 635,
+          "like_count": 9869,
+          "listed_count": 7,
+          "media_count": 139,
+          "tweet_count": 3112
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T15:58:09.000Z",
+        "description": "partys over 🔻",
+        "id": "1938990267560009729",
+        "location": "monsterland",
+        "name": "إيفي (evie)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979359810958000128/kvdKvs6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 818,
+          "like_count": 23652,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 6244
+        },
+        "username": "huntedxschafer",
+        "verified": false
+      }
+    ]
+  }
+}

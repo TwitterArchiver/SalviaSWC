@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946494099634204672"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1946502790617948527",
+    "created_at": "2025-07-19T09:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T10:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946502790617948527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MKWWMaQInu",
+          "end": 184,
+          "expanded_url": "https://x.com/SalviaSWC/status/1946502790617948527/photo/1",
+          "media_key": "3_1946494099634204672",
+          "start": 161,
+          "url": "https://t.co/MKWWMaQInu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946502790617948527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每日💊科普(day10)——4-MMC\n4-甲基甲卡西酮是一种兴奋剂，属于策划药，是SNDRA。\n药效带来强烈欣快并增强性欲，类似MDMA和冰毒。药效短，常导致宿醉，促使服用者在药效结束后再次服用，直至药物耗尽。\n4-MMC被外国小哥们认为是兴奋剂策划药的巅峰，2010年被多国(包括中国)列管之后，再无可与之媲美的药. https://t.co/MKWWMaQInu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 290,
+        "media_key": "3_1946494099634204672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwNWEhYXMAADDVO.jpg",
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946494099634204672"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1946502790617948527",
+        "created_at": "2025-07-19T09:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T10:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946502790617948527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKWWMaQInu",
+              "end": 184,
+              "expanded_url": "https://x.com/SalviaSWC/status/1946502790617948527/photo/1",
+              "media_key": "3_1946494099634204672",
+              "start": 161,
+              "url": "https://t.co/MKWWMaQInu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946502790617948527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日💊科普(day10)——4-MMC\n4-甲基甲卡西酮是一种兴奋剂，属于策划药，是SNDRA。\n药效带来强烈欣快并增强性欲，类似MDMA和冰毒。药效短，常导致宿醉，促使服用者在药效结束后再次服用，直至药物耗尽。\n4-MMC被外国小哥们认为是兴奋剂策划药的巅峰，2010年被多国(包括中国)列管之后，再无可与之媲美的药. https://t.co/MKWWMaQInu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 307,
+          "like_count": 4625,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1658
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

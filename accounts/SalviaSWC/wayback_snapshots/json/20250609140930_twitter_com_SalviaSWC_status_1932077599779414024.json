@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1931888978439143782",
+    "created_at": "2025-06-09T14:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T15:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932077599779414024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932077599779414024",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931888978439143782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange 好看,xm..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1931888975163367424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs9yyY4bIAA2pNg.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1931888978439143782",
+        "created_at": "2025-06-09T14:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T15:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932077599779414024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932077599779414024",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931888978439143782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange 好看,xm..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931888975163367424"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "conversation_id": "1931888978439143782",
+        "created_at": "2025-06-09T01:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T02:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931888978439143782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ARkGVJihZ2",
+              "end": 50,
+              "expanded_url": "https://x.com/tangeorange/status/1931888978439143782/photo/1",
+              "media_key": "3_1931888975163367424",
+              "start": 27,
+              "url": "https://t.co/ARkGVJihZ2"
+            },
+            {
+              "display_url": "x.com/tangeorange/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/tangeorange/status/1931753565909066142",
+              "start": 51,
+              "url": "https://t.co/A9yi63r5h6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931888978439143782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1542,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931753565909066142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚这张有人说构图有问题，说看不到是个人体，所以重拍 https://t.co/ARkGVJihZ2 https://t.co/A9yi63r5h6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 98,
+          "like_count": 2306,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 932
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "__OIer\n_虚无之有。\n_BFF @alphax1ull\n_我人很老实请不要欺负我\n_MtF\n_working on https://t.co/p5AWIehP0e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "alphax1ull"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nlnm.orangestd.cn",
+                "end": 84,
+                "expanded_url": "http://nlnm.orangestd.cn",
+                "start": 61,
+                "url": "https://t.co/p5AWIehP0e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "name": "橙橘桔橙",
+        "pinned_tweet_id": "1868968124990865443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882668179060916224/xtWx_fUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 1400,
+          "like_count": 5958,
+          "listed_count": 1,
+          "media_count": 610,
+          "tweet_count": 3786
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2028325642379407498",
+    "created_at": "2026-03-02T06:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028352675348156857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1773934439414018048",
+          "start": 0,
+          "username": "liki24003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028352675348156857",
+    "in_reply_to_user_id": "1773934439414018048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028331098242248709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liki24003 癫痫自身就极为痛苦，致死的话，人体的肌肉需要因长时间过度兴奋，缺氧死亡，导致横纹肌溶解症。再之后才是肝肾衰竭和溶血......🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2028325642379407498",
+        "created_at": "2026-03-02T06:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028352675348156857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1773934439414018048",
+              "start": 0,
+              "username": "liki24003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028352675348156857",
+        "in_reply_to_user_id": "1773934439414018048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028331098242248709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liki24003 癫痫自身就极为痛苦，致死的话，人体的肌肉需要因长时间过度兴奋，缺氧死亡，导致横纹肌溶解症。再之后才是肝肾衰竭和溶血......🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773934439414018048",
+        "conversation_id": "2028325642379407498",
+        "created_at": "2026-03-02T04:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028331098242248709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028331098242248709",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028330979895423253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 癫痫致死痛苦吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 915,
+          "like_count": 20215,
+          "listed_count": 10,
+          "media_count": 324,
+          "tweet_count": 5825
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T04:45:15.000Z",
+        "description": "海鸥鸥，这里是海鸥鸥，非常温柔的一枚大龄mtf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liki240003",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liki240003",
+                "start": 0,
+                "url": "https://t.co/zcBBVJJ8sO"
+              }
+            ]
+          }
+        },
+        "id": "1773934439414018048",
+        "location": "木卫六-冰川上狂奔",
+        "name": "海鸥鸥欧欧🍊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863038364779261952/IjUxzCXz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 1814,
+          "like_count": 9102,
+          "listed_count": 6,
+          "media_count": 145,
+          "tweet_count": 3248
+        },
+        "url": "https://t.co/zcBBVJJ8sO",
+        "username": "liki24003",
+        "verified": false
+      }
+    ]
+  }
+}

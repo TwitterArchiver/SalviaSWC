@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1989695329558552672",
+    "created_at": "2025-11-15T14:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T15:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989698378947555714"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989698378947555714",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989695329558552672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且，后藤账号被封的时候，我甚至没有收到通知，这表明后藤被封和我是完全无关的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1989695224075943937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zRQ7JWgAESb8C.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1989695329558552672",
+        "created_at": "2025-11-15T14:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989698378947555714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989698378947555714",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989695329558552672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且，后藤账号被封的时候，我甚至没有收到通知，这表明后藤被封和我是完全无关的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989695224075943937"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1989695329558552672",
+        "created_at": "2025-11-15T14:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T15:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989695329558552672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ufolmmJWQt",
+              "end": 100,
+              "expanded_url": "https://x.com/SalviaSWC/status/1989695329558552672/photo/1",
+              "media_key": "3_1989695224075943937",
+              "start": 77,
+              "url": "https://t.co/ufolmmJWQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989695329558552672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后藤的号不是我举报封的哈，截图为证()🤓\n是谁把后藤的号举报封了的，自己站出来给人家道歉，你是怎么敢举报并把后藤的号封掉的啊？How dare you？ https://t.co/ufolmmJWQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1987403877164196095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 688,
+          "like_count": 12313,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 3585
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

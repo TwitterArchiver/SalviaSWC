@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1983503538152976447",
+    "created_at": "2025-10-29T12:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T13:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983515158090580272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1938990267560009729",
+          "start": 0,
+          "username": "huntedxschafer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983515158090580272",
+    "in_reply_to_user_id": "1938990267560009729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983514850375692311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huntedxschafer 好哦，有空尝尝!😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1983503538152976447",
+        "created_at": "2025-10-29T12:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983515158090580272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1938990267560009729",
+              "start": 0,
+              "username": "huntedxschafer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983515158090580272",
+        "in_reply_to_user_id": "1938990267560009729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983514850375692311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huntedxschafer 好哦，有空尝尝!😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938990267560009729",
+        "conversation_id": "1983503538152976447",
+        "created_at": "2025-10-29T12:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T13:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983514850375692311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983514850375692311",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983513795814142420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC try it if you can! its my favorite beverage :)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 554,
+          "like_count": 9271,
+          "listed_count": 7,
+          "media_count": 128,
+          "tweet_count": 2951
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T15:58:09.000Z",
+        "description": "partys over 🔻",
+        "id": "1938990267560009729",
+        "location": "monsterland",
+        "name": "إيفي (evie)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979359810958000128/kvdKvs6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 800,
+          "like_count": 22921,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 5888
+        },
+        "username": "huntedxschafer",
+        "verified": false
+      }
+    ]
+  }
+}

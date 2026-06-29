@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1951615976845312135",
+    "created_at": "2025-08-02T12:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T13:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951628079920492618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1853862184859922432",
+          "start": 0,
+          "username": "nuonuozzZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951628079920492618",
+    "in_reply_to_user_id": "1853862184859922432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951615976845312135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuonuozzZZ 晚安......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1951615976845312135",
+        "created_at": "2025-08-02T12:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951628079920492618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1853862184859922432",
+              "start": 0,
+              "username": "nuonuozzZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951628079920492618",
+        "in_reply_to_user_id": "1853862184859922432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951615976845312135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuonuozzZZ 晚安......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853862184859922432",
+        "conversation_id": "1951615976845312135",
+        "created_at": "2025-08-02T12:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951615976845312135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951615976845312135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 130,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：本号原号主kinata__link（翻鼠粥）于2025年8月2日午吞服过量抗抑郁药物自杀，抢救无效死亡，从即日（2025.8.2）开始该账号转交他人（也有可能不再更新），愿逝者安息。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 355,
+          "like_count": 5181,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 1851
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T18:10:07.000Z",
+        "description": "🍥mtx🍥｜酒鬼🍺｜心理学｜漫展摄摄📷｜极端感性🥰（说白了就是很好骗…）｜拼装模型爱好者（只是喜欢拼真不是胶佬😭）｜fps小🍟｜苦逼声乐生｜（link说他不需要简介）",
+        "id": "1853862184859922432",
+        "location": "钢琴弦上爬来爬去",
+        "name": "🐭kinata🍥__Link💊",
+        "pinned_tweet_id": "1937116002501759238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950850917793751040/wqLTrImV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 84,
+          "like_count": 2780,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 275
+        },
+        "username": "nuonuozzZZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1982354912211321126",
+    "created_at": "2025-10-26T08:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T09:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982358109071798734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1222546987108581376",
+          "start": 0,
+          "username": "sky_string"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982358109071798734",
+    "in_reply_to_user_id": "1222546987108581376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982354912211321126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sky_string 那个东西根本不是苯乙胺，百度一下就能知道()"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_1982354897933639680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4K9RtYXIAAfRUh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1982354912211321126",
+        "created_at": "2025-10-26T08:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T09:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982358109071798734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1222546987108581376",
+              "start": 0,
+              "username": "sky_string"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982358109071798734",
+        "in_reply_to_user_id": "1222546987108581376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982354912211321126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sky_string 那个东西根本不是苯乙胺，百度一下就能知道()"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982354897933639680"
+          ]
+        },
+        "author_id": "1222546987108581376",
+        "conversation_id": "1982354912211321126",
+        "created_at": "2025-10-26T07:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T08:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982354912211321126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kkIi6eYOrW",
+              "end": 37,
+              "expanded_url": "https://x.com/sky_string/status/1982354912211321126/photo/1",
+              "media_key": "3_1982354897933639680",
+              "start": 14,
+              "url": "https://t.co/kkIi6eYOrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982354912211321126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "也许禁欲才是最终答案？？？ https://t.co/kkIi6eYOrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 531,
+          "like_count": 8984,
+          "listed_count": 7,
+          "media_count": 123,
+          "tweet_count": 2866
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-29T15:48:23.000Z",
+        "description": "塑料推友🫶🏻🫰🏻💕 迷幻的bambi | bambi sleep😵‍💫 | good girl🥰",
+        "id": "1222546987108581376",
+        "name": "bambi_obey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1222547214326587393/I9ir-8Gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 160,
+          "like_count": 1743,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 425
+        },
+        "username": "sky_string",
+        "verified": false
+      }
+    ]
+  }
+}

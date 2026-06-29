@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2059056246641107371",
+    "created_at": "2026-05-25T23:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T00:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059056246641107371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620506107306479617",
+          "start": 3,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059056246641107371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058707382977569280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheese_Ghostfox: 这里是灵狐喵!\n大多数时间您能在PRC的东北地区见到狐...但是不建议您这么做啦!\n虽然在这个平台混迹了三年，然而目前为止还是个小透明(((\n下附狐写得比较长的自介条(限于字数原因就不在此赘述了，望阁下谅解...)\nContact me…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058707379869597696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJH_dFmaQAAH8Ig.jpg",
+        "width": 606
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2058707379265617920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJH_dDWaQAAsWnM.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2059056246641107371",
+        "created_at": "2026-05-25T23:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059056246641107371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620506107306479617",
+              "start": 3,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059056246641107371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058707382977569280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheese_Ghostfox: 这里是灵狐喵!\n大多数时间您能在PRC的东北地区见到狐...但是不建议您这么做啦!\n虽然在这个平台混迹了三年，然而目前为止还是个小透明(((\n下附狐写得比较长的自介条(限于字数原因就不在此赘述了，望阁下谅解...)\nContact me…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058707379869597696",
+            "3_2058707379265617920"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2058707382977569280",
+        "created_at": "2026-05-25T00:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058707382977569280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 184,
+              "id": "1620506107306479617",
+              "start": 168,
+              "username": "Cheese_Ghostfox"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5htkA1F214",
+              "end": 208,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2058707382977569280/photo/1",
+              "media_key": "3_2058707379869597696",
+              "start": 185,
+              "url": "https://t.co/5htkA1F214"
+            },
+            {
+              "display_url": "pic.x.com/5htkA1F214",
+              "end": 208,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2058707382977569280/photo/1",
+              "media_key": "3_2058707379265617920",
+              "start": 185,
+              "url": "https://t.co/5htkA1F214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058707382977569280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 184,
+                "id": "1620506107306479617",
+                "start": 168,
+                "username": "Cheese_Ghostfox"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cheese_ghostfox",
+                "end": 212,
+                "expanded_url": "http://ngl.link/cheese_ghostfox",
+                "start": 189,
+                "url": "https://t.co/FYhQmOSm9l"
+              }
+            ]
+          },
+          "text": "这里是灵狐喵!\n大多数时间您能在PRC的东北地区见到狐...但是不建议您这么做啦!\n虽然在这个平台混迹了三年，然而目前为止还是个小透明(((\n下附狐写得比较长的自介条(限于字数原因就不在此赘述了，望阁下谅解...)\nContact me:\nE–Mail:cheese_ghostfox2025@outlook.com\nTelegram:@Cheese_Ghostfox\nNGL:https://t.co/FYhQmOSm9l"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这里是灵狐喵!\n大多数时间您能在PRC的东北地区见到狐...但是不建议您这么做啦!\n虽然在这个平台混迹了三年，然而目前为止还是个小透明(((\n下附狐写得比较长的自介条(限于字数原因就不在此赘述了，望阁下谅解...)\nContact me:\nE–Mail:cheese_ghostfox2025@outlook.com\nTelegram:@Cheese_Ghostfox https://t.co/5htkA1F214"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 1013,
+          "like_count": 24083,
+          "listed_count": 11,
+          "media_count": 528,
+          "tweet_count": 7766
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1511,
+          "like_count": 19601,
+          "listed_count": 7,
+          "media_count": 723,
+          "tweet_count": 6307
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

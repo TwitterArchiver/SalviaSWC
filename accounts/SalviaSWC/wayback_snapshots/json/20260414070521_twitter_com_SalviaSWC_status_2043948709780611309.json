@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2043864136417783908",
+    "created_at": "2026-04-14T07:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043948709780611309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1796427186557100032",
+          "start": 0,
+          "username": "dupinkepu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 34,
+          "expanded_url": "https://x.com/SalviaSWC/status/2043936499809353842",
+          "start": 11,
+          "url": "https://t.co/KFshTXtgla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043948709780611309",
+    "in_reply_to_user_id": "1796427186557100032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043936499809353842",
+        "type": "quoted"
+      },
+      {
+        "id": "2043948025849229364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dupinkepu https://t.co/KFshTXtgla \n\n醉翁之意不在酒啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2043948025849229364].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2043948025849229364",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2043948025849229364"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043864136417783908",
+        "created_at": "2026-04-14T07:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043948709780611309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1796427186557100032",
+              "start": 0,
+              "username": "dupinkepu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 34,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043936499809353842",
+              "start": 11,
+              "url": "https://t.co/KFshTXtgla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043948709780611309",
+        "in_reply_to_user_id": "1796427186557100032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043936499809353842",
+            "type": "quoted"
+          },
+          {
+            "id": "2043948025849229364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dupinkepu https://t.co/KFshTXtgla \n\n醉翁之意不在酒啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043936499809353842",
+        "created_at": "2026-04-14T06:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043936499809353842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2043864136417783908",
+              "start": 143,
+              "url": "https://t.co/Gm4baOaIWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043936499809353842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 10,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043864136417783908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经证明了有关部门不可能是李云齐的客户，李云齐的客户只可能是个人，特别是某些精神病中家庭的偏执狂家长。\n\n他们既可能焦虑小孩是否从事OD；又可能担忧自己小孩没有真的按照医嘱吃医生开的药，而是嫌药不好，私自停药了，且未告诉家长；无论哪种情况，他们就成为李云齐的客户了，李云齐狠狠恰米🤑😋 https://t.co/Gm4baOaIWZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3735,
+          "following_count": 1002,
+          "like_count": 22215,
+          "listed_count": 8,
+          "media_count": 425,
+          "tweet_count": 6815
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T06:23:36.000Z",
+        "description": "The big brother is watching you",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubmed.ncbi.nlm.nih.gov",
+                "end": 23,
+                "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/",
+                "start": 0,
+                "url": "https://t.co/CXdWtFuQyM"
+              }
+            ]
+          }
+        },
+        "id": "1796427186557100032",
+        "location": "Yakutat,Alaska",
+        "name": "橘雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041717085127282688/XaglP9UZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 226,
+          "like_count": 307,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/CXdWtFuQyM",
+        "username": "dupinkepu",
+        "verified": false
+      }
+    ]
+  }
+}

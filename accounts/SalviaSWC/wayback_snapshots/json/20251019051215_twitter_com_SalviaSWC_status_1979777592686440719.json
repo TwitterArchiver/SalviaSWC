@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1979777592686440719",
+    "created_at": "2025-10-19T05:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T06:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979777592686440719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1746469344325021697",
+          "start": 3,
+          "username": "suzumiyasuzume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979777592686440719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979222283521806613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suzumiyasuzume: 我统一讲一下，我不od的，我看你们天天o，做来给你们用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1979777592686440719",
+        "created_at": "2025-10-19T05:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T06:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979777592686440719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1746469344325021697",
+              "start": 3,
+              "username": "suzumiyasuzume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979777592686440719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979222283521806613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suzumiyasuzume: 我统一讲一下，我不od的，我看你们天天o，做来给你们用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746469344325021697",
+        "conversation_id": "1979222283521806613",
+        "created_at": "2025-10-17T16:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979222283521806613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suzumiyasuzume…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/suzumiyasuzume/status/1979058243260354755",
+              "start": 29,
+              "url": "https://t.co/lY16uT5gul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979222283521806613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 36325,
+          "like_count": 455,
+          "quote_count": 1,
+          "reply_count": 44,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979058243260354755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我统一讲一下，我不od的，我看你们天天o，做来给你们用的 https://t.co/lY16uT5gul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 516,
+          "like_count": 8633,
+          "listed_count": 7,
+          "media_count": 120,
+          "tweet_count": 2788
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "中国からのvtb\n绿色山葵猫【？】\n精神不稳定\n头像，头图画师：@kitsuneOAO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "kitsuneOAO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746470091049607168/_M8f4iiT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11149,
+          "following_count": 679,
+          "like_count": 583,
+          "listed_count": 17,
+          "media_count": 74,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": false
+      }
+    ]
+  }
+}

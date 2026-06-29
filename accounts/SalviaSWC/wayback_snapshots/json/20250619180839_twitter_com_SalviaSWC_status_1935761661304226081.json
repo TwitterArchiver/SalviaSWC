@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1935290717032915434",
+    "created_at": "2025-06-19T18:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T19:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935761661304226081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "6thCuteK1tten"
+        },
+        {
+          "end": 23,
+          "id": "1894285195651813378",
+          "start": 15,
+          "username": "zhu6hua"
+        },
+        {
+          "end": 40,
+          "id": "1680834021377593344",
+          "start": 24,
+          "username": "HyotoChandesuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935761661304226081",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935688136593695136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6thCuteK1tten @zhu6hua @HyotoChandesuyo 致死应该不是这个机理,吃到解离剂量的右美沙芬,血清素转运体早就几乎完全结合满了,但是并不每次都会造成血清素综合征"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1935688136593695136].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1935688136593695136",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1935688136593695136"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1935290717032915434",
+        "created_at": "2025-06-19T18:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T19:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935761661304226081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "6thCuteK1tten"
+            },
+            {
+              "end": 23,
+              "id": "1894285195651813378",
+              "start": 15,
+              "username": "zhu6hua"
+            },
+            {
+              "end": 40,
+              "id": "1680834021377593344",
+              "start": 24,
+              "username": "HyotoChandesuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935761661304226081",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935688136593695136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6thCuteK1tten @zhu6hua @HyotoChandesuyo 致死应该不是这个机理,吃到解离剂量的右美沙芬,血清素转运体早就几乎完全结合满了,但是并不每次都会造成血清素综合征"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 156,
+          "like_count": 3022,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1168
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "",
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1934123794089816485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935293281031561216/w3DQYC7X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 209,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 903
+        },
+        "username": "6thCuteK1tten",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "我是极左支黑温和键政魔怔萌萌类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "6huazhu"
+              }
+            ]
+          }
+        },
+        "id": "1894285195651813378",
+        "name": "要坂下一切害人虫，全六花！",
+        "pinned_tweet_id": "1895423372273819659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930642262855462912/SNlo-KZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 1061,
+          "like_count": 10013,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 6322
+        },
+        "username": "zhu6hua",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "反跨顺女｜MtX🍥｜Asexuality｜いつまでも風に吹かれたい @kiriyama_hitori 君だけが僕の音楽なんだ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "kiriyama_hitori"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原ひょと🧊",
+        "pinned_tweet_id": "1935388259204665480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929687427830239233/y6yyXa6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419,
+          "following_count": 976,
+          "like_count": 108218,
+          "listed_count": 14,
+          "media_count": 4332,
+          "tweet_count": 29490
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

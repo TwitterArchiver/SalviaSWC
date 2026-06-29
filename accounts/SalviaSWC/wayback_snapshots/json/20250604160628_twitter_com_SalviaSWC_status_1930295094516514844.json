@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1930292280113455617",
+    "created_at": "2025-06-04T16:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930295094516514844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "KillTokiyuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930295094516514844",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930292280113455617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KillTokiyuki 说≠挂😅\n这都分不清还有脸把我挂出来，不知道哪来的自信\n你把自己分不清楚基础概念的事实放在自己的timeline里，我替你感到羞耻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 471,
+        "media_key": "3_1930292263407501312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnGliEWwAAX_6r.jpg",
+        "width": 1024
+      },
+      {
+        "height": 215,
+        "media_key": "3_1930292263415889920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnGliGWwAAWtdV.jpg",
+        "width": 694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1930292280113455617",
+        "created_at": "2025-06-04T16:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930295094516514844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "KillTokiyuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930295094516514844",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930292280113455617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KillTokiyuki 说≠挂😅\n这都分不清还有脸把我挂出来，不知道哪来的自信\n你把自己分不清楚基础概念的事实放在自己的timeline里，我替你感到羞耻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930292263407501312",
+            "3_1930292263415889920"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1930292280113455617",
+        "created_at": "2025-06-04T15:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T16:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930292280113455617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H8f0qQoVfj",
+              "end": 30,
+              "expanded_url": "https://x.com/KillTokiyuki/status/1930292280113455617/photo/1",
+              "media_key": "3_1930292263407501312",
+              "start": 7,
+              "url": "https://t.co/H8f0qQoVfj"
+            },
+            {
+              "display_url": "pic.x.com/H8f0qQoVfj",
+              "end": 30,
+              "expanded_url": "https://x.com/KillTokiyuki/status/1930292280113455617/photo/1",
+              "media_key": "3_1930292263415889920",
+              "start": 7,
+              "url": "https://t.co/H8f0qQoVfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930292280113455617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "左右脑互搏了 https://t.co/H8f0qQoVfj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 82,
+          "like_count": 1930,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 810
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "people like you don't deserve to live.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "帕拉迪岛",
+        "name": "両儀式",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929245365183619072/T7LQXQIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5425,
+          "following_count": 1288,
+          "like_count": 26973,
+          "listed_count": 13,
+          "media_count": 144,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "KillTokiyuki",
+        "verified": false
+      }
+    ]
+  }
+}

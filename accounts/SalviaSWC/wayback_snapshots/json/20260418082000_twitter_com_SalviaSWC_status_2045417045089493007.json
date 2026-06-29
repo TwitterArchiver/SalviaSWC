@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045406522084147200",
+        "3_2045406562479702016"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2045417045089493007",
+    "created_at": "2026-04-18T08:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045417045089493007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kADBI58ied",
+          "end": 179,
+          "expanded_url": "https://x.com/SalviaSWC/status/2045417045089493007/photo/1",
+          "media_key": "3_2045406522084147200",
+          "start": 156,
+          "url": "https://t.co/kADBI58ied"
+        },
+        {
+          "display_url": "pic.x.com/kADBI58ied",
+          "end": 179,
+          "expanded_url": "https://x.com/SalviaSWC/status/2045417045089493007/photo/1",
+          "media_key": "3_2045406562479702016",
+          "start": 156,
+          "url": "https://t.co/kADBI58ied"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 203,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2044692269379281119",
+          "start": 180,
+          "url": "https://t.co/tZU0x7c8iI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045417045089493007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044692269379281119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物报告——day 2\n\n本文讲述了在分别服用两种解离剂——MK-801和右美沙芬之后，作者的体验：\n\n服用右美沙芬后，戴上耳机，躺进温温的浴缸里时，作者能开始一段非常迷人的旅程；而MK-801则更为不可思议，却导致了极长的药效。\n\n我也有过这种体验🥺但解离剂通常抑制记忆，为什么体验却经常与回忆有关呢...🤔 https://t.co/kADBI58ied https://t.co/tZU0x7c8iI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3276,
+        "media_key": "3_2045406522084147200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGK-ZRIXwAABKxf.jpg",
+        "width": 2049
+      },
+      {
+        "height": 3305,
+        "media_key": "3_2045406562479702016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGK-bnnbAAAayPc.png",
+        "width": 3072
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2044685989944430592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAvExvbEAAWgWg.jpg",
+        "width": 609
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045406522084147200",
+            "3_2045406562479702016"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2045417045089493007",
+        "created_at": "2026-04-18T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045417045089493007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kADBI58ied",
+              "end": 179,
+              "expanded_url": "https://x.com/SalviaSWC/status/2045417045089493007/photo/1",
+              "media_key": "3_2045406522084147200",
+              "start": 156,
+              "url": "https://t.co/kADBI58ied"
+            },
+            {
+              "display_url": "pic.x.com/kADBI58ied",
+              "end": 179,
+              "expanded_url": "https://x.com/SalviaSWC/status/2045417045089493007/photo/1",
+              "media_key": "3_2045406562479702016",
+              "start": 156,
+              "url": "https://t.co/kADBI58ied"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2044692269379281119",
+              "start": 180,
+              "url": "https://t.co/tZU0x7c8iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045417045089493007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044692269379281119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告——day 2\n\n本文讲述了在分别服用两种解离剂——MK-801和右美沙芬之后，作者的体验：\n\n服用右美沙芬后，戴上耳机，躺进温温的浴缸里时，作者能开始一段非常迷人的旅程；而MK-801则更为不可思议，却导致了极长的药效。\n\n我也有过这种体验🥺但解离剂通常抑制记忆，为什么体验却经常与回忆有关呢...🤔 https://t.co/kADBI58ied https://t.co/tZU0x7c8iI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044685989944430592"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2044692269379281119",
+        "created_at": "2026-04-16T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044692269379281119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vkj4dfIO9I",
+              "end": 177,
+              "expanded_url": "https://x.com/SalviaSWC/status/2044692269379281119/photo/1",
+              "media_key": "3_2044685989944430592",
+              "start": 154,
+              "url": "https://t.co/vkj4dfIO9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044692269379281119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5798,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "药物报告剧烈复活！今天是day1🥹\n\n结合时事：作者服用450mg普瑞巴林(无耐药)和500mg曲马多，然后突然遭受两次严重的癫痫发作......😢还落下了后遗症，必须吃药来缓解\n\n这两种药物都有可能导致癫痫发作，且都能抑制呼吸。这两个副作用互相结合，将会让过量的情形险上加险。请大家谨慎联用这两种药物哦🥺 https://t.co/vkj4dfIO9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3804,
+          "following_count": 981,
+          "like_count": 22143,
+          "listed_count": 8,
+          "media_count": 441,
+          "tweet_count": 6987
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2045898701512573121",
+    "created_at": "2026-04-19T16:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T17:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045898701512573121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1069599820912910337",
+          "start": 3,
+          "username": "mubeitech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045898701512573121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 552
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045535415663272337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mubeitech: 一剂药，能让80%的人戒掉鸦片类毒瘾。\n两剂下去，戒断率超过90%。\n\n这种药叫伊波加因，在美国一直是非法药物。\n禁药的原因与医学毫无关系。\n1970年尼克松政府出台《受控物质法案》，核心目标是打击当时的民权与反战运动。\n一纸政治禁令，把这副解药封…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 126293,
+        "height": 720,
+        "media_key": "7_2045535280518619136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045535280518619136/pu/img/7eZEdJdZZw5BY_2_.jpg",
+        "public_metrics": {
+          "view_count": 3213
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045535280518619136/pu/vid/avc1/480x270/qGkrscgmh-5yBlsk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045535280518619136/pu/vid/avc1/640x360/pw1BQXxFwbmK4Pxm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045535280518619136/pu/vid/avc1/1280x720/HZdZm7h-7SD81_ao.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045535280518619136/pu/pl/VU_qVyc_jvnkOHUU.m3u8?tag=12&v=dfd"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2045898701512573121",
+        "created_at": "2026-04-19T16:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045898701512573121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1069599820912910337",
+              "start": 3,
+              "username": "mubeitech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045898701512573121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 552
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045535415663272337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mubeitech: 一剂药，能让80%的人戒掉鸦片类毒瘾。\n两剂下去，戒断率超过90%。\n\n这种药叫伊波加因，在美国一直是非法药物。\n禁药的原因与医学毫无关系。\n1970年尼克松政府出台《受控物质法案》，核心目标是打击当时的民权与反战运动。\n一纸政治禁令，把这副解药封…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045535280518619136"
+          ]
+        },
+        "author_id": "1069599820912910337",
+        "conversation_id": "2045535415663272337",
+        "created_at": "2026-04-18T16:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045535415663272337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JhqHkwPzbB",
+              "end": 165,
+              "expanded_url": "https://x.com/mubeitech/status/2045535415663272337/video/1",
+              "media_key": "7_2045535280518619136",
+              "start": 142,
+              "url": "https://t.co/JhqHkwPzbB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045535415663272337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一剂药，能让80%的人戒掉鸦片类毒瘾。\n两剂下去，戒断率超过90%。\n\n这种药叫伊波加因，在美国一直是非法药物。\n禁药的原因与医学毫无关系。\n1970年尼克松政府出台《受控物质法案》，核心目标是打击当时的民权与反战运动。\n一纸政治禁令，把这副解药封印了整整56年。\n\n代价极度惨痛。\n2024年，美国有超过8万人死于药物过量。\n现在还有500万人深陷鸦片类毒瘾。\n\nJoe Rogan把伊波加因的疗效发给了川普。\n川普回了一条短信。\n“听起来很棒。想要FDA批准吗？那就干吧。”\n\n川普没有停在嘴上。\n他拿着便条去找了小罗伯特·肯尼迪，又找了奥兹医生。\n他让手下真正的医学专业人士去彻底核查。\n以往遇到这种事，官僚系统总会给出模棱两可的意见。\n但这次，所有专家的反馈高度一致。\n\n最后的障碍被彻底扫除。\n川普在白宫直接下令。\n“鲍比，我们就这么干，让奥兹也加入进来。”\n\n困扰美国数十年的毒瘾危机，终于等来了实质性的解药。\n解决旧体制的顽疾不需要无休止的听证会。\n换一批懂常识的人上桌，僵死的锁链一砸就开。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 73126,
+          "like_count": 1720,
+          "quote_count": 25,
+          "reply_count": 32,
+          "retweet_count": 552
+        },
+        "reply_settings": "everyone",
+        "text": "一剂药，能让80%的人戒掉鸦片类毒瘾。\n两剂下去，戒断率超过90%。\n\n这种药叫伊波加因，在美国一直是非法药物。\n禁药的原因与医学毫无关系。\n1970年尼克松政府出台《受控物质法案》，核心目标是打击当时的民权与反战运动。\n一纸政治禁令，把这副解药封印了整整56年。\n\n代价极度惨痛。 https://t.co/JhqHkwPzbB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3843,
+          "following_count": 983,
+          "like_count": 22197,
+          "listed_count": 8,
+          "media_count": 442,
+          "tweet_count": 7017
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T14:30:44.000Z",
+        "description": "人类的金色通道：Crypto → AI → Space！美国政治、AI科技、国际博弈--观察西方，理解西方，学习西方，反思东方，理解文明。",
+        "id": "1069599820912910337",
+        "name": "墓碑科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936440283094265856/FEwHZFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61537,
+          "following_count": 4198,
+          "like_count": 11123,
+          "listed_count": 314,
+          "media_count": 10697,
+          "tweet_count": 74755
+        },
+        "username": "mubeitech",
+        "verified": true
+      }
+    ]
+  }
+}

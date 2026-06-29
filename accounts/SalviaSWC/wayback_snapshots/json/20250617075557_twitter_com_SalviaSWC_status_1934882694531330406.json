@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1934877053536620926",
+    "created_at": "2025-06-17T07:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T08:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934882694531330406"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1934882694531330406",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934882056892485710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又做了120mg的DXO喷雾,准备鼻吸\n感觉DXO晶体溶解的速度很快,不像右美晶体一直不溶解\n(忘了提,主播体重为57kg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934877053536620926",
+        "created_at": "2025-06-17T07:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T08:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934882694531330406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934882694531330406",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934882056892485710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又做了120mg的DXO喷雾,准备鼻吸\n感觉DXO晶体溶解的速度很快,不像右美晶体一直不溶解\n(忘了提,主播体重为57kg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934877053536620926",
+        "created_at": "2025-06-17T07:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T08:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934882056892485710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934882056892485710",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934879080773754996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药效来了(喜)\n目前解离程度和右美第一高原差不多,感觉一切都有点变慢.但是是纯粹的镇静,没有第右美一高原的兴奋感."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 126,
+          "like_count": 2719,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 1065
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

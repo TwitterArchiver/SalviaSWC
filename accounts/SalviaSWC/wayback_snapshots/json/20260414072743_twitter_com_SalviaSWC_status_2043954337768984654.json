@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2043954337768984654",
+    "created_at": "2026-04-14T07:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043954337768984654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1942493462810525696",
+          "start": 3,
+          "username": "AsanagiYori486"
+        }
+      ],
+      "urls": [
+        {
+          "description": "模拟政党001:CRP 党名:保守正义党 全称:Conservative Righteous Party 简称:CRP 党魁: @dubstschwein 党员: @DomeSere @leiyuchen2025 @notrealnatsume 共四人 党旗: 党章: Conservative Righteous Party (CRP) 是Christian Republic of Shanghai（中国东部战区被灭灭亡后独立）的极右翼党派，其政策融合自由至上主义、种族导向民族主义和新教保守主义，强调白人化转型、绝对市场自由和儿童解放。以下按领域分类概括： 1. 教育与...",
+          "display_url": "docs.google.com/document/d/17f…",
+          "end": 110,
+          "expanded_url": "https://docs.google.com/document/d/17f2mONXIvaMkk4_aAlX8Dy0ZeEKciO0N3A22GkLs6uw/edit?usp=drivesdk",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2043376102257876992/CmEfTHog?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2043376102257876992/CmEfTHog?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 87,
+          "status": 200,
+          "title": "参选政党",
+          "unwound_url": "https://docs.google.com/document/d/17f2mONXIvaMkk4_aAlX8Dy0ZeEKciO0N3A22GkLs6uw/edit?usp=drivesdk",
+          "url": "https://t.co/N0SFfM4Nk4"
+        },
+        {
+          "display_url": "t.co/DO67geXAP",
+          "end": 139,
+          "start": 117,
+          "url": "https://t.co/DO67geXAP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043954337768984654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043352016622325999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsanagiYori486: 本投票为　第五届中推模拟大选正式投票，每位选民可以投票一次，选票一经投出不可更改！\n为防止水票，我们会对投票结果开启审查\n\n参选政党：https://t.co/N0SFfM4Nk4\n\n投票链接：https://t.co/DO67geXAP…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043954337768984654",
+        "created_at": "2026-04-14T07:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043954337768984654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1942493462810525696",
+              "start": 3,
+              "username": "AsanagiYori486"
+            }
+          ],
+          "urls": [
+            {
+              "description": "模拟政党001:CRP 党名:保守正义党 全称:Conservative Righteous Party 简称:CRP 党魁: @dubstschwein 党员: @DomeSere @leiyuchen2025 @notrealnatsume 共四人 党旗: 党章: Conservative Righteous Party (CRP) 是Christian Republic of Shanghai（中国东部战区被灭灭亡后独立）的极右翼党派，其政策融合自由至上主义、种族导向民族主义和新教保守主义，强调白人化转型、绝对市场自由和儿童解放。以下按领域分类概括： 1. 教育与...",
+              "display_url": "docs.google.com/document/d/17f…",
+              "end": 110,
+              "expanded_url": "https://docs.google.com/document/d/17f2mONXIvaMkk4_aAlX8Dy0ZeEKciO0N3A22GkLs6uw/edit?usp=drivesdk",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2043376102257876992/CmEfTHog?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043376102257876992/CmEfTHog?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "参选政党",
+              "unwound_url": "https://docs.google.com/document/d/17f2mONXIvaMkk4_aAlX8Dy0ZeEKciO0N3A22GkLs6uw/edit?usp=drivesdk",
+              "url": "https://t.co/N0SFfM4Nk4"
+            },
+            {
+              "display_url": "t.co/DO67geXAP",
+              "end": 139,
+              "start": 117,
+              "url": "https://t.co/DO67geXAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043954337768984654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043352016622325999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsanagiYori486: 本投票为　第五届中推模拟大选正式投票，每位选民可以投票一次，选票一经投出不可更改！\n为防止水票，我们会对投票结果开启审查\n\n参选政党：https://t.co/N0SFfM4Nk4\n\n投票链接：https://t.co/DO67geXAP…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942493462810525696",
+        "conversation_id": "2043352016622325999",
+        "created_at": "2026-04-12T15:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043352016622325999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 172,
+              "start": 163,
+              "tag": "中推模拟大选公告"
+            }
+          ],
+          "urls": [
+            {
+              "description": "模拟政党001:CRP 党名:保守正义党 全称:Conservative Righteous Party 简称:CRP 党魁: @dubstschwein 党员: @DomeSere @leiyuchen2025 @notrealnatsume 共四人 党旗: 党章: Conservative Righteous Party (CRP) 是Christian Republic of Shanghai（中国东部战区被灭灭亡后独立）的极右翼党派，其政策融合自由至上主义、种族导向民族主义和新教保守主义，强调白人化转型、绝对市场自由和儿童解放。以下按领域分类概括： 1. 教育与...",
+              "display_url": "docs.google.com/document/d/17f…",
+              "end": 90,
+              "expanded_url": "https://docs.google.com/document/d/17f2mONXIvaMkk4_aAlX8Dy0ZeEKciO0N3A22GkLs6uw/edit?usp=drivesdk",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2043376102257876992/CmEfTHog?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043376102257876992/CmEfTHog?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 67,
+              "status": 200,
+              "title": "参选政党",
+              "unwound_url": "https://docs.google.com/document/d/17f2mONXIvaMkk4_aAlX8Dy0ZeEKciO0N3A22GkLs6uw/edit?usp=drivesdk",
+              "url": "https://t.co/N0SFfM4Nk4"
+            },
+            {
+              "description": "GForms",
+              "display_url": "gforms.app/p/ZCy0X8d",
+              "end": 120,
+              "expanded_url": "https://gforms.app/p/ZCy0X8d",
+              "start": 97,
+              "status": 200,
+              "title": "GForms : Google Forms management",
+              "unwound_url": "https://gforms.app/p/ZCy0X8d",
+              "url": "https://t.co/DO67geXAPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043352016622325999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11900,
+          "like_count": 66,
+          "quote_count": 30,
+          "reply_count": 12,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "本投票为　第五届中推模拟大选正式投票，每位选民可以投票一次，选票一经投出不可更改！\n为防止水票，我们会对投票结果开启审查\n\n参选政党：https://t.co/N0SFfM4Nk4\n\n投票链接：https://t.co/DO67geXAPC\n（请使用外部浏览器打开）\n投票将持续两周，与4月27日23:59（UTC+8截止）\n#中推模拟大选公告"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3735,
+          "following_count": 1002,
+          "like_count": 22224,
+          "listed_count": 8,
+          "media_count": 425,
+          "tweet_count": 6821
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T07:58:39.000Z",
+        "description": "第五届中推模拟大选委员会主席｜可以叫我依老师｜蒂蒂最锋利的剑｜研究新派刑法学｜Antitheist｜初始默认温柔人格｜爱好：明日方舟、视奸你｜讨厌：宗教神权，无脑粉红｜不站队，不摇摆｜1+1=2理论坚决反对者｜推：木野日鞠&朝凪依，八百岁比名子&近江汐莉｜写简介而已，又不是写毕业论文，没必要写那么完美”——她如此说到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "AsanagiYori.com",
+                "end": 23,
+                "expanded_url": "http://AsanagiYori.com",
+                "start": 0,
+                "url": "https://t.co/MJsJa8uhxz"
+              }
+            ]
+          }
+        },
+        "id": "1942493462810525696",
+        "location": "My realms",
+        "name": "𝓐𝓼𝓪𝓷𝓪𝓰𝓲 𝓨𝓸𝓻𝓲",
+        "pinned_tweet_id": "2043352016622325999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039542257301475328/sq1OcSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 1845,
+          "like_count": 19227,
+          "listed_count": 0,
+          "media_count": 1290,
+          "tweet_count": 5951
+        },
+        "url": "https://t.co/MJsJa8uhxz",
+        "username": "AsanagiYori486",
+        "verified": true
+      }
+    ]
+  }
+}

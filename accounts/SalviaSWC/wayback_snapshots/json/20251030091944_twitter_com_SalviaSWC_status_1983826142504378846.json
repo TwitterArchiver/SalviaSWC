@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1983506269785780622",
+    "created_at": "2025-10-30T09:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T10:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983826142504378846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1183043878938505216",
+          "start": 0,
+          "username": "Squidking880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983826142504378846",
+    "in_reply_to_user_id": "1183043878938505216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983823390315274523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Squidking880 现在已经是属于大家的了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_1983823387664523264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4f03D7bIAAZyGg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1983506269785780622",
+        "created_at": "2025-10-30T09:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T10:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983826142504378846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1183043878938505216",
+              "start": 0,
+              "username": "Squidking880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983826142504378846",
+        "in_reply_to_user_id": "1183043878938505216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983823390315274523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Squidking880 现在已经是属于大家的了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983823387664523264"
+          ]
+        },
+        "author_id": "1183043878938505216",
+        "conversation_id": "1983506269785780622",
+        "created_at": "2025-10-30T09:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T10:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983823390315274523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/90GMHdoCQ0",
+              "end": 53,
+              "expanded_url": "https://x.com/Squidking880/status/1983823390315274523/photo/1",
+              "media_key": "3_1983823387664523264",
+              "start": 30,
+              "url": "https://t.co/90GMHdoCQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983823390315274523",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983506269785780622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 魔爪确实就是属于赛车手的，不懂别乱说 https://t.co/90GMHdoCQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 565,
+          "like_count": 9331,
+          "listed_count": 7,
+          "media_count": 128,
+          "tweet_count": 2970
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-12T15:37:04.000Z",
+        "description": "来自中国🇨🇳\n怪物猎人区画师，但也会画军事装备和跑车载具，偶尔画画色图，会做AE小动画，接约稿，不喜欢聊政治。\nbilibili：https://t.co/skJ8GIVLJF   \n粉丝群：869383886\npixiv：鱿鱼王 https://t.co/eyfJZJBndG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/oV7Gyyd",
+                "end": 88,
+                "expanded_url": "https://b23.tv/oV7Gyyd",
+                "start": 65,
+                "url": "https://t.co/skJ8GIVLJF"
+              },
+              {
+                "display_url": "pixiv.net/users/46275519",
+                "end": 139,
+                "expanded_url": "https://www.pixiv.net/users/46275519",
+                "start": 116,
+                "url": "https://t.co/eyfJZJBndG"
+              }
+            ]
+          }
+        },
+        "id": "1183043878938505216",
+        "location": "鱿鱼王国",
+        "name": "🦑👍🏻鱿鱼王squidking",
+        "pinned_tweet_id": "1933055140078219448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969238901874442240/i7dHTu4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5046,
+          "following_count": 1561,
+          "like_count": 36755,
+          "listed_count": 27,
+          "media_count": 1299,
+          "tweet_count": 4641
+        },
+        "username": "Squidking880",
+        "verified": false
+      }
+    ]
+  }
+}

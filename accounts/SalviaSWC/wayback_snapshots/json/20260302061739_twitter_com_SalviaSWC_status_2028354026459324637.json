@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2028325642379407498",
+    "created_at": "2026-03-02T06:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028354026459324637"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028354026459324637",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028325642379407498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纠正一下，横纹肌溶解症不是溶血，横纹肌溶解症是肌肉细胞死亡，溶血是红细胞死亡，不好意思🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2028325642379407498",
+        "created_at": "2026-03-02T06:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028354026459324637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028354026459324637",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028325642379407498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纠正一下，横纹肌溶解症不是溶血，横纹肌溶解症是肌肉细胞死亡，溶血是红细胞死亡，不好意思🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2028325642379407498",
+        "created_at": "2026-03-02T04:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028325642379407498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PnKoZCN/status…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/PnKoZCN/status/2028312704600162322",
+              "start": 162,
+              "url": "https://t.co/C0JAGQ32dW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028325642379407498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3748,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028312704600162322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唐毓文尝试模仿N55一次od20000mg pr的壮举，于是一次o了5400mg pr+大量安非他酮，却为自己的od之旅画上了句号......😭\n\n死亡过程猜测：高剂量普瑞巴林的昏迷风险很大，耽误人被发现并送医的时间；高剂量安非他酮的癫痫风险很大，而长期癫痫导致肌肉溶解，也就是溶血，最后导致肝肾衰竭逝世......😭😭😭 https://t.co/C0JAGQ32dW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 915,
+          "like_count": 20215,
+          "listed_count": 10,
+          "media_count": 324,
+          "tweet_count": 5826
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

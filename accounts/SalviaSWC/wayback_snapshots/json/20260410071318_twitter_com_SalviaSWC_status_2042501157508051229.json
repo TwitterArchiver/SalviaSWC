@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2042501157508051229",
+    "created_at": "2026-04-10T07:13:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:13:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042501157508051229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2008943608695840768",
+          "start": 3,
+          "username": "electronic_dirt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042501157508051229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042201322175570010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @electronic_dirt: 吸毒 爽 利己自私。真可笑 到底谁教唆了孩子？是以此谋利的毒虫还是收到压力和伤害的那些孩子 他们伤害了谁？他们得到了什么？肝肾受损的、伤痕累累的身体 还有什么？这些宣传除了让那些没有辨识能力的未成年人跟风，在墙内发这么让很多这种人去跟风…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042201284317777920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdbP3-bkAATmNF.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042201284326182912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdbP4Ab0AAHwpm.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042201284724621312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdbP5fbgAA_h4x.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042201284347092992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdbP4Fa4AAf0ya.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2042501157508051229",
+        "created_at": "2026-04-10T07:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042501157508051229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2008943608695840768",
+              "start": 3,
+              "username": "electronic_dirt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042501157508051229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042201322175570010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @electronic_dirt: 吸毒 爽 利己自私。真可笑 到底谁教唆了孩子？是以此谋利的毒虫还是收到压力和伤害的那些孩子 他们伤害了谁？他们得到了什么？肝肾受损的、伤痕累累的身体 还有什么？这些宣传除了让那些没有辨识能力的未成年人跟风，在墙内发这么让很多这种人去跟风…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042201284317777920",
+            "3_2042201284326182912",
+            "3_2042201284724621312",
+            "3_2042201284347092992"
+          ]
+        },
+        "author_id": "2008943608695840768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042201322175570010",
+        "created_at": "2026-04-09T11:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042201322175570010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V0QuyIdPd0",
+              "end": 164,
+              "expanded_url": "https://x.com/electronic_dirt/status/2042201322175570010/photo/1",
+              "media_key": "3_2042201284317777920",
+              "start": 141,
+              "url": "https://t.co/V0QuyIdPd0"
+            },
+            {
+              "display_url": "pic.x.com/V0QuyIdPd0",
+              "end": 164,
+              "expanded_url": "https://x.com/electronic_dirt/status/2042201322175570010/photo/1",
+              "media_key": "3_2042201284326182912",
+              "start": 141,
+              "url": "https://t.co/V0QuyIdPd0"
+            },
+            {
+              "display_url": "pic.x.com/V0QuyIdPd0",
+              "end": 164,
+              "expanded_url": "https://x.com/electronic_dirt/status/2042201322175570010/photo/1",
+              "media_key": "3_2042201284724621312",
+              "start": 141,
+              "url": "https://t.co/V0QuyIdPd0"
+            },
+            {
+              "display_url": "pic.x.com/V0QuyIdPd0",
+              "end": 164,
+              "expanded_url": "https://x.com/electronic_dirt/status/2042201322175570010/photo/1",
+              "media_key": "3_2042201284347092992",
+              "start": 141,
+              "url": "https://t.co/V0QuyIdPd0"
+            },
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/2042110820314968186",
+              "start": 165,
+              "url": "https://t.co/y2MSf4GKLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042201322175570010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1330,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042110820314968186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吸毒 爽 利己自私。真可笑 到底谁教唆了孩子？是以此谋利的毒虫还是收到压力和伤害的那些孩子 他们伤害了谁？他们得到了什么？肝肾受损的、伤痕累累的身体 还有什么？这些宣传除了让那些没有辨识能力的未成年人跟风，在墙内发这么让很多这种人去跟风还能做到什么？不解决痛苦本身 这一切只会继续 https://t.co/V0QuyIdPd0 https://t.co/y2MSf4GKLT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 990,
+          "like_count": 21913,
+          "listed_count": 8,
+          "media_count": 409,
+          "tweet_count": 6658
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-07T16:47:44.000Z",
+        "description": "💉𓂋 =无垢 可以找我互fo捏( ^ω^ ) 09休学中 顺女 泛性恋 精无 内含【 割 、o 、 烟 、 酒 】",
+        "id": "2008943608695840768",
+        "name": "无垢",
+        "pinned_tweet_id": "2026491738811150817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040675587917066240/Egsby-wo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 206,
+          "like_count": 1117,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 940
+        },
+        "username": "electronic_dirt",
+        "verified": false
+      }
+    ]
+  }
+}

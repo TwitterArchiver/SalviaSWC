@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1937931816511672704",
+    "created_at": "2025-06-25T18:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T19:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937940207870845282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1625030759395524608",
+          "start": 0,
+          "username": "pandyingg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937940207870845282",
+    "in_reply_to_user_id": "1625030759395524608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937931816511672704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pandyingg 加油喵🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 596,
+        "media_key": "3_1937931813915389952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuTqt5da8AAW-j2.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1937931816511672704",
+        "created_at": "2025-06-25T18:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T19:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937940207870845282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1625030759395524608",
+              "start": 0,
+              "username": "pandyingg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937940207870845282",
+        "in_reply_to_user_id": "1625030759395524608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937931816511672704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pandyingg 加油喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937931813915389952"
+          ]
+        },
+        "author_id": "1625030759395524608",
+        "conversation_id": "1937931816511672704",
+        "created_at": "2025-06-25T17:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937931816511672704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJdd0BTfvK",
+              "end": 39,
+              "expanded_url": "https://x.com/pandyingg/status/1937931816511672704/photo/1",
+              "media_key": "3_1937931813915389952",
+              "start": 16,
+              "url": "https://t.co/TJdd0BTfvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937931816511672704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不睡了！\n一个晚上，一个奇迹！ https://t.co/TJdd0BTfvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 207,
+          "like_count": 3540,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1307
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T07:15:16.000Z",
+        "description": "/05(˵¯͒〰¯͒˵)🌈//曾经的天赋党//本科CS在读//目标多伦多大学读研//睡觉中毒 //alternative rock//兴趣点广泛//只聊风月不谈政治//清水推一枚/Shanghai🎈",
+        "id": "1625030759395524608",
+        "name": "神樂坂🌸心海",
+        "pinned_tweet_id": "1683819322228244482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811843884693037056/v8vgdG6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 610,
+          "like_count": 3630,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 2158
+        },
+        "username": "pandyingg",
+        "verified": false
+      }
+    ]
+  }
+}

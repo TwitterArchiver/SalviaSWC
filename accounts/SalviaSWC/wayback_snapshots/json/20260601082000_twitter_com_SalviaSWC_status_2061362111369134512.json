@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061356449553416220",
+        "3_2061356449549176835"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2061362111369134512",
+    "created_at": "2026-06-01T08:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061362111369134512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+          "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+          "end": 126,
+          "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/vynvase_ruined_my_life.html",
+          "start": 103,
+          "status": 200,
+          "title": "利右苯丙胺毁了我的人生——利右苯丙胺 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/vynvase_ruined_my_life.html",
+          "url": "https://t.co/te6WRpE5BD"
+        },
+        {
+          "display_url": "pic.x.com/CtaXv9MbGc",
+          "end": 150,
+          "expanded_url": "https://x.com/SalviaSWC/status/2061362111369134512/photo/1",
+          "media_key": "3_2061356449553416220",
+          "start": 127,
+          "url": "https://t.co/CtaXv9MbGc"
+        },
+        {
+          "display_url": "pic.x.com/CtaXv9MbGc",
+          "end": 150,
+          "expanded_url": "https://x.com/SalviaSWC/status/2061362111369134512/photo/1",
+          "media_key": "3_2061356449549176835",
+          "start": 127,
+          "url": "https://t.co/CtaXv9MbGc"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2060308563940036649",
+          "start": 151,
+          "url": "https://t.co/Wf46apXIje"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061362111369134512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060308563940036649",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物报告day30——被Vynvase摧毁人生的故事\n\nReddit上一外国小哥由于药效太好，从小便对多动症药物成瘾了。请看他与成瘾挣扎的故事🥺\n\n所以嘛，用药的时候一定要谨慎阿......\n\n文字版链接：https://t.co/te6WRpE5BD https://t.co/CtaXv9MbGc https://t.co/Wf46apXIje"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2061356449553416220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtoxPMXgBwO3ZS.jpg",
+        "width": 704
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2061356449549176835",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtoxPLW0AMRNvI.jpg",
+        "width": 633
+      },
+      {
+        "height": 3841,
+        "media_key": "3_2060235511252336642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdtSCnXQAIZdL_.jpg",
+        "width": 3198
+      },
+      {
+        "height": 4295,
+        "media_key": "3_2060235521847144453",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdtSqFXMAU21OI.jpg",
+        "width": 3198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061356449553416220",
+            "3_2061356449549176835"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2061362111369134512",
+        "created_at": "2026-06-01T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061362111369134512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+              "end": 126,
+              "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/vynvase_ruined_my_life.html",
+              "start": 103,
+              "status": 200,
+              "title": "利右苯丙胺毁了我的人生——利右苯丙胺 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/vynvase_ruined_my_life.html",
+              "url": "https://t.co/te6WRpE5BD"
+            },
+            {
+              "display_url": "pic.x.com/CtaXv9MbGc",
+              "end": 150,
+              "expanded_url": "https://x.com/SalviaSWC/status/2061362111369134512/photo/1",
+              "media_key": "3_2061356449553416220",
+              "start": 127,
+              "url": "https://t.co/CtaXv9MbGc"
+            },
+            {
+              "display_url": "pic.x.com/CtaXv9MbGc",
+              "end": 150,
+              "expanded_url": "https://x.com/SalviaSWC/status/2061362111369134512/photo/1",
+              "media_key": "3_2061356449549176835",
+              "start": 127,
+              "url": "https://t.co/CtaXv9MbGc"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2060308563940036649",
+              "start": 151,
+              "url": "https://t.co/Wf46apXIje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061362111369134512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060308563940036649",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day30——被Vynvase摧毁人生的故事\n\nReddit上一外国小哥由于药效太好，从小便对多动症药物成瘾了。请看他与成瘾挣扎的故事🥺\n\n所以嘛，用药的时候一定要谨慎阿......\n\n文字版链接：https://t.co/te6WRpE5BD https://t.co/CtaXv9MbGc https://t.co/Wf46apXIje"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060235511252336642",
+            "3_2060235521847144453"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2060308563940036649",
+        "created_at": "2026-05-29T10:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060308563940036649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+              "end": 150,
+              "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/erowid/21280.html",
+              "start": 127,
+              "status": 200,
+              "title": "那是上帝在我厨房里吗？——牵牛花种子, 右美沙芬&氯硝西泮 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/erowid/21280.html",
+              "url": "https://t.co/FeZ8RvhdEz"
+            },
+            {
+              "display_url": "pic.x.com/trQRo5YMat",
+              "end": 174,
+              "expanded_url": "https://x.com/SalviaSWC/status/2060308563940036649/photo/1",
+              "media_key": "3_2060235511252336642",
+              "start": 151,
+              "url": "https://t.co/trQRo5YMat"
+            },
+            {
+              "display_url": "pic.x.com/trQRo5YMat",
+              "end": 174,
+              "expanded_url": "https://x.com/SalviaSWC/status/2060308563940036649/photo/1",
+              "media_key": "3_2060235521847144453",
+              "start": 151,
+              "url": "https://t.co/trQRo5YMat"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2059912559663456491",
+              "start": 175,
+              "url": "https://t.co/NlLJ4NpQpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060308563940036649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4136,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059912559663456491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day29——右美沙芬+牵牛花种子的联用\n\n众所周知，某些品种的牵牛花种子中含有LSA，一种LSD的类似物，也具有致幻药效😋\n\n本报告作者联用了LSA和DXM，获得了一个深刻的致幻体验🥺\n\n话说大家有吃过牵牛花种子的嘛，感觉怎么样👀\n\n全文链接：https://t.co/FeZ8RvhdEz https://t.co/trQRo5YMat https://t.co/NlLJ4NpQpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4713,
+          "following_count": 1011,
+          "like_count": 24203,
+          "listed_count": 11,
+          "media_count": 537,
+          "tweet_count": 7798
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

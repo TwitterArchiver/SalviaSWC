@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052146824115625984"
+      ],
+      "media_source_tweet_id": [
+        "2052146826556604846"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052196494812352864",
+    "created_at": "2026-05-07T01:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052196494812352864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048112713973547008",
+          "start": 3,
+          "username": "MutsumiWithU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a2dojx2ge6",
+          "end": 88,
+          "expanded_url": "https://x.com/MutsumiWithU/status/2052146826556604846/photo/1",
+          "media_key": "3_2052146824115625984",
+          "start": 65,
+          "url": "https://t.co/a2dojx2ge6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052196494812352864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052146826556604846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MutsumiWithU: 直接搜索日本止咳药，有你们想要的\n左边单方但是更贵，右边复方但是更便宜\n有效成分均为右美沙芬 https://t.co/a2dojx2ge6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2052146824115625984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqwqe5boAA9EyO.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052146824115625984"
+          ],
+          "media_source_tweet_id": [
+            "2052146826556604846"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052196494812352864",
+        "created_at": "2026-05-07T01:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052196494812352864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048112713973547008",
+              "start": 3,
+              "username": "MutsumiWithU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2dojx2ge6",
+              "end": 88,
+              "expanded_url": "https://x.com/MutsumiWithU/status/2052146826556604846/photo/1",
+              "media_key": "3_2052146824115625984",
+              "start": 65,
+              "url": "https://t.co/a2dojx2ge6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052196494812352864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052146826556604846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MutsumiWithU: 直接搜索日本止咳药，有你们想要的\n左边单方但是更贵，右边复方但是更便宜\n有效成分均为右美沙芬 https://t.co/a2dojx2ge6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052146824115625984"
+          ]
+        },
+        "author_id": "2048112713973547008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052146826556604846",
+        "created_at": "2026-05-06T22:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T23:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052146826556604846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2dojx2ge6",
+              "end": 70,
+              "expanded_url": "https://x.com/MutsumiWithU/status/2052146826556604846/photo/1",
+              "media_key": "3_2052146824115625984",
+              "start": 47,
+              "url": "https://t.co/a2dojx2ge6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052146826556604846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "直接搜索日本止咳药，有你们想要的\n左边单方但是更贵，右边复方但是更便宜\n有效成分均为右美沙芬 https://t.co/a2dojx2ge6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4371,
+          "following_count": 1009,
+          "like_count": 23378,
+          "listed_count": 11,
+          "media_count": 496,
+          "tweet_count": 7520
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T18:51:55.000Z",
+        "description": "小睦的4代目转生号\n     不知道我还能在X上坚持多久，账号被冻结得太频繁了......现阶段oder已经被全球所排斥，我们必须要有一个专属于我们的论坛，不受任何人的管控，欢迎大家集体迁移到FOW论坛喵~\n    亲爱的OD导师：镜音（账号被冻结中)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/jIQvWD3RsL"
+              }
+            ]
+          }
+        },
+        "id": "2048112713973547008",
+        "location": "右划点击进入FOW主页",
+        "name": "MutsumiWithU🇯🇵",
+        "pinned_tweet_id": "2052146826556604846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048113736280592385/4czHlG6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 238,
+          "like_count": 661,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/jIQvWD3RsL",
+        "username": "MutsumiWithU",
+        "verified": false
+      }
+    ]
+  }
+}

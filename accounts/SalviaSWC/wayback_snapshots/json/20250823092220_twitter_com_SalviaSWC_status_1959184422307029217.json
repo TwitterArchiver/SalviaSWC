@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1959148163576537332",
+    "created_at": "2025-08-23T09:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T10:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959184422307029217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800961659290497024",
+          "start": 0,
+          "username": "tyt20080609"
+        },
+        {
+          "end": 24,
+          "id": "1222546987108581376",
+          "start": 13,
+          "username": "sky_string"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959184422307029217",
+    "in_reply_to_user_id": "1800961659290497024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959164326872588669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tyt20080609 @sky_string 里面没有()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1959148163576537332",
+        "created_at": "2025-08-23T09:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T10:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959184422307029217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800961659290497024",
+              "start": 0,
+              "username": "tyt20080609"
+            },
+            {
+              "end": 24,
+              "id": "1222546987108581376",
+              "start": 13,
+              "username": "sky_string"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959184422307029217",
+        "in_reply_to_user_id": "1800961659290497024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959164326872588669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tyt20080609 @sky_string 里面没有()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800961659290497024",
+        "conversation_id": "1959148163576537332",
+        "created_at": "2025-08-23T08:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T09:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959164326872588669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1222546987108581376",
+              "start": 0,
+              "username": "sky_string"
+            },
+            {
+              "end": 22,
+              "id": "1659962043460354050",
+              "start": 12,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959164326872588669",
+        "in_reply_to_user_id": "1222546987108581376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959156013317206233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sky_string @SalviaSWC 右美是哪一个？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1952002613244735810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 403,
+          "like_count": 5980,
+          "listed_count": 3,
+          "media_count": 86,
+          "tweet_count": 2127
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T18:41:55.000Z",
+        "description": "世界上最不安的人",
+        "id": "1800961659290497024",
+        "location": "香港",
+        "name": "菲菲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958219016839012352/hzG-Q_la_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "tyt20080609",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-29T15:48:23.000Z",
+        "description": "bambi sleep😖",
+        "id": "1222546987108581376",
+        "name": "bambi_SSSSSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1222547214326587393/I9ir-8Gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 140,
+          "like_count": 1478,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 241
+        },
+        "username": "sky_string",
+        "verified": false
+      }
+    ]
+  }
+}

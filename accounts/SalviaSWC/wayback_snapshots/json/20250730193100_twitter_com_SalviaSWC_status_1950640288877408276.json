@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1950639494962798959",
+    "created_at": "2025-07-30T19:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T20:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950640288877408276"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950640288877408276",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950639494962798959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充一下，这里说的“合法新型毒品”不是比喻，就是本意()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1950639494962798959",
+        "created_at": "2025-07-30T19:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T20:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950640288877408276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950640288877408276",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950639494962798959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充一下，这里说的“合法新型毒品”不是比喻，就是本意()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1950639494962798959",
+        "created_at": "2025-07-30T19:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T20:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950639494962798959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Moningmeng/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Moningmeng/status/1950120114570834297",
+              "start": 143,
+              "url": "https://t.co/cK99EkHlz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950639494962798959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950120114570834297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一层:毒品问题是零容忍的红线。公然宣扬越过红线者，非别有用心，即无药可救😅\n第二层:毒品合法化运动旨在精神和谐与团结，支持者却看重经济发展。这场运动已然病入膏肓😡\n第三层:毒品从未非法过，也无需合法化。中国是合法新型毒品的最大出口国，获利颇丰，国人却一无所知。没有人能叫醒装睡的人🤓 https://t.co/cK99EkHlz4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 340,
+          "like_count": 4873,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1727
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

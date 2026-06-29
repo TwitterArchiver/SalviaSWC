@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2001591263846433004",
+    "created_at": "2025-12-18T10:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T11:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001595883532472570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1518140760557690880",
+          "start": 0,
+          "username": "mengbing23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001595883532472570",
+    "in_reply_to_user_id": "1518140760557690880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001595498663416120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengbing23 好哦🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2001591263846433004",
+        "created_at": "2025-12-18T10:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001595883532472570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1518140760557690880",
+              "start": 0,
+              "username": "mengbing23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001595883532472570",
+        "in_reply_to_user_id": "1518140760557690880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001595498663416120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengbing23 好哦🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518140760557690880",
+        "conversation_id": "2001591263846433004",
+        "created_at": "2025-12-18T10:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001595498663416120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001595498663416120",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001591263846433004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我也买了嘻嘻 到货了玩玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 723,
+          "like_count": 16179,
+          "listed_count": 7,
+          "media_count": 190,
+          "tweet_count": 4352
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T08:19:03.000Z",
+        "description": "同类互fo 我叫小冰 hrt：2024.10.26   身高170，体重63kg（真的有在努力减肥）中度抑郁 恋爱脑病娇 我会珍惜每一个好朋友 TG同id 匿名提问：https://t.co/2yHHtYjwvM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin23",
+                "end": 106,
+                "expanded_url": "https://ngl.link/binbin23",
+                "start": 83,
+                "url": "https://t.co/2yHHtYjwvM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mengbing23",
+                "end": 23,
+                "expanded_url": "http://t.me/mengbing23",
+                "start": 0,
+                "url": "https://t.co/xGWdcy9KyS"
+              }
+            ]
+          }
+        },
+        "id": "1518140760557690880",
+        "location": "新西兰",
+        "name": "冰冰🍥",
+        "pinned_tweet_id": "1982801223431450933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966495913876357120/IIG8oLYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 91,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/xGWdcy9KyS",
+        "username": "mengbing23",
+        "verified": false
+      }
+    ]
+  }
+}

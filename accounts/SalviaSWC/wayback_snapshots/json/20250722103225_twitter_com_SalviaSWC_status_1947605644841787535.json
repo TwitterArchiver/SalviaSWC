@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1947564534664991102",
+    "created_at": "2025-07-22T10:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T11:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947605644841787535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825930221905915907",
+          "start": 0,
+          "username": "ai_yin16898"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947605644841787535",
+    "in_reply_to_user_id": "1825930221905915907",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 26,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947564534664991102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ai_yin16898 在内圈，好诶🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1947564527513649152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwcjnn-aQAAU2TX.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1947564534664991102",
+        "created_at": "2025-07-22T10:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T11:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947605644841787535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825930221905915907",
+              "start": 0,
+              "username": "ai_yin16898"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947605644841787535",
+        "in_reply_to_user_id": "1825930221905915907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947564534664991102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ai_yin16898 在内圈，好诶🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947564527513649152"
+          ]
+        },
+        "author_id": "1825930221905915907",
+        "conversation_id": "1947564534664991102",
+        "created_at": "2025-07-22T07:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T08:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947564534664991102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YO3VkFAvXh",
+              "end": 27,
+              "expanded_url": "https://x.com/ai_yin16898/status/1947564534664991102/photo/1",
+              "media_key": "3_1947564527513649152",
+              "start": 4,
+              "url": "https://t.co/YO3VkFAvXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947564534664991102",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "✋🤓🤚 https://t.co/YO3VkFAvXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 332,
+          "like_count": 4768,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1699
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T16:17:54.000Z",
+        "description": "我...从来没有觉得乐队开心过...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/@Mutsumi_never…",
+                "end": 23,
+                "expanded_url": "http://t.me/@Mutsumi_never_cry",
+                "start": 0,
+                "url": "https://t.co/ej2qs6BC5H"
+              }
+            ]
+          }
+        },
+        "id": "1825930221905915907",
+        "name": "Mutsumi Wakaba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918921883476742144/ou3_vAyP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 1572,
+          "like_count": 12558,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 1425
+        },
+        "url": "https://t.co/ej2qs6BC5H",
+        "username": "ai_yin16898",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1984631187466240196",
+    "created_at": "2025-11-02T06:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T07:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984876346942898580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1887864488973791232",
+          "start": 0,
+          "username": "06auser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984876346942898580",
+    "in_reply_to_user_id": "1887864488973791232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984876095762808917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@06auser 对的哦🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1984631187466240196",
+        "created_at": "2025-11-02T06:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984876346942898580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1887864488973791232",
+              "start": 0,
+              "username": "06auser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984876346942898580",
+        "in_reply_to_user_id": "1887864488973791232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984876095762808917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@06auser 对的哦🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887864488973791232",
+        "conversation_id": "1984631187466240196",
+        "created_at": "2025-11-02T06:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984876095762808917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984876095762808917",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984631187466240196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 哇哦，居然是手搓唉~(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 639,
+          "like_count": 9932,
+          "listed_count": 7,
+          "media_count": 140,
+          "tweet_count": 3129
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T14:02:59.000Z",
+        "description": "07年,174cm,52kg  \n      \n很可爱？\n\n双相情感障碍//三级ASD//极度缺爱//广泛性焦虑障碍//重度社交障碍\n       不定时发疯",
+        "id": "1887864488973791232",
+        "name": "yice​ ​🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1984873700118929515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974991767977316353/5ulQ2MRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 153,
+          "like_count": 922,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 114
+        },
+        "username": "06auser",
+        "verified": false
+      }
+    ]
+  }
+}

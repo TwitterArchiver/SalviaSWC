@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2043864136417783908",
+    "created_at": "2026-04-14T06:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T07:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043936777421873225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1776581654938886144",
+          "start": 0,
+          "username": "soyasukidsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 65,
+          "expanded_url": "https://x.com/SalviaSWC/status/2043936499809353842",
+          "start": 42,
+          "url": "https://t.co/KFshTXtgla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043936777421873225",
+    "in_reply_to_user_id": "1776581654938886144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043936499809353842",
+        "type": "quoted"
+      },
+      {
+        "id": "2043935806893806047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soyasukidsu 家长可能怀疑自己小孩*没有*吃药治病，所以要进行尿检😁\n\nhttps://t.co/KFshTXtgla"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043864136417783908",
+        "created_at": "2026-04-14T06:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043936777421873225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1776581654938886144",
+              "start": 0,
+              "username": "soyasukidsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 65,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043936499809353842",
+              "start": 42,
+              "url": "https://t.co/KFshTXtgla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043936777421873225",
+        "in_reply_to_user_id": "1776581654938886144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043936499809353842",
+            "type": "quoted"
+          },
+          {
+            "id": "2043935806893806047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soyasukidsu 家长可能怀疑自己小孩*没有*吃药治病，所以要进行尿检😁\n\nhttps://t.co/KFshTXtgla"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043936499809353842",
+        "created_at": "2026-04-14T06:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043936499809353842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2043864136417783908",
+              "start": 143,
+              "url": "https://t.co/Gm4baOaIWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043936499809353842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043864136417783908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经证明了有关部门不可能是李云齐的客户，李云齐的客户只可能是个人，特别是某些精神病中家庭的偏执狂家长。\n\n他们既可能焦虑小孩是否从事OD；又可能担忧自己小孩没有真的按照医嘱吃医生开的药，而是嫌药不好，私自停药了，且未告诉家长；无论哪种情况，他们就成为李云齐的客户了，李云齐狠狠恰米🤑😋 https://t.co/Gm4baOaIWZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776581654938886144",
+        "conversation_id": "2043864136417783908",
+        "created_at": "2026-04-14T06:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043935806893806047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043935806893806047",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043935004632265118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 道理我都懂 但为什么有舍曲林 什么时候治病也成od了🥲 都吃这个了 家里一查闹矛盾没准人就去享福了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3734,
+          "following_count": 1002,
+          "like_count": 22209,
+          "listed_count": 8,
+          "media_count": 425,
+          "tweet_count": 6810
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T12:04:22.000Z",
+        "description": "CN/EN/JP | China / US | games&cs | 如果发现你的帖子很有意思 我也会留下很有意思的回复口牙 看到同类会回fo喵ᶻz ₍ _ _ ₎",
+        "id": "1776581654938886144",
+        "location": "壹世壞-珍珠世界",
+        "name": "wave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028419933504520193/cbZk4e7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 370,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 221
+        },
+        "username": "soyasukidsu",
+        "verified": true
+      }
+    ]
+  }
+}

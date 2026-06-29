@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1933910576582779275",
+    "created_at": "2025-06-15T12:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T13:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934221525684802046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1434036934079307778",
+          "start": 0,
+          "username": "XZX628496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934221525684802046",
+    "in_reply_to_user_id": "1434036934079307778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934218608969912810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XZX628496 你的考量是对的,考虑到这些情况,我一开始认为这个方法必须在惰性气氛下进行,不适合家庭手搓,但是现在问题很清楚地解答了\n愈创甘油醚应该是被HBr取代,会生成一溴甲烷(气体),邻苯二酚(自身以及氧化产物极性)和3-溴,1,2-丙二醇(极性).\n糖类醚键断裂后为极性,不能萃取.\n硬脂酸无害.\n只要多加点H+和Br-就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1933910576582779275",
+        "created_at": "2025-06-15T12:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T13:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934221525684802046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1434036934079307778",
+              "start": 0,
+              "username": "XZX628496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934221525684802046",
+        "in_reply_to_user_id": "1434036934079307778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934218608969912810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XZX628496 你的考量是对的,考虑到这些情况,我一开始认为这个方法必须在惰性气氛下进行,不适合家庭手搓,但是现在问题很清楚地解答了\n愈创甘油醚应该是被HBr取代,会生成一溴甲烷(气体),邻苯二酚(自身以及氧化产物极性)和3-溴,1,2-丙二醇(极性).\n糖类醚键断裂后为极性,不能萃取.\n硬脂酸无害.\n只要多加点H+和Br-就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434036934079307778",
+        "conversation_id": "1933910576582779275",
+        "created_at": "2025-06-15T11:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T12:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934218608969912810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934218608969912810",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934217305266720974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 你说得对，而且愈创木酚甘油醚的水解产物更易被氧化，可以起到保护作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 115,
+          "like_count": 2575,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 1000
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-04T06:13:56.000Z",
+        "description": "",
+        "id": "1434036934079307778",
+        "name": "628496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845134398842339328/dslGFZj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 96
+        },
+        "username": "XZX628496",
+        "verified": false
+      }
+    ]
+  }
+}

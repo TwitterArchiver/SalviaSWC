@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1968946424315301933",
+    "created_at": "2025-09-19T15:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T16:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969058391101190405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1176535991454064640",
+          "start": 0,
+          "username": "nekomakiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969058391101190405",
+    "in_reply_to_user_id": "1176535991454064640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968946424315301933",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekomakiQAQ 草，原来一直神神叨叨，到处骚扰别人的人是自己造海洛因，结果差点死掉的神人🤣👉\n好奇，新加坡不是执法很严嘛，只需要一点点海洛因就可以判死刑，这人怎么只是被开除，甚至没被拘留的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 56470,
+        "height": 1920,
+        "media_key": "13_1968946265707933696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1968946265707933696/img/8B35rWO441rlYhik.jpg",
+        "public_metrics": {
+          "view_count": 812
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968946265707933696/vid/avc1/1080x1920/2ma32KrxrIcvP_wk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1968946265707933696/pl/gBYjOQPu2Tmx_bgU.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968946265707933696/vid/avc1/720x1280/fep1HjnZOPSlPp3N.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968946265707933696/vid/avc1/320x568/BbNvUgouFLxKEJjz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1968946265707933696/vid/avc1/480x852/QHOQ1l_eiGOMfAX5.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1968946424315301933",
+        "created_at": "2025-09-19T15:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T16:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969058391101190405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "nekomakiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969058391101190405",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968946424315301933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekomakiQAQ 草，原来一直神神叨叨，到处骚扰别人的人是自己造海洛因，结果差点死掉的神人🤣👉\n好奇，新加坡不是执法很严嘛，只需要一点点海洛因就可以判死刑，这人怎么只是被开除，甚至没被拘留的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1968946265707933696"
+          ]
+        },
+        "author_id": "1176535991454064640",
+        "conversation_id": "1968946424315301933",
+        "created_at": "2025-09-19T07:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T08:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968946424315301933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQWaMgXLmj",
+              "end": 110,
+              "expanded_url": "https://x.com/nekomakiQAQ/status/1968946424315301933/video/1",
+              "media_key": "13_1968946265707933696",
+              "start": 87,
+              "url": "https://t.co/aQWaMgXLmj"
+            },
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1968903528564342959",
+              "start": 111,
+              "url": "https://t.co/3AOBqIf6y6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968946424315301933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2699,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968903528564342959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来来来给你爹把麦打开\n你这种上Curtin的属于是脑子有笨家里又穷，不然怎么会去那种业绩地方混学历\n来NUS Comp找啊我啊我求你了，哦你被赶回国了啊，原来你是滞纳护照啊 https://t.co/aQWaMgXLmj https://t.co/3AOBqIf6y6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 465,
+          "like_count": 6971,
+          "listed_count": 5,
+          "media_count": 101,
+          "tweet_count": 2429
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": ":: system booting... ~ root@Luminux ➤ org: @NUSingapore 💻 ➤ in love with: @HobartR6 💌 ➤ connected to: @_FurryFur_ 🐱 ➤ powered by: @Chiyuyu520 OS :: 言語体系構築中..",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "NUSingapore"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "HobartR6"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "https://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/G1MwAq1wRu"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "ʟᴜᴍɪ 猫卷（日雌380",
+        "pinned_tweet_id": "1968050536634257659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968524636435763200/Zgwh-TT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3219,
+          "following_count": 969,
+          "like_count": 28060,
+          "listed_count": 15,
+          "media_count": 1218,
+          "tweet_count": 14614
+        },
+        "url": "https://t.co/G1MwAq1wRu",
+        "username": "nekomakiQAQ",
+        "verified": true
+      }
+    ]
+  }
+}

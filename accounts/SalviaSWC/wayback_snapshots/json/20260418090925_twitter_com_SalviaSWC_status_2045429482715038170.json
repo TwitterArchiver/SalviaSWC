@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2045104459584340000",
+    "created_at": "2026-04-18T09:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045429482715038170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891748269853700096",
+          "start": 0,
+          "username": "Entropy149868"
+        },
+        {
+          "end": 22,
+          "id": "1261844107392987136",
+          "start": 15,
+          "username": "ccl216"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045429482715038170",
+    "in_reply_to_user_id": "1891748269853700096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045261189492748376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy149868 @ccl216 窝野（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2045104459584340000",
+        "created_at": "2026-04-18T09:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045429482715038170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            },
+            {
+              "end": 22,
+              "id": "1261844107392987136",
+              "start": 15,
+              "username": "ccl216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045429482715038170",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045261189492748376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 @ccl216 窝野（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2045104459584340000",
+        "created_at": "2026-04-17T22:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T23:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045261189492748376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 18,
+              "id": "1261844107392987136",
+              "start": 11,
+              "username": "ccl216"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045261189492748376",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045174528557363670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @ccl216 我发烧会出现幻觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3804,
+          "following_count": 982,
+          "like_count": 22148,
+          "listed_count": 8,
+          "media_count": 441,
+          "tweet_count": 6989
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹",
+        "id": "1891748269853700096",
+        "location": "安徽人",
+        "name": "ENTROPY💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 357,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 368
+        },
+        "username": "Entropy149868",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T02:21:04.000Z",
+        "description": "灵性|音乐|释放法练习生|涩涩大湿|\n情绪垃圾桶\n|涩涩教学分享（还有一点几乎没有的修仙分享）https://t.co/h8IDQ4dy8z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linjiangdesese",
+                "end": 70,
+                "expanded_url": "https://t.me/linjiangdesese",
+                "start": 47,
+                "url": "https://t.co/h8IDQ4dy8z"
+              }
+            ]
+          }
+        },
+        "id": "1261844107392987136",
+        "location": "哀丽秘榭",
+        "name": "小林澄🌈",
+        "pinned_tweet_id": "1844253160262730109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885716857380110336/wRd-sg51_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 510,
+          "like_count": 36469,
+          "listed_count": 10,
+          "media_count": 1452,
+          "tweet_count": 5445
+        },
+        "username": "ccl216",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1981009665719926906",
+    "created_at": "2025-10-23T05:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T06:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981230943886332330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1594302945218158593",
+          "start": 0,
+          "username": "sanitf1"
+        },
+        {
+          "end": 25,
+          "id": "1749123750136872960",
+          "start": 9,
+          "username": "BlackhawkJ88810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981230943886332330",
+    "in_reply_to_user_id": "1594302945218158593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981012532623220799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanitf1 @BlackhawkJ88810 这个柜似乎是源于英文的()\n比如出柜:come out of the closet"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1981009665719926906",
+        "created_at": "2025-10-23T05:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T06:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981230943886332330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1594302945218158593",
+              "start": 0,
+              "username": "sanitf1"
+            },
+            {
+              "end": 25,
+              "id": "1749123750136872960",
+              "start": 9,
+              "username": "BlackhawkJ88810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981230943886332330",
+        "in_reply_to_user_id": "1594302945218158593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981012532623220799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanitf1 @BlackhawkJ88810 这个柜似乎是源于英文的()\n比如出柜:come out of the closet"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594302945218158593",
+        "conversation_id": "1981009665719926906",
+        "created_at": "2025-10-22T14:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981012532623220799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1749123750136872960",
+              "start": 0,
+              "username": "BlackhawkJ88810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981012532623220799",
+        "in_reply_to_user_id": "1749123750136872960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1358,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981012324204023887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackhawkJ88810 感觉似乎确实，因为如果不是这样也不会有“柜”这个俚语名词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1397,
+          "following_count": 520,
+          "like_count": 8781,
+          "listed_count": 7,
+          "media_count": 121,
+          "tweet_count": 2828
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T12:13:48.000Z",
+        "description": "萨尼铁塔好，萨尼铁塔好！萨尼给你扎个针还送你个包~\nINTP/Asperger/Battlefield！\n小号：@svaghglm2nd\n推荐关注👉 @dilei114\n@VicoOci_olvidar @nationalpureVF4\n@tonyhaozhe\n提问箱↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "svaghglm2nd"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "dilei114"
+              },
+              {
+                "end": 101,
+                "start": 85,
+                "username": "VicoOci_olvidar"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "nationalpureVF4"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "tonyhaozhe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanitf1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/sanitf1",
+                "start": 0,
+                "url": "https://t.co/yGlETmx8sq"
+              }
+            ]
+          }
+        },
+        "id": "1594302945218158593",
+        "location": "索姆河 第三區 21號戰壕",
+        "name": "💉萨尼!Hilf mir!💉",
+        "pinned_tweet_id": "1956744344242737492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916448773007716352/Ew8n4LGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1983,
+          "like_count": 56491,
+          "listed_count": 6,
+          "media_count": 642,
+          "tweet_count": 5109
+        },
+        "url": "https://t.co/yGlETmx8sq",
+        "username": "sanitf1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T17:37:09.000Z",
+        "description": "Слава монолиту!!!\n@CUbutong27980 the lead guitarist \neNVy supremacy\nLibertarian Socialist | Agnostic\nNot a nationalist and political fanatic.\nanxiety",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "CUbutong27980"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ariade54.straw.page",
+                "end": 23,
+                "expanded_url": "https://ariade54.straw.page",
+                "start": 0,
+                "url": "https://t.co/AYgkmCf7fy"
+              }
+            ]
+          }
+        },
+        "id": "1749123750136872960",
+        "location": "The zone",
+        "name": "Λriade",
+        "pinned_tweet_id": "1914173488031736001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882727041315086336/Xxxor0tr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 747,
+          "like_count": 22754,
+          "listed_count": 2,
+          "media_count": 435,
+          "tweet_count": 19177
+        },
+        "url": "https://t.co/AYgkmCf7fy",
+        "username": "BlackhawkJ88810",
+        "verified": false
+      }
+    ]
+  }
+}

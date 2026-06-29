@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1969216749762461977",
+    "created_at": "2025-09-20T04:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T05:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969254209854804342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969254209854804342",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969216749762461977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua 灌肠又不是酸碱萃取，为什么要让它全部转化为游离碱呢?\n肠壁本身是半透膜，同时肠内的DPT浓度高于血液浓度，确实只有游离碱可以通过自由扩散穿过，而它的共轭酸无法透过\n但是对于灌肠，在一个给定的pH时，肠内的DPT在穿过肠壁之后，游离碱和共轭酸的比例不变，所以就算是酸性溶液，DPT也可以大量吸收"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969216741042765824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1QQMU-bQAAwgjw.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1969216749762461977",
+        "created_at": "2025-09-20T04:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T05:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969254209854804342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969254209854804342",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969216749762461977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 灌肠又不是酸碱萃取，为什么要让它全部转化为游离碱呢?\n肠壁本身是半透膜，同时肠内的DPT浓度高于血液浓度，确实只有游离碱可以通过自由扩散穿过，而它的共轭酸无法透过\n但是对于灌肠，在一个给定的pH时，肠内的DPT在穿过肠壁之后，游离碱和共轭酸的比例不变，所以就算是酸性溶液，DPT也可以大量吸收"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969216741042765824"
+          ]
+        },
+        "author_id": "1360522586317348865",
+        "conversation_id": "1969216749762461977",
+        "created_at": "2025-09-20T01:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T02:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969216749762461977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/emiq21hebM",
+              "end": 51,
+              "expanded_url": "https://x.com/nanami_mua/status/1969216749762461977/photo/1",
+              "media_key": "3_1969216741042765824",
+              "start": 28,
+              "url": "https://t.co/emiq21hebM"
+            },
+            {
+              "display_url": "x.com/nanami_mua/sta…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/nanami_mua/status/1968931304369508711",
+              "start": 52,
+              "url": "https://t.co/nukK419BxI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969216749762461977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968931304369508711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的意思是说我要把强碱灌进后面，才能获得最高的吸收率？ https://t.co/emiq21hebM https://t.co/nukK419BxI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 468,
+          "like_count": 7016,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/并非健全/永远的好妹妹:@LCG_Akiball/可爱猫猫～:@nanami5513/是主人的乖猫猫～ @ling1639040",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "nanami5513"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "ling1639040"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～",
+        "pinned_tweet_id": "1960235222831604043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949129357697630208/apEDxwfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 524,
+          "like_count": 67427,
+          "listed_count": 1,
+          "media_count": 577,
+          "tweet_count": 5408
+        },
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

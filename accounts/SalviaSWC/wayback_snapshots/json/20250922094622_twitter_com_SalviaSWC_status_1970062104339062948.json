@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1970001857180570045",
+    "created_at": "2025-09-22T09:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T10:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970062104339062948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970062104339062948",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970001857180570045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 无恶意，纯属探讨一下\n你反解离了那么久，有意识到你从淘宝上买的纯粉，不管是茶氨酸还是苏糖酸镁，其实全是明胶做的假纯粉嘛()\n既然如此，你还是否认为你的反解离药物理论还有价值?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1970001857180570045",
+        "created_at": "2025-09-22T09:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T10:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970062104339062948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970062104339062948",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970001857180570045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 无恶意，纯属探讨一下\n你反解离了那么久，有意识到你从淘宝上买的纯粉，不管是茶氨酸还是苏糖酸镁，其实全是明胶做的假纯粉嘛()\n既然如此，你还是否认为你的反解离药物理论还有价值?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "1970001857180570045",
+        "created_at": "2025-09-22T05:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970001857180570045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 29,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1760350107839418741",
+              "start": 6,
+              "url": "https://t.co/XoCl4zCfMW"
+            },
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/1969999903767318655",
+              "start": 155,
+              "url": "https://t.co/hW4E94zI7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970001857180570045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1422,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969999903767318655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物被验证\nhttps://t.co/XoCl4zCfMW\n2024.01我了解到苏镁。我自己实验了一个月，在这期间初版恢复术打码了苏镁，直到链接所示验证无误后释放\n随我本人继续实验和收报告，四五个月内，苏镁条目又是砍剂量，又是补上副作用，到现在你们能看到的样子\n只不过某些药卫军来得晚，没见过就以为没有罢了 https://t.co/hW4E94zI7o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 483,
+          "like_count": 7443,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 2579
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "旧名义：エフェメラリズム ~ Ephemeralism 刹那之物主义\n谁的附庸？",
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969951860279975936/NhjtbqPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3677,
+          "following_count": 56,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 415,
+          "tweet_count": 5626
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

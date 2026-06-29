@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1986691883599311250",
+    "created_at": "2025-11-08T04:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T05:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987017020534362424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "831396290957340673",
+          "start": 0,
+          "username": "DMelago"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987017020534362424",
+    "in_reply_to_user_id": "831396290957340673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986923048709099635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DMelago 触发关键词了是吧😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1986691883599311250",
+        "created_at": "2025-11-08T04:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987017020534362424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "831396290957340673",
+              "start": 0,
+              "username": "DMelago"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987017020534362424",
+        "in_reply_to_user_id": "831396290957340673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986923048709099635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DMelago 触发关键词了是吧😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "831396290957340673",
+        "conversation_id": "1986691883599311250",
+        "created_at": "2025-11-07T22:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T23:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986923048709099635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986923048709099635",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986691883599311250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC Sorry, but I can't promote or engage in discussions related to substance use or misuse. If you have any other questions or topics you'd like to discuss, feel free to let me know!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 666,
+          "like_count": 10706,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 3369
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T06:54:57.000Z",
+        "description": "",
+        "id": "831396290957340673",
+        "name": "Drew Melago",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "DMelago",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2043196903068684768",
+    "created_at": "2026-04-12T05:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T06:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043202660325580846"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043202660325580846",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043196903068684768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补充：鸡哥又名chicken，与引用推文中的董晗指的是同一个人。曾以多个账号和名义在推特、Telegram等墙外平台上活动，如“化学极乐百科”、“太空极乐百科”、“法友百科”、“法友会”、“违法百科”(现)、“救赎百科”(现)等。\n\n此人劣迹斑斑，个人品行问题严重，长期散布焦虑，请大家对类似的人保持警惕！🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2043194275245223936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFriXjcacAADfmN.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2043196903068684768",
+        "created_at": "2026-04-12T05:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043202660325580846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043202660325580846",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043196903068684768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补充：鸡哥又名chicken，与引用推文中的董晗指的是同一个人。曾以多个账号和名义在推特、Telegram等墙外平台上活动，如“化学极乐百科”、“太空极乐百科”、“法友百科”、“法友会”、“违法百科”(现)、“救赎百科”(现)等。\n\n此人劣迹斑斑，个人品行问题严重，长期散布焦虑，请大家对类似的人保持警惕！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043194275245223936"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043196903068684768",
+        "created_at": "2026-04-12T05:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043196903068684768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mcullwdodn",
+              "end": 80,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043196903068684768/photo/1",
+              "media_key": "3_2043194275245223936",
+              "start": 57,
+              "url": "https://t.co/Mcullwdodn"
+            },
+            {
+              "display_url": "x.com/AAAAAMTxT/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/AAAAAMTxT/status/2043189124442869929",
+              "start": 81,
+              "url": "https://t.co/SiYhSsI2jF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043196903068684768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043189124442869929",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请注意：有消息称，鸡哥很可能已经向李云齐等人投诚\n\n“改好了”，“不混圈子了”，“他不玩了”，“他也不敢玩了 ” https://t.co/Mcullwdodn https://t.co/SiYhSsI2jF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3704,
+          "following_count": 998,
+          "like_count": 22096,
+          "listed_count": 8,
+          "media_count": 417,
+          "tweet_count": 6731
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

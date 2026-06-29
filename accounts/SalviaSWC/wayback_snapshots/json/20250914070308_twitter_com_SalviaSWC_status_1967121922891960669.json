@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1966458178612170822",
+    "created_at": "2025-09-14T07:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T08:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967121922891960669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "NashiMoe233"
+        },
+        {
+          "end": 28,
+          "id": "1849043039496617984",
+          "start": 13,
+          "username": "Rinko_zero8964"
+        },
+        {
+          "end": 42,
+          "id": "1883228966112391168",
+          "start": 29,
+          "username": "KaoruAsakusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967121922891960669",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967089131408052623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NashiMoe233 @Rinko_zero8964 @KaoruAsakusa 忘了在讨论这个()\n但是有些解离剂也有兴奋作用的说"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1967089131408052623].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1967089131408052623",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1967089131408052623"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1966458178612170822",
+        "created_at": "2025-09-14T07:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T08:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967121922891960669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "NashiMoe233"
+            },
+            {
+              "end": 28,
+              "id": "1849043039496617984",
+              "start": 13,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 42,
+              "id": "1883228966112391168",
+              "start": 29,
+              "username": "KaoruAsakusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967121922891960669",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967089131408052623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 @Rinko_zero8964 @KaoruAsakusa 忘了在讨论这个()\n但是有些解离剂也有兴奋作用的说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 438,
+          "like_count": 6417,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 2258
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨不回答药物滥用相关问题",
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958667796151508995/HFxv1vlv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 182,
+          "like_count": 19270,
+          "listed_count": 3,
+          "media_count": 561,
+          "tweet_count": 11097
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 266,
+          "like_count": 2699,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3799
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T19:03:02.000Z",
+        "description": "直至永远。",
+        "id": "1883228966112391168",
+        "name": "あさくさかおる",
+        "pinned_tweet_id": "1938966958344638754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943694577636098048/jHFEWO7D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 70,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 221
+        },
+        "username": "KaoruAsakusa",
+        "verified": false
+      }
+    ]
+  }
+}

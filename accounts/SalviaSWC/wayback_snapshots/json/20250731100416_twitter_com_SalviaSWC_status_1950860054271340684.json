@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1950824057978704283",
+    "created_at": "2025-07-31T10:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T11:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950860054271340684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1729782382386126848",
+          "start": 0,
+          "username": "wowo_yz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950860054271340684",
+    "in_reply_to_user_id": "1729782382386126848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950858206064021535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wowo_yz 好哦~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1950824057978704283",
+        "created_at": "2025-07-31T10:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T11:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950860054271340684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1729782382386126848",
+              "start": 0,
+              "username": "wowo_yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950860054271340684",
+        "in_reply_to_user_id": "1729782382386126848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950858206064021535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wowo_yz 好哦~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729782382386126848",
+        "conversation_id": "1950824057978704283",
+        "created_at": "2025-07-31T09:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T10:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950858206064021535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950858206064021535",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950824057978704283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 能介绍一下司来吉兰吗？🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 342,
+          "like_count": 4909,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1738
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T08:40:57.000Z",
+        "description": "友跨顺男，相信和解/性别认知障碍/02大龄/天残党/无证含糖/不再od/HRT2025.3.11/不太成熟/ISFP拖延症/m/主人 @Tang_1019 /会互fo的\n之前有的照片都不太好看，就只发了一点点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "Tang_1019"
+              }
+            ]
+          }
+        },
+        "id": "1729782382386126848",
+        "name": "沃沃",
+        "pinned_tweet_id": "1909167006815027273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923436857150537730/VetELcJp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1020,
+          "like_count": 4535,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 294
+        },
+        "username": "wowo_yz",
+        "verified": false
+      }
+    ]
+  }
+}

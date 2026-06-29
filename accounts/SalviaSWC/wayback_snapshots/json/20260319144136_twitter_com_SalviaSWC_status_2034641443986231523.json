@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2034641443986231523",
+    "created_at": "2026-03-19T14:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T15:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034641443986231523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1804872584384884736",
+          "start": 3,
+          "username": "DPFP2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034641443986231523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034636246190866740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DPFP2020: 私人生活不干预，个人自由我尊重。我们希望与OD党达成尊重双方原则的，为国民福祉而动的政策。\n\n我们的政党是国民政党，我们的目标是国民未来!\n\n请大家阅读我党党魁的合作内容!也请大家关注我党，支持我党，让我们一起向解决而非对抗的政治前进!\n\n#国民未来…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2034636213424979968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDx62yxXgAAylOh.jpg",
+        "width": 1915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2034641443986231523",
+        "created_at": "2026-03-19T14:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034641443986231523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1804872584384884736",
+              "start": 3,
+              "username": "DPFP2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034641443986231523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034636246190866740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DPFP2020: 私人生活不干预，个人自由我尊重。我们希望与OD党达成尊重双方原则的，为国民福祉而动的政策。\n\n我们的政党是国民政党，我们的目标是国民未来!\n\n请大家阅读我党党魁的合作内容!也请大家关注我党，支持我党，让我们一起向解决而非对抗的政治前进!\n\n#国民未来…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034636213424979968"
+          ]
+        },
+        "author_id": "1804872584384884736",
+        "conversation_id": "2034636246190866740",
+        "created_at": "2026-03-19T14:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034636246190866740"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 120,
+              "tag": "国民未来党"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "政党联合"
+            },
+            {
+              "end": 140,
+              "start": 133,
+              "tag": "中推模拟选举"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbtD2qJPEi",
+              "end": 164,
+              "expanded_url": "https://x.com/DPFP2020/status/2034636246190866740/photo/1",
+              "media_key": "3_2034636213424979968",
+              "start": 141,
+              "url": "https://t.co/HbtD2qJPEi"
+            },
+            {
+              "display_url": "x.com/MisakaNo8964/s…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/MisakaNo8964/status/2034634169393791226",
+              "start": 165,
+              "url": "https://t.co/7Qi1cY2pD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034636246190866740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034634169393791226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私人生活不干预，个人自由我尊重。我们希望与OD党达成尊重双方原则的，为国民福祉而动的政策。\n\n我们的政党是国民政党，我们的目标是国民未来!\n\n请大家阅读我党党魁的合作内容!也请大家关注我党，支持我党，让我们一起向解决而非对抗的政治前进!\n\n#国民未来党\n#政党联合\n#中推模拟选举 https://t.co/HbtD2qJPEi https://t.co/7Qi1cY2pD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂用于第四次中推模拟大选🗳️|中推OD党官号🏁|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3435,
+          "following_count": 964,
+          "like_count": 21341,
+          "listed_count": 10,
+          "media_count": 378,
+          "tweet_count": 6346
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:42:21.000Z",
+        "description": "务实，公正，诚实的政治。\n\n我们是一个中间派改革政党，希望提出务实的政策并倡导解决而非对抗的政治立场——国民未来党是一个怎样的政党？请关注我们!\n\n（中推圈模拟选举政党账号）",
+        "id": "1804872584384884736",
+        "name": "国民未来党",
+        "pinned_tweet_id": "2028822799067083152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028329202575949824/Gxn3K6QY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 52,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 244
+        },
+        "username": "DPFP2020",
+        "verified": false
+      }
+    ]
+  }
+}

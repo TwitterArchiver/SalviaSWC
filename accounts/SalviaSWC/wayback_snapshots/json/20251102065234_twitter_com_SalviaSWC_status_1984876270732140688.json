@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1984631187466240196",
+    "created_at": "2025-11-02T06:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T07:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984876270732140688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660253397172490244",
+          "start": 0,
+          "username": "igotpsycho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984876270732140688",
+    "in_reply_to_user_id": "1660253397172490244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984823823032816085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igotpsycho 在写了()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1984631187466240196",
+        "created_at": "2025-11-02T06:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T07:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984876270732140688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660253397172490244",
+              "start": 0,
+              "username": "igotpsycho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984876270732140688",
+        "in_reply_to_user_id": "1660253397172490244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984823823032816085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igotpsycho 在写了()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660253397172490244",
+        "conversation_id": "1984631187466240196",
+        "created_at": "2025-11-02T03:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984823823032816085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984823823032816085",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984631187466240196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 639,
+          "like_count": 9931,
+          "listed_count": 7,
+          "media_count": 140,
+          "tweet_count": 3128
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T11:57:19.000Z",
+        "description": "强迫性性行为（比性瘾更性瘾）患者，长期服用精神药物中，时间不多了，在努力寻找治疗自己的办法 \\ 有事没事可以找我聊天，直接私信或者tg都可以 \\ 暂时不做药代了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sertraline6",
+                "end": 23,
+                "expanded_url": "http://t.me/sertraline6",
+                "start": 0,
+                "url": "https://t.co/FWlSjbjUY8"
+              }
+            ]
+          }
+        },
+        "id": "1660253397172490244",
+        "location": "长沙",
+        "name": "在无爱之森呐喊",
+        "pinned_tweet_id": "1984826289812132037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984818907388264457/Er8Mq6ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 549,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/FWlSjbjUY8",
+        "username": "igotpsycho",
+        "verified": false
+      }
+    ]
+  }
+}

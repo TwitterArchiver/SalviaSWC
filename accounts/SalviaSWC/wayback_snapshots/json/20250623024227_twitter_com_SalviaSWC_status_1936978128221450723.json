@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936978097414230016"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1936978128221450723",
+    "created_at": "2025-06-23T02:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T03:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936978128221450723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W8aqF2I0tA",
+          "end": 87,
+          "expanded_url": "https://x.com/SalviaSWC/status/1936978128221450723/photo/1",
+          "media_key": "3_1936978097414230016",
+          "start": 64,
+          "url": "https://t.co/W8aqF2I0tA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936978128221450723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "500mg 模拟夜鹰测试😋\n搓的时候氧化剂有点加多了，过滤的时候也有点手残，不过至少没有暴沸()\n药效有前摇，大概1个小时左右 https://t.co/W8aqF2I0tA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936978097414230016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuGHUSoWUAAc-OQ.jpg",
+        "width": 1041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936978097414230016"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1936978128221450723",
+        "created_at": "2025-06-23T02:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T03:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936978128221450723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8aqF2I0tA",
+              "end": 87,
+              "expanded_url": "https://x.com/SalviaSWC/status/1936978128221450723/photo/1",
+              "media_key": "3_1936978097414230016",
+              "start": 64,
+              "url": "https://t.co/W8aqF2I0tA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936978128221450723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "500mg 模拟夜鹰测试😋\n搓的时候氧化剂有点加多了，过滤的时候也有点手残，不过至少没有暴沸()\n药效有前摇，大概1个小时左右 https://t.co/W8aqF2I0tA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 179,
+          "like_count": 3321,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 1241
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

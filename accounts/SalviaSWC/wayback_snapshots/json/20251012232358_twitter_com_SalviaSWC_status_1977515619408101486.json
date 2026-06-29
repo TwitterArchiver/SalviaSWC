@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977336181387149312"
+      ],
+      "media_source_tweet_id": [
+        "1977336363537269086"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1977515619408101486",
+    "created_at": "2025-10-12T23:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T00:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977515619408101486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bghtnya.github.io/psywikitrans/",
+          "end": 76,
+          "expanded_url": "https://bghtnya.github.io/psywikitrans/",
+          "start": 53,
+          "status": 200,
+          "title": "PsyWikitJournal Trans",
+          "unwound_url": "https://bghtnya.github.io/psywikitrans/",
+          "url": "https://t.co/P1yaPh5BNX"
+        },
+        {
+          "description": "新版 Journal 数据与旧版数据的快速转换解决方案. Contribute to bghtnya/psywikitrans development by creating an account on GitHub.",
+          "display_url": "github.com/bghtnya/psywik…",
+          "end": 105,
+          "expanded_url": "https://github.com/bghtnya/psywikitrans",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1977336371061952512/ugWyIM7x?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1977336371061952512/ugWyIM7x?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 82,
+          "status": 200,
+          "title": "GitHub - bghtnya/psywikitrans: 新版 Journal 数据与旧版数据的快速转换解决方案",
+          "unwound_url": "https://github.com/bghtnya/psywikitrans",
+          "url": "https://t.co/PUmoqDpQ2J"
+        },
+        {
+          "display_url": "pic.x.com/9LyKZPHqJG",
+          "end": 129,
+          "expanded_url": "https://x.com/bghtnya/status/1977336363537269086/photo/1",
+          "media_key": "3_1977336181387149312",
+          "start": 106,
+          "url": "https://t.co/9LyKZPHqJG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977515619408101486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977336363537269086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: psywikijournal在线数据转换工具psywikitrans\n网页地址：https://t.co/P1yaPh5BNX\n仓库地址：https://t.co/PUmoqDpQ2J https://t.co/9LyKZPHqJG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1128,
+        "media_key": "3_1977336181387149312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Dox9UbwAArvym.jpg",
+        "width": 1469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977336181387149312"
+          ],
+          "media_source_tweet_id": [
+            "1977336363537269086"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1977515619408101486",
+        "created_at": "2025-10-12T23:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T00:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977515619408101486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bghtnya.github.io/psywikitrans/",
+              "end": 76,
+              "expanded_url": "https://bghtnya.github.io/psywikitrans/",
+              "start": 53,
+              "status": 200,
+              "title": "PsyWikitJournal Trans",
+              "unwound_url": "https://bghtnya.github.io/psywikitrans/",
+              "url": "https://t.co/P1yaPh5BNX"
+            },
+            {
+              "description": "新版 Journal 数据与旧版数据的快速转换解决方案. Contribute to bghtnya/psywikitrans development by creating an account on GitHub.",
+              "display_url": "github.com/bghtnya/psywik…",
+              "end": 105,
+              "expanded_url": "https://github.com/bghtnya/psywikitrans",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1977336371061952512/ugWyIM7x?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1977336371061952512/ugWyIM7x?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 82,
+              "status": 200,
+              "title": "GitHub - bghtnya/psywikitrans: 新版 Journal 数据与旧版数据的快速转换解决方案",
+              "unwound_url": "https://github.com/bghtnya/psywikitrans",
+              "url": "https://t.co/PUmoqDpQ2J"
+            },
+            {
+              "display_url": "pic.x.com/9LyKZPHqJG",
+              "end": 129,
+              "expanded_url": "https://x.com/bghtnya/status/1977336363537269086/photo/1",
+              "media_key": "3_1977336181387149312",
+              "start": 106,
+              "url": "https://t.co/9LyKZPHqJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977515619408101486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977336363537269086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: psywikijournal在线数据转换工具psywikitrans\n网页地址：https://t.co/P1yaPh5BNX\n仓库地址：https://t.co/PUmoqDpQ2J https://t.co/9LyKZPHqJG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977336181387149312"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1977336363537269086",
+        "created_at": "2025-10-12T11:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977336363537269086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "bghtnya.github.io/psywikitrans/",
+              "end": 63,
+              "expanded_url": "https://bghtnya.github.io/psywikitrans/",
+              "start": 40,
+              "status": 200,
+              "title": "PsyWikitJournal Trans",
+              "unwound_url": "https://bghtnya.github.io/psywikitrans/",
+              "url": "https://t.co/P1yaPh5BNX"
+            },
+            {
+              "description": "新版 Journal 数据与旧版数据的快速转换解决方案. Contribute to bghtnya/psywikitrans development by creating an account on GitHub.",
+              "display_url": "github.com/bghtnya/psywik…",
+              "end": 92,
+              "expanded_url": "https://github.com/bghtnya/psywikitrans",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1977336371061952512/ugWyIM7x?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1977336371061952512/ugWyIM7x?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "GitHub - bghtnya/psywikitrans: 新版 Journal 数据与旧版数据的快速转换解决方案",
+              "unwound_url": "https://github.com/bghtnya/psywikitrans",
+              "url": "https://t.co/PUmoqDpQ2J"
+            },
+            {
+              "display_url": "pic.x.com/9LyKZPHqJG",
+              "end": 116,
+              "expanded_url": "https://x.com/bghtnya/status/1977336363537269086/photo/1",
+              "media_key": "3_1977336181387149312",
+              "start": 93,
+              "url": "https://t.co/9LyKZPHqJG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977336363537269086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 495,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "psywikijournal在线数据转换工具psywikitrans\n网页地址：https://t.co/P1yaPh5BNX\n仓库地址：https://t.co/PUmoqDpQ2J https://t.co/9LyKZPHqJG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 507,
+          "like_count": 8373,
+          "listed_count": 6,
+          "media_count": 116,
+          "tweet_count": 2731
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈 LGBTQ / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/35371135302392…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/3537113530239245",
+                "start": 0,
+                "url": "https://t.co/Voe8aY6k1J"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7942,
+          "following_count": 2086,
+          "like_count": 163132,
+          "listed_count": 20,
+          "media_count": 3258,
+          "tweet_count": 41028
+        },
+        "url": "https://t.co/Voe8aY6k1J",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

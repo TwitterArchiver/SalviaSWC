@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1978402020085174551",
+    "created_at": "2025-10-15T22:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T23:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978596570372423939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697915168532086785",
+          "start": 0,
+          "username": "DXM8964LXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978596570372423939",
+    "in_reply_to_user_id": "1697915168532086785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978402020085174551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXM8964LXM 居然没有窝(悲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 901,
+        "media_key": "3_1978402000523112448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3SyIzAaMAANzG3.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1978402020085174551",
+        "created_at": "2025-10-15T22:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T23:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978596570372423939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697915168532086785",
+              "start": 0,
+              "username": "DXM8964LXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978596570372423939",
+        "in_reply_to_user_id": "1697915168532086785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978402020085174551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXM8964LXM 居然没有窝(悲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978402000523112448"
+          ]
+        },
+        "author_id": "1697915168532086785",
+        "conversation_id": "1978402020085174551",
+        "created_at": "2025-10-15T10:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T11:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978402020085174551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s3zWcup0SX",
+              "end": 25,
+              "expanded_url": "https://x.com/DXM8964LXM/status/1978402020085174551/photo/1",
+              "media_key": "3_1978402000523112448",
+              "start": 2,
+              "url": "https://t.co/s3zWcup0SX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978402020085174551",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😗 https://t.co/s3zWcup0SX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 510,
+          "like_count": 8487,
+          "listed_count": 7,
+          "media_count": 117,
+          "tweet_count": 2752
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:12:28.000Z",
+        "description": "反对od的oder/精分/友跨翻车MTX/EMer/化学爱好者8964/住长江边某城\n18/189cm/61kg 8964\n不卖皮鼓，私聊询问省市等敏感信息直接拉黑8964\n让我们在没有黑暗的地方再见",
+        "id": "1697915168532086785",
+        "location": "DXM的孤对电子上",
+        "name": "氯酸甲酯🍥",
+        "pinned_tweet_id": "1941532229538283544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976338386035322880/8Bejqfom_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 73,
+          "like_count": 3098,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "username": "DXM8964LXM",
+        "verified": false
+      }
+    ]
+  }
+}

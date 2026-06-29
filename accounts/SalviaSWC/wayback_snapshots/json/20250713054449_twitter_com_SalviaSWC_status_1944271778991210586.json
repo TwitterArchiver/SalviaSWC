@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1944019914643087534",
+    "created_at": "2025-07-13T05:44:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T06:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944271778991210586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1577274400700669953",
+          "start": 0,
+          "username": "GNU_Box_Master1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944271778991210586",
+    "in_reply_to_user_id": "1577274400700669953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944271000906215631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GNU_Box_Master1 喹硫平好像可以在任何情况下助眠，但是副作用很大，也不是解离剂的下机药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1944019914643087534",
+        "created_at": "2025-07-13T05:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T06:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944271778991210586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1577274400700669953",
+              "start": 0,
+              "username": "GNU_Box_Master1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944271778991210586",
+        "in_reply_to_user_id": "1577274400700669953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944271000906215631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GNU_Box_Master1 喹硫平好像可以在任何情况下助眠，但是副作用很大，也不是解离剂的下机药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577274400700669953",
+        "conversation_id": "1944019914643087534",
+        "created_at": "2025-07-13T05:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T06:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944271000906215631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944271000906215631",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944019914643087534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 询问一下，可以在愈美片结束后用于助眠吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 278,
+          "like_count": 4180,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1486
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T12:28:40.000Z",
+        "description": "🏳️‍🌈🇵🇸🇺🇦/gnu.box_master1@proton.me",
+        "id": "1577274400700669953",
+        "location": "/",
+        "name": "Mortis",
+        "pinned_tweet_id": "1690068478924136448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897322168918401026/7Darcmkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 1152,
+          "like_count": 72095,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 1096
+        },
+        "username": "GNU_Box_Master1",
+        "verified": false
+      }
+    ]
+  }
+}

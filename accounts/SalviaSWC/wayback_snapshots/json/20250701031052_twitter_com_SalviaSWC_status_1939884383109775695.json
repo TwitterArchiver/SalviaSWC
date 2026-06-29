@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1939869487953506631",
+    "created_at": "2025-07-01T03:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T04:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939884383109775695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1673503141499908096",
+          "start": 0,
+          "username": "SpiritG49651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939884383109775695",
+    "in_reply_to_user_id": "1673503141499908096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939870662048587821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpiritG49651 高情商:智慧建造🥰\n低情商:土木工程😧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1939869487953506631",
+        "created_at": "2025-07-01T03:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T04:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939884383109775695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1673503141499908096",
+              "start": 0,
+              "username": "SpiritG49651"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939884383109775695",
+        "in_reply_to_user_id": "1673503141499908096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939870662048587821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpiritG49651 高情商:智慧建造🥰\n低情商:土木工程😧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673503141499908096",
+        "conversation_id": "1939869487953506631",
+        "created_at": "2025-07-01T02:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T03:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939870662048587821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939870662048587821",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939869487953506631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 对对对 智慧建造可好听了🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 224,
+          "like_count": 3767,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 1364
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T01:27:32.000Z",
+        "description": "",
+        "id": "1673503141499908096",
+        "name": "spirit golden",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673503297523818496/HOKTrgMQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 284,
+          "like_count": 11504,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 291
+        },
+        "username": "SpiritG49651",
+        "verified": false
+      }
+    ]
+  }
+}

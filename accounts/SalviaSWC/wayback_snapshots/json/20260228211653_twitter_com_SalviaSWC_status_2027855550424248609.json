@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2027855548809355265"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2027855550424248609",
+    "created_at": "2026-02-28T21:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T22:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027855550424248609"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027855550424248609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好好调查了一下历史才知道，原来买卖不公布成分的RC，居然是药圈传统艺能啊😅\n\n这种现象到底是从什么时候开始大范围流行的?是右美刚列管、可达鸭卖小鸭丸那一会儿吗?🥺\n\n如果是这样，那我倒能部分理解他们不公开成分的原因了，毕竟传到路人那影响不好\n\n做个调查吧，窝想了解从事过这类行为的ODer占比🤓"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2026-03-07T21:16:53.000Z",
+        "id": "2027855548809355265",
+        "options": [
+          {
+            "label": "我是ODer，且买卖过不公布成分的RC",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "我是ODer，且没有买卖过不公布成分的RC",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "路人可以点击这里查看结果",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2027855548809355265"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2027855550424248609",
+        "created_at": "2026-02-28T21:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T22:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027855550424248609"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027855550424248609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好调查了一下历史才知道，原来买卖不公布成分的RC，居然是药圈传统艺能啊😅\n\n这种现象到底是从什么时候开始大范围流行的?是右美刚列管、可达鸭卖小鸭丸那一会儿吗?🥺\n\n如果是这样，那我倒能部分理解他们不公开成分的原因了，毕竟传到路人那影响不好\n\n做个调查吧，窝想了解从事过这类行为的ODer占比🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 902,
+          "like_count": 20131,
+          "listed_count": 10,
+          "media_count": 320,
+          "tweet_count": 5794
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

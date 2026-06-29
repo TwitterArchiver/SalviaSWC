@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1922196192903008288",
+    "created_at": "2025-05-13T23:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T00:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922428490546065742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 27,
+          "id": "1164086738261700610",
+          "start": 17,
+          "username": "000_akiko"
+        },
+        {
+          "end": 43,
+          "id": "1429405137198452736",
+          "start": 28,
+          "username": "EffieLindraDom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922428490546065742",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922351318464696454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial @000_akiko @EffieLindraDom 那会更稳定吧，很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1922196192903008288",
+        "created_at": "2025-05-13T23:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T00:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922428490546065742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 27,
+              "id": "1164086738261700610",
+              "start": 17,
+              "username": "000_akiko"
+            },
+            {
+              "end": 43,
+              "id": "1429405137198452736",
+              "start": 28,
+              "username": "EffieLindraDom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922428490546065742",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922351318464696454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial @000_akiko @EffieLindraDom 那会更稳定吧，很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272405078683430913",
+        "conversation_id": "1922196192903008288",
+        "created_at": "2025-05-13T18:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T19:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922351318464696454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 21,
+              "id": "1164086738261700610",
+              "start": 11,
+              "username": "000_akiko"
+            },
+            {
+              "end": 37,
+              "id": "1429405137198452736",
+              "start": 22,
+              "username": "EffieLindraDom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922351318464696454",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922348080805867610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @000_akiko @EffieLindraDom 及其盐酸结构也有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 72,
+          "like_count": 1194,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 592
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/促智药 （nootropics）发烧/神经科学 精神药理学习中/娱乐用药反对/不择手段的自我提升/睡眠科学狂热研究中/抗衰研究中/重度ADHD+阿斯伯格/TO级创造力者/化学物理白痴/极端的营养食物和补剂/博弈论&逻辑学 擅长/科学主义者 X/✈️客服：@paipaipaitang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "一个ADHD、从事逆转衰老、认知提升剂研发",
+        "name": "☯️🧬無極 Hanshirō Tsugumo",
+        "pinned_tweet_id": "1921606596347494759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917519720225394688/2jVCu-Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9092,
+          "following_count": 363,
+          "like_count": 7277,
+          "listed_count": 25,
+          "media_count": 1491,
+          "tweet_count": 12293
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-21T08:08:11.000Z",
+        "description": "INTP/ADHD已确诊/可爱的女孩子欢迎互fo/不键政的mtf也OK 键政杠精勿扰 看黄男拉黑",
+        "id": "1164086738261700610",
+        "location": "Hubei",
+        "name": "あきこ🔪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811451238179045376/fmAT5wYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 232,
+          "like_count": 9934,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1114
+        },
+        "username": "000_akiko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "I can drink nitric acid cause, it won't hurt me./Biohacker💉/Computer-Aided Drug Design…/Psychonaut/Cryptoanarchist/Konstruante potencon kun simboloj/Oder/🧬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "systemspaces.top",
+                "end": 23,
+                "expanded_url": "http://systemspaces.top",
+                "start": 0,
+                "url": "https://t.co/Rnqnch2leD"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "OtokonokoNeko Pharma (ØNPH)",
+        "name": "Effie Lingley Dorme🧬🔬",
+        "pinned_tweet_id": "1918368455381926271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909109028254621696/ozLT6GKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9030,
+          "following_count": 841,
+          "like_count": 123576,
+          "listed_count": 35,
+          "media_count": 3349,
+          "tweet_count": 19615
+        },
+        "url": "https://t.co/Rnqnch2leD",
+        "username": "EffieLindraDom",
+        "verified": true
+      }
+    ]
+  }
+}

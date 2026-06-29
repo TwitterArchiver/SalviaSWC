@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1950842047029768501",
+    "created_at": "2025-07-31T08:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T09:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950842047029768501"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1950842047029768501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚看了《猜火车》，讲一群海洛因成瘾者的一部英国电影，其中有几个片段让我蚌埠住了()\n吃海洛因的时候便秘，一停药就腹泻，一觉醒来床单上都是屎🤮\n吃了思必得去面试，然后很亢奋地胡说八道🤪\n用纳洛酮急救海洛因过量需要连续使用多针，因为纳洛酮的药效很短。但电影里一针就治好了，感觉不太真实()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1950842047029768501",
+        "created_at": "2025-07-31T08:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T09:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950842047029768501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950842047029768501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚看了《猜火车》，讲一群海洛因成瘾者的一部英国电影，其中有几个片段让我蚌埠住了()\n吃海洛因的时候便秘，一停药就腹泻，一觉醒来床单上都是屎🤮\n吃了思必得去面试，然后很亢奋地胡说八道🤪\n用纳洛酮急救海洛因过量需要连续使用多针，因为纳洛酮的药效很短。但电影里一针就治好了，感觉不太真实()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 342,
+          "like_count": 4898,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1733
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

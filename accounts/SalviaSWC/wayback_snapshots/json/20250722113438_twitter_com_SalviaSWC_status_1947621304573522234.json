@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1947525674048094262",
+    "created_at": "2025-07-22T11:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T12:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947621304573522234"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947621304573522234",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947525674048094262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发了，看我主页🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1947525394963345409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwcABz3XsAEGwEt.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1947525674048094262",
+        "created_at": "2025-07-22T11:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T12:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947621304573522234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947621304573522234",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947525674048094262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发了，看我主页🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947525394963345409"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1947525674048094262",
+        "created_at": "2025-07-22T05:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T06:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947525674048094262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XeagsQLVhn",
+              "end": 164,
+              "expanded_url": "https://x.com/SalviaSWC/status/1947525674048094262/photo/1",
+              "media_key": "3_1947525394963345409",
+              "start": 141,
+              "url": "https://t.co/XeagsQLVhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947525674048094262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 4596,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "30年前有一个美国人写了一个娱乐性使用右美沙芬的常见问题解答的文档。当时的信息不像现在一样容易获得，但是文档中却准确地引用了科学文献，作者也有很高的科学素养，可以看出这个文档的作者肯定不是一般人，这个文档的总体的精神也很值得借鉴🤓\n窝用ai把它翻译成了中文，等会发出来，有200页 https://t.co/XeagsQLVhn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 331,
+          "like_count": 4765,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1699
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

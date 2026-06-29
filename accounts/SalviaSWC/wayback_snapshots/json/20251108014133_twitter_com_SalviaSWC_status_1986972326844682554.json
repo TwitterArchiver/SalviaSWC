@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1986850115555033190",
+    "created_at": "2025-11-08T01:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T02:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986972326844682554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1822447334749614080",
+          "start": 0,
+          "username": "chenwai29719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986972326844682554",
+    "in_reply_to_user_id": "1822447334749614080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986850115555033190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenwai29719 没看懂，所以这个盒子是客人扔的还是你扔的()"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986850106688348163",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5K1pS8bIAMRpl2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1986850115555033190",
+        "created_at": "2025-11-08T01:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T02:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986972326844682554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1822447334749614080",
+              "start": 0,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986972326844682554",
+        "in_reply_to_user_id": "1822447334749614080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986850115555033190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenwai29719 没看懂，所以这个盒子是客人扔的还是你扔的()"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986850106688348163"
+          ]
+        },
+        "author_id": "1822447334749614080",
+        "conversation_id": "1986850115555033190",
+        "created_at": "2025-11-07T17:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986850115555033190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yULhcOBSpN",
+              "end": 97,
+              "expanded_url": "https://x.com/chenwai29719/status/1986850115555033190/photo/1",
+              "media_key": "3_1986850106688348163",
+              "start": 74,
+              "url": "https://t.co/yULhcOBSpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986850115555033190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在网吧上班，客人走了我去擦键盘的时候发现桌上扔了个普瑞的盒子(笑)\n因为我也老是在网吧点外卖欧弟👍🏻\n只是匆匆忙忙拍了照就干活去了，结果没拍清楚😭 https://t.co/yULhcOBSpN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 666,
+          "like_count": 10663,
+          "listed_count": 7,
+          "media_count": 155,
+          "tweet_count": 3360
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "07/💊🩸/ftx/非二元性别/泛性恋/爱听摇滚金属/疑似多意识体/adhd+asd /抑郁焦虑但双相存疑\n忘记回fo请私信",
+        "id": "1822447334749614080",
+        "name": "尘外(普瑞愈美激推)",
+        "pinned_tweet_id": "1980068482650959937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985045271924137985/AfwlOWEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 124,
+          "like_count": 94,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 368
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

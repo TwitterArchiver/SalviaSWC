@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1994622251715416306",
+    "created_at": "2025-11-29T17:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T18:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994823809015431665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1436726203310821380",
+          "start": 0,
+          "username": "SoloTe2193"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994823809015431665",
+    "in_reply_to_user_id": "1436726203310821380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994818718686495211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoloTe2193 你很让人感到无聊懂不懂，我指出你的不符合逻辑的部分，你就跟我讲我的反驳本身就是“打死不认账”，让我看到了十岁刚会上网的那会的自己😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1994622251715416306",
+        "created_at": "2025-11-29T17:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994823809015431665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1436726203310821380",
+              "start": 0,
+              "username": "SoloTe2193"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994823809015431665",
+        "in_reply_to_user_id": "1436726203310821380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994818718686495211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoloTe2193 你很让人感到无聊懂不懂，我指出你的不符合逻辑的部分，你就跟我讲我的反驳本身就是“打死不认账”，让我看到了十岁刚会上网的那会的自己😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1436726203310821380",
+        "conversation_id": "1994622251715416306",
+        "created_at": "2025-11-29T17:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994818718686495211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994818718686495211",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994815863539863645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 然后就是玩无聊的文字游戏，打死不认账。加上你为毒品开脱，我有理由怀疑你是个瘾君子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 699,
+          "like_count": 14179,
+          "listed_count": 6,
+          "media_count": 180,
+          "tweet_count": 3874
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-11T16:20:03.000Z",
+        "description": "日本这地方，不炸能行吗",
+        "id": "1436726203310821380",
+        "name": "苏格兰球（独立版）",
+        "pinned_tweet_id": "1990383049981243746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864295478667694085/QHH-VmCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 64,
+          "like_count": 29326,
+          "listed_count": 11,
+          "media_count": 483,
+          "tweet_count": 9120
+        },
+        "username": "SoloTe2193",
+        "verified": false
+      }
+    ]
+  }
+}

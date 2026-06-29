@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2043928202247045498",
+    "created_at": "2026-04-14T05:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043928202247045498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1511888651474464772",
+          "start": 3,
+          "username": "raven_pluto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043928202247045498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043918009824358798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @raven_pluto: 关于右美沙芬和普瑞纳林的尿检板我来分享一下我的经验：我家长买过这两种给我测过，不是李云齐的，od完普瑞或右美之后至少要十天左右才能完全转阴，甚至我之前联用安非他酮和右美花了半个月才转阴。当然每个人的代谢不一样，大家可以做个参考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043928202247045498",
+        "created_at": "2026-04-14T05:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043928202247045498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1511888651474464772",
+              "start": 3,
+              "username": "raven_pluto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043928202247045498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043918009824358798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @raven_pluto: 关于右美沙芬和普瑞纳林的尿检板我来分享一下我的经验：我家长买过这两种给我测过，不是李云齐的，od完普瑞或右美之后至少要十天左右才能完全转阴，甚至我之前联用安非他酮和右美花了半个月才转阴。当然每个人的代谢不一样，大家可以做个参考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511888651474464772",
+        "conversation_id": "2043918009824358798",
+        "created_at": "2026-04-14T05:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043918009824358798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043918009824358798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于右美沙芬和普瑞纳林的尿检板我来分享一下我的经验：我家长买过这两种给我测过，不是李云齐的，od完普瑞或右美之后至少要十天左右才能完全转阴，甚至我之前联用安非他酮和右美花了半个月才转阴。当然每个人的代谢不一样，大家可以做个参考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3734,
+          "following_count": 1003,
+          "like_count": 22202,
+          "listed_count": 8,
+          "media_count": 425,
+          "tweet_count": 6804
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T02:08:54.000Z",
+        "description": "She/Them ||| 中文/ENG ||| 08 ||| u can call me Pluto ||| 用中文吐黑泥碎碎念中 || Joy Division/New Order Addicted ||| F1 fan who love all of the 20 drivers",
+        "id": "1511888651474464772",
+        "name": "我怎么学得这么坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995294551981039616/nSShX5bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 175,
+          "like_count": 1813,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 864
+        },
+        "username": "raven_pluto",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044341723258900480"
+      ],
+      "media_source_tweet_id": [
+        "2044343026206613756"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044373227594477694",
+    "created_at": "2026-04-15T11:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T12:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044373227594477694"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "overdose"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "琵琶行"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1319859738356625409",
+          "start": 3,
+          "username": "ChenYuh92746364"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MH13xxNdRi",
+          "end": 79,
+          "expanded_url": "https://x.com/ChenYuh92746364/status/2044343026206613756/video/1",
+          "media_key": "7_2044341723258900480",
+          "start": 56,
+          "url": "https://t.co/MH13xxNdRi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044373227594477694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044343026206613756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChenYuh92746364: 永远怀念 沐雨和凌雪同志  一路走好  #overdose #琵琶行 https://t.co/MH13xxNdRi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39166,
+        "height": 1280,
+        "media_key": "7_2044341723258900480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044341723258900480/pu/img/TNnqIFDY6gQj23QQ.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044341723258900480/pu/vid/avc1/320x694/bOuBBDWDTnQ0eznM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044341723258900480/pu/vid/avc1/480x1040/Ib-sxbQASdUKoUkm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044341723258900480/pu/vid/avc1/590x1280/jSdePSfp8-FpnSXT.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044341723258900480/pu/pl/Fnu4qxChis7h6Hw9.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044341723258900480"
+          ],
+          "media_source_tweet_id": [
+            "2044343026206613756"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044373227594477694",
+        "created_at": "2026-04-15T11:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044373227594477694"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "overdose"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "琵琶行"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1319859738356625409",
+              "start": 3,
+              "username": "ChenYuh92746364"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MH13xxNdRi",
+              "end": 79,
+              "expanded_url": "https://x.com/ChenYuh92746364/status/2044343026206613756/video/1",
+              "media_key": "7_2044341723258900480",
+              "start": 56,
+              "url": "https://t.co/MH13xxNdRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044373227594477694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044343026206613756",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChenYuh92746364: 永远怀念 沐雨和凌雪同志  一路走好  #overdose #琵琶行 https://t.co/MH13xxNdRi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044341723258900480"
+          ]
+        },
+        "author_id": "1319859738356625409",
+        "conversation_id": "2044343026206613756",
+        "created_at": "2026-04-15T09:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044343026206613756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 20,
+              "tag": "overdose"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "琵琶行"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MH13xxNdRi",
+              "end": 58,
+              "expanded_url": "https://x.com/ChenYuh92746364/status/2044343026206613756/video/1",
+              "media_key": "7_2044341723258900480",
+              "start": 35,
+              "url": "https://t.co/MH13xxNdRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044343026206613756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "永远怀念 沐雨和凌雪同志  一路走好  #overdose #琵琶行 https://t.co/MH13xxNdRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3766,
+          "following_count": 972,
+          "like_count": 21953,
+          "listed_count": 8,
+          "media_count": 431,
+          "tweet_count": 6889
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-24T04:34:51.000Z",
+        "description": "焦虑症/2005.9.27/天秤座/电波系/Glagame大神/男娘/账号仅用来分享生活乐趣 ★欢迎互fo★\n和生活琐事 有自残倾向(警察同志 我是良民 不吸食毒品 禁止贩卖毒品 守护健康生活 禁毒从你我做起  ) 戒od 戒割",
+        "id": "1319859738356625409",
+        "location": "日本东京",
+        "name": "小戈尔(小血)3.0",
+        "pinned_tweet_id": "2033546237493010535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017403624524279808/sU3Zk42Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 111,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 447
+        },
+        "username": "ChenYuh92746364",
+        "verified": false
+      }
+    ]
+  }
+}

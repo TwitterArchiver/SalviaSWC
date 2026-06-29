@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1944659775675080731",
+    "created_at": "2025-07-15T05:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T06:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944997324670857432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1817582212717629440",
+          "start": 0,
+          "username": "XIDUOXING114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944997324670857432",
+    "in_reply_to_user_id": "1817582212717629440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944927345594523850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XIDUOXING114514 是感冒了嘛，多喝热水哦()🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1944659775675080731",
+        "created_at": "2025-07-15T05:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T06:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944997324670857432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1817582212717629440",
+              "start": 0,
+              "username": "XIDUOXING114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944997324670857432",
+        "in_reply_to_user_id": "1817582212717629440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944927345594523850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XIDUOXING114514 是感冒了嘛，多喝热水哦()🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817582212717629440",
+        "conversation_id": "1944659775675080731",
+        "created_at": "2025-07-15T01:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T02:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944927345594523850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944927345594523850",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944659775675080731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 五天前，复方氨酚烷胺片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 303,
+          "like_count": 4490,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1605
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:25:53.000Z",
+        "description": "麦当劳是永远的神 普通未成年男性 中国互联网不知名小人物 友跨 不是mtf不是男娘\n取向未知/171厘米/ 119.9斤\nmaimai13070/\nPhigros15.69/\nArcaea11.41\n出身于中国安徽→辽宁省在住",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/KVBc85r",
+                "end": 23,
+                "expanded_url": "https://b23.tv/KVBc85r",
+                "start": 0,
+                "url": "https://t.co/wFPZxWa4rP"
+              }
+            ]
+          }
+        },
+        "id": "1817582212717629440",
+        "location": "麦当劳共和国吉士汉堡省麦旋风市",
+        "name": "枫糖ダンゴ星",
+        "pinned_tweet_id": "1931994235240341538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939515853776564224/CAwZ9RIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 1825,
+          "like_count": 19597,
+          "listed_count": 3,
+          "media_count": 1407,
+          "tweet_count": 7265
+        },
+        "url": "https://t.co/wFPZxWa4rP",
+        "username": "XIDUOXING114514",
+        "verified": false
+      }
+    ]
+  }
+}

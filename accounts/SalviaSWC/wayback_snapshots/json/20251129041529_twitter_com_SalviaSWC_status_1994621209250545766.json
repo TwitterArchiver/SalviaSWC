@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1994621209250545766",
+    "created_at": "2025-11-29T04:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T05:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994621209250545766"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1994377551322702038",
+          "start": 144,
+          "url": "https://t.co/IsfnyAnTVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994621209250545766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994377551322702038",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在我国，所谓“禁毒”从来只是一个政治符号，任何质疑者都要被打成异类。\n普通人无法接触有关毒品的信息，只知道禁毒宣传给他们灌输的名词，却不知何为毒品，为何要禁，也因此无法知道禁毒的论据能否充分支持“禁毒”这一最终目标，却只能支持它。\n于是，当看似自相矛盾的情况发生时，这一出闹剧就上演了。 https://t.co/IsfnyAnTVG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29166,
+        "height": 1080,
+        "media_key": "13_1994376908591570944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994376908591570944/img/TOyqATepSrLU8J3i.jpg",
+        "public_metrics": {
+          "view_count": 86560
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994376908591570944/pl/W-BnZ4tyjcEM99T5.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994376908591570944/vid/avc1/1280x720/vchsS23lLX_94a1P.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994376908591570944/vid/avc1/640x360/LrydHhzQFIeTM75U.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994376908591570944/vid/avc1/480x270/sbJWEG0JewpdD3ZU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994376908591570944/vid/avc1/1920x1080/dXC9B4uUy9kwX9zs.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 21514,
+        "height": 1008,
+        "media_key": "13_1994376923414171648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994376923414171648/img/3Sp9Goa6E2GlmgRT.jpg",
+        "public_metrics": {
+          "view_count": 9418
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994376923414171648/vid/avc1/320x560/PPFxscOq6mEONPIg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994376923414171648/vid/avc1/480x840/co8CPnrEIB90-3Xs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994376923414171648/vid/avc1/576x1008/pPwPhQ8Co_gDMfmq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994376923414171648/pl/UBT0BhTvY4n8B8f5.m3u8?v=a4e"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 22636,
+        "height": 1008,
+        "media_key": "13_1994377415531913216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994377415531913216/img/lYaOeEYJVOkGUduT.jpg",
+        "public_metrics": {
+          "view_count": 5547
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994377415531913216/vid/avc1/320x560/jKAUoNWK8t-z4Rld.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994377415531913216/vid/avc1/480x840/kG4FjJAT5qAU_zYq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994377415531913216/vid/avc1/576x1008/9_My6L-kWyZrf82W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994377415531913216/pl/wc3qF02f-tKcYZKp.m3u8?v=8a4"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 25922,
+        "height": 1008,
+        "media_key": "13_1994377471345459200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994377471345459200/img/_8vcTTglLYUSu2wh.jpg",
+        "public_metrics": {
+          "view_count": 3861
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994377471345459200/vid/avc1/320x560/NeiT5R7G__WHkHI8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994377471345459200/vid/avc1/480x840/cAHlbkAWqcn1uYOg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994377471345459200/vid/avc1/576x1008/fyzfIEgQJ3pIhK7K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994377471345459200/pl/AMXyn7wOAJuMlkWB.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1994621209250545766",
+        "created_at": "2025-11-29T04:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994621209250545766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1994377551322702038",
+              "start": 144,
+              "url": "https://t.co/IsfnyAnTVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994621209250545766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994377551322702038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我国，所谓“禁毒”从来只是一个政治符号，任何质疑者都要被打成异类。\n普通人无法接触有关毒品的信息，只知道禁毒宣传给他们灌输的名词，却不知何为毒品，为何要禁，也因此无法知道禁毒的论据能否充分支持“禁毒”这一最终目标，却只能支持它。\n于是，当看似自相矛盾的情况发生时，这一出闹剧就上演了。 https://t.co/IsfnyAnTVG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994376908591570944",
+            "13_1994376923414171648",
+            "13_1994377415531913216",
+            "13_1994377471345459200"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1994377551322702038",
+        "created_at": "2025-11-28T12:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994377551322702038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIJYiyI0j1",
+              "end": 56,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1994377551322702038/video/1",
+              "media_key": "13_1994376908591570944",
+              "start": 33,
+              "url": "https://t.co/sIJYiyI0j1"
+            },
+            {
+              "display_url": "pic.x.com/sIJYiyI0j1",
+              "end": 56,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1994377551322702038/video/1",
+              "media_key": "13_1994376923414171648",
+              "start": 33,
+              "url": "https://t.co/sIJYiyI0j1"
+            },
+            {
+              "display_url": "pic.x.com/sIJYiyI0j1",
+              "end": 56,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1994377551322702038/video/1",
+              "media_key": "13_1994377415531913216",
+              "start": 33,
+              "url": "https://t.co/sIJYiyI0j1"
+            },
+            {
+              "display_url": "pic.x.com/sIJYiyI0j1",
+              "end": 56,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1994377551322702038/video/1",
+              "media_key": "13_1994377471345459200",
+              "start": 33,
+              "url": "https://t.co/sIJYiyI0j1"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1994336122499981809",
+              "start": 57,
+              "url": "https://t.co/Iz8pHgBMja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994377551322702038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 248726,
+          "like_count": 489,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994336122499981809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "11月28日，全国各大文旅账号纷纷开始整活儿，发布禁毒相关视频。 https://t.co/sIJYiyI0j1 https://t.co/Iz8pHgBMja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 699,
+          "like_count": 14117,
+          "listed_count": 6,
+          "media_count": 177,
+          "tweet_count": 3844
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1991824796930187302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146770,
+          "following_count": 981,
+          "like_count": 8370,
+          "listed_count": 8419,
+          "media_count": 37799,
+          "tweet_count": 44677
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

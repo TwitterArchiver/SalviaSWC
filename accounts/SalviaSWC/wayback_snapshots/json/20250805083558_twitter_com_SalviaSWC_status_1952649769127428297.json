@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1952640795049075193",
+    "created_at": "2025-08-05T08:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T09:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952649769127428297"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1952649769127428297",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952640795049075193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道有某些可以在中国合法买到的阿片类药物，一旦服用，几乎可以治疗任何人的抑郁症\n但是，阿片类药物的特点就是难以合理使用，容易陷入滥用。再加上我们中大多数人不知道怎么减少因为药物造成的损害，甚至以伤害自己的目的服药，安全使用几乎是不可能的。\n(严禁提这个药物的名字，否则这个圈就废了)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1952640795049075193",
+        "created_at": "2025-08-05T08:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952649769127428297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952649769127428297",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952640795049075193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道有某些可以在中国合法买到的阿片类药物，一旦服用，几乎可以治疗任何人的抑郁症\n但是，阿片类药物的特点就是难以合理使用，容易陷入滥用。再加上我们中大多数人不知道怎么减少因为药物造成的损害，甚至以伤害自己的目的服药，安全使用几乎是不可能的。\n(严禁提这个药物的名字，否则这个圈就废了)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1952640795049075193",
+        "created_at": "2025-08-05T08:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T09:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952640795049075193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952640795049075193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 79,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "精神药物在未来只会越来越多。就算是现在，中国也有无数种未被管制且容易合成的合法策划药，包括兴奋剂、抑制剂、阿片类、苯二氮䓬类、血清素致幻剂、解离剂。\n最重要的不是获取这些药物。而是如何健康地使用药物，并减小使用药物造成的危害——改变意识状态的方法很多，但是你只有一个身体、一个大脑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1952002613244735810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 368,
+          "like_count": 5409,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1941
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

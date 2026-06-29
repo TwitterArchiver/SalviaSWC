@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035020314506141696"
+      ],
+      "media_source_tweet_id": [
+        "2035020321934213455"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2035547211635806350",
+    "created_at": "2026-03-22T02:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T03:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035547211635806350"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "psilocybin",
+          "probability": 0.8312,
+          "start": 42,
+          "type": "Other"
+        },
+        {
+          "end": 59,
+          "normalized_text": "LSD",
+          "probability": 0.9117,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "303337550",
+          "start": 3,
+          "username": "BosevskiGorgi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/luFxQOONLd",
+          "end": 118,
+          "expanded_url": "https://x.com/BosevskiGorgi/status/2035020321934213455/photo/1",
+          "media_key": "3_2035020314506141696",
+          "start": 95,
+          "url": "https://t.co/luFxQOONLd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035547211635806350",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 185
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035020321934213455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BosevskiGorgi: Friendly reminder that psilocybin and LSD are 100 times safer than alcohol. https://t.co/luFxQOONLd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2035020314506141696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD3YMazXoAAG0hG.jpg",
+        "width": 771
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035020314506141696"
+          ],
+          "media_source_tweet_id": [
+            "2035020321934213455"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2035547211635806350",
+        "created_at": "2026-03-22T02:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035547211635806350"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "psilocybin",
+              "probability": 0.8312,
+              "start": 42,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "LSD",
+              "probability": 0.9117,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "303337550",
+              "start": 3,
+              "username": "BosevskiGorgi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/luFxQOONLd",
+              "end": 118,
+              "expanded_url": "https://x.com/BosevskiGorgi/status/2035020321934213455/photo/1",
+              "media_key": "3_2035020314506141696",
+              "start": 95,
+              "url": "https://t.co/luFxQOONLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035547211635806350",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 185
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035020321934213455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BosevskiGorgi: Friendly reminder that psilocybin and LSD are 100 times safer than alcohol. https://t.co/luFxQOONLd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035020314506141696"
+          ]
+        },
+        "author_id": "303337550",
+        "conversation_id": "2035020321934213455",
+        "created_at": "2026-03-20T15:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T16:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035020321934213455"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "psilocybin",
+              "probability": 0.778,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "LSD",
+              "probability": 0.8764,
+              "start": 38,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/luFxQOONLd",
+              "end": 99,
+              "expanded_url": "https://x.com/BosevskiGorgi/status/2035020321934213455/photo/1",
+              "media_key": "3_2035020314506141696",
+              "start": 76,
+              "url": "https://t.co/luFxQOONLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035020321934213455",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 322,
+          "impression_count": 59863,
+          "like_count": 1241,
+          "quote_count": 24,
+          "reply_count": 45,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "Friendly reminder that psilocybin and LSD are 100 times safer than alcohol. https://t.co/luFxQOONLd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂为2026中推模拟大选🗳️OD党临时发言号📢|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3576,
+          "following_count": 971,
+          "like_count": 21455,
+          "listed_count": 10,
+          "media_count": 384,
+          "tweet_count": 6400
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-22T18:02:03.000Z",
+        "description": "Tap the link below to join my psychedelics shop. \n\nhttps://t.co/MjqUTvjOjw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "signal.group/#CjQKIPT_NwH4F…",
+                "end": 74,
+                "expanded_url": "https://signal.group/#CjQKIPT_NwH4Fua9l_xJZjjdNB9OyIlVM9QG4qgeUFYxokbHEhCq4r_WEJAARhh4zDT5seCt",
+                "start": 51,
+                "url": "https://t.co/MjqUTvjOjw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signal.me/#eu/fG4ueDbLcR…",
+                "end": 23,
+                "expanded_url": "https://signal.me/#eu/fG4ueDbLcRsoGCXicpaIz9RwOrpNKnh-9Yx25FVRZ63hkG8MfWdMkLRSMrBqdnJb",
+                "start": 0,
+                "url": "https://t.co/AD0ZPqWf6r"
+              }
+            ]
+          }
+        },
+        "id": "303337550",
+        "name": "Joe Macdonald",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987056280846979072/WMlaRdyI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2590,
+          "following_count": 3715,
+          "like_count": 12334,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/AD0ZPqWf6r",
+        "username": "BosevskiGorgi",
+        "verified": false
+      }
+    ]
+  }
+}

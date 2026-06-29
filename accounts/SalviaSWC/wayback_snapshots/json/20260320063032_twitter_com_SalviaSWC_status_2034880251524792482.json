@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034872274814140416"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034880251524792482",
+    "created_at": "2026-03-20T06:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T07:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034880251524792482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S8U8nPFs3b",
+          "end": 174,
+          "expanded_url": "https://x.com/SalviaSWC/status/2034880251524792482/photo/1",
+          "media_key": "3_2034872274814140416",
+          "start": 151,
+          "url": "https://t.co/S8U8nPFs3b"
+        },
+        {
+          "display_url": "x.com/wu_si42846/sta…",
+          "end": 198,
+          "expanded_url": "https://twitter.com/wu_si42846/status/2034705431579492433",
+          "start": 175,
+          "url": "https://t.co/omA21R9skf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034880251524792482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034705431579492433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如图所示，为什么LSD(或其他麦角酰胺类物质迷幻剂)通常采用“\"邮票”作为载体呢?\n\n众所周知，LSD是强效致幻剂，起效剂量很低，服用约100微克即可致幻，因此使用者难以准确称量剂量服用🤓\n\n而“邮票”是经过干燥的浸泡了LSD溶液的吸墨纸，具有的优点是易于舌下给药、剂量易控制且均匀、方便携带与售卖😈 https://t.co/S8U8nPFs3b https://t.co/omA21R9skf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2034872274814140416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1RjX-WgAANG-U.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034872274814140416"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034880251524792482",
+        "created_at": "2026-03-20T06:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034880251524792482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8U8nPFs3b",
+              "end": 174,
+              "expanded_url": "https://x.com/SalviaSWC/status/2034880251524792482/photo/1",
+              "media_key": "3_2034872274814140416",
+              "start": 151,
+              "url": "https://t.co/S8U8nPFs3b"
+            },
+            {
+              "display_url": "x.com/wu_si42846/sta…",
+              "end": 198,
+              "expanded_url": "https://twitter.com/wu_si42846/status/2034705431579492433",
+              "start": 175,
+              "url": "https://t.co/omA21R9skf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034880251524792482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034705431579492433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如图所示，为什么LSD(或其他麦角酰胺类物质迷幻剂)通常采用“\"邮票”作为载体呢?\n\n众所周知，LSD是强效致幻剂，起效剂量很低，服用约100微克即可致幻，因此使用者难以准确称量剂量服用🤓\n\n而“邮票”是经过干燥的浸泡了LSD溶液的吸墨纸，具有的优点是易于舌下给药、剂量易控制且均匀、方便携带与售卖😈 https://t.co/S8U8nPFs3b https://t.co/omA21R9skf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956544219751063552",
+        "conversation_id": "2034705431579492433",
+        "created_at": "2026-03-19T18:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T19:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034705431579492433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034705431579492433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1926,
+          "like_count": 83,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "禁毒视频里面给小朋友贴邮票的坏人在哪里遇见啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂用于第四次中推模拟大选🗳️|中推OD党官号🏁|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3511,
+          "following_count": 0,
+          "like_count": 14,
+          "listed_count": 10,
+          "media_count": 381,
+          "tweet_count": 6367
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "考试你全家被砍头奸杀了🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀里账号@rinii165892\n❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "rinii165892"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2031370336944726139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 915,
+          "like_count": 34942,
+          "listed_count": 1,
+          "media_count": 616,
+          "tweet_count": 13457
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

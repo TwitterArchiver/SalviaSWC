@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1932796083807355136",
+    "created_at": "2025-06-12T00:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T01:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932952385741336768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878040030834270209",
+          "start": 0,
+          "username": "shishan634852"
+        },
+        {
+          "end": 30,
+          "id": "1879338554511495168",
+          "start": 15,
+          "username": "BAshirasu_1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932952385741336768",
+    "in_reply_to_user_id": "1878040030834270209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932804295503843531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shishan634852 @BAshirasu_1226 应该用的是局麻吧,利多卡因之类的(局麻要都叫xx卡因,根可卡因没关系)\n要是全麻了,自己也不能操作了()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1932796083807355136",
+        "created_at": "2025-06-12T00:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T01:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932952385741336768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878040030834270209",
+              "start": 0,
+              "username": "shishan634852"
+            },
+            {
+              "end": 30,
+              "id": "1879338554511495168",
+              "start": 15,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932952385741336768",
+        "in_reply_to_user_id": "1878040030834270209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932804295503843531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shishan634852 @BAshirasu_1226 应该用的是局麻吧,利多卡因之类的(局麻要都叫xx卡因,根可卡因没关系)\n要是全麻了,自己也不能操作了()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878040030834270209",
+        "conversation_id": "1932796083807355136",
+        "created_at": "2025-06-11T14:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932804295503843531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879338554511495168",
+              "start": 0,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932804295503843531",
+        "in_reply_to_user_id": "1879338554511495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4189,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932796083807355136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BAshirasu_1226 你到底是哪里买的麻药，手术用麻药按理说个人没法买的到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 97,
+          "like_count": 2388,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 945
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T11:23:40.000Z",
+        "description": "嗯，这是一个很好的自我介绍",
+        "id": "1878040030834270209",
+        "location": "心宿二（天蝎座主星）",
+        "name": "十三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926590724834791424/bZJWbCSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 268,
+          "like_count": 2308,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 300
+        },
+        "username": "shishan634852",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "06年的🍥一只|家长不管党|175cm/70kg（不在乎健康的那种减肥中）|双相|精分|ENFP-T|5.24打赢复活赛|hrt2024.4.22|ba厨小梓，舟厨特蕾西娅，音楽ゲームの楽しんでいます|闲散人员一只|欢迎同类来互fo|🚪80，仅针对不认识的顺男\n（墙内传的自切就是我，欢迎各位来锐评，本人已免疫😇）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tpzhayase",
+                "end": 23,
+                "expanded_url": "http://t.me/tpzhayase",
+                "start": 0,
+                "url": "https://t.co/9t2xfzpn1m"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "巴别塔",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1932784104573186539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930520629725614080/-on79J_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5243,
+          "following_count": 158,
+          "like_count": 541,
+          "listed_count": 5,
+          "media_count": 56,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/9t2xfzpn1m",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}

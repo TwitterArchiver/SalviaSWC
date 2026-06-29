@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1978468814917669330",
+    "created_at": "2025-10-16T10:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T11:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978769152300011724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1462208415837655043",
+          "start": 0,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978769152300011724",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978468814917669330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prechaska 没错，但是这一切的前提是，MAOI不会和另一种导致单胺浓度增加的物质同时大量存在🤓☝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1961,
+        "media_key": "3_1978468807917383680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Tu5f8bMAAq3Cz.jpg",
+        "width": 1640
+      },
+      {
+        "height": 1670,
+        "media_key": "3_1978468807913136128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Tu5f7aYAAC4Rv.jpg",
+        "width": 1640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1978468814917669330",
+        "created_at": "2025-10-16T10:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T11:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978769152300011724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978769152300011724",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978468814917669330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 没错，但是这一切的前提是，MAOI不会和另一种导致单胺浓度增加的物质同时大量存在🤓☝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978468807917383680",
+            "3_1978468807913136128"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1978468814917669330",
+        "created_at": "2025-10-15T14:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T15:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978468814917669330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gZN2BgqCOW",
+              "end": 162,
+              "expanded_url": "https://x.com/Prechaska/status/1978468814917669330/photo/1",
+              "media_key": "3_1978468807917383680",
+              "start": 139,
+              "url": "https://t.co/gZN2BgqCOW"
+            },
+            {
+              "display_url": "pic.x.com/gZN2BgqCOW",
+              "end": 162,
+              "expanded_url": "https://x.com/Prechaska/status/1978468814917669330/photo/1",
+              "media_key": "3_1978468807913136128",
+              "start": 139,
+              "url": "https://t.co/gZN2BgqCOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978468814917669330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 226,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "单胺氧化酶（MAO）在降解单胺类物质时，其反应过程的副产物包括过氧化氢等具有神经毒性的物质，过氧化氢能触发活性氧（ROS）的生成，进而导致线粒体损伤与神经元凋亡。因此，单胺氧化酶抑制剂（MAOI）抑制MAO诱发的催化过程，使生成的过氧化氢减少，从而实现对神经元和线粒体的保护。 https://t.co/gZN2BgqCOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 514,
+          "like_count": 8527,
+          "listed_count": 7,
+          "media_count": 119,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 56,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 299
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050553785257459712",
+        "3_2050553785265856513",
+        "3_2050553844955017216"
+      ],
+      "media_source_tweet_id": [
+        "2050553905831182785",
+        "2050553905831182785",
+        "2050553905831182785"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2050555597724995599",
+    "created_at": "2026-05-02T12:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050555597724995599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1448206950903255040",
+          "start": 3,
+          "username": "_Shikieiki"
+        }
+      ],
+      "urls": [
+        {
+          "description": "An Experience with Dizocilpine. 'The Most Beautiful Lobotomy I Ever Had' by viscosity",
+          "display_url": "erowid.org/experiences/ex…",
+          "end": 61,
+          "expanded_url": "https://www.erowid.org/experiences/exp.php?ID=94476",
+          "start": 38,
+          "status": 200,
+          "title": "Dizocilpine - Erowid Exp - 'The Most Beautiful Lobotomy I Ever Had'",
+          "unwound_url": "https://www.erowid.org/experiences/exp.php?ID=94476",
+          "url": "https://t.co/dkW5IpmAFq"
+        },
+        {
+          "display_url": "pic.x.com/Lf40cK79PR",
+          "end": 104,
+          "expanded_url": "https://x.com/_Shikieiki/status/2050553905831182785/photo/1",
+          "media_key": "3_2050553785257459712",
+          "start": 81,
+          "url": "https://t.co/Lf40cK79PR"
+        },
+        {
+          "display_url": "pic.x.com/Lf40cK79PR",
+          "end": 104,
+          "expanded_url": "https://x.com/_Shikieiki/status/2050553905831182785/photo/1",
+          "media_key": "3_2050553785265856513",
+          "start": 81,
+          "url": "https://t.co/Lf40cK79PR"
+        },
+        {
+          "display_url": "pic.x.com/Lf40cK79PR",
+          "end": 104,
+          "expanded_url": "https://x.com/_Shikieiki/status/2050553905831182785/photo/1",
+          "media_key": "3_2050553844955017216",
+          "start": 81,
+          "url": "https://t.co/Lf40cK79PR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050555597724995599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050553905831182785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Shikieiki: 我认为所有想试试mk801的都该看这一篇。\nhttps://t.co/dkW5IpmAFq\n机翻的总结发在图片了，感兴趣的可以看 https://t.co/Lf40cK79PR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1796,
+        "media_key": "3_2050553785257459712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUHzasagAA0DXU.png",
+        "width": 1106
+      },
+      {
+        "height": 1796,
+        "media_key": "3_2050553785265856513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUHzauaoAE-mCJ.png",
+        "width": 1104
+      },
+      {
+        "height": 514,
+        "media_key": "3_2050553844955017216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUH25Fa8AA45mC.png",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050553785257459712",
+            "3_2050553785265856513",
+            "3_2050553844955017216"
+          ],
+          "media_source_tweet_id": [
+            "2050553905831182785",
+            "2050553905831182785",
+            "2050553905831182785"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2050555597724995599",
+        "created_at": "2026-05-02T12:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050555597724995599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448206950903255040",
+              "start": 3,
+              "username": "_Shikieiki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "An Experience with Dizocilpine. 'The Most Beautiful Lobotomy I Ever Had' by viscosity",
+              "display_url": "erowid.org/experiences/ex…",
+              "end": 61,
+              "expanded_url": "https://www.erowid.org/experiences/exp.php?ID=94476",
+              "start": 38,
+              "status": 200,
+              "title": "Dizocilpine - Erowid Exp - 'The Most Beautiful Lobotomy I Ever Had'",
+              "unwound_url": "https://www.erowid.org/experiences/exp.php?ID=94476",
+              "url": "https://t.co/dkW5IpmAFq"
+            },
+            {
+              "display_url": "pic.x.com/Lf40cK79PR",
+              "end": 104,
+              "expanded_url": "https://x.com/_Shikieiki/status/2050553905831182785/photo/1",
+              "media_key": "3_2050553785257459712",
+              "start": 81,
+              "url": "https://t.co/Lf40cK79PR"
+            },
+            {
+              "display_url": "pic.x.com/Lf40cK79PR",
+              "end": 104,
+              "expanded_url": "https://x.com/_Shikieiki/status/2050553905831182785/photo/1",
+              "media_key": "3_2050553785265856513",
+              "start": 81,
+              "url": "https://t.co/Lf40cK79PR"
+            },
+            {
+              "display_url": "pic.x.com/Lf40cK79PR",
+              "end": 104,
+              "expanded_url": "https://x.com/_Shikieiki/status/2050553905831182785/photo/1",
+              "media_key": "3_2050553844955017216",
+              "start": 81,
+              "url": "https://t.co/Lf40cK79PR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050555597724995599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050553905831182785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Shikieiki: 我认为所有想试试mk801的都该看这一篇。\nhttps://t.co/dkW5IpmAFq\n机翻的总结发在图片了，感兴趣的可以看 https://t.co/Lf40cK79PR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050553785257459712",
+            "3_2050553785265856513",
+            "3_2050553844955017216"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2050553905831182785",
+        "created_at": "2026-05-02T12:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050553905831182785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "An Experience with Dizocilpine. 'The Most Beautiful Lobotomy I Ever Had' by viscosity",
+              "display_url": "erowid.org/experiences/ex…",
+              "end": 45,
+              "expanded_url": "https://www.erowid.org/experiences/exp.php?ID=94476",
+              "start": 22,
+              "status": 200,
+              "title": "Dizocilpine - Erowid Exp - 'The Most Beautiful Lobotomy I Ever Had'",
+              "unwound_url": "https://www.erowid.org/experiences/exp.php?ID=94476",
+              "url": "https://t.co/dkW5IpmAFq"
+            },
+            {
+              "display_url": "pic.x.com/Lf40cK79PR",
+              "end": 88,
+              "expanded_url": "https://x.com/_Shikieiki/status/2050553905831182785/photo/1",
+              "media_key": "3_2050553785257459712",
+              "start": 65,
+              "url": "https://t.co/Lf40cK79PR"
+            },
+            {
+              "display_url": "pic.x.com/Lf40cK79PR",
+              "end": 88,
+              "expanded_url": "https://x.com/_Shikieiki/status/2050553905831182785/photo/1",
+              "media_key": "3_2050553785265856513",
+              "start": 65,
+              "url": "https://t.co/Lf40cK79PR"
+            },
+            {
+              "display_url": "pic.x.com/Lf40cK79PR",
+              "end": 88,
+              "expanded_url": "https://x.com/_Shikieiki/status/2050553905831182785/photo/1",
+              "media_key": "3_2050553844955017216",
+              "start": 65,
+              "url": "https://t.co/Lf40cK79PR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050553905831182785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我认为所有想试试mk801的都该看这一篇。\nhttps://t.co/dkW5IpmAFq\n机翻的总结发在图片了，感兴趣的可以看 https://t.co/Lf40cK79PR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4261,
+          "following_count": 998,
+          "like_count": 22990,
+          "listed_count": 11,
+          "media_count": 484,
+          "tweet_count": 7393
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "因为魔法少女 就是能实现希望与梦想的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtUfn"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "解离之家(内含DXM，美金刚，MK801，请自取)在此提问↓",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2050182084808110250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 890,
+          "like_count": 27342,
+          "listed_count": 1,
+          "media_count": 448,
+          "tweet_count": 3739
+        },
+        "url": "https://t.co/Qn6EHYtUfn",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

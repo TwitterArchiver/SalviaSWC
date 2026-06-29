@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2043864136417783908",
+    "created_at": "2026-04-14T02:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043884884192526394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692013623319969792",
+          "start": 0,
+          "username": "Minakami_Konata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043884884192526394",
+    "in_reply_to_user_id": "1692013623319969792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043871886858224042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minakami_Konata 滥用就是吸毒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043864136417783908",
+        "created_at": "2026-04-14T02:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043884884192526394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692013623319969792",
+              "start": 0,
+              "username": "Minakami_Konata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043884884192526394",
+        "in_reply_to_user_id": "1692013623319969792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043871886858224042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minakami_Konata 滥用就是吸毒！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692013623319969792",
+        "conversation_id": "2043864136417783908",
+        "created_at": "2026-04-14T02:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043871886858224042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043871886858224042",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043864136417783908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 天天吃精一精二\n那是不是在吸毒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 1005,
+          "like_count": 22160,
+          "listed_count": 8,
+          "media_count": 424,
+          "tweet_count": 6786
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T03:21:22.000Z",
+        "description": "幸運な日々 ～不連続の星空～\n幸运的每一天~不连续的星空~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/everoverdosesu…",
+                "end": 23,
+                "expanded_url": "http://ngl.link/everoverdosesurvival.wiki",
+                "start": 0,
+                "url": "https://t.co/s0U5HXLPGq"
+              }
+            ]
+          }
+        },
+        "id": "1692013623319969792",
+        "location": "Otsuki-shi, Yamanashi",
+        "name": "Lucky_everyday_down_the_sky_star",
+        "pinned_tweet_id": "2026728606987370600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027142214695206912/2zy3aizy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 999,
+          "following_count": 501,
+          "like_count": 29563,
+          "listed_count": 6,
+          "media_count": 527,
+          "tweet_count": 7431
+        },
+        "url": "https://t.co/s0U5HXLPGq",
+        "username": "Minakami_Konata",
+        "verified": false
+      }
+    ]
+  }
+}

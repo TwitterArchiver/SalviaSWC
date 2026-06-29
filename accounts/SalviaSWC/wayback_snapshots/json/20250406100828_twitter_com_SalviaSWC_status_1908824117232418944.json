@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1908731695513370778",
+    "created_at": "2025-04-06T10:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T11:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908824117232418944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782063289675255808",
+          "start": 0,
+          "username": "Kisaragi_Momoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908824117232418944",
+    "in_reply_to_user_id": "1782063289675255808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908731695513370778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kisaragi_Momoe 😢哈人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1908731695513370778",
+        "created_at": "2025-04-06T10:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908824117232418944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782063289675255808",
+              "start": 0,
+              "username": "Kisaragi_Momoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908824117232418944",
+        "in_reply_to_user_id": "1782063289675255808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908731695513370778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kisaragi_Momoe 😢哈人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782063289675255808",
+        "conversation_id": "1908731695513370778",
+        "created_at": "2025-04-06T04:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T05:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908731695513370778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1908731695513370778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 547,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚听说有一位OIer因为没能进省队而自杀，非常感同身受…\n自己也曾经因为这些失利被长时间影响，并且目前也没走出来，常常幻想自己再努力一点，再幸运一点是否结局会有所改变，常常在深夜因为焦虑爆哭…\n但是无论如何还是希望大家不要选择离开，虽然我自己也没啥资格说这种话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 49,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 244
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T15:06:19.000Z",
+        "description": "190超大只小男娘 希望和大家做朋友…… | 重度网瘾熬夜少女 | 前OIer | 疑似家长党(？) | 最重要的可爱主人&妹妹&老婆 @MinaseAyano | 可爱妹妹 @bakazorange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "bakazorange"
+              }
+            ]
+          }
+        },
+        "id": "1782063289675255808",
+        "location": "在你心里",
+        "name": "如月 桃枝 🍥",
+        "pinned_tweet_id": "1894700030805917753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895410848836759553/EbKJ2tNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 513,
+          "like_count": 9163,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1617
+        },
+        "username": "Kisaragi_Momoe",
+        "verified": false
+      }
+    ]
+  }
+}

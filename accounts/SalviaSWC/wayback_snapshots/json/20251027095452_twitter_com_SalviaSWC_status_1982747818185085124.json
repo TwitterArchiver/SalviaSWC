@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1963516028333486409",
+    "created_at": "2025-10-27T09:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T10:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982747818185085124"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850072961468043264",
+          "start": 0,
+          "username": "Guling_Nijika"
+        },
+        {
+          "end": 27,
+          "id": "1911828872334831616",
+          "start": 15,
+          "username": "Edward_8964"
+        },
+        {
+          "end": 44,
+          "id": "1512401066981146629",
+          "start": 28,
+          "username": "Tsukishima_hane"
+        },
+        {
+          "end": 56,
+          "id": "1617685747116675073",
+          "start": 45,
+          "username": "_mucha_000"
+        },
+        {
+          "end": 70,
+          "id": "1938866971669606400",
+          "start": 57,
+          "username": "xiaosong2_33"
+        },
+        {
+          "end": 81,
+          "id": "1811690667720212480",
+          "start": 71,
+          "username": "y0zarashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982747818185085124",
+    "in_reply_to_user_id": "1850072961468043264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982666507827220898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Guling_Nijika @Edward_8964 @Tsukishima_hane @_mucha_000 @xiaosong2_33 @y0zarashi 笑嘻了😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1963516028333486409",
+        "created_at": "2025-10-27T09:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982747818185085124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850072961468043264",
+              "start": 0,
+              "username": "Guling_Nijika"
+            },
+            {
+              "end": 27,
+              "id": "1911828872334831616",
+              "start": 15,
+              "username": "Edward_8964"
+            },
+            {
+              "end": 44,
+              "id": "1512401066981146629",
+              "start": 28,
+              "username": "Tsukishima_hane"
+            },
+            {
+              "end": 56,
+              "id": "1617685747116675073",
+              "start": 45,
+              "username": "_mucha_000"
+            },
+            {
+              "end": 70,
+              "id": "1938866971669606400",
+              "start": 57,
+              "username": "xiaosong2_33"
+            },
+            {
+              "end": 81,
+              "id": "1811690667720212480",
+              "start": 71,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982747818185085124",
+        "in_reply_to_user_id": "1850072961468043264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982666507827220898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Guling_Nijika @Edward_8964 @Tsukishima_hane @_mucha_000 @xiaosong2_33 @y0zarashi 笑嘻了😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850072961468043264",
+        "conversation_id": "1963516028333486409",
+        "created_at": "2025-10-27T04:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T05:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982666507827220898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            },
+            {
+              "end": 29,
+              "id": "1512401066981146629",
+              "start": 13,
+              "username": "Tsukishima_hane"
+            },
+            {
+              "end": 41,
+              "id": "1617685747116675073",
+              "start": 30,
+              "username": "_mucha_000"
+            },
+            {
+              "end": 55,
+              "id": "1938866971669606400",
+              "start": 42,
+              "username": "xiaosong2_33"
+            },
+            {
+              "end": 76,
+              "id": "1811690667720212480",
+              "start": 66,
+              "username": "y0zarashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982666507827220898",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964262687980081312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 @Tsukishima_hane @_mucha_000 @xiaosong2_33 赌博什么的可以去请教@y0zarashi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 548,
+          "like_count": 9168,
+          "listed_count": 7,
+          "media_count": 124,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:12:32.000Z",
+        "description": "今天我思考了吗",
+        "id": "1850072961468043264",
+        "location": "Winit420",
+        "name": "牯岭街普通虹夏",
+        "pinned_tweet_id": "1977198260264878216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982437648179355648/Gyd20Lbx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 155,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 353
+        },
+        "username": "Guling_Nijika",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1980565827196973398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968709578079764480/7M5DfbwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 522,
+          "like_count": 4854,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 3037
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T12:05:01.000Z",
+        "description": "一具男尸｜🏳️‍🌈 无性别+无性恋｜自介在隔壁（目移）｜镜中的我@GABA_ga_suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "GABA_ga_suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6lwi0xpga3tc1ev",
+                "end": 23,
+                "expanded_url": "http://marshmallow-qa.com/6lwi0xpga3tc1ev",
+                "start": 0,
+                "url": "https://t.co/LhhLTxA2kl"
+              }
+            ]
+          }
+        },
+        "id": "1512401066981146629",
+        "location": "虚无漩涡",
+        "name": "金牌厨师长",
+        "pinned_tweet_id": "1921938566344773969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961513268922781696/WOi1NOc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 345,
+          "like_count": 3268,
+          "listed_count": 2,
+          "media_count": 233,
+          "tweet_count": 2828
+        },
+        "url": "https://t.co/LhhLTxA2kl",
+        "username": "Tsukishima_hane",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-24T00:49:06.000Z",
+        "description": "Love Pays for Itself 丨ODWiki编辑丨写歌打音游的丨拖家带口→@molmolxing/@634LIVINLIMBO/@Nijika_overdose/@elsa_yrt/@ZTYQ_0319",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "molmolxing"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "634LIVINLIMBO"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "Nijika_overdose"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "elsa_yrt"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "ZTYQ_0319"
+              }
+            ]
+          }
+        },
+        "id": "1617685747116675073",
+        "name": "旋宫牧雨🖤胺樂天使",
+        "pinned_tweet_id": "1981002632895549939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965065011598180352/CTte4Z94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 745,
+          "like_count": 56628,
+          "listed_count": 2,
+          "media_count": 369,
+          "tweet_count": 8315
+        },
+        "username": "_mucha_000",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-28T07:48:19.000Z",
+        "description": "地雷男。\n联系方式\nhttps://t.co/9EoQ9U4SJG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 33,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 10,
+                "url": "https://t.co/9EoQ9U4SJG"
+              }
+            ]
+          }
+        },
+        "id": "1938866971669606400",
+        "name": "xiaosong 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939362088347955200/7VRVMTFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 98,
+          "like_count": 866,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 310
+        },
+        "username": "xiaosong2_33",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 mft  不是很喜欢顺女  厌女  女的滚！不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深 @luobo4444 我已经被吴思嫣诅咒了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "luobo4444"
+              }
+            ]
+          }
+        },
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1982686660396790103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980652601982029824/9-ar12mL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 71,
+          "like_count": 21,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 1954
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

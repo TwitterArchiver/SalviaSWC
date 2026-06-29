@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1989427899519439180",
+    "created_at": "2025-11-14T20:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T21:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989427899519439180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662439435726905344",
+          "start": 3,
+          "username": "moya_michaeI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989427899519439180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989231773486838262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moya_michaeI: 人生自古谁无死？不幸地，药物大师，药物百科wiki主，视觉系，地雷系，长发男娘，药师，药圈英雄，4i皇帝，udg听众 \n沐雨，已经逝世，因此无法继续与您互动，让我们永远缅怀它"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1989427899519439180",
+        "created_at": "2025-11-14T20:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T21:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989427899519439180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662439435726905344",
+              "start": 3,
+              "username": "moya_michaeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989427899519439180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989231773486838262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moya_michaeI: 人生自古谁无死？不幸地，药物大师，药物百科wiki主，视觉系，地雷系，长发男娘，药师，药圈英雄，4i皇帝，udg听众 \n沐雨，已经逝世，因此无法继续与您互动，让我们永远缅怀它"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "1989231773486838262",
+        "created_at": "2025-11-14T07:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T08:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989231773486838262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bzsgmm111/stat…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/bzsgmm111/status/1989228255623410173",
+              "start": 88,
+              "url": "https://t.co/X5PgJ6FuMo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989231773486838262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1660,
+          "like_count": 19,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989228255623410173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人生自古谁无死？不幸地，药物大师，药物百科wiki主，视觉系，地雷系，长发男娘，药师，药圈英雄，4i皇帝，udg听众 \n沐雨，已经逝世，因此无法继续与您互动，让我们永远缅怀它 https://t.co/X5PgJ6FuMo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1987403877164196095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 685,
+          "like_count": 12093,
+          "listed_count": 6,
+          "media_count": 161,
+          "tweet_count": 3557
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "視線 未來 被 霧霾 覆蓋 空白 意外 負債 後代...",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "Michael-MoyA",
+        "pinned_tweet_id": "1987198004856815949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 98,
+          "like_count": 8248,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1178
+        },
+        "username": "moya_michaeI",
+        "verified": false
+      }
+    ]
+  }
+}

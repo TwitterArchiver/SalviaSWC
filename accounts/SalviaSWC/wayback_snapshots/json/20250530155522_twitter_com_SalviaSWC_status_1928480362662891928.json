@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1928397593396072536",
+    "created_at": "2025-05-30T15:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T16:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928480362662891928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867639848569372672",
+          "start": 0,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928480362662891928",
+    "in_reply_to_user_id": "1867639848569372672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928397593396072536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_day 少吃点，别似了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_1928397584319819777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMLYscasAEnAjg.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1928397593396072536",
+        "created_at": "2025-05-30T15:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T16:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928480362662891928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867639848569372672",
+              "start": 0,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928480362662891928",
+        "in_reply_to_user_id": "1867639848569372672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928397593396072536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_day 少吃点，别似了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928397584319819777"
+          ]
+        },
+        "author_id": "1867639848569372672",
+        "conversation_id": "1928397593396072536",
+        "created_at": "2025-05-30T10:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928397593396072536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lTCymDV0gH",
+              "end": 33,
+              "expanded_url": "https://x.com/overdose_day/status/1928397593396072536/photo/1",
+              "media_key": "3_1928397584319819777",
+              "start": 10,
+              "url": "https://t.co/lTCymDV0gH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928397593396072536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 999,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二丙基色胺梭哈一把 https://t.co/lTCymDV0gH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 743
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "官网:https://t.co/bwfCFLxfiI\n个人galgame站:https://t.co/iRTTcRxh1u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 26,
+                "expanded_url": "https://overdose.day",
+                "start": 3,
+                "url": "https://t.co/bwfCFLxfiI"
+              },
+              {
+                "display_url": "lsd.kim",
+                "end": 61,
+                "expanded_url": "https://lsd.kim/",
+                "start": 38,
+                "url": "https://t.co/iRTTcRxh1u"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsAI4T"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3122,
+          "following_count": 1372,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/W009AsAI4T",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

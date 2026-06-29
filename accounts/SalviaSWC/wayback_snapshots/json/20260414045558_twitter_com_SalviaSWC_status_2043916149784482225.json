@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2043916149784482225",
+    "created_at": "2026-04-14T04:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043916149784482225"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043916149784482225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我既不是那种很喜欢表达的人，又不是那种很擅长表达的人。之所以我不想直接表达某些东西，不是因为我怀有不可告人的目的，而是因为，我觉得我的言行已足够大家间接推测出那些东西了🥺\n\n但是，你若想趁我还没直接表达那些东西，混淆视听、大作文章，把罪名强加到我的头上，那我就只能被迫为自己正名了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043916149784482225",
+        "created_at": "2026-04-14T04:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043916149784482225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043916149784482225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我既不是那种很喜欢表达的人，又不是那种很擅长表达的人。之所以我不想直接表达某些东西，不是因为我怀有不可告人的目的，而是因为，我觉得我的言行已足够大家间接推测出那些东西了🥺\n\n但是，你若想趁我还没直接表达那些东西，混淆视听、大作文章，把罪名强加到我的头上，那我就只能被迫为自己正名了😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3734,
+          "following_count": 1003,
+          "like_count": 22183,
+          "listed_count": 8,
+          "media_count": 424,
+          "tweet_count": 6797
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

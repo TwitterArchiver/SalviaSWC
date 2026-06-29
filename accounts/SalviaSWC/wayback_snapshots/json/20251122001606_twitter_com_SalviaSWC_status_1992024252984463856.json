@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992024186605199360"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1992024252984463856",
+    "created_at": "2025-11-22T00:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T01:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992024252984463856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8AJ7cX5hff",
+          "end": 43,
+          "expanded_url": "https://x.com/SalviaSWC/status/1992024252984463856/photo/1",
+          "media_key": "3_1992024186605199360",
+          "start": 20,
+          "url": "https://t.co/8AJ7cX5hff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992024252984463856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "odwiki的推特账号被封了，谁干的😨 https://t.co/8AJ7cX5hff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992024186605199360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6UXcYqW4AAYFLW.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992024186605199360"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1992024252984463856",
+        "created_at": "2025-11-22T00:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T01:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992024252984463856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AJ7cX5hff",
+              "end": 43,
+              "expanded_url": "https://x.com/SalviaSWC/status/1992024252984463856/photo/1",
+              "media_key": "3_1992024186605199360",
+              "start": 20,
+              "url": "https://t.co/8AJ7cX5hff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992024252984463856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "odwiki的推特账号被封了，谁干的😨 https://t.co/8AJ7cX5hff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 694,
+          "like_count": 13393,
+          "listed_count": 6,
+          "media_count": 173,
+          "tweet_count": 3732
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1987403877164196095",
+    "created_at": "2025-11-09T06:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987405398588924292"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987405398588924292",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987403877164196095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉还是太残忍了，一进od圈就逃不出来了()\n不过，似乎这个设计跟实际情况差不多😁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2339,
+        "media_key": "3_1987401070784524288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SqvoJXsAAXjDX.png",
+        "width": 1654
+      },
+      {
+        "height": 2339,
+        "media_key": "3_1987401128430964737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Sqy-5WkAEbIIZ.png",
+        "width": 1654
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1987403877164196095",
+        "created_at": "2025-11-09T06:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987405398588924292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987405398588924292",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987403877164196095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉还是太残忍了，一进od圈就逃不出来了()\n不过，似乎这个设计跟实际情况差不多😁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987401070784524288",
+            "3_1987401128430964737"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1987403877164196095",
+        "created_at": "2025-11-09T06:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987403877164196095"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "OurDose2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSIH6nWc1F",
+              "end": 178,
+              "expanded_url": "https://x.com/SalviaSWC/status/1987403877164196095/photo/1",
+              "media_key": "3_1987401070784524288",
+              "start": 155,
+              "url": "https://t.co/pSIH6nWc1F"
+            },
+            {
+              "display_url": "pic.x.com/pSIH6nWc1F",
+              "end": 178,
+              "expanded_url": "https://x.com/SalviaSWC/status/1987403877164196095/photo/1",
+              "media_key": "3_1987401128430964737",
+              "start": 155,
+              "url": "https://t.co/pSIH6nWc1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987403877164196095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#OurDose2022 开发日志#3\n游戏中人物的心理属性:压力、不健全度和药物依赖度\n一旦角色加入OD圈，开始滥用药物，三个属性就会三管齐下，显著增加的压力迫使人物只能通过滥用药物避免崩溃、不健全度促进人物滥用更多药物并把ta与健全人隔绝开、药物依赖强迫角色滥用药物，于是人物再也无法逃脱了......😢 https://t.co/pSIH6nWc1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 671,
+          "like_count": 10839,
+          "listed_count": 7,
+          "media_count": 158,
+          "tweet_count": 3404
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1985866388809077155",
+    "created_at": "2025-11-05T00:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T01:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985866388809077155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Overdose_DBD/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Overdose_DBD/status/1985691888058605690",
+          "start": 13,
+          "url": "https://t.co/3p5zkiklOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985866388809077155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985691888058605690",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让金将军做o圈皇帝吧() https://t.co/3p5zkiklOg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1985866388809077155",
+        "created_at": "2025-11-05T00:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T01:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985866388809077155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/1985691888058605690",
+              "start": 13,
+              "url": "https://t.co/3p5zkiklOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985866388809077155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985691888058605690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让金将军做o圈皇帝吧() https://t.co/3p5zkiklOg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1985691888058605690",
+        "created_at": "2025-11-04T12:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T13:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985691888058605690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/amecandy_x/status/1985664938908795135",
+              "start": 31,
+              "url": "https://t.co/83pjaK6k2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985691888058605690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2570,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985664938908795135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "将军太困了吃唑吡坦，第二天醒来发现梦游到青瓦台和高松灯谈和了 https://t.co/83pjaK6k2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 654,
+          "like_count": 10285,
+          "listed_count": 7,
+          "media_count": 147,
+          "tweet_count": 3218
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/WnyZ64KQD6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/WnyZ64KQD6"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984623073275125760/eoadOp59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4086,
+          "following_count": 57,
+          "like_count": 23,
+          "listed_count": 11,
+          "media_count": 488,
+          "tweet_count": 6076
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

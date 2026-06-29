@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1993164713967206526",
+    "created_at": "2025-11-25T07:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993224807140184064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993224807140184064",
+    "in_reply_to_user_id": "1912109703133646848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993164713967206526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 OD植物学的重大进步！🤤\n鼠尾草素A是阿片kappa受体激动剂和多巴胺D2受体部分激动剂，作用机理很奇怪\n吃这个不需用担心农药，也不用连用一些可能会有造成危险的药物，似乎比喝相思汤安全多了\n不过它不算NPS阿，NPS指的是新型精神活性物质，鼠尾草已经被外国人用了很久了，早就不新了()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1993164713967206526",
+        "created_at": "2025-11-25T07:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993224807140184064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993224807140184064",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993164713967206526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 OD植物学的重大进步！🤤\n鼠尾草素A是阿片kappa受体激动剂和多巴胺D2受体部分激动剂，作用机理很奇怪\n吃这个不需用担心农药，也不用连用一些可能会有造成危险的药物，似乎比喝相思汤安全多了\n不过它不算NPS阿，NPS指的是新型精神活性物质，鼠尾草已经被外国人用了很久了，早就不新了()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912109703133646848",
+        "conversation_id": "1993164713967206526",
+        "created_at": "2025-11-25T03:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993164713967206526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This is a very strong extract, meant for advanced users. For accurate dosage, a milligram scale is required. We do not recommend 20x to most people: dried leaves or 10x extract are usually enough to…",
+              "display_url": "salviaseller.com/product/salvia…",
+              "end": 114,
+              "expanded_url": "https://salviaseller.com/product/salvia-divinorum-20x-extract/",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/1993164717473644547/I6AeNwJQ?format=jpg&name=orig",
+                  "width": 1000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993164717473644547/I6AeNwJQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 91,
+              "status": 200,
+              "title": "Salvia divinorum 20x extract - SalviaSeller",
+              "unwound_url": "https://salviaseller.com/product/salvia-divinorum-20x-extract/?v=1a13105b7e4e",
+              "url": "https://t.co/SvwOe12scv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993164713967206526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 705,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于鼠尾草\n以前一直有个误区，即中国只是为精细化工出口放任合成NPS，因此完全没有想到这个天然NPS竟然不在表，直到前几天有人提醒\n那应该可以直邮啊。如这个店，从西北欧伪装成茶发货\nhttps://t.co/SvwOe12scv\n此物质的迷幻能力比相思还强，breakthrough后几近谵妄。因此需要sitter才可以尝试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 696,
+          "like_count": 13650,
+          "listed_count": 6,
+          "media_count": 175,
+          "tweet_count": 3780
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "もしも願いが葉うなら 夜の空へとほうり投げて与えて\n\n请锁推且fo我的人一定让我回关，好吗？否则我的强迫症会受不了，只好取掉。谢谢。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 110,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 497
+        },
+        "username": "jzm1919810",
+        "verified": false
+      }
+    ]
+  }
+}

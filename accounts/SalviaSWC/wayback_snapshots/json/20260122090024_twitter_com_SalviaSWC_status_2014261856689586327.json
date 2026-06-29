@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014258048089591809"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2014261856689586327",
+    "created_at": "2026-01-22T09:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T10:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014261856689586327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D5JoTIUqst",
+          "end": 169,
+          "expanded_url": "https://x.com/SalviaSWC/status/2014261856689586327/photo/1",
+          "media_key": "3_2014258048089591809",
+          "start": 146,
+          "url": "https://t.co/D5JoTIUqst"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 193,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2014249423824470036",
+          "start": 170,
+          "url": "https://t.co/cBHrC0iluI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014261856689586327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014249423824470036",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "①我们开源的就是藤站的文档，不是鸡站，大家可以去看看来对比验证。\n\n②所有文档均由知情人士提供，且文档存放位置为“补档”文件夹，不是我们自己的。所以我们做的和“偷”搭不上边。\n\n③我们此举的目的是防止数据丢失，并提供给大家编写条目作参考的材料。等我们写过你的时候(很快就是了)，你可别哭啊😁 https://t.co/D5JoTIUqst https://t.co/cBHrC0iluI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1891,
+        "media_key": "3_2014258048089591809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QVBdJaEAEzlnT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014234064929316864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_P_Nc6aYAAjWGk.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014258048089591809"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2014261856689586327",
+        "created_at": "2026-01-22T09:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014261856689586327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D5JoTIUqst",
+              "end": 169,
+              "expanded_url": "https://x.com/SalviaSWC/status/2014261856689586327/photo/1",
+              "media_key": "3_2014258048089591809",
+              "start": 146,
+              "url": "https://t.co/D5JoTIUqst"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2014249423824470036",
+              "start": 170,
+              "url": "https://t.co/cBHrC0iluI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014261856689586327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014249423824470036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "①我们开源的就是藤站的文档，不是鸡站，大家可以去看看来对比验证。\n\n②所有文档均由知情人士提供，且文档存放位置为“补档”文件夹，不是我们自己的。所以我们做的和“偷”搭不上边。\n\n③我们此举的目的是防止数据丢失，并提供给大家编写条目作参考的材料。等我们写过你的时候(很快就是了)，你可别哭啊😁 https://t.co/D5JoTIUqst https://t.co/cBHrC0iluI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014234064929316864"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2014249423824470036",
+        "created_at": "2026-01-22T08:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014249423824470036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHB33pjvqp",
+              "end": 115,
+              "expanded_url": "https://x.com/SalviaSWC/status/2014249423824470036/photo/1",
+              "media_key": "3_2014234064929316864",
+              "start": 92,
+              "url": "https://t.co/gHB33pjvqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014249423824470036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 6,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服了喵，后藤这是急了嘛，窝明确标了“(错乱)”的贴子还能拿出来讨伐，还开地图炮，没完没了了?😡\n\n就算你是ASD，就算你听不懂人话，也不能这样瞎搞啊😢\n\n你现在怎么变成这样了，后藤🥺 https://t.co/gHB33pjvqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 755,
+          "like_count": 18024,
+          "listed_count": 7,
+          "media_count": 227,
+          "tweet_count": 4926
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

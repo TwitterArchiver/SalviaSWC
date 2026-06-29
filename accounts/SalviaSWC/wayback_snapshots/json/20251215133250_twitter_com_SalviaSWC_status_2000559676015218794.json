@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2000559676015218794",
+    "created_at": "2025-12-15T13:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T14:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000559676015218794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huaxuejilebaik…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/huaxuejilebaike/status/2000541303361388800",
+          "start": 133,
+          "url": "https://t.co/S8kVWK42Rd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000559676015218794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000541303361388800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早在大概去年的这个时候，国内药物成瘾期刊就已经出了一个\"1例加巴喷丁类药物成瘾\"的文献，这些流量自媒体总算是赶上了报道\"国内首例\"的步伐，可以整个好活了😁\n这些医生应该也是没办法，被自媒体问到总得说点什么的，不然就是办事不力，自媒体的矛头想必就会对准这些医生的() https://t.co/S8kVWK42Rd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2000541104635265024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NZiQxaQAA_J3Q.jpg",
+        "width": 718
+      },
+      {
+        "height": 801,
+        "media_key": "3_2000541110297661440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NZil3bkAACSkZ.jpg",
+        "width": 720
+      },
+      {
+        "height": 785,
+        "media_key": "3_2000541115615952896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NZi5raQAAJHwq.jpg",
+        "width": 720
+      },
+      {
+        "duration_ms": 100590,
+        "height": 1280,
+        "media_key": "7_2000541101682499584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000541101682499584/pu/img/_DWirdMmaZH72wsc.jpg",
+        "public_metrics": {
+          "view_count": 134
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000541101682499584/pu/vid/avc1/320x568/YxdS2-rGJpcRwF_E.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000541101682499584/pu/vid/avc1/480x852/slI7ID7B4l27duxs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000541101682499584/pu/vid/avc1/720x1280/UefT8jqgDsAl7gnj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000541101682499584/pu/pl/nZubc8EbfeKPl7BJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2000559676015218794",
+        "created_at": "2025-12-15T13:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T14:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000559676015218794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxuejilebaik…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/huaxuejilebaike/status/2000541303361388800",
+              "start": 133,
+              "url": "https://t.co/S8kVWK42Rd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000559676015218794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000541303361388800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早在大概去年的这个时候，国内药物成瘾期刊就已经出了一个\"1例加巴喷丁类药物成瘾\"的文献，这些流量自媒体总算是赶上了报道\"国内首例\"的步伐，可以整个好活了😁\n这些医生应该也是没办法，被自媒体问到总得说点什么的，不然就是办事不力，自媒体的矛头想必就会对准这些医生的() https://t.co/S8kVWK42Rd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000541104635265024",
+            "3_2000541110297661440",
+            "3_2000541115615952896",
+            "7_2000541101682499584"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000541303361388800",
+        "created_at": "2025-12-15T12:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000541303361388800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrC5B57G8k",
+              "end": 38,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2000541303361388800/video/1",
+              "media_key": "3_2000541104635265024",
+              "start": 15,
+              "url": "https://t.co/WrC5B57G8k"
+            },
+            {
+              "display_url": "pic.x.com/WrC5B57G8k",
+              "end": 38,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2000541303361388800/video/1",
+              "media_key": "3_2000541110297661440",
+              "start": 15,
+              "url": "https://t.co/WrC5B57G8k"
+            },
+            {
+              "display_url": "pic.x.com/WrC5B57G8k",
+              "end": 38,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2000541303361388800/video/1",
+              "media_key": "3_2000541115615952896",
+              "start": 15,
+              "url": "https://t.co/WrC5B57G8k"
+            },
+            {
+              "display_url": "pic.x.com/WrC5B57G8k",
+              "end": 38,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2000541303361388800/video/1",
+              "media_key": "7_2000541101682499584",
+              "start": 15,
+              "url": "https://t.co/WrC5B57G8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000541303361388800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "国内首次报道普瑞巴林成瘾案例 https://t.co/WrC5B57G8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 719,
+          "like_count": 15915,
+          "listed_count": 7,
+          "media_count": 188,
+          "tweet_count": 4306
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQtDTs\n交流群:https://t.co/FvFWw9JRYc\n社区:https://t.co/JwQ9mOUfK6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQtDTs"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9JRYc"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 83,
+                "expanded_url": "https://pr80.bid/",
+                "start": 60,
+                "url": "https://t.co/JwQ9mOUfK6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhL9V"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1996947939554648081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995690033203003393/TErFGW0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4587,
+          "following_count": 1449,
+          "like_count": 924,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 1595
+        },
+        "url": "https://t.co/DM4fmdhL9V",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

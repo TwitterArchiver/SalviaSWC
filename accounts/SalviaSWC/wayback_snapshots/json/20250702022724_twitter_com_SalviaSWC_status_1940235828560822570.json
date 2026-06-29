@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1940111691968389435",
+    "created_at": "2025-07-02T02:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T03:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940235828560822570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1637759072115261440",
+          "start": 0,
+          "username": "MiaoZephyr"
+        },
+        {
+          "end": 24,
+          "id": "1774807840039088128",
+          "start": 12,
+          "username": "RAlNY_NlGHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940235828560822570",
+    "in_reply_to_user_id": "1637759072115261440",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940229883688624498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiaoZephyr @RAlNY_NlGHT psychonauntwiki journal()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1940111691968389435",
+        "created_at": "2025-07-02T02:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T03:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940235828560822570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637759072115261440",
+              "start": 0,
+              "username": "MiaoZephyr"
+            },
+            {
+              "end": 24,
+              "id": "1774807840039088128",
+              "start": 12,
+              "username": "RAlNY_NlGHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940235828560822570",
+        "in_reply_to_user_id": "1637759072115261440",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940229883688624498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaoZephyr @RAlNY_NlGHT psychonauntwiki journal()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637759072115261440",
+        "conversation_id": "1940111691968389435",
+        "created_at": "2025-07-02T02:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T03:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940229883688624498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1774807840039088128",
+              "start": 0,
+              "username": "RAlNY_NlGHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940229883688624498",
+        "in_reply_to_user_id": "1774807840039088128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940111691968389435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RAlNY_NlGHT 请问这是什么软件🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 225,
+          "like_count": 3791,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1367
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T10:13:58.000Z",
+        "description": "『彩虹厨房』实验室官方号，研究各种化妆品配方，主营5倍雌二醇凝胶和高浓度美白精华，日雌和色谱龙找@yaoniangmao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "yaoniangmao"
+              }
+            ]
+          }
+        },
+        "id": "1637759072115261440",
+        "name": "小怪兽🏳️‍⚧️",
+        "pinned_tweet_id": "1891718536654913726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773291055452139520/3hyvjI66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 295,
+          "like_count": 3451,
+          "listed_count": 8,
+          "media_count": 140,
+          "tweet_count": 2707
+        },
+        "username": "MiaoZephyr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T14:35:59.000Z",
+        "description": "为什么你们都有喜欢的东西啊 | 文学作品⭕ 术⭕ 药理⭕ 所有事情⭕ 喜欢的事情❌ | 说话风格经常切换 | 发电厂 | 互fo | 长发顺直| 用药&嗑药 | 渴望陪伴 | 我的存在应该会引大家不快吧..",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "您是第829940117位玩家.com",
+                "end": 23,
+                "expanded_url": "http://xn--829940117-8x8n950i0nmuprkq8b3sx.com",
+                "start": 0,
+                "url": "https://t.co/moNvGHWWnY"
+              }
+            ]
+          }
+        },
+        "id": "1774807840039088128",
+        "location": "自杀禁止，违者枪毙",
+        "name": "雨夜空",
+        "pinned_tweet_id": "1940131620872499231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937975875255074816/Gl5A32z3_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 300,
+          "like_count": 2101,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/moNvGHWWnY",
+        "username": "RAlNY_NlGHT",
+        "verified": false
+      }
+    ]
+  }
+}

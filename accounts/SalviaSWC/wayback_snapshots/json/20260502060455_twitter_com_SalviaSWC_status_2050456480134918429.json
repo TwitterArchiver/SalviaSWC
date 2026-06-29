@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2050450626145075535",
+    "created_at": "2026-05-02T06:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050456480134918429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942493462810525696",
+          "start": 0,
+          "username": "AsanagiYori486"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050456480134918429",
+    "in_reply_to_user_id": "1942493462810525696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050450626145075535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsanagiYori486 好哦，出镜了🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2050450620977750016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSp-dzboAAithQ.jpg",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2050450626145075535",
+        "created_at": "2026-05-02T06:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050456480134918429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942493462810525696",
+              "start": 0,
+              "username": "AsanagiYori486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050456480134918429",
+        "in_reply_to_user_id": "1942493462810525696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050450626145075535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsanagiYori486 好哦，出镜了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050450620977750016"
+          ]
+        },
+        "author_id": "1942493462810525696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2050450626145075535",
+        "created_at": "2026-05-02T05:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050450626145075535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "@AsanagiYori486 の交流サークル（目安）。過去30日分の公開データに基づきます。ログイン不要。",
+              "display_url": "nareaitter.hikamer.f5.si/AsanagiYori486",
+              "end": 57,
+              "expanded_url": "http://nareaitter.hikamer.f5.si/AsanagiYori486",
+              "start": 34,
+              "status": 200,
+              "title": "@AsanagiYori486",
+              "unwound_url": "https://nareaitter.hikamer.f5.si/AsanagiYori486",
+              "url": "https://t.co/tix8hGD38L"
+            },
+            {
+              "display_url": "pic.x.com/DVONjvGTDn",
+              "end": 81,
+              "expanded_url": "https://x.com/AsanagiYori486/status/2050450626145075535/photo/1",
+              "media_key": "3_2050450620977750016",
+              "start": 58,
+              "url": "https://t.co/DVONjvGTDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050450626145075535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 60,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter馴れ合いサークル — X の交流をグリッドで一覧表示\nhttps://t.co/tix8hGD38L https://t.co/DVONjvGTDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4251,
+          "following_count": 997,
+          "like_count": 22958,
+          "listed_count": 11,
+          "media_count": 482,
+          "tweet_count": 7384
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T07:58:39.000Z",
+        "description": "第五届中推模拟大选委员会主席｜可以叫我依老师｜蒂蒂最锋利的剑｜研究新派刑法学｜Antitheist｜初始默认温柔人格｜爱好：明日方舟、视奸你｜讨厌：宗教神权，无脑粉红｜不站队，不摇摆｜1+1=2理论坚决反对者｜推：木野日鞠&朝凪依，八百岁比名子&近江汐莉｜写简介而已，又不是写毕业论文，没必要写那么完美”——她如此说到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "g.dev/AsanagiYori",
+                "end": 23,
+                "expanded_url": "https://g.dev/AsanagiYori",
+                "start": 0,
+                "url": "https://t.co/l2o0vDxISp"
+              }
+            ]
+          }
+        },
+        "id": "1942493462810525696",
+        "location": "My realms",
+        "name": "𝓐𝓼𝓪𝓷𝓪𝓰𝓲 𝓨𝓸𝓻𝓲",
+        "pinned_tweet_id": "2050056876839334376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039542257301475328/sq1OcSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 1984,
+          "like_count": 21357,
+          "listed_count": 0,
+          "media_count": 1385,
+          "tweet_count": 6567
+        },
+        "url": "https://t.co/l2o0vDxISp",
+        "username": "AsanagiYori486",
+        "verified": true
+      }
+    ]
+  }
+}

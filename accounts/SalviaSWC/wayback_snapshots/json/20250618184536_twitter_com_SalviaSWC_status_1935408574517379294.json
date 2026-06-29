@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1935340077233942663",
+    "created_at": "2025-06-18T18:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T19:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935408574517379294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1505242521512787969",
+          "start": 0,
+          "username": "lvsefajiaZz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935408574517379294",
+    "in_reply_to_user_id": "1505242521512787969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935351948485738751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvsefajiaZz 😨😨哈人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1935340077233942663",
+        "created_at": "2025-06-18T18:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T19:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935408574517379294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1505242521512787969",
+              "start": 0,
+              "username": "lvsefajiaZz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935408574517379294",
+        "in_reply_to_user_id": "1505242521512787969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935351948485738751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvsefajiaZz 😨😨哈人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242521512787969",
+        "conversation_id": "1935340077233942663",
+        "created_at": "2025-06-18T15:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T16:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935351948485738751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935351948485738751",
+        "in_reply_to_user_id": "1505242521512787969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935340077233942663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对抗失败我妈推门进来了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 135,
+          "like_count": 2906,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1128
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:59:28.000Z",
+        "description": "当扣扣空间发的                                                                      很无聊 不建议关注｜主人@Scarlett_tower",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 89,
+                "username": "Scarlett_tower"
+              }
+            ]
+          }
+        },
+        "id": "1505242521512787969",
+        "name": "绿色发夹",
+        "pinned_tweet_id": "1930607506818027898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919166146424795136/MVbLHt-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 408,
+          "like_count": 3582,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1513
+        },
+        "username": "lvsefajiaZz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1971867049128612070",
+    "created_at": "2025-09-28T06:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T07:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972191499417960651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923770650906238976",
+          "start": 0,
+          "username": "namicf1137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972191499417960651",
+    "in_reply_to_user_id": "1923770650906238976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971867049128612070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@namicf1137 可卡因药效太短，不如咖啡因🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_1971867039619862528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G116oAjX0AACZh1.jpg",
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1971867049128612070",
+        "created_at": "2025-09-28T06:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T07:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972191499417960651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923770650906238976",
+              "start": 0,
+              "username": "namicf1137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972191499417960651",
+        "in_reply_to_user_id": "1923770650906238976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971867049128612070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@namicf1137 可卡因药效太短，不如咖啡因🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971867039619862528"
+          ]
+        },
+        "author_id": "1923770650906238976",
+        "conversation_id": "1971867049128612070",
+        "created_at": "2025-09-27T09:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T10:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971867049128612070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYEwhURsts",
+              "end": 30,
+              "expanded_url": "https://x.com/namicf1137/status/1971867049128612070/photo/1",
+              "media_key": "3_1971867039619862528",
+              "start": 7,
+              "url": "https://t.co/fYEwhURsts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971867049128612070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10058,
+          "like_count": 161,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我文化水平： https://t.co/fYEwhURsts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 495,
+          "like_count": 7878,
+          "listed_count": 5,
+          "media_count": 108,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-17T16:00:52.000Z",
+        "description": "( •᷄ὤ•᷅)？就爱发点废话/爱我给我点钱mua/不要喊我姐姐。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nami18334",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nami18334",
+                "start": 0,
+                "url": "https://t.co/QedWDqNPpw"
+              }
+            ]
+          }
+        },
+        "id": "1923770650906238976",
+        "location": "小事赞赏大事口令",
+        "name": "唉，呐咪",
+        "pinned_tweet_id": "1937629286531498149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968671877930360832/-g-TpKGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 154,
+          "like_count": 3337,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 3461
+        },
+        "url": "https://t.co/QedWDqNPpw",
+        "username": "namicf1137",
+        "verified": false
+      }
+    ]
+  }
+}

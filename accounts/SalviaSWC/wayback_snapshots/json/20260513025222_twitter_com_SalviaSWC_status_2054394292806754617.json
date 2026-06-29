@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2054389157452026335",
+    "created_at": "2026-05-13T02:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T03:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054394292806754617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1106987880566513664",
+          "start": 0,
+          "username": "gaystaipo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054394292806754617",
+    "in_reply_to_user_id": "1106987880566513664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054394088129216975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaystaipo 我指的包括买来奶油瓶还不知道怎么弄的人🥲"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2054394088129216975].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2054394088129216975",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2054394088129216975"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2054389157452026335",
+        "created_at": "2026-05-13T02:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054394292806754617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1106987880566513664",
+              "start": 0,
+              "username": "gaystaipo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054394292806754617",
+        "in_reply_to_user_id": "1106987880566513664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054394088129216975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaystaipo 我指的包括买来奶油瓶还不知道怎么弄的人🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4502,
+          "following_count": 1011,
+          "like_count": 23777,
+          "listed_count": 11,
+          "media_count": 516,
+          "tweet_count": 7655
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-16T18:37:32.000Z",
+        "description": "End the war on drugs！药物文化研究，成瘾问题咨询和支持。安全用药知识，减害信息！药物是政治的。一个很不好的DJ/制作人，药物与现代音乐历史，身体政治与情欲痴迷！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sredemption.com",
+                "end": 23,
+                "expanded_url": "http://sredemption.com",
+                "start": 0,
+                "url": "https://t.co/ddzS95s0dU"
+              }
+            ]
+          }
+        },
+        "id": "1106987880566513664",
+        "location": "Guangzhou",
+        "name": "Gaystaatspo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052463032182489088/j8LaITyS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 847,
+          "like_count": 991,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/ddzS95s0dU",
+        "username": "gaystaipo",
+        "verified": false
+      }
+    ]
+  }
+}

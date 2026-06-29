@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1992051611112481013",
+    "created_at": "2025-11-22T02:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T03:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992059466758668624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "suikahsnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992059466758668624",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992051611112481013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suikahsnya 好哦🥹......"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1992051611112481013].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1992051611112481013",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1992051611112481013"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1992051611112481013",
+        "created_at": "2025-11-22T02:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992059466758668624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "suikahsnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992059466758668624",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992051611112481013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suikahsnya 好哦🥹......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 695,
+          "like_count": 13437,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 3742
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "負能注意❗️/高一/🏳️‍⚧️MtX(F)/Les/hrt🍥114.09.30-11.21/🍰98.12.22/GD/炸櫃/家長否定黨/181-69超大隻/住宿/無證不含糖/民國派🇹🇼/皮下醜國男/坐標上海/抱抱最可愛的姊姊們喵 @Alian123_mtf @N552AA @AGeSang2008",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 115,
+                "username": "Alian123_mtf"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "N552AA"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "AGeSang2008"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/iBBruXvmT7"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "西瓜好酸喵🏳️‍⚧️🍥🍉🧊🍔🍜",
+        "pinned_tweet_id": "1984480011240554687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969054346727059456/GXALGfIo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 1386,
+          "like_count": 6276,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 3215
+        },
+        "url": "https://t.co/iBBruXvmT7",
+        "username": "suikahsnya",
+        "verified": false
+      }
+    ]
+  }
+}

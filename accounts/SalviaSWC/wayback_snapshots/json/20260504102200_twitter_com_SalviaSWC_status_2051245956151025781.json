@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051081846273032192"
+      ],
+      "media_source_tweet_id": [
+        "2051081938853838953"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2051245956151025781",
+    "created_at": "2026-05-04T10:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051245956151025781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663729897062412288",
+          "start": 3,
+          "username": "nejimagari__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6FqAyUO79j",
+          "end": 49,
+          "expanded_url": "https://x.com/nejimagari__/status/2051081938853838953/photo/1",
+          "media_key": "3_2051081846273032192",
+          "start": 26,
+          "url": "https://t.co/6FqAyUO79j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051245956151025781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051081938853838953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nejimagari__: メジコン擬人化 https://t.co/6FqAyUO79j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2051081846273032192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHboEnRbQAATI1Z.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051081846273032192"
+          ],
+          "media_source_tweet_id": [
+            "2051081938853838953"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2051245956151025781",
+        "created_at": "2026-05-04T10:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051245956151025781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663729897062412288",
+              "start": 3,
+              "username": "nejimagari__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6FqAyUO79j",
+              "end": 49,
+              "expanded_url": "https://x.com/nejimagari__/status/2051081938853838953/photo/1",
+              "media_key": "3_2051081846273032192",
+              "start": 26,
+              "url": "https://t.co/6FqAyUO79j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051245956151025781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051081938853838953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nejimagari__: メジコン擬人化 https://t.co/6FqAyUO79j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051081846273032192"
+          ]
+        },
+        "author_id": "1663729897062412288",
+        "conversation_id": "2051081938853838953",
+        "created_at": "2026-05-03T23:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T00:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051081938853838953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6FqAyUO79j",
+              "end": 31,
+              "expanded_url": "https://x.com/nejimagari__/status/2051081938853838953/photo/1",
+              "media_key": "3_2051081846273032192",
+              "start": 8,
+              "url": "https://t.co/6FqAyUO79j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051081938853838953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 4416,
+          "like_count": 330,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "メジコン擬人化 https://t.co/6FqAyUO79j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4308,
+          "following_count": 1006,
+          "like_count": 23131,
+          "listed_count": 11,
+          "media_count": 488,
+          "tweet_count": 7439
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T02:11:42.000Z",
+        "description": "孤独と不幸に処方箋を。 虚無感を抱えて今日を延命。　♡@iseka___i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "iseka___i"
+              }
+            ]
+          }
+        },
+        "id": "1663729897062412288",
+        "location": "インターネットの端っこ",
+        "name": "ねじまがり",
+        "pinned_tweet_id": "1909150367247429854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050394792866246656/4DGyfU6Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 405,
+          "like_count": 4227,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 1949
+        },
+        "username": "nejimagari__",
+        "verified": false
+      }
+    ]
+  }
+}

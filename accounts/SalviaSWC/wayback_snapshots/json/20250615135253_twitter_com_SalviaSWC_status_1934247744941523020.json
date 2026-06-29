@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934247713295495168"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1934247744941523020",
+    "created_at": "2025-06-15T13:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T14:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934247744941523020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EkRfGsUmLi",
+          "end": 40,
+          "expanded_url": "https://x.com/SalviaSWC/status/1934247744941523020/photo/1",
+          "media_key": "3_1934247713295495168",
+          "start": 17,
+          "url": "https://t.co/EkRfGsUmLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934247744941523020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就拆了个愈美片盒子,把手给割了😇 https://t.co/EkRfGsUmLi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934247744941523020].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934247744941523020",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934247744941523020"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_1934247713295495168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfUDBKW8AAJbCh.jpg",
+        "width": 1199
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 115,
+          "like_count": 2584,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 1005
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1930409123893654007",
+    "created_at": "2025-06-05T05:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T06:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930503478482206790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890780517735473152",
+          "start": 0,
+          "username": "wtswaishiteruyo"
+        },
+        {
+          "end": 30,
+          "id": "1867639848569372672",
+          "start": 17,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930503478482206790",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930499242906566664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo @overdose_day 那上面说的要求低温保存的试剂，很多情况下并不需要，查了一下，反苯不需要低温保存，不然为什么片剂形式可以常温\n尤其是快递途中，很多试剂厂保温都做的不到位，半路就变成常温了\n而且反苯有兴奋作用，大大增加生理副作用和坠机风险\ndpt的副作用和坠机风险本来就很高，maoi作用又不大，一定别联用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1930409123893654007",
+        "created_at": "2025-06-05T05:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T06:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930503478482206790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890780517735473152",
+              "start": 0,
+              "username": "wtswaishiteruyo"
+            },
+            {
+              "end": 30,
+              "id": "1867639848569372672",
+              "start": 17,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930503478482206790",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930499242906566664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo @overdose_day 那上面说的要求低温保存的试剂，很多情况下并不需要，查了一下，反苯不需要低温保存，不然为什么片剂形式可以常温\n尤其是快递途中，很多试剂厂保温都做的不到位，半路就变成常温了\n而且反苯有兴奋作用，大大增加生理副作用和坠机风险\ndpt的副作用和坠机风险本来就很高，maoi作用又不大，一定别联用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890780517735473152",
+        "conversation_id": "1930409123893654007",
+        "created_at": "2025-06-05T05:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T06:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930499242906566664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 24,
+              "id": "1867639848569372672",
+              "start": 11,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930499242906566664",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930497282173997419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @overdose_day 反式-2-苯环丙胺\n\n缺点是不太好存放...要低温保存 和家长一块住不好解释放在冰箱里的是啥😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 83,
+          "like_count": 1970,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 835
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy im crazy i dont wanna be",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/qFkb2xwIVC"
+              }
+            ]
+          }
+        },
+        "id": "1890780517735473152",
+        "location": "天堂会有毒品吗",
+        "name": "I love You",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929562149925593088/MSeA3FeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 338,
+          "like_count": 12494,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 4747
+        },
+        "url": "https://t.co/qFkb2xwIVC",
+        "username": "wtswaishiteruyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "无偿分享精神活性化工原料，欢迎访问:https://t.co/bwfCFLxN8g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 41,
+                "expanded_url": "https://overdose.day",
+                "start": 18,
+                "url": "https://t.co/bwfCFLxN8g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1921444982461718757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3297,
+          "following_count": 1469,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

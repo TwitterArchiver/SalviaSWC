@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2034660641361813866",
+    "created_at": "2026-03-19T15:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T16:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034660645837357068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Welcome to the PolitiScales, the online political test. You will be confronted to a series of affirmations and for each of them you will have to click on the button which corresponds the most to your opinion.",
+          "display_url": "politiscales.party",
+          "end": 26,
+          "expanded_url": "https://politiscales.party",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2034563677622554624/XJCIOWiD?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2034563677622554624/XJCIOWiD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 3,
+          "status": 200,
+          "title": "PolitiScales - The political test",
+          "unwound_url": "https://politiscales.party",
+          "url": "https://t.co/H0gfFToBXD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034660645837357068",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034660641361813866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "网址是https://t.co/H0gfFToBXD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034659416704692224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyP9ZuWMAARd05.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2034660641361813866",
+        "created_at": "2026-03-19T15:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034660645837357068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Welcome to the PolitiScales, the online political test. You will be confronted to a series of affirmations and for each of them you will have to click on the button which corresponds the most to your opinion.",
+              "display_url": "politiscales.party",
+              "end": 26,
+              "expanded_url": "https://politiscales.party",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2034563677622554624/XJCIOWiD?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2034563677622554624/XJCIOWiD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 3,
+              "status": 200,
+              "title": "PolitiScales - The political test",
+              "unwound_url": "https://politiscales.party",
+              "url": "https://t.co/H0gfFToBXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034660645837357068",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034660641361813866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网址是https://t.co/H0gfFToBXD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034659416704692224"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2034660641361813866",
+        "created_at": "2026-03-19T15:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034660641361813866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkpSQ8YrzD",
+              "end": 83,
+              "expanded_url": "https://x.com/SalviaSWC/status/2034660641361813866/photo/1",
+              "media_key": "3_2034659416704692224",
+              "start": 60,
+              "url": "https://t.co/MkpSQ8YrzD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034660641361813866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么又出了一个政治光谱测试阿，不得不做一下了😋回复里发网址，推u做了的可以分享一下\n\n不过这结果是何意味😦仅代表个人哈 https://t.co/MkpSQ8YrzD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂用于第四次中推模拟大选🗳️|中推OD党官号🏁|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3445,
+          "following_count": 964,
+          "like_count": 21356,
+          "listed_count": 10,
+          "media_count": 379,
+          "tweet_count": 6355
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

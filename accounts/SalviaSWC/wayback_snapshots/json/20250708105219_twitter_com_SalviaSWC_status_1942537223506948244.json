@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1942522582689026462",
+    "created_at": "2025-07-08T10:52:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T11:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942537223506948244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "378340116",
+          "start": 0,
+          "username": "4_ACO_DMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942537223506948244",
+    "in_reply_to_user_id": "378340116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942522582689026462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4_ACO_DMT k也是兽医用药阿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1942522582689026462",
+        "created_at": "2025-07-08T10:52:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T11:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942537223506948244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "378340116",
+              "start": 0,
+              "username": "4_ACO_DMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942537223506948244",
+        "in_reply_to_user_id": "378340116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942522582689026462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4_ACO_DMT k也是兽医用药阿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "378340116",
+        "conversation_id": "1942522582689026462",
+        "created_at": "2025-07-08T09:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T10:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942522582689026462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942522582689026462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所谓的苯环利定类（PCP）和乙环利定类(PCE)都是垃圾中的垃圾，长期玩多了容易精分，躁狂，我的建议是少碰，自己查下文献去看看PCP是用来做什么的就知道了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 223,
+          "like_count": 3897,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1395
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-23T01:31:13.000Z",
+        "description": "https://t.co/PKH3fo0N8f副主编，欢迎私信咨询问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/PKH3fo0N8f"
+              }
+            ]
+          }
+        },
+        "id": "378340116",
+        "location": "https://www.overdose.day/",
+        "name": "✝️Sakura ✝️",
+        "pinned_tweet_id": "1942466107518116200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942454408991891456/6UbN_3JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 30,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "4_ACO_DMT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2014214553781862867",
+    "created_at": "2026-01-22T15:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014357833610080273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2999680111",
+          "start": 0,
+          "username": "Lingunio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014357833610080273",
+    "in_reply_to_user_id": "2999680111",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014356618025283737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingunio 好🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2014214553781862867",
+        "created_at": "2026-01-22T15:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014357833610080273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2999680111",
+              "start": 0,
+              "username": "Lingunio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014357833610080273",
+        "in_reply_to_user_id": "2999680111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014356618025283737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingunio 好🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2999680111",
+        "conversation_id": "2014214553781862867",
+        "created_at": "2026-01-22T15:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014356618025283737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014356618025283737",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014214553781862867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 宝宝礼貌申请"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 770,
+          "like_count": 18066,
+          "listed_count": 6,
+          "media_count": 229,
+          "tweet_count": 4949
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-28T18:05:51.000Z",
+        "description": "@Lingling1014ovo 重生版！请不要再投诉了🥲 贫乳11年餐券女 od自残 纯绿🚪66 半绿99/128 重庆爸爸活/定制自残/陪玩 只fo喜欢的！IP重庆 顺女 厌蠢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "Lingling1014ovo"
+              }
+            ]
+          }
+        },
+        "id": "2999680111",
+        "name": "Ling伶（王从天降版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007787648698482688/BWlfv4wI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 14,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 85
+        },
+        "username": "Lingunio",
+        "verified": false
+      }
+    ]
+  }
+}

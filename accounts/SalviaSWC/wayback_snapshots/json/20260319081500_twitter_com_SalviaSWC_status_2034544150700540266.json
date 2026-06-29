@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034314553899524096",
+        "3_2034314676524244992"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2034544150700540266",
+    "created_at": "2026-03-19T08:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T09:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034544150700540266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iYXzJWU6bz",
+          "end": 170,
+          "expanded_url": "https://x.com/SalviaSWC/status/2034544150700540266/photo/1",
+          "media_key": "3_2034314553899524096",
+          "start": 147,
+          "url": "https://t.co/iYXzJWU6bz"
+        },
+        {
+          "display_url": "pic.x.com/iYXzJWU6bz",
+          "end": 170,
+          "expanded_url": "https://x.com/SalviaSWC/status/2034544150700540266/photo/1",
+          "media_key": "3_2034314676524244992",
+          "start": 147,
+          "url": "https://t.co/iYXzJWU6bz"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 194,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2034214807881040057",
+          "start": 171,
+          "url": "https://t.co/2RpZR7Bx58"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034544150700540266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034214807881040057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物报告连载day9——冰毒减肥术\n\n贴主制定了一个高度自律的给药和节食规划：他定期服用冰毒以抑制食欲，同时精确计算每天进食的热量，成功减掉了80斤的体重，并自行减量戒断，免于成瘾。\n\n对待成瘾性强的精品神药，我们需要有健康而谨慎的态度，并准备充分，才能从中获益，否则将会陷入成瘾的深渊中。🥹 https://t.co/iYXzJWU6bz https://t.co/2RpZR7Bx58"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2034314553899524096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtWTvqWoAAs1fE.jpg",
+        "width": 1730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2034314676524244992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtWa4eXYAAf-AF.jpg",
+        "width": 1670
+      },
+      {
+        "height": 3276,
+        "media_key": "3_2034214317545975808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDr7JOJXcAA4unJ.jpg",
+        "width": 1416
+      },
+      {
+        "height": 3276,
+        "media_key": "3_2034214474408771584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDr7SWgXwAABlIV.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034314553899524096",
+            "3_2034314676524244992"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2034544150700540266",
+        "created_at": "2026-03-19T08:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034544150700540266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iYXzJWU6bz",
+              "end": 170,
+              "expanded_url": "https://x.com/SalviaSWC/status/2034544150700540266/photo/1",
+              "media_key": "3_2034314553899524096",
+              "start": 147,
+              "url": "https://t.co/iYXzJWU6bz"
+            },
+            {
+              "display_url": "pic.x.com/iYXzJWU6bz",
+              "end": 170,
+              "expanded_url": "https://x.com/SalviaSWC/status/2034544150700540266/photo/1",
+              "media_key": "3_2034314676524244992",
+              "start": 147,
+              "url": "https://t.co/iYXzJWU6bz"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2034214807881040057",
+              "start": 171,
+              "url": "https://t.co/2RpZR7Bx58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034544150700540266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034214807881040057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告连载day9——冰毒减肥术\n\n贴主制定了一个高度自律的给药和节食规划：他定期服用冰毒以抑制食欲，同时精确计算每天进食的热量，成功减掉了80斤的体重，并自行减量戒断，免于成瘾。\n\n对待成瘾性强的精品神药，我们需要有健康而谨慎的态度，并准备充分，才能从中获益，否则将会陷入成瘾的深渊中。🥹 https://t.co/iYXzJWU6bz https://t.co/2RpZR7Bx58"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034214317545975808",
+            "3_2034214474408771584"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2034214807881040057",
+        "created_at": "2026-03-18T10:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034214807881040057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K30s5S7mco",
+              "end": 171,
+              "expanded_url": "https://x.com/SalviaSWC/status/2034214807881040057/photo/1",
+              "media_key": "3_2034214317545975808",
+              "start": 148,
+              "url": "https://t.co/K30s5S7mco"
+            },
+            {
+              "display_url": "pic.x.com/K30s5S7mco",
+              "end": 171,
+              "expanded_url": "https://x.com/SalviaSWC/status/2034214807881040057/photo/1",
+              "media_key": "3_2034214474408771584",
+              "start": 148,
+              "url": "https://t.co/K30s5S7mco"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2033827931445735769",
+              "start": 172,
+              "url": "https://t.co/otOM2wQ7xF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034214807881040057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 5255,
+          "like_count": 59,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033827931445735769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告连载day8——阿片类药物到底是什么感觉\n\n贴主从羟考酮入门阿片类药物滥用；之后升级到注射海洛因；最后被捕入狱，在狱中接受美沙酮治疗。贴子中充满他的人生感悟和对阿片类药物的心得体会。\n\n个人认为，阿片类药物真像是一个交易:它给你幸福的允诺，代价是你对于幸福的理解会被永久彻底颠覆...😢 https://t.co/K30s5S7mco https://t.co/otOM2wQ7xF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3413,
+          "following_count": 966,
+          "like_count": 21309,
+          "listed_count": 10,
+          "media_count": 375,
+          "tweet_count": 6313
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

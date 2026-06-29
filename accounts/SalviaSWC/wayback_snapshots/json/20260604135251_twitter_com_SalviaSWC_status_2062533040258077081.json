@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2062497371666186331",
+    "created_at": "2026-06-04T13:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062533040258077081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1493482825546297349",
+          "start": 0,
+          "username": "maimaiPinkPlus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 146,
+          "expanded_url": "https://x.com/SalviaSWC/status/2062531417167261862",
+          "start": 123,
+          "url": "https://t.co/pLDvZAUi9S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062533040258077081",
+    "in_reply_to_user_id": "1493482825546297349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062531417167261862",
+        "type": "quoted"
+      },
+      {
+        "id": "2062512525464207652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maimaiPinkPlus 所以窝限制了非键政的条件阿🥺也不要以为自己是学生/未成年人，就不会被处罚了。\n\n警察告诉老师也不是什么大不了的事情。况且，说不定警察恰恰是因为怕老师知道你被传唤，于是向警察帮你说好话才没告诉老师的.......\n\nhttps://t.co/pLDvZAUi9S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2062497371666186331",
+        "created_at": "2026-06-04T13:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062533040258077081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493482825546297349",
+              "start": 0,
+              "username": "maimaiPinkPlus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 146,
+              "expanded_url": "https://x.com/SalviaSWC/status/2062531417167261862",
+              "start": 123,
+              "url": "https://t.co/pLDvZAUi9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062533040258077081",
+        "in_reply_to_user_id": "1493482825546297349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062531417167261862",
+            "type": "quoted"
+          },
+          {
+            "id": "2062512525464207652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maimaiPinkPlus 所以窝限制了非键政的条件阿🥺也不要以为自己是学生/未成年人，就不会被处罚了。\n\n警察告诉老师也不是什么大不了的事情。况且，说不定警察恰恰是因为怕老师知道你被传唤，于是向警察帮你说好话才没告诉老师的.......\n\nhttps://t.co/pLDvZAUi9S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2062497371666186331",
+        "created_at": "2026-06-04T13:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062531417167261862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029585628074262528",
+              "start": 0,
+              "username": "Serinda_Aqua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062531417167261862",
+        "in_reply_to_user_id": "2029585628074262528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062528164136698055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serinda_Aqua 联系辅导员又怎么了，难不成辅导员可以向警察告黑状，导致受到更严重的处罚嘛()\n\n况且，我的比较是基于上学与退学/不考高中/不考大学这两种情况的阿🥺即使警察联系辅导员可能会让自己在校受到不好的待遇是坏事，也不能因此而忽视学校帮自己把事情压下去的好事阿。而且，如果形势严峻，可以休学/退学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493482825546297349",
+        "conversation_id": "2062497371666186331",
+        "created_at": "2026-06-04T12:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062512525464207652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062512525464207652",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062497371666186331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我在23年见证被传唤到🍊里去过，当时晶哥说为了我未来还能读书就没给老师说（）\n他说他们要是不心软是有能力让我们这义务教育阶段直接上不了学的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4769,
+          "following_count": 1012,
+          "like_count": 24270,
+          "listed_count": 12,
+          "media_count": 543,
+          "tweet_count": 7838
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T07:10:51.000Z",
+        "description": "maimai苦练中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://www.google.com",
+                "start": 0,
+                "url": "https://t.co/uof72WwZtK"
+              }
+            ]
+          }
+        },
+        "id": "1493482825546297349",
+        "location": "乌蒙地插",
+        "name": "N9ko",
+        "pinned_tweet_id": "1755030644256915715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887895039277223936/7QmCebUw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 1243,
+          "like_count": 11160,
+          "listed_count": 4,
+          "media_count": 245,
+          "tweet_count": 4887
+        },
+        "url": "https://t.co/uof72WwZtK",
+        "username": "maimaiPinkPlus",
+        "verified": false
+      }
+    ]
+  }
+}

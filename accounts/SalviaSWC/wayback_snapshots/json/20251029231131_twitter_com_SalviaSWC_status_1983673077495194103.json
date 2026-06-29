@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1983506269785780622",
+    "created_at": "2025-10-29T23:11:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T00:11:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983673077495194103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933225223416864768",
+          "start": 0,
+          "username": "Araya_Touka_222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983673077495194103",
+    "in_reply_to_user_id": "1933225223416864768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983662959974138349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Araya_Touka_222 这样嘛......🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1983506269785780622",
+        "created_at": "2025-10-29T23:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T00:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983673077495194103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933225223416864768",
+              "start": 0,
+              "username": "Araya_Touka_222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983673077495194103",
+        "in_reply_to_user_id": "1933225223416864768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983662959974138349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Araya_Touka_222 这样嘛......🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933225223416864768",
+        "conversation_id": "1983506269785780622",
+        "created_at": "2025-10-29T22:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T23:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983662959974138349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983662959974138349",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983506269785780622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 但我真的很喜欢喝魔爪诶，没有咖啡因我活不下去了🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 560,
+          "like_count": 9293,
+          "listed_count": 7,
+          "media_count": 128,
+          "tweet_count": 2954
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T18:11:38.000Z",
+        "description": "中文/English/Français \n现居魁北克的ACGN享受者\n我推：爱尔奎特，新谷灯華，咲畑梨深，荻浜茜，克蕾雅(大剑)\nJe me souviens!\n⚠ 我是挺🇺🇦🇮🇱的反川反绿右🐶。\n逃生仓：@Jaime_Rimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "1933225223416864768",
+        "name": "灯華⚜️",
+        "pinned_tweet_id": "1967171868399407510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933232115555975169/fCyh7BT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 7242,
+          "like_count": 23799,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 3544
+        },
+        "username": "Araya_Touka_222",
+        "verified": true
+      }
+    ]
+  }
+}

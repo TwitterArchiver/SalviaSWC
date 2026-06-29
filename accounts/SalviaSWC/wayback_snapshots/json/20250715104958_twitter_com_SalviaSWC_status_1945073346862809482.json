@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1945073339610874093",
+    "created_at": "2025-07-15T10:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T11:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945073346862809482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "doi.org/10.1007/s12264…",
+          "end": 52,
+          "expanded_url": "https://doi.org/10.1007/s12264-013-1330-2",
+          "start": 29,
+          "status": 200,
+          "unwound_url": "https://link.springer.com/article/10.1007/s12264-013-1330-2?error=cookies_not_supported&code=86012d2d-9162-4b0b-8eaf-feb12793423c",
+          "url": "https://t.co/9QtNEmSWIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945073346862809482",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945073343838740607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "参考资料:\n\n外国小哥在论坛上的贴子\n\n苯乙胺神经毒性研究https://t.co/9QtNEmSWIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "参考资料中的研究提出的苯乙胺导致多巴胺能神经元死亡的机理",
+        "height": 1256,
+        "media_key": "3_1945068346874966016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv5FWydWsAAzpDx.jpg",
+        "width": 1780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1945073339610874093",
+        "created_at": "2025-07-15T10:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945073346862809482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "doi.org/10.1007/s12264…",
+              "end": 52,
+              "expanded_url": "https://doi.org/10.1007/s12264-013-1330-2",
+              "start": 29,
+              "status": 200,
+              "unwound_url": "https://link.springer.com/article/10.1007/s12264-013-1330-2?error=cookies_not_supported&code=86012d2d-9162-4b0b-8eaf-feb12793423c",
+              "url": "https://t.co/9QtNEmSWIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945073346862809482",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945073343838740607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考资料:\n\n外国小哥在论坛上的贴子\n\n苯乙胺神经毒性研究https://t.co/9QtNEmSWIn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945068346874966016"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1945073339610874093",
+        "created_at": "2025-07-15T10:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945073343838740607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/836jUMIMG2",
+              "end": 171,
+              "expanded_url": "https://x.com/SalviaSWC/status/1945073343838740607/photo/1",
+              "media_key": "3_1945068346874966016",
+              "start": 148,
+              "url": "https://t.co/836jUMIMG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945073343838740607",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945073339610874093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MAO-B抑制剂(如司来吉兰)一起服用。药效强烈，持续约3个小时，起效剂量约为0.3g。\n副作用包括高血压，心律不齐和宿醉。\n动物研究表明，高剂量的苯乙胺导致多巴胺能神经元凋亡，诱发帕金森病。\n由于副作用和可能的神经毒性，若要服用苯乙胺，建议提前准备反制高血压措施，避免高剂量或长期服用苯乙胺。 https://t.co/836jUMIMG2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 304,
+          "like_count": 4536,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1631
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

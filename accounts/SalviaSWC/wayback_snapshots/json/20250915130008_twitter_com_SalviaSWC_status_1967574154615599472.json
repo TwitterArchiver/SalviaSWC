@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967573653731631104"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1967574154615599472",
+    "created_at": "2025-09-15T13:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T14:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967574154615599472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rp4f8mNtHN",
+          "end": 123,
+          "expanded_url": "https://x.com/SalviaSWC/status/1967574154615599472/photo/1",
+          "media_key": "3_1967573653731631104",
+          "start": 100,
+          "url": "https://t.co/Rp4f8mNtHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967574154615599472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "原来医药界最大丑闻之一(反应停事件)的始作俑者——沙利度胺现在还在卖啊，不过它的商品名不再是“反应停”了，而是被改成了“反映亭”🤓\n医药公司是会起名的，要是不改名字，估计凡是上过高中的人都不会用了😆 https://t.co/Rp4f8mNtHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967573653731631104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0450DwXYAAbg3y.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967573653731631104"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1967574154615599472",
+        "created_at": "2025-09-15T13:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T14:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967574154615599472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rp4f8mNtHN",
+              "end": 123,
+              "expanded_url": "https://x.com/SalviaSWC/status/1967574154615599472/photo/1",
+              "media_key": "3_1967573653731631104",
+              "start": 100,
+              "url": "https://t.co/Rp4f8mNtHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967574154615599472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来医药界最大丑闻之一(反应停事件)的始作俑者——沙利度胺现在还在卖啊，不过它的商品名不再是“反应停”了，而是被改成了“反映亭”🤓\n医药公司是会起名的，要是不改名字，估计凡是上过高中的人都不会用了😆 https://t.co/Rp4f8mNtHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 447,
+          "like_count": 6530,
+          "listed_count": 5,
+          "media_count": 94,
+          "tweet_count": 2293
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

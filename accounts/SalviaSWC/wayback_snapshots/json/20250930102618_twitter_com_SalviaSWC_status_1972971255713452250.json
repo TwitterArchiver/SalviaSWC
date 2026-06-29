@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972967070741463042"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1972971255713452250",
+    "created_at": "2025-09-30T10:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T11:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972971255713452250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eeKWbqZ5VO",
+          "end": 168,
+          "expanded_url": "https://x.com/SalviaSWC/status/1972971255713452250/photo/1",
+          "media_key": "3_1972967070741463042",
+          "start": 145,
+          "url": "https://t.co/eeKWbqZ5VO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972971255713452250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有关化工网站上试剂的规格的一个提醒⚠️!\n如图，化工网站上的某些试剂的规格是液体体积，而不是重量，纯度一行还附带一串读不懂的代码。除非这个试剂在常温下本来就是液体，否则必须留心，以免导致用量过大/过小，实验体中毒!\n图中解释了这串代码的含义。有机溶剂通常有毒，因此买溶液试剂前请做好研究! https://t.co/eeKWbqZ5VO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_1972967070741463042",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FjGP0WgAI0wa2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972967070741463042"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1972971255713452250",
+        "created_at": "2025-09-30T10:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T11:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972971255713452250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeKWbqZ5VO",
+              "end": 168,
+              "expanded_url": "https://x.com/SalviaSWC/status/1972971255713452250/photo/1",
+              "media_key": "3_1972967070741463042",
+              "start": 145,
+              "url": "https://t.co/eeKWbqZ5VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972971255713452250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有关化工网站上试剂的规格的一个提醒⚠️!\n如图，化工网站上的某些试剂的规格是液体体积，而不是重量，纯度一行还附带一串读不懂的代码。除非这个试剂在常温下本来就是液体，否则必须留心，以免导致用量过大/过小，实验体中毒!\n图中解释了这串代码的含义。有机溶剂通常有毒，因此买溶液试剂前请做好研究! https://t.co/eeKWbqZ5VO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 495,
+          "like_count": 7976,
+          "listed_count": 5,
+          "media_count": 111,
+          "tweet_count": 2657
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

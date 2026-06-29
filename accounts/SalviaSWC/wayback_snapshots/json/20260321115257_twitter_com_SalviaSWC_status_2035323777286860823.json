@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2035323777286860823",
+    "created_at": "2026-03-21T11:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T12:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035323777286860823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1942493462810525696",
+          "start": 3,
+          "username": "LengJinOfficial"
+        },
+        {
+          "end": 116,
+          "id": "1913804833481789440",
+          "start": 103,
+          "username": "dubstschwein"
+        },
+        {
+          "end": 132,
+          "id": "2026274135752769537",
+          "start": 117,
+          "username": "Haydendyso3900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035323777286860823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035319070854430964",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @LengJinOfficial: ※选委会已对此行为警告一次\n希望各位党魁、成员引以为戒\n※中推模拟大选为模拟活动，不应与现实政治有任何关联\n※为了尽可能杜绝此类行为再次发生，还请各政党相互监督。\n@dubstschwein\n@Haydendyso3900\n@jiang…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2035323777286860823",
+        "created_at": "2026-03-21T11:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035323777286860823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1942493462810525696",
+              "start": 3,
+              "username": "LengJinOfficial"
+            },
+            {
+              "end": 116,
+              "id": "1913804833481789440",
+              "start": 103,
+              "username": "dubstschwein"
+            },
+            {
+              "end": 132,
+              "id": "2026274135752769537",
+              "start": 117,
+              "username": "Haydendyso3900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035323777286860823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035319070854430964",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @LengJinOfficial: ※选委会已对此行为警告一次\n希望各位党魁、成员引以为戒\n※中推模拟大选为模拟活动，不应与现实政治有任何关联\n※为了尽可能杜绝此类行为再次发生，还请各政党相互监督。\n@dubstschwein\n@Haydendyso3900\n@jiang…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942493462810525696",
+        "conversation_id": "2035319070854430964",
+        "created_at": "2026-03-21T11:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T12:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035319070854430964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "1913804833481789440",
+              "start": 82,
+              "username": "dubstschwein"
+            },
+            {
+              "end": 111,
+              "id": "2026274135752769537",
+              "start": 96,
+              "username": "Haydendyso3900"
+            },
+            {
+              "end": 127,
+              "id": "1774017839726276608",
+              "start": 112,
+              "username": "jiangkedou8964"
+            },
+            {
+              "end": 140,
+              "id": "1681902931564703744",
+              "start": 128,
+              "username": "aim20371231"
+            },
+            {
+              "end": 151,
+              "id": "1829679457411477504",
+              "start": 141,
+              "username": "miaowuqvq"
+            },
+            {
+              "end": 165,
+              "id": "1986828541930119168",
+              "start": 152,
+              "username": "shigure07288"
+            },
+            {
+              "end": 180,
+              "id": "1790448736629301248",
+              "start": 166,
+              "username": "xijinping_bot"
+            },
+            {
+              "end": 194,
+              "id": "1243728830889517056",
+              "start": 181,
+              "username": "MisakaNo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/CSR_2025/statu…",
+              "end": 218,
+              "expanded_url": "https://twitter.com/CSR_2025/status/2035284535529852933",
+              "start": 195,
+              "url": "https://t.co/3BC50D3tOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035319070854430964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 356,
+                "start": 347,
+                "tag": "中推模拟大选公告"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 95,
+                "id": "1913804833481789440",
+                "start": 82,
+                "username": "dubstschwein"
+              },
+              {
+                "end": 111,
+                "id": "2026274135752769537",
+                "start": 96,
+                "username": "Haydendyso3900"
+              },
+              {
+                "end": 127,
+                "id": "1774017839726276608",
+                "start": 112,
+                "username": "jiangkedou8964"
+              },
+              {
+                "end": 140,
+                "id": "1681902931564703744",
+                "start": 128,
+                "username": "aim20371231"
+              },
+              {
+                "end": 151,
+                "id": "1829679457411477504",
+                "start": 141,
+                "username": "miaowuqvq"
+              },
+              {
+                "end": 165,
+                "id": "1986828541930119168",
+                "start": 152,
+                "username": "shigure07288"
+              },
+              {
+                "end": 180,
+                "id": "1790448736629301248",
+                "start": 166,
+                "username": "xijinping_bot"
+              },
+              {
+                "end": 194,
+                "id": "1243728830889517056",
+                "start": 181,
+                "username": "MisakaNo8964"
+              },
+              {
+                "end": 211,
+                "id": "1557541453253038080",
+                "start": 195,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 219,
+                "id": "1890343594248036352",
+                "start": 212,
+                "username": "1s8964"
+              },
+              {
+                "end": 230,
+                "id": "1825991186701524992",
+                "start": 220,
+                "username": "Young2568"
+              },
+              {
+                "end": 242,
+                "id": "1818119930329608192",
+                "start": 231,
+                "username": "KarlRitt3r"
+              },
+              {
+                "end": 254,
+                "id": "1840055457756610560",
+                "start": 243,
+                "username": "hood438371"
+              },
+              {
+                "end": 265,
+                "id": "1957812160421400576",
+                "start": 255,
+                "username": "canton_ss"
+              },
+              {
+                "end": 275,
+                "id": "1882671462210998272",
+                "start": 266,
+                "username": "HosinoEJ"
+              },
+              {
+                "end": 286,
+                "id": "1659962043460354050",
+                "start": 276,
+                "username": "SalviaSWC"
+              },
+              {
+                "end": 301,
+                "id": "1912570131630419968",
+                "start": 289,
+                "username": "wzassg173Qw"
+              },
+              {
+                "end": 316,
+                "id": "1833775663222075392",
+                "start": 302,
+                "username": "SocDemCNBunny"
+              },
+              {
+                "end": 332,
+                "id": "2026274135752769537",
+                "start": 317,
+                "username": "Haydendyso3900"
+              },
+              {
+                "end": 345,
+                "id": "1912570131630419968",
+                "start": 333,
+                "username": "wzassg173Qw"
+              }
+            ]
+          },
+          "text": "※选委会已对此行为警告一次\n希望各位党魁、成员引以为戒\n※中推模拟大选为模拟活动，不应与现实政治有任何关联\n※为了尽可能杜绝此类行为再次发生，还请各政党相互监督。\n@dubstschwein\n@Haydendyso3900\n@jiangkedou8964\n@aim20371231\n@miaowuqvq\n@shigure07288\n@xijinping_bot\n@MisakaNo8964\n@KawawaDiana8964\n@1s8964\n@Young2568\n@KarlRitt3r\n@hood438371\n@canton_ss\n@HosinoEJ\n@SalviaSWC  \n@wzassg173Qw @SocDemCNBunny\n@Haydendyso3900\n@wzassg173Qw\n\n#中推模拟大选公告"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035284535529852933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "※选委会已对此行为警告一次\n希望各位党魁、成员引以为戒\n※中推模拟大选为模拟活动，不应与现实政治有任何关联\n※为了尽可能杜绝此类行为再次发生，还请各政党相互监督。\n@dubstschwein\n@Haydendyso3900\n@jiangkedou8964\n@aim20371231\n@miaowuqvq\n@shigure07288\n@xijinping_bot\n@MisakaNo8964 https://t.co/3BC50D3tOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂为2026中推模拟大选🗳️OD党临时发言号📢|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3565,
+          "following_count": 969,
+          "like_count": 21434,
+          "listed_count": 10,
+          "media_count": 384,
+          "tweet_count": 6388
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T07:58:39.000Z",
+        "description": "第五届中推模拟选举委员会主席｜Atk=0，Def=-100😭｜研究中国司法｜",
+        "id": "1942493462810525696",
+        "location": "My realms",
+        "name": "𝓐𝓼𝓪𝓷𝓪𝓰𝓲 𝓨𝓸𝓻𝓲",
+        "pinned_tweet_id": "2035316409375584766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029219644649996288/tjHOcSWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 1632,
+          "like_count": 15122,
+          "listed_count": 0,
+          "media_count": 1068,
+          "tweet_count": 4774
+        },
+        "username": "LengJinOfficial",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-20T04:00:18.000Z",
+        "description": "🌝 杀光人民行动党, “又将城中所有的，不拘男女老少，牛羊和驴，都用刀杀尽。” 约书亚记 6:20-21🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸 反恐(ANTI人行党恐怖当局☹️🤡👎 ❌❌ 🖕🇸🇬 🖕 ❌❌ 👎 🤡☹️)工作人员.",
+        "id": "1913804833481789440",
+        "location": "Washington, DC",
+        "name": "Lars Fröder",
+        "pinned_tweet_id": "2025952792565981226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952595404836782080/nbhV3Kbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 378,
+          "like_count": 8556,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 2833
+        },
+        "username": "dubstschwein",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T12:33:03.000Z",
+        "description": "National Union for Reform 国民改革联盟",
+        "id": "2026274135752769537",
+        "location": "Delta, British Columbia",
+        "name": "国民改革联盟（National Union for Reform）",
+        "pinned_tweet_id": "2026511227300839709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030245533856792576/XgVTpXsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 64,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 78
+        },
+        "username": "Haydendyso3900",
+        "verified": true
+      }
+    ]
+  }
+}

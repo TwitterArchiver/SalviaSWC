@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2022158791769280581",
+    "created_at": "2026-02-13T08:16:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:16:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022223456381940141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1895598919025115141",
+          "start": 0,
+          "username": "TT_never_TE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022223456381940141",
+    "in_reply_to_user_id": "1895598919025115141",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022220156362272961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TT_never_TE 苟(-)..(-)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2022158791769280581",
+        "created_at": "2026-02-13T08:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022223456381940141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1895598919025115141",
+              "start": 0,
+              "username": "TT_never_TE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022223456381940141",
+        "in_reply_to_user_id": "1895598919025115141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022220156362272961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TT_never_TE 苟(-)..(-)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895598919025115141",
+        "conversation_id": "2022158791769280581",
+        "created_at": "2026-02-13T08:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022220156362272961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022220156362272961",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022158791769280581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 这里还有+1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰没回fo的话，请私信我哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨OD知识开源&去污名化↓请关注FreeODwiki喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 788,
+          "like_count": 18801,
+          "listed_count": 10,
+          "media_count": 272,
+          "tweet_count": 5354
+        },
+        "url": "https://t.co/ki2TerCl7C",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-28T22:17:22.000Z",
+        "description": "操所有发动战争的统治阶层的妈",
+        "id": "1895598919025115141",
+        "location": "TRUE-END",
+        "name": "TT（习近平版）",
+        "pinned_tweet_id": "1999665012881957296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986324877406859264/BbxdoOxC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 100,
+          "like_count": 4125,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 2461
+        },
+        "username": "TT_never_TE",
+        "verified": false
+      }
+    ]
+  }
+}

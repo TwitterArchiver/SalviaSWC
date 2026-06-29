@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1992895048095076795",
+    "created_at": "2025-11-25T03:14:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T04:14:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993156192928158188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1816489710682030080",
+          "start": 0,
+          "username": "keaiiea"
+        },
+        {
+          "end": 19,
+          "id": "1963604135615631360",
+          "start": 9,
+          "username": "y0zarash1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993156192928158188",
+    "in_reply_to_user_id": "1816489710682030080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993049933461831912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keaiiea @y0zarash1 已了解🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1992895048095076795",
+        "created_at": "2025-11-25T03:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T04:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993156192928158188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1816489710682030080",
+              "start": 0,
+              "username": "keaiiea"
+            },
+            {
+              "end": 19,
+              "id": "1963604135615631360",
+              "start": 9,
+              "username": "y0zarash1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993156192928158188",
+        "in_reply_to_user_id": "1816489710682030080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993049933461831912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keaiiea @y0zarash1 已了解🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816489710682030080",
+        "conversation_id": "1992895048095076795",
+        "created_at": "2025-11-24T20:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T21:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993049933461831912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 21,
+              "id": "1963604135615631360",
+              "start": 11,
+              "username": "y0zarash1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993049933461831912",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992895048095076795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @y0zarash1 这是他新号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 696,
+          "like_count": 13629,
+          "listed_count": 6,
+          "media_count": 175,
+          "tweet_count": 3776
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T15:04:46.000Z",
+        "description": "我是jonas\n前世@kira20194922529\n我需要钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "kira20194922529"
+              }
+            ]
+          }
+        },
+        "id": "1816489710682030080",
+        "name": "Jonas",
+        "pinned_tweet_id": "1983196415313752421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983194484243640320/zM9EhOUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 245,
+          "like_count": 7003,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 755
+        },
+        "username": "keaiiea",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T14:05:01.000Z",
+        "description": "星瞳身上是只有东亚人才能体会到的美。as是怪物，阿梓a是怪物，七海是怪物，她们是东亚女性，是沙文主义a，是强权，星瞳不是，她是顺从，是担忧，是献身，是毁灭，是内心深处的自轻自贱，她是紫姬，是洛丽塔，是爱丽丝，是马蒂尔达。东亚女性千百年来被视作美的事物被安排在一个虚拟女主播身上，美艳的不可方物",
+        "id": "1963604135615631360",
+        "location": "82568",
+        "name": "正乐瞳孙",
+        "pinned_tweet_id": "1973353582759125380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983987875856445442/vXFG3f5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 37,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 106
+        },
+        "username": "y0zarash1",
+        "verified": false
+      }
+    ]
+  }
+}

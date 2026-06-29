@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1951991864543862915",
+    "created_at": "2025-08-03T16:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T17:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952040084091379799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465305643313950720",
+          "start": 0,
+          "username": "YAODWiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952040084091379799",
+    "in_reply_to_user_id": "1465305643313950720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952039738988429749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YAODWiki 昂......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1951991864543862915",
+        "created_at": "2025-08-03T16:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T17:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952040084091379799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465305643313950720",
+              "start": 0,
+              "username": "YAODWiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952040084091379799",
+        "in_reply_to_user_id": "1465305643313950720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952039738988429749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YAODWiki 昂......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465305643313950720",
+        "conversation_id": "1951991864543862915",
+        "created_at": "2025-08-03T16:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T17:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952039738988429749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952039738988429749",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952037045888524564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 改成注册就有编辑权限了，但是我不知道怎么引流X﹏X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 361,
+          "like_count": 5284,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1900
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-29T13:04:33.000Z",
+        "description": "又一个 OD 百科 | Yet Another OverDose Wiki | 号主不太懂药理、药效，如有讹误敬请不吝指正",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.work",
+                "end": 23,
+                "expanded_url": "https://overdose.work/",
+                "start": 0,
+                "url": "https://t.co/3716YCJMYE"
+              }
+            ]
+          }
+        },
+        "id": "1465305643313950720",
+        "location": "Sri Lanka",
+        "name": "Yet Another OD 百科",
+        "pinned_tweet_id": "1911071259095605484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910652528167182344/0AqYwXqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 154,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/3716YCJMYE",
+        "username": "YAODWiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1936387264377958584",
+    "created_at": "2025-06-21T17:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T18:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936479755366211586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1434036934079307778",
+          "start": 0,
+          "username": "XZX628496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936479755366211586",
+    "in_reply_to_user_id": "1434036934079307778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936444102754869493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XZX628496 可以的,这样弄得到的是固体,方便在每一步计算产率.但是这样的话需要蒸馏很多有机溶剂,必须要气密性设备,不然人会中毒,要求也高."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1936387264377958584",
+        "created_at": "2025-06-21T17:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T18:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936479755366211586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1434036934079307778",
+              "start": 0,
+              "username": "XZX628496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936479755366211586",
+        "in_reply_to_user_id": "1434036934079307778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936444102754869493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XZX628496 可以的,这样弄得到的是固体,方便在每一步计算产率.但是这样的话需要蒸馏很多有机溶剂,必须要气密性设备,不然人会中毒,要求也高."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434036934079307778",
+        "conversation_id": "1936387264377958584",
+        "created_at": "2025-06-21T15:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936444102754869493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936444102754869493",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936387264377958584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 这样如何\n预处理:向不纯的CHCl3中加少量乙醇，蒸馏\n1.Na2CO3，液烃萃取，分液\n2.有机相蒸馏出溶剂，回收\n3.加入NaBr和40%H2SO4，加热回流\n4.用CHCl3萃取，分液\n5.有机相蒸馏出溶剂，回收"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 172,
+          "like_count": 3219,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1219
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-04T06:13:56.000Z",
+        "description": "",
+        "id": "1434036934079307778",
+        "name": "628496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845134398842339328/dslGFZj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 116
+        },
+        "username": "XZX628496",
+        "verified": false
+      }
+    ]
+  }
+}

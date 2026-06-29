@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1977667124694065334",
+    "created_at": "2025-10-13T09:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T10:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977667124694065334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaosong2_33/s…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/xiaosong2_33/status/1977613562387550237",
+          "start": 27,
+          "url": "https://t.co/Gf2krYbTay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977667124694065334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977613562387550237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那窝可要多多炒作炒作了🤓☝\n大家觉得什么主题适合炒作 https://t.co/Gf2krYbTay"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1977667124694065334",
+        "created_at": "2025-10-13T09:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T10:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977667124694065334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosong2_33/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/xiaosong2_33/status/1977613562387550237",
+              "start": 27,
+              "url": "https://t.co/Gf2krYbTay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977667124694065334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977613562387550237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那窝可要多多炒作炒作了🤓☝\n大家觉得什么主题适合炒作 https://t.co/Gf2krYbTay"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938866971669606400",
+        "conversation_id": "1977613562387550237",
+        "created_at": "2025-10-13T05:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T06:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977613562387550237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977613562387550237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1035,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥对o圈的统治就是从你们都去看那个几把药物百科开始的\n\n这年头真的是谁都能当药师，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 506,
+          "like_count": 8393,
+          "listed_count": 6,
+          "media_count": 116,
+          "tweet_count": 2734
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T07:48:19.000Z",
+        "description": "现odw官号的言论与本人无关，特此声明\n联系方式\nhttps://t.co/9EoQ9U5qze",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 48,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 25,
+                "url": "https://t.co/9EoQ9U5qze"
+              }
+            ]
+          }
+        },
+        "id": "1938866971669606400",
+        "name": "xiaosong 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939362088347955200/7VRVMTFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 87,
+          "like_count": 763,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 248
+        },
+        "username": "xiaosong2_33",
+        "verified": false
+      }
+    ]
+  }
+}

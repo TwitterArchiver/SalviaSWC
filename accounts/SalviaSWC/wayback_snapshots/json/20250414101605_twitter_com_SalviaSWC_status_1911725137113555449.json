@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1911725115512963485",
+    "created_at": "2025-04-14T10:16:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T11:16:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911725137113555449"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1911725137113555449",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911725132445307203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此外，还要避免策划药的概念在墙内的传播。虽然墙内人对于服用“仅供科研，不得服用”的试剂并不热衷，也没有先例(?)但是大量传播导致跟风模仿，造成更多事故，重蹈右美沙芬覆辙。\n如果与策划药有关的事件多次出现，加上美国加征关税导致利润减小，政府就会加大对于策划药的管制力度，到时候铁拳就来了."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1911725115512963485",
+        "created_at": "2025-04-14T10:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T11:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911725137113555449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911725137113555449",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911725132445307203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此外，还要避免策划药的概念在墙内的传播。虽然墙内人对于服用“仅供科研，不得服用”的试剂并不热衷，也没有先例(?)但是大量传播导致跟风模仿，造成更多事故，重蹈右美沙芬覆辙。\n如果与策划药有关的事件多次出现，加上美国加征关税导致利润减小，政府就会加大对于策划药的管制力度，到时候铁拳就来了."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1911725115512963485",
+        "created_at": "2025-04-14T10:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T11:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911725132445307203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911725132445307203",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911725128427110888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于策划药来说，对外卖药获取利益。对内禁止流通，限制媒体，一旦发现迅速列管，最大化与策划药有关利益。\n对于我们来说，如果要为了尽可能避免策划药被禁，我们就应该在使用策划药时注意安全，不要出现被捕、住院、死亡的情况。这些情况是策划药造成危害的铁证，为政府提供充足理由列管这种策划药。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 52,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 325
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

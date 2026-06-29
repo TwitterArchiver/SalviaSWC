@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1951991864543862915",
+    "created_at": "2025-08-03T15:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T16:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952034262716211338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465305643313950720",
+          "start": 0,
+          "username": "YAODWiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952034262716211338",
+    "in_reply_to_user_id": "1465305643313950720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952034132810432658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YAODWiki 让我看看🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1951991864543862915",
+        "created_at": "2025-08-03T15:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952034262716211338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465305643313950720",
+              "start": 0,
+              "username": "YAODWiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952034262716211338",
+        "in_reply_to_user_id": "1465305643313950720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952034132810432658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YAODWiki 让我看看🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1465305643313950720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1951991864543862915",
+        "created_at": "2025-08-03T15:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952034132810432658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "description": "又一个 OD 百科. Contribute to YA-OD-Wiki/Yet-Another-OverDose-Wiki development by creating an account on GitHub.",
+              "display_url": "github.com/YA-OD-Wiki/Yet…",
+              "end": 47,
+              "expanded_url": "https://github.com/YA-OD-Wiki/Yet-Another-OverDose-Wiki",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1952034136795041792/ZX-hHbVQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1952034136795041792/ZX-hHbVQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "GitHub - YA-OD-Wiki/Yet-Another-OverDose-Wiki: 又一个 OD 百科",
+              "unwound_url": "https://github.com/YA-OD-Wiki/Yet-Another-OverDose-Wiki",
+              "url": "https://t.co/tBEwcTACKc"
+            },
+            {
+              "description": "Yet Another OverDose 百科 是又一个 OD 百科。 本百科的宗旨是搜集、提供药物相关知识和案例，减少过量用药的危害，改善用药者的个体生活和社会功能。",
+              "display_url": "overdose.work",
+              "end": 82,
+              "expanded_url": "http://overdose.work",
+              "start": 59,
+              "status": 200,
+              "title": "欢迎来到 Yet Another OverDose 百科",
+              "unwound_url": "https://overdose.work/",
+              "url": "https://t.co/tvn7oAFfeQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952034132810432658",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951991864543862915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我配了和GitHub仓库（https://t.co/tBEwcTACKc）双向同步的wiki：\nhttps://t.co/tvn7oAFfeQ\n并且从odwiki导入了一些老条目。编辑权限的话wiki开放了用户注册，没开放随意编辑是怕恶意破坏，不过大概是我想多了，实则压根没人来orz，请问推主有兴趣吗？🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 361,
+          "like_count": 5280,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1896
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-29T13:04:33.000Z",
+        "description": "又一个 OD 百科 | Yet Another OverDose Wiki | 号主不太懂药理、药效，如有讹误敬请不吝指正",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.work",
+                "end": 23,
+                "expanded_url": "https://overdose.work/",
+                "start": 0,
+                "url": "https://t.co/3716YCJMYE"
+              }
+            ]
+          }
+        },
+        "id": "1465305643313950720",
+        "location": "Sri Lanka",
+        "name": "Yet Another OD 百科",
+        "pinned_tweet_id": "1911071259095605484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910652528167182344/0AqYwXqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 154,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/3716YCJMYE",
+        "username": "YAODWiki",
+        "verified": false
+      }
+    ]
+  }
+}

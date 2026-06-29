@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1949214623850525029",
+    "created_at": "2025-07-27T15:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T16:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949490888628973670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894359849812856834",
+          "start": 0,
+          "username": "x_overdose_day"
+        },
+        {
+          "end": 29,
+          "id": "1811843582229381123",
+          "start": 16,
+          "username": "RainduRhinns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949490888628973670",
+    "in_reply_to_user_id": "1894359849812856834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949267422017638905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x_overdose_day @RainduRhinns 我觉得时间短是好处阿，药效太长了就容易似或者疯🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1949214623850525029",
+        "created_at": "2025-07-27T15:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T16:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949490888628973670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894359849812856834",
+              "start": 0,
+              "username": "x_overdose_day"
+            },
+            {
+              "end": 29,
+              "id": "1811843582229381123",
+              "start": 16,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949490888628973670",
+        "in_reply_to_user_id": "1894359849812856834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949267422017638905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x_overdose_day @RainduRhinns 我觉得时间短是好处阿，药效太长了就容易似或者疯🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894359849812856834",
+        "conversation_id": "1949214623850525029",
+        "created_at": "2025-07-27T00:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T01:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949267422017638905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811843582229381123",
+              "start": 0,
+              "username": "RainduRhinns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949267422017638905",
+        "in_reply_to_user_id": "1811843582229381123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949214623850525029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainduRhinns 时间太短了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 338,
+          "like_count": 4812,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1707
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:12:45.000Z",
+        "description": "wiki主:Sakura\n投稿请私信我\n欢迎访问https://t.co/Q0GM3RbtYz\nSakura的博客:https://t.co/4kNEb83oWR\n官方tg频道:https://t.co/W1o7mgfirc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 47,
+                "expanded_url": "https://overdose.day",
+                "start": 24,
+                "url": "https://t.co/Q0GM3RbtYz"
+              },
+              {
+                "display_url": "dmt.onl",
+                "end": 81,
+                "expanded_url": "https://dmt.onl",
+                "start": 58,
+                "url": "https://t.co/4kNEb83oWR"
+              },
+              {
+                "display_url": "t.me/overdose_dxm",
+                "end": 112,
+                "expanded_url": "https://t.me/overdose_dxm",
+                "start": 89,
+                "url": "https://t.co/W1o7mgfirc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day",
+                "start": 0,
+                "url": "https://t.co/Q0GM3RbtYz"
+              }
+            ]
+          }
+        },
+        "id": "1894359849812856834",
+        "location": "✝️天国✝️",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1949295980140220575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942170925098536960/cpWSRmjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 308,
+          "like_count": 176,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/Q0GM3RbtYz",
+        "username": "x_overdose_day",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "友跨顺男 想和小男孩谈恋爱bot 性压抑国男PhD 没救正太控 1S喜欢spank",
+        "id": "1811843582229381123",
+        "name": "Rhinns",
+        "pinned_tweet_id": "1893911464898879736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 634,
+          "like_count": 2588,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 475
+        },
+        "username": "RainduRhinns",
+        "verified": false
+      }
+    ]
+  }
+}

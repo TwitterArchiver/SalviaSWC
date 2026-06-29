@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1927349905015603341",
+    "created_at": "2025-05-27T13:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T14:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927355968553095554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835764493231751168",
+          "start": 0,
+          "username": "mirekintoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927355968553095554",
+    "in_reply_to_user_id": "1835764493231751168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927349905015603341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirekintoc 你才初三，为什么要退役"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1927349905015603341",
+        "created_at": "2025-05-27T13:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927355968553095554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835764493231751168",
+              "start": 0,
+              "username": "mirekintoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927355968553095554",
+        "in_reply_to_user_id": "1835764493231751168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927349905015603341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirekintoc 你才初三，为什么要退役"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835764493231751168",
+        "conversation_id": "1927349905015603341",
+        "created_at": "2025-05-27T13:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927349905015603341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927349905015603341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "越来越发现不得不面对一个恐怖的真相，OIer 对信竞，或者说对社群，常常是有精神支柱级别的情感的，我也如此。\n对我来说，竞赛的期望前途真的比文化课更优吗？其实未必。让我坚定这条路的，是情感，对社群文化的认同与对其他选手的相互依赖。\n很难说退役会造成什么结果，翻车或精神问题吗？无法得知。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 74,
+          "like_count": 1535,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 709
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T19:36:00.000Z",
+        "description": "✨正在被文化课创飞｜09 年初三 OIer｜代词随意｜浙江杭州｜顺男，对人属生物个体友好｜拒绝鉴证｜ENTP-A｜朋友 @ninety_nine199｜妹妹 @MinaseAyano & @LiciiQAQ｜新小号 @omkechan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "ninety_nine199"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "omkechan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mirekintocvoid",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mirekintocvoid",
+                "start": 0,
+                "url": "https://t.co/Gm4k8wa7mW"
+              }
+            ]
+          }
+        },
+        "id": "1835764493231751168",
+        "location": "VALEINT SHIN",
+        "name": "Mirekintoc",
+        "pinned_tweet_id": "1917620497195622553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861219984820912128/yCyrRBXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 864,
+          "like_count": 4467,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 1893
+        },
+        "url": "https://t.co/Gm4k8wa7mW",
+        "username": "mirekintoc",
+        "verified": false
+      }
+    ]
+  }
+}

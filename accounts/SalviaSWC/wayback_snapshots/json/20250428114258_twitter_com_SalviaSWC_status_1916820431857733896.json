@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1916820431857733896",
+    "created_at": "2025-04-28T11:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T12:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1916820431857733896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miaoning000/st…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/miaoning000/status/1916812716330938683",
+          "start": 144,
+          "url": "https://t.co/DMwfw4NwMZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916820431857733896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916812716330938683",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这可能就是普瑞巴林迟迟没有被列管的原因之一()\n最后药都被列管了，不愿吸毒的人就会开始转向化学试剂，即策划药\n众所周知，我国是全球策划药最主要产地，但从未在国内流行\n一旦策划药开始流行，管制的后果就严重，轻则丧失收入，重则阻碍科研\n所以，尽管当局知道普瑞巴林被滥用，迟迟不列管也有其考量 https://t.co/DMwfw4NwMZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1916820431857733896",
+        "created_at": "2025-04-28T11:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T12:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916820431857733896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miaoning000/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/miaoning000/status/1916812716330938683",
+              "start": 144,
+              "url": "https://t.co/DMwfw4NwMZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916820431857733896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916812716330938683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这可能就是普瑞巴林迟迟没有被列管的原因之一()\n最后药都被列管了，不愿吸毒的人就会开始转向化学试剂，即策划药\n众所周知，我国是全球策划药最主要产地，但从未在国内流行\n一旦策划药开始流行，管制的后果就严重，轻则丧失收入，重则阻碍科研\n所以，尽管当局知道普瑞巴林被滥用，迟迟不列管也有其考量 https://t.co/DMwfw4NwMZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764820595387305984",
+        "conversation_id": "1916812716330938683",
+        "created_at": "2025-04-28T11:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T12:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916812716330938683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdose_day/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/overdose_day/status/1916780778832495056",
+              "start": 139,
+              "url": "https://t.co/LDfe9ONaXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916812716330938683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916780778832495056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右美被禁之前我一直都很害怕右美耐药，因为我知道其他药物带来的痛苦，我od的动机很大一部分是源于自毁心理，在右美被禁以后我比以前更频繁的使用烷胺，这期间还有奈福泮，硝苯地平，茶苯海明等等的药物。吃过苯海索以后可以说禁止右美非但没有停止我的od，反而让我探索了更多药物过量的可能性 https://t.co/LDfe9ONaXu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 60,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 451
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高一的网络寄生虫/MTX/ overdose💊/我真的很友善不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 2285,
+          "like_count": 12355,
+          "listed_count": 3,
+          "media_count": 298,
+          "tweet_count": 5366
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

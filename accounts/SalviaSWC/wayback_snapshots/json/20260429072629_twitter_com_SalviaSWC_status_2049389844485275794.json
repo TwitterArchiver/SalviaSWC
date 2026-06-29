@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049388857762689024"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2049389844485275794",
+    "created_at": "2026-04-29T07:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T08:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049389844485275794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iszAyjl9l4",
+          "end": 176,
+          "expanded_url": "https://x.com/SalviaSWC/status/2049389844485275794/photo/1",
+          "media_key": "3_2049388857762689024",
+          "start": 153,
+          "url": "https://t.co/iszAyjl9l4"
+        },
+        {
+          "display_url": "x.com/wangjupaian/st…",
+          "end": 200,
+          "expanded_url": "https://twitter.com/wangjupaian/status/2048989273941315782",
+          "start": 177,
+          "url": "https://t.co/XQyfBa0HW2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049389844485275794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048989273941315782",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "GHB致死事件引起轩然大波，药圈遭遇飞来横祸😨\n\n以前的社群共识认为，扩散OD的主体往往是ODer、wiki主和禁毒媒体。而这次事件，则是公众人物也能堂而皇之地扩散OD，并引发恶劣社会影响的铁证。\n\n现在，谁都知道在淘宝上能轻易买到“迷奸水”了。药圈将会如何回应此次冲击?🤓\n\n冷知识：罗淼曾发文力挺姜萍 https://t.co/iszAyjl9l4 https://t.co/XQyfBa0HW2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2049388857762689024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDkTtmWsAAnGUE.jpg",
+        "width": 750
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2048989268329332736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG944i9bgAAPv5t.jpg",
+        "width": 793
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048989268329304065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG944i9bEAEpESS.jpg",
+        "width": 920
+      },
+      {
+        "height": 1101,
+        "media_key": "3_2048989268333449216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG944i-aUAA03OW.jpg",
+        "width": 610
+      },
+      {
+        "height": 1508,
+        "media_key": "3_2048989268337684480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG944i_a8AA7BcB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049388857762689024"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2049389844485275794",
+        "created_at": "2026-04-29T07:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049389844485275794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iszAyjl9l4",
+              "end": 176,
+              "expanded_url": "https://x.com/SalviaSWC/status/2049389844485275794/photo/1",
+              "media_key": "3_2049388857762689024",
+              "start": 153,
+              "url": "https://t.co/iszAyjl9l4"
+            },
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2048989273941315782",
+              "start": 177,
+              "url": "https://t.co/XQyfBa0HW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049389844485275794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048989273941315782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GHB致死事件引起轩然大波，药圈遭遇飞来横祸😨\n\n以前的社群共识认为，扩散OD的主体往往是ODer、wiki主和禁毒媒体。而这次事件，则是公众人物也能堂而皇之地扩散OD，并引发恶劣社会影响的铁证。\n\n现在，谁都知道在淘宝上能轻易买到“迷奸水”了。药圈将会如何回应此次冲击?🤓\n\n冷知识：罗淼曾发文力挺姜萍 https://t.co/iszAyjl9l4 https://t.co/XQyfBa0HW2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048989268329332736",
+            "3_2048989268329304065",
+            "3_2048989268333449216",
+            "3_2048989268337684480"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2048989273941315782",
+        "created_at": "2026-04-28T04:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048989273941315782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G8UzDqTLkd",
+              "end": 116,
+              "expanded_url": "https://x.com/wangjupaian/status/2048989273941315782/photo/1",
+              "media_key": "3_2048989268329332736",
+              "start": 93,
+              "url": "https://t.co/G8UzDqTLkd"
+            },
+            {
+              "display_url": "pic.x.com/G8UzDqTLkd",
+              "end": 116,
+              "expanded_url": "https://x.com/wangjupaian/status/2048989273941315782/photo/1",
+              "media_key": "3_2048989268329304065",
+              "start": 93,
+              "url": "https://t.co/G8UzDqTLkd"
+            },
+            {
+              "display_url": "pic.x.com/G8UzDqTLkd",
+              "end": 116,
+              "expanded_url": "https://x.com/wangjupaian/status/2048989273941315782/photo/1",
+              "media_key": "3_2048989268333449216",
+              "start": 93,
+              "url": "https://t.co/G8UzDqTLkd"
+            },
+            {
+              "display_url": "pic.x.com/G8UzDqTLkd",
+              "end": 116,
+              "expanded_url": "https://x.com/wangjupaian/status/2048989273941315782/photo/1",
+              "media_key": "3_2048989268337684480",
+              "start": 93,
+              "url": "https://t.co/G8UzDqTLkd"
+            },
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2048888172038533395",
+              "start": 117,
+              "url": "https://t.co/M5dmt5Z136"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048989273941315782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【淘宝售卖“迷奸水”几十块一瓶？遭奇葩说辩手举报，紧急下架】\n\n4月27日，《奇葩说》第三季辩手罗淼发文举报称，1,4-丁二醇在淘宝平台上可低价购买，“几十块一大瓶随便买”，引发关注。\n\n罗淼指出，在深圳一名15岁女孩在酒吧被毒害的案件中，犯罪分子使用的正是1,4-丁二醇。该物质是γ-羟基丁酸（GHB）直接前体，被国家禁毒办点名为危险化学品。\n\n相关信息曝光后，引发舆论对平台审核机制及危险物质流通问题的讨论。\n\n4月28日，罗淼再次发帖称，“更新：淘宝刚刚已经全面下架1,4-丁二醇”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 61197,
+          "like_count": 89,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048888172038533395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【淘宝售卖“迷奸水”几十块一瓶？遭奇葩说辩手举报，紧急下架】\n\n4月27日，《奇葩说》第三季辩手罗淼发文举报称，1,4-丁二醇在淘宝平台上可低价购买，“几十块一大瓶随便买”，引发关注。 https://t.co/G8UzDqTLkd https://t.co/M5dmt5Z136"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4095,
+          "following_count": 992,
+          "like_count": 22766,
+          "listed_count": 11,
+          "media_count": 472,
+          "tweet_count": 7303
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jWWoT"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2049303170409746762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129826,
+          "following_count": 299,
+          "like_count": 262,
+          "listed_count": 376,
+          "media_count": 6434,
+          "tweet_count": 7136
+        },
+        "url": "https://t.co/FWdZ3jWWoT",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

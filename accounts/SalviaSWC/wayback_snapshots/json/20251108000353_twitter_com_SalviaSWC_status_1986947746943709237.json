@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1986785657411272884",
+    "created_at": "2025-11-08T00:03:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T01:03:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986947746943709237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741220157463379968",
+          "start": 0,
+          "username": "xialing253446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986947746943709237",
+    "in_reply_to_user_id": "1741220157463379968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986844002080203111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xialing253446 (悲)\n这就是本游戏要模拟的🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1986785657411272884",
+        "created_at": "2025-11-08T00:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T01:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986947746943709237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741220157463379968",
+              "start": 0,
+              "username": "xialing253446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986947746943709237",
+        "in_reply_to_user_id": "1741220157463379968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986844002080203111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xialing253446 (悲)\n这就是本游戏要模拟的🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741220157463379968",
+        "conversation_id": "1986785657411272884",
+        "created_at": "2025-11-07T17:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986844002080203111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986844002080203111",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986785657411272884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 而且禁毒的同时也扩散了od，不过好处在于接受到禁毒宣传的人如果是健全人不会od，但是如果已经变成抽象b了就会od，而且健全人变成抽象b了也有概率开始od（比如我）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 666,
+          "like_count": 10644,
+          "listed_count": 7,
+          "media_count": 155,
+          "tweet_count": 3355
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T22:10:20.000Z",
+        "description": "配乐低手/计算机低手/提供免费药物咨询/日本語勉強中/LGBT or mtf friendly/耐o王/FOW参与者/日留/烂片爱好者/求互fo😭😭😭\n\n/特别承接---✝天国行超特急✝",
+        "id": "1741220157463379968",
+        "location": "✝天国✝",
+        "name": "xialingXD🚥",
+        "pinned_tweet_id": "1985871403762209009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985039472711634944/HAf4aZYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 221,
+          "like_count": 685,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 599
+        },
+        "username": "xialing253446",
+        "verified": false
+      }
+    ]
+  }
+}

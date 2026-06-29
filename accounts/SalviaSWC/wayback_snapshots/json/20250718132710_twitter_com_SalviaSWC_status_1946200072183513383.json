@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1946200065476809052",
+    "created_at": "2025-07-18T13:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T14:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946200072183513383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "erowid.org/experiences/su…",
+          "end": 39,
+          "expanded_url": "https://www.erowid.org/experiences/subs/exp_Nutmeg.shtml",
+          "start": 16,
+          "unwound_url": "https://www.erowid.org/experiences/subs/exp_Nutmeg.shtml",
+          "url": "https://t.co/vasvf7KvRr"
+        },
+        {
+          "display_url": "reddit.com/r/nutmeg/",
+          "end": 74,
+          "expanded_url": "https://www.reddit.com/r/nutmeg/",
+          "start": 51,
+          "url": "https://t.co/yiQxBUEnYr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946200072183513383",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946200069167821300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "参考资料:\nErowid上的报告https://t.co/vasvf7KvRr\n肉豆蔻的reddit https://t.co/yiQxBUEnYr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1946200065476809052",
+        "created_at": "2025-07-18T13:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T14:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946200072183513383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "erowid.org/experiences/su…",
+              "end": 39,
+              "expanded_url": "https://www.erowid.org/experiences/subs/exp_Nutmeg.shtml",
+              "start": 16,
+              "unwound_url": "https://www.erowid.org/experiences/subs/exp_Nutmeg.shtml",
+              "url": "https://t.co/vasvf7KvRr"
+            },
+            {
+              "display_url": "reddit.com/r/nutmeg/",
+              "end": 74,
+              "expanded_url": "https://www.reddit.com/r/nutmeg/",
+              "start": 51,
+              "url": "https://t.co/yiQxBUEnYr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946200072183513383",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946200069167821300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "参考资料:\nErowid上的报告https://t.co/vasvf7KvRr\n肉豆蔻的reddit https://t.co/yiQxBUEnYr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1946200065476809052",
+        "created_at": "2025-07-18T13:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T14:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946200069167821300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946200069167821300",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946200065476809052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这方面的中文信息不是很多，如果感兴趣，请自行上外网查阅。\n肉豆蔻含有单胺氧化酶抑制剂，不可与S/N/DRI联用。 有报告者称，单次服用中等剂量的肉豆蔻，就导致了长期记忆力问题。有体外研究表明肉豆蔻含有的肉豆蔻醚具有细胞毒性。药效会产生很多副作用，如口干、便秘等。\n所以请大家谨慎考虑再服用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 306,
+          "like_count": 4596,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1646
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

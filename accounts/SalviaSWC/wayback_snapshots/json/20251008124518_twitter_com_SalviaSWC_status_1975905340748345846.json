@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1975819465796268436",
+    "created_at": "2025-10-08T12:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T13:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975905340748345846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1391784636112543753",
+          "start": 0,
+          "username": "Ayanami_402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975905340748345846",
+    "in_reply_to_user_id": "1391784636112543753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975903961002750020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_402 但是不是所有人都这么勤快且愿意学()\n况且，都到萃取这一步了，为什么还不造一点DXO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1975819465796268436",
+        "created_at": "2025-10-08T12:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975905340748345846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1391784636112543753",
+              "start": 0,
+              "username": "Ayanami_402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975905340748345846",
+        "in_reply_to_user_id": "1391784636112543753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975903961002750020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_402 但是不是所有人都这么勤快且愿意学()\n况且，都到萃取这一步了，为什么还不造一点DXO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391784636112543753",
+        "conversation_id": "1975819465796268436",
+        "created_at": "2025-10-08T12:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975903961002750020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975903961002750020",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975819465796268436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 意见是使用柠檬酸萃取法，把愈创木萃出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 501,
+          "like_count": 8265,
+          "listed_count": 5,
+          "media_count": 114,
+          "tweet_count": 2701
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-10T15:58:19.000Z",
+        "description": "本以为阴暗只是一种特性，没想到会成为一辈子的不幸",
+        "id": "1391784636112543753",
+        "location": "にほん",
+        "name": "唯紀澪",
+        "pinned_tweet_id": "1861427009458708906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737701299033116672/gpWsv-3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 293,
+          "like_count": 5270,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 1786
+        },
+        "username": "Ayanami_402",
+        "verified": false
+      }
+    ]
+  }
+}

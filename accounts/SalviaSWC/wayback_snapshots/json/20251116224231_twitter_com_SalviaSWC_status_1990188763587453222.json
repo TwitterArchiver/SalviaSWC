@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1990006176684409166",
+    "created_at": "2025-11-16T22:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T23:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990188763587453222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896061942785310720",
+          "start": 0,
+          "username": "notThujaS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990188763587453222",
+    "in_reply_to_user_id": "1896061942785310720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990006176684409166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notThujaS “缅怀有用吗？下一个又是谁？”\n那我好奇你觉得什么有用😁\n你把两个几乎无关的事物联系在一起，却忽视这两个事物背后共同的原因，还拿已死之人来炒作，不愧是乌鲁鲁👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1990006176684409166",
+        "created_at": "2025-11-16T22:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T23:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990188763587453222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896061942785310720",
+              "start": 0,
+              "username": "notThujaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990188763587453222",
+        "in_reply_to_user_id": "1896061942785310720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990006176684409166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notThujaS “缅怀有用吗？下一个又是谁？”\n那我好奇你觉得什么有用😁\n你把两个几乎无关的事物联系在一起，却忽视这两个事物背后共同的原因，还拿已死之人来炒作，不愧是乌鲁鲁👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896061942785310720",
+        "conversation_id": "1990006176684409166",
+        "created_at": "2025-11-16T10:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T11:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990006176684409166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wanchunshi/sta…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/wanchunshi/status/1970378496695509032",
+              "start": 71,
+              "url": "https://t.co/K2108tKf3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990006176684409166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14300,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970378496695509032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这俩小情侣已经双双升天了。当时晚春拾前一秒刚说要戒OD下一秒就发帖跟喵宁一块O，谁能想到两个月后俩人全没了……\n\n缅怀有用吗？下一个又是谁？ https://t.co/K2108tKf3B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1987403877164196095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 689,
+          "like_count": 12554,
+          "listed_count": 6,
+          "media_count": 165,
+          "tweet_count": 3619
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T04:56:37.000Z",
+        "description": "🇨🇳纯种劳保/07 12 1/不论你是男人女人变杏人，平等歧视每一个神人         愿你在鉴证与对骂与炫压抑之后，吃上一口我精挑细选的上等好💩        我的浮木死了，别问了我回关的。2000fo直播杜桥延期，最近太忙太忙了😭///有人拿我照片建我仿号骚扰女生，请认准鄙人",
+        "id": "1896061942785310720",
+        "location": "热河省省会",
+        "name": "传奇出生鸟鲁鲁（浮木克星）",
+        "pinned_tweet_id": "1989914136600514877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989280532107313152/-jA_2_sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2890,
+          "following_count": 847,
+          "like_count": 6220,
+          "listed_count": 8,
+          "media_count": 361,
+          "tweet_count": 3533
+        },
+        "username": "notThujaS",
+        "verified": false
+      }
+    ]
+  }
+}

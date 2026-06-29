@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2053540439861469368",
+    "created_at": "2026-05-10T18:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053540439861469368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975017451848171520",
+          "start": 3,
+          "username": "ho4core"
+        },
+        {
+          "end": 20,
+          "id": "1613079089879076864",
+          "start": 13,
+          "username": "YunJiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053540439861469368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053404907957563746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ho4core: @YunJiu 您好！\n这张图片是由我朋友制作的。TA并未授权任何人转载，也不希望自己的图片被无授权使用。\n烦请您删除该推文，并希望您能回复告知。非常感谢您的理解与配合！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2053540439861469368",
+        "created_at": "2026-05-10T18:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053540439861469368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975017451848171520",
+              "start": 3,
+              "username": "ho4core"
+            },
+            {
+              "end": 20,
+              "id": "1613079089879076864",
+              "start": 13,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053540439861469368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053404907957563746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ho4core: @YunJiu 您好！\n这张图片是由我朋友制作的。TA并未授权任何人转载，也不希望自己的图片被无授权使用。\n烦请您删除该推文，并希望您能回复告知。非常感谢您的理解与配合！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975017451848171520",
+        "conversation_id": "2053021622307815728",
+        "created_at": "2026-05-10T09:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T10:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053404907957563746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "YunJiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053404907957563746",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 602,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053021622307815728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunJiu 您好！\n这张图片是由我朋友制作的。TA并未授权任何人转载，也不希望自己的图片被无授权使用。\n烦请您删除该推文，并希望您能回复告知。非常感谢您的理解与配合！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 1009,
+          "like_count": 23541,
+          "listed_count": 11,
+          "media_count": 509,
+          "tweet_count": 7582
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T01:57:24.000Z",
+        "description": "18↑🇨🇳/中文/Eng/日本語を勉強している 。翻译機使用。pfp by 兔妖妖/BG by 五月七。\nQQ3909272967。\ndiscord：ho4core。\nI love chatting with anyone🙌✨️",
+        "id": "1975017451848171520",
+        "location": "2025.3（大未来電腦）",
+        "name": "nighcore",
+        "pinned_tweet_id": "2021325696430375204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976210902971252736/HNiHw8NW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 189,
+          "like_count": 5944,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1373
+        },
+        "username": "ho4core",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104625,
+          "following_count": 784,
+          "like_count": 36745,
+          "listed_count": 293,
+          "media_count": 18439,
+          "tweet_count": 26470
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2024432092185018370"
+      ],
+      "media_source_tweet_id": [
+        "2024432943360258215"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2024786798367412487",
+    "created_at": "2026-02-20T10:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T11:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024786798367412487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1382279029",
+          "start": 3,
+          "username": "Psaltix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zK6Hnb81Ro",
+          "end": 42,
+          "expanded_url": "https://x.com/Psaltix/status/2024432943360258215/photo/1",
+          "media_key": "16_2024432092185018370",
+          "start": 19,
+          "url": "https://t.co/zK6Hnb81Ro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024786798367412487",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 598
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024432943360258215",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Psaltix: Gm 👁️ https://t.co/zK6Hnb81Ro"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "16_2024432092185018370",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBg6Qw6WwAISUO-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBg6Qw6WwAISUO-.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2024432092185018370"
+          ],
+          "media_source_tweet_id": [
+            "2024432943360258215"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2024786798367412487",
+        "created_at": "2026-02-20T10:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024786798367412487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1382279029",
+              "start": 3,
+              "username": "Psaltix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zK6Hnb81Ro",
+              "end": 42,
+              "expanded_url": "https://x.com/Psaltix/status/2024432943360258215/photo/1",
+              "media_key": "16_2024432092185018370",
+              "start": 19,
+              "url": "https://t.co/zK6Hnb81Ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024786798367412487",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 598
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024432943360258215",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Psaltix: Gm 👁️ https://t.co/zK6Hnb81Ro"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2024432092185018370"
+          ]
+        },
+        "author_id": "1382279029",
+        "conversation_id": "2024432943360258215",
+        "created_at": "2026-02-19T10:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024432943360258215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zK6Hnb81Ro",
+              "end": 29,
+              "expanded_url": "https://x.com/Psaltix/status/2024432943360258215/photo/1",
+              "media_key": "16_2024432092185018370",
+              "start": 6,
+              "url": "https://t.co/zK6Hnb81Ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024432943360258215",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 618,
+          "impression_count": 46549,
+          "like_count": 3598,
+          "quote_count": 12,
+          "reply_count": 32,
+          "retweet_count": 598
+        },
+        "reply_settings": "everyone",
+        "text": "Gm 👁️ https://t.co/zK6Hnb81Ro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨OD知识开源化↓请支持FreeODwiki喵！|Say Know to Drugs 💊丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 813,
+          "like_count": 19326,
+          "listed_count": 10,
+          "media_count": 294,
+          "tweet_count": 5520
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-26T16:04:26.000Z",
+        "description": "Be not afraid",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psaltix.com",
+                "end": 23,
+                "expanded_url": "https://www.psaltix.com",
+                "start": 0,
+                "url": "https://t.co/1JXxwxA37S"
+              }
+            ]
+          }
+        },
+        "id": "1382279029",
+        "location": "Strasbourg, France",
+        "name": "Psaltix",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981003447332696064/OOn0uClD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5537,
+          "following_count": 1933,
+          "like_count": 63671,
+          "listed_count": 85,
+          "media_count": 3664,
+          "tweet_count": 22847
+        },
+        "url": "https://t.co/1JXxwxA37S",
+        "username": "Psaltix",
+        "verified": false
+      }
+    ]
+  }
+}

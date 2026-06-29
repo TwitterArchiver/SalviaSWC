@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969451118234316800"
+      ],
+      "media_source_tweet_id": [
+        "1969451122348999131"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1969637319679623410",
+    "created_at": "2025-09-21T05:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T06:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969637319679623410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592719222940962817",
+          "start": 3,
+          "username": "mofumofuyewo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QQjSmKrv6T",
+          "end": 70,
+          "expanded_url": "https://x.com/mofumofuyewo/status/1969451122348999131/photo/1",
+          "media_key": "3_1969451118234316800",
+          "start": 47,
+          "url": "https://t.co/QQjSmKrv6T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969637319679623410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969451122348999131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mofumofuyewo: 此人是我见过的全中推最傻逼的瞎骂蛆，点开此人回复即可知晓 https://t.co/QQjSmKrv6T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 914,
+        "media_key": "3_1969451118234316800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1TlW4DaMAAN-DY.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969451118234316800"
+          ],
+          "media_source_tweet_id": [
+            "1969451122348999131"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1969637319679623410",
+        "created_at": "2025-09-21T05:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969637319679623410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592719222940962817",
+              "start": 3,
+              "username": "mofumofuyewo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQjSmKrv6T",
+              "end": 70,
+              "expanded_url": "https://x.com/mofumofuyewo/status/1969451122348999131/photo/1",
+              "media_key": "3_1969451118234316800",
+              "start": 47,
+              "url": "https://t.co/QQjSmKrv6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969637319679623410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969451122348999131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mofumofuyewo: 此人是我见过的全中推最傻逼的瞎骂蛆，点开此人回复即可知晓 https://t.co/QQjSmKrv6T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969451118234316800"
+          ]
+        },
+        "author_id": "1592719222940962817",
+        "conversation_id": "1969451122348999131",
+        "created_at": "2025-09-20T17:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T18:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969451122348999131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQjSmKrv6T",
+              "end": 52,
+              "expanded_url": "https://x.com/mofumofuyewo/status/1969451122348999131/photo/1",
+              "media_key": "3_1969451118234316800",
+              "start": 29,
+              "url": "https://t.co/QQjSmKrv6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969451122348999131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1553,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此人是我见过的全中推最傻逼的瞎骂蛆，点开此人回复即可知晓 https://t.co/QQjSmKrv6T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 478,
+          "like_count": 7192,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 2523
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "マヌルネコ中毒｜那你喜欢这样的我吗😁",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "1883144822237860206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883135457296617472/4AOpR5zS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 451,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 463
+        },
+        "username": "mofumofuyewo",
+        "verified": false
+      }
+    ]
+  }
+}

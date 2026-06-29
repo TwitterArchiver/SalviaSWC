@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1969257424574935117",
+    "created_at": "2025-09-20T04:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T05:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969257424574935117"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1969257424574935117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "训了两周的军训终于结束了，我已经快被晒似了😭\n每天早上起床，打开手机天气预报，每次都毫无例外地预报当天下雨。结果没有一次真的下雨了🤡每天都是硬撑过去的🥺\n不过终于撑过去了，有推u还没军训完，也在硬撑嘛🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1969257424574935117",
+        "created_at": "2025-09-20T04:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T05:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969257424574935117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969257424574935117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "训了两周的军训终于结束了，我已经快被晒似了😭\n每天早上起床，打开手机天气预报，每次都毫无例外地预报当天下雨。结果没有一次真的下雨了🤡每天都是硬撑过去的🥺\n不过终于撑过去了，有推u还没军训完，也在硬撑嘛🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 468,
+          "like_count": 7018,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 2445
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

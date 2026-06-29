@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1989606083938427224",
+    "created_at": "2025-11-15T22:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T23:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989821474551824568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1614768068353462273",
+          "start": 0,
+          "username": "Muddledist"
+        },
+        {
+          "end": 19,
+          "id": "1777176214652035072",
+          "start": 12,
+          "username": "7u7uqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989821474551824568",
+    "in_reply_to_user_id": "1614768068353462273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989642437736935510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Muddledist @7u7uqu 据说是像变成国王一样的兴奋感觉()\n但是药效特别短，半个小时内就会结束\n窝没试过，所以别问窝()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1989606083938427224",
+        "created_at": "2025-11-15T22:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989821474551824568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1614768068353462273",
+              "start": 0,
+              "username": "Muddledist"
+            },
+            {
+              "end": 19,
+              "id": "1777176214652035072",
+              "start": 12,
+              "username": "7u7uqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989821474551824568",
+        "in_reply_to_user_id": "1614768068353462273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989642437736935510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Muddledist @7u7uqu 据说是像变成国王一样的兴奋感觉()\n但是药效特别短，半个小时内就会结束\n窝没试过，所以别问窝()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614768068353462273",
+        "conversation_id": "1989606083938427224",
+        "created_at": "2025-11-15T10:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989642437736935510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1777176214652035072",
+              "start": 0,
+              "username": "7u7uqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989642437736935510",
+        "in_reply_to_user_id": "1777176214652035072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3257,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989606083938427224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7u7uqu 什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1987403877164196095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 689,
+          "like_count": 12374,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 3595
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T23:35:01.000Z",
+        "description": "流浪吟詩，爛泥打樁｜ 自由思考，獨立展望，用批判性思維看待這個復雜的世界。｜ 賽博發癲日記本｜ 赛博妓女实在处女｜ 欢迎互关！",
+        "id": "1614768068353462273",
+        "location": "夢",
+        "name": "乙女椿",
+        "pinned_tweet_id": "1971788163170652336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915918776501252097/lDed3_WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 5145,
+          "like_count": 5657,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1372
+        },
+        "username": "Muddledist",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T03:26:57.000Z",
+        "description": "この世界が終わるのが今ならいい。",
+        "id": "1777176214652035072",
+        "name": "吗啡天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822887119930699776/dLc82awk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3105,
+          "following_count": 9,
+          "like_count": 107,
+          "listed_count": 5,
+          "media_count": 27,
+          "tweet_count": 218
+        },
+        "username": "7u7uqu",
+        "verified": false
+      }
+    ]
+  }
+}

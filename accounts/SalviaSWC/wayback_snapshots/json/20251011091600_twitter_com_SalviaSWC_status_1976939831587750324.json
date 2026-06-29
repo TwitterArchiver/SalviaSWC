@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1976939831587750324",
+    "created_at": "2025-10-11T09:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T10:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976939831587750324"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1976939831587750324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然想起来我们中国人在请客吃饭的时候最经常说的一个词了\n\"酒量\"\n真是个恶心的词，所谓酒量，不就是对酒精的耐受性嘛?\n喝酒喝得超出酒量了，人就会\"断片\"，其实就是药物过量了，酒精断片的危害并不比其他药物过量的危害小；就算不过量，酒精也致癌和伤肝\n然而偏偏就是这种危险的药物尤其在酒局上流行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1976939831587750324",
+        "created_at": "2025-10-11T09:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T10:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976939831587750324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976939831587750324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起来我们中国人在请客吃饭的时候最经常说的一个词了\n\"酒量\"\n真是个恶心的词，所谓酒量，不就是对酒精的耐受性嘛?\n喝酒喝得超出酒量了，人就会\"断片\"，其实就是药物过量了，酒精断片的危害并不比其他药物过量的危害小；就算不过量，酒精也致癌和伤肝\n然而偏偏就是这种危险的药物尤其在酒局上流行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 505,
+          "like_count": 8329,
+          "listed_count": 5,
+          "media_count": 116,
+          "tweet_count": 2728
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

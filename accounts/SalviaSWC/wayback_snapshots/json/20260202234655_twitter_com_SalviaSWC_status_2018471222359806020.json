@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018471211617931264"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2018450933491892673",
+    "created_at": "2026-02-02T23:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T00:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018471222359806020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nQWIDZkRc8",
+          "end": 177,
+          "expanded_url": "https://x.com/SalviaSWC/status/2018471222359806020/photo/1",
+          "media_key": "3_2018471211617931264",
+          "start": 154,
+          "url": "https://t.co/nQWIDZkRc8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018471222359806020",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018466059981103183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这一个药物联用警告，在psychonautwiki上的每一个有关页面的醒目位置上都有，然而又多少人真正放在心上的，又有多少人心存侥幸？假如这个警告不重要，为什么要放在每一个页面上，为什么要放这么大一个红骷髅头？\n\n现在我把这警告也搬到FreeODwik上了，请大家尽情享用\n\n如果你不能珍爱生命，请远离毒品 https://t.co/nQWIDZkRc8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2018471211617931264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAMM32XW0AADbWD.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018471211617931264"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2018450933491892673",
+        "created_at": "2026-02-02T23:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T00:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018471222359806020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nQWIDZkRc8",
+              "end": 177,
+              "expanded_url": "https://x.com/SalviaSWC/status/2018471222359806020/photo/1",
+              "media_key": "3_2018471211617931264",
+              "start": 154,
+              "url": "https://t.co/nQWIDZkRc8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018471222359806020",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018466059981103183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一个药物联用警告，在psychonautwiki上的每一个有关页面的醒目位置上都有，然而又多少人真正放在心上的，又有多少人心存侥幸？假如这个警告不重要，为什么要放在每一个页面上，为什么要放这么大一个红骷髅头？\n\n现在我把这警告也搬到FreeODwik上了，请大家尽情享用\n\n如果你不能珍爱生命，请远离毒品 https://t.co/nQWIDZkRc8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2018450933491892673",
+        "created_at": "2026-02-02T23:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T00:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018466059981103183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018466059981103183",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018450933491892673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过这也不是完全给救人者脱罪了，此人过量很可能与救人者有关联。\n\n死者在推特上多次发布自己准备的药物过量反制剂，且已知事故当时二人都在死者家中。死者很可能是相信对方会使用自己的反制剂来救自己，才有胆量玩得这么脱。\n\n即便如此，过量服药、不当联用，创造不利局面的不是别人，正是死者自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 789,
+          "like_count": 18364,
+          "listed_count": 9,
+          "media_count": 253,
+          "tweet_count": 5185
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

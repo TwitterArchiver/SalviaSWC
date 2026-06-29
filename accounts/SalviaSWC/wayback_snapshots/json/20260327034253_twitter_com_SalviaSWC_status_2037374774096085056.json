@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2037374774096085056",
+    "created_at": "2026-03-27T03:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T04:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037374774096085056"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "OD党"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1574621581606850560",
+          "start": 3,
+          "username": "LibertyU36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037374774096085056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037372951151132904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LibertyU36: 无论是同性还是异性，爱都是平等的。\nOD党认为，婚姻是本质上是个体间的自愿结合契约。\nOD党提议，政府应提供多种标准化的婚姻合同以供伴侣们选择，伴侣们可就财产分割、债务责任、多边婚姻关系、婚姻过错进行协商。\n人人都应能选择自己爱的方式。\n#OD党…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2037372945329483776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEYz5jla8AAAEFM.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2037374774096085056",
+        "created_at": "2026-03-27T03:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037374774096085056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "OD党"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1574621581606850560",
+              "start": 3,
+              "username": "LibertyU36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037374774096085056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037372951151132904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LibertyU36: 无论是同性还是异性，爱都是平等的。\nOD党认为，婚姻是本质上是个体间的自愿结合契约。\nOD党提议，政府应提供多种标准化的婚姻合同以供伴侣们选择，伴侣们可就财产分割、债务责任、多边婚姻关系、婚姻过错进行协商。\n人人都应能选择自己爱的方式。\n#OD党…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037372945329483776"
+          ]
+        },
+        "author_id": "1574621581606850560",
+        "conversation_id": "2037372951151132904",
+        "created_at": "2026-03-27T03:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037372951151132904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "OD党"
+            },
+            {
+              "end": 131,
+              "start": 124,
+              "tag": "中推模拟选举"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/99hAlwqyIw",
+              "end": 155,
+              "expanded_url": "https://x.com/LibertyU36/status/2037372951151132904/photo/1",
+              "media_key": "3_2037372945329483776",
+              "start": 132,
+              "url": "https://t.co/99hAlwqyIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037372951151132904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "无论是同性还是异性，爱都是平等的。\nOD党认为，婚姻是本质上是个体间的自愿结合契约。\nOD党提议，政府应提供多种标准化的婚姻合同以供伴侣们选择，伴侣们可就财产分割、债务责任、多边婚姻关系、婚姻过错进行协商。\n人人都应能选择自己爱的方式。\n#OD党\n#中推模拟选举 https://t.co/99hAlwqyIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂为2026中推模拟大选🗳️OD党临时发言号📢|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "pinned_tweet_id": "2036091782501433723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3637,
+          "following_count": 993,
+          "like_count": 21729,
+          "listed_count": 9,
+          "media_count": 401,
+          "tweet_count": 6539
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T04:47:24.000Z",
+        "description": "世界如此乏味，那么不妨让祂寂静。",
+        "id": "1574621581606850560",
+        "name": "Ultraman Liberty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574622025963954176/4MmLXrDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 86,
+          "like_count": 6919,
+          "listed_count": 5,
+          "media_count": 118,
+          "tweet_count": 10940
+        },
+        "username": "LibertyU36",
+        "verified": false
+      }
+    ]
+  }
+}

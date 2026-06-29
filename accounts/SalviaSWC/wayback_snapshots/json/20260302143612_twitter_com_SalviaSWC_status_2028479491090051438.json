@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028475970576068608"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2028472932121362876",
+    "created_at": "2026-03-02T14:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028479491090051438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lixinquan021/s…",
+          "end": 156,
+          "expanded_url": "https://x.com/lixinquan021/status/1913276246676615222",
+          "start": 133,
+          "url": "https://t.co/GzrIfCQ5sx"
+        },
+        {
+          "display_url": "pic.x.com/03myzPV82z",
+          "end": 180,
+          "expanded_url": "https://x.com/SalviaSWC/status/2028479491090051438/photo/1",
+          "media_key": "3_2028475970576068608",
+          "start": 157,
+          "url": "https://t.co/03myzPV82z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028479491090051438",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913276246676615222",
+        "type": "quoted"
+      },
+      {
+        "id": "2028472932121362876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根据这个推文和它的两条回复分别的发布时间判断，李云齐等人参与其中的嫌疑更大了。\n\n后土百科的推特账号回复了李云齐的招募贴，而回复时间与李云齐的发贴时间为疑点——恰好相差5-7分钟，刚好是切换推特账号并找到某贴子的耗时\n\n所以，大家得多多调查啊，居然过了一年才发现🥺\nhttps://t.co/GzrIfCQ5sx https://t.co/03myzPV82z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2028475970576068608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaYJd2aMAAviW6.jpg",
+        "width": 1534
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1913275821915328512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go1SORqbUAAaIIN.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2028471639898292224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaUNY0XgAARXAb.jpg",
+        "width": 1074
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2028471685230333952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaUQBsXkAAlMqZ.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028475970576068608"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2028472932121362876",
+        "created_at": "2026-03-02T14:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028479491090051438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lixinquan021/s…",
+              "end": 156,
+              "expanded_url": "https://x.com/lixinquan021/status/1913276246676615222",
+              "start": 133,
+              "url": "https://t.co/GzrIfCQ5sx"
+            },
+            {
+              "display_url": "pic.x.com/03myzPV82z",
+              "end": 180,
+              "expanded_url": "https://x.com/SalviaSWC/status/2028479491090051438/photo/1",
+              "media_key": "3_2028475970576068608",
+              "start": 157,
+              "url": "https://t.co/03myzPV82z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028479491090051438",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913276246676615222",
+            "type": "quoted"
+          },
+          {
+            "id": "2028472932121362876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据这个推文和它的两条回复分别的发布时间判断，李云齐等人参与其中的嫌疑更大了。\n\n后土百科的推特账号回复了李云齐的招募贴，而回复时间与李云齐的发贴时间为疑点——恰好相差5-7分钟，刚好是切换推特账号并找到某贴子的耗时\n\n所以，大家得多多调查啊，居然过了一年才发现🥺\nhttps://t.co/GzrIfCQ5sx https://t.co/03myzPV82z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913275821915328512"
+          ]
+        },
+        "author_id": "926832662718775296",
+        "conversation_id": "1913276246676615222",
+        "created_at": "2025-04-18T16:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T17:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913276246676615222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fkbIwESchN",
+              "end": 31,
+              "expanded_url": "https://x.com/lixinquan021/status/1913276246676615222/photo/1",
+              "media_key": "3_1913275821915328512",
+              "start": 8,
+              "url": "https://t.co/fkbIwESchN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913276246676615222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "od纪录片招募\n\nOverdose，药物过量，这个词在公众认知里是一个极其模糊的词，少有人对这个词有客观清晰的认知。再加上近年来传播开的具有明确引导性的科普类视频，使得不了解的人在听到“药物滥用”这样的描述时，往往都会带着有色眼镜去看带od群体，很少有真实客观的纪录内容，能不带有任何偏见地去记录下od群体，寻找od现象背后的原因。\nod究竟是什么？你们为什么选择od？未来od又会走向何处？这些问题在等待人们去回答，于是我们想拍一部关于od的纪录长片，揭露和曝光绝不是我们的目的，寻找答案的过程远比答案本身更重要。\n后土百科是bilibili的一个长视频纪录频道，我们作为od的“圈外人”，真诚地希望能得到更多oder们的支持和信任，一同完成纪录片的制作。\n如果你有意愿参与制作和拍摄，欢迎私信我们你与od的故事。不论你的立场和态度是怎样的，我们都会尊重每一个声音，真实的力量永远是最动人的。\n联系方式：\nVX：htbk0407\nTG：Harry_0722\n私信时，请尽量备注一下基础信息，性别 年龄 常住地 od时长，以及目前状态（“正在o”，“正在戒”，或者“已经戒掉”）。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2247,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "od纪录片招募 https://t.co/fkbIwESchN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028471639898292224",
+            "3_2028471685230333952"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2028472932121362876",
+        "created_at": "2026-03-02T14:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028472932121362876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ROHHY7aDBt",
+              "end": 125,
+              "expanded_url": "https://x.com/SalviaSWC/status/2028472932121362876/photo/1",
+              "media_key": "3_2028471639898292224",
+              "start": 102,
+              "url": "https://t.co/ROHHY7aDBt"
+            },
+            {
+              "display_url": "pic.x.com/ROHHY7aDBt",
+              "end": 125,
+              "expanded_url": "https://x.com/SalviaSWC/status/2028472932121362876/photo/1",
+              "media_key": "3_2028471685230333952",
+              "start": 102,
+              "url": "https://t.co/ROHHY7aDBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028472932121362876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经调查两则推文，我们断定，后土百科与李云齐等人关系极大，甚至后土百科自身就是李云齐等人组织的。\n\n所以，那个去年导致OD严重扩散的视频，很可能有李云齐等人涉及；而李云齐等人自身的业务与OD关系十分密切。 https://t.co/ROHHY7aDBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 921,
+          "like_count": 20287,
+          "listed_count": 10,
+          "media_count": 327,
+          "tweet_count": 5849
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-04T15:25:01.000Z",
+        "description": "李云齐实验室，曼谷吉隆坡西港毛发检测，物质分析化学结构毒物检验，毒辩律师团队。排毒戒毒中药配方，降瘾缓解戒断和后遗症，误吸后排毒，毛发囊最快15到30天左右干净阴性。微信：jiance56  TG电报：cchy321",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEhTh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCEhThn4H1h8PNOPDrGodz5Q",
+                "start": 0,
+                "url": "https://t.co/U6wTh4PLQW"
+              }
+            ]
+          }
+        },
+        "id": "926832662718775296",
+        "location": "Shanghai",
+        "name": "李云齐检测 排毒 毒辩",
+        "pinned_tweet_id": "1944819317650153712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820876686839418880/H3a2EyW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 11,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/U6wTh4PLQW",
+        "username": "lixinquan021",
+        "verified": true
+      }
+    ]
+  }
+}

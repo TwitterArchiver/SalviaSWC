@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2052583858336362554",
+    "created_at": "2026-05-08T02:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T03:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052583858336362554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RXdruglab/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/RXdruglab/status/2052431604493254722",
+          "start": 53,
+          "url": "https://t.co/1d1AGvmjvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052583858336362554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052431604493254722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那大家觉得，在三部门（指国家药监局、公安部、国家禁毒委员会）中，哪个部门的责任最大呢🤓☝(仅供娱乐讨论) https://t.co/1d1AGvmjvZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2052583858336362554",
+        "created_at": "2026-05-08T02:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052583858336362554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RXdruglab/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/RXdruglab/status/2052431604493254722",
+              "start": 53,
+              "url": "https://t.co/1d1AGvmjvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052583858336362554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052431604493254722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那大家觉得，在三部门（指国家药监局、公安部、国家禁毒委员会）中，哪个部门的责任最大呢🤓☝(仅供娱乐讨论) https://t.co/1d1AGvmjvZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "2052431604493254722",
+        "created_at": "2026-05-07T16:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052431604493254722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052431604493254722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6701,
+          "like_count": 121,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林和愈美片被禁，小藻，吉他张和鸡哥三个人得一人占5%的责任。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 1007,
+          "like_count": 23470,
+          "listed_count": 11,
+          "media_count": 500,
+          "tweet_count": 7537
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19200,
+          "following_count": 17,
+          "like_count": 37,
+          "listed_count": 23,
+          "media_count": 55,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

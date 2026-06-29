@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1966520166176416067",
+    "created_at": "2025-09-12T15:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T16:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966528171076997621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826984800390889472",
+          "start": 0,
+          "username": "rcwikixyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966528171076997621",
+    "in_reply_to_user_id": "1826984800390889472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966527635283931172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rcwikixyz 完全没有，只能手动更新\n都说了，不建议更新，建议用开源版本\n不管怎么样，psywiki journal确实是不安全的，但是app的形式可能是安全的，网站的形式是肯定存在安全隐患的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1966520166176416067",
+        "created_at": "2025-09-12T15:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966528171076997621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "rcwikixyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966528171076997621",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966527635283931172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rcwikixyz 完全没有，只能手动更新\n都说了，不建议更新，建议用开源版本\n不管怎么样，psywiki journal确实是不安全的，但是app的形式可能是安全的，网站的形式是肯定存在安全隐患的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826984800390889472",
+        "conversation_id": "1966520166176416067",
+        "created_at": "2025-09-12T15:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T16:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966527635283931172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966527635283931172",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966526853943787680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 那他的软件有没有检查更新等功能？有的话就会接入api。况且他闭源后指不定给你塞肉鸡。root的话肯定是有漏洞可以获取权限的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 436,
+          "like_count": 6365,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 2242
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "rcwiki官方账号｜ 化学品科普 https://t.co/qKJUyDNO1y ｜ 前高四爱博主合作私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 41,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 18,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 23,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 0,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "天下社",
+        "name": "禁毒（rcwiki.xyz）",
+        "pinned_tweet_id": "1943169008829944010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954620994288795648/ZuM-Pxtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 92,
+          "like_count": 313,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/qKJUyDNO1y",
+        "username": "rcwikixyz",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1922156712116490641",
+    "created_at": "2025-05-14T03:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T04:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922500106361688297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697915168532086785",
+          "start": 0,
+          "username": "CH32767"
+        },
+        {
+          "end": 18,
+          "id": "1796959726967889920",
+          "start": 9,
+          "username": "hami0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922500106361688297",
+    "in_reply_to_user_id": "1697915168532086785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922485601967689989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CH32767 @hami0721 查了一下，有些文献说吡啶加氢能在常温常压下加，也许不会那么危险和吃操作(?)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1922156712116490641",
+        "created_at": "2025-05-14T03:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922500106361688297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697915168532086785",
+              "start": 0,
+              "username": "CH32767"
+            },
+            {
+              "end": 18,
+              "id": "1796959726967889920",
+              "start": 9,
+              "username": "hami0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922500106361688297",
+        "in_reply_to_user_id": "1697915168532086785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922485601967689989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CH32767 @hami0721 查了一下，有些文献说吡啶加氢能在常温常压下加，也许不会那么危险和吃操作(?)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697915168532086785",
+        "conversation_id": "1922156712116490641",
+        "created_at": "2025-05-14T02:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T03:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922485601967689989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 20,
+              "id": "1796959726967889920",
+              "start": 11,
+              "username": "hami0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922485601967689989",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922347065436176498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @hami0721 加氢还是有些吃操作，钯碳贵，加氢的时候混进去氧还容易炸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 72,
+          "like_count": 1194,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 593
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:12:28.000Z",
+        "description": "",
+        "id": "1697915168532086785",
+        "location": "THF的孤对电子上",
+        "name": "氯酸甲酯",
+        "pinned_tweet_id": "1773270464669884586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916214654743023618/taTLRcdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 56,
+          "like_count": 1071,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 149
+        },
+        "username": "CH32767",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T17:39:36.000Z",
+        "description": "前支黑/岁静ing/喜欢学习药理学知识/欢迎来找我聊天or咨询/👮😡👊\n不卖东西！不卖东西！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/F7BbOBdexI"
+              }
+            ]
+          }
+        },
+        "id": "1796959726967889920",
+        "location": "lab 5",
+        "name": "hachimi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900753595794116608/aTeKYG2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 284,
+          "like_count": 2199,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/F7BbOBdexI",
+        "username": "hami0721",
+        "verified": false
+      }
+    ]
+  }
+}

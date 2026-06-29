@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1985800094185091356",
+    "created_at": "2025-11-04T22:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T23:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985842006942433486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1946240021696040961",
+          "start": 0,
+          "username": "odday_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985842006942433486",
+    "in_reply_to_user_id": "1946240021696040961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985800094185091356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odday_official 因为米氮平有抗胆碱作用阿，跟苯海拉明一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1985800094185091356",
+        "created_at": "2025-11-04T22:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T23:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985842006942433486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1946240021696040961",
+              "start": 0,
+              "username": "odday_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985842006942433486",
+        "in_reply_to_user_id": "1946240021696040961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985800094185091356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odday_official 因为米氮平有抗胆碱作用阿，跟苯海拉明一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946240021696040961",
+        "conversation_id": "1985800094185091356",
+        "created_at": "2025-11-04T20:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T21:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985800094185091356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985800094185091356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据报道，服用较高剂量的米氮平会产生一种不寻常的迷幻和镇静混合效应。主观效应包括镇静作用以及轻度至中度的睁眼和闭眼视觉幻觉、概念性思维和欣快感。米氮平的镇静作用可能存在悖论效应。一些轶事报道和研究表明，其镇静作用会随着剂量的增加而减弱（7.5毫克比15毫克的镇静作用更强）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 654,
+          "like_count": 10260,
+          "listed_count": 7,
+          "media_count": 147,
+          "tweet_count": 3210
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "tg客服：https://t.co/Z2nOOPMtOA，整理报告欢迎私信。娱乐推: @huaxuejilebaike\noverdoseに集中しています............",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "huaxuejilebaike"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/odday_official",
+                "end": 28,
+                "expanded_url": "http://t.me/odday_official",
+                "start": 5,
+                "url": "https://t.co/Z2nOOPMtOA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/E7w1cH91nR"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "天国",
+        "name": "化学极乐百科",
+        "pinned_tweet_id": "1971611359277363354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984269351256473600/z_4Rg7td_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 155,
+          "like_count": 510,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/E7w1cH91nR",
+        "username": "odday_official",
+        "verified": false
+      }
+    ]
+  }
+}

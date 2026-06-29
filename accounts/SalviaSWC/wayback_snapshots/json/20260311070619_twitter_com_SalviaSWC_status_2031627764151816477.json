@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031626822144737281"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2031627764151816477",
+    "created_at": "2026-03-11T07:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T08:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031627764151816477"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 11,
+          "tag": "中推模拟大选"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7S7LApLFrN",
+          "end": 101,
+          "expanded_url": "https://x.com/SalviaSWC/status/2031627764151816477/photo/1",
+          "media_key": "3_2031626822144737281",
+          "start": 78,
+          "url": "https://t.co/7S7LApLFrN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031627764151816477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看了一下时间表，距离 #中推模拟大选 初轮选举开始还有1个月的时间，说明我们OD党还有充分时间用来发表暴论🤓☝\n\nTime is on our side! https://t.co/7S7LApLFrN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1345,
+        "media_key": "3_2031626822144737281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHJ1KoXwAEF7fy.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031626822144737281"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2031627764151816477",
+        "created_at": "2026-03-11T07:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031627764151816477"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 11,
+              "tag": "中推模拟大选"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7S7LApLFrN",
+              "end": 101,
+              "expanded_url": "https://x.com/SalviaSWC/status/2031627764151816477/photo/1",
+              "media_key": "3_2031626822144737281",
+              "start": 78,
+              "url": "https://t.co/7S7LApLFrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031627764151816477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看了一下时间表，距离 #中推模拟大选 初轮选举开始还有1个月的时间，说明我们OD党还有充分时间用来发表暴论🤓☝\n\nTime is on our side! https://t.co/7S7LApLFrN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 925,
+          "like_count": 20708,
+          "listed_count": 9,
+          "media_count": 346,
+          "tweet_count": 6018
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1965628004157292729",
+    "created_at": "2025-09-10T05:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T06:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965648543672402049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783739407981228032",
+          "start": 0,
+          "username": "MasahiroV2"
+        },
+        {
+          "end": 23,
+          "id": "1360522586317348865",
+          "start": 12,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965648543672402049",
+    "in_reply_to_user_id": "1783739407981228032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965647957174473105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MasahiroV2 @nanami_mua 那很壮烈了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1965628004157292729",
+        "created_at": "2025-09-10T05:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T06:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965648543672402049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783739407981228032",
+              "start": 0,
+              "username": "MasahiroV2"
+            },
+            {
+              "end": 23,
+              "id": "1360522586317348865",
+              "start": 12,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965648543672402049",
+        "in_reply_to_user_id": "1783739407981228032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965647957174473105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MasahiroV2 @nanami_mua 那很壮烈了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783739407981228032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1965628004157292729",
+        "created_at": "2025-09-10T05:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T06:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965647957174473105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 22,
+              "id": "1659962043460354050",
+              "start": 12,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965647957174473105",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965630173468102999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua @SalviaSWC 去掉亚字，稍微懂点化学的应该知道我在说什么（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1952002613244735810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 418,
+          "like_count": 6274,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 2194
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T06:06:38.000Z",
+        "description": "本账号不再经常讨论跨性别议题，愿主福安之。",
+        "id": "1783739407981228032",
+        "name": "神乐阪正太🏰ماساهيرو🕋",
+        "pinned_tweet_id": "1964997954080776379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962222541097066497/XgD48r1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 408,
+          "like_count": 23336,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 6442
+        },
+        "username": "MasahiroV2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX/小证🍥25.1.11/半个家长党/并非健全/永远的好妹妹:@LCG_Akiball/可爱猫猫～:@nanami5513/是主人的乖猫猫～ @ling1639040",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "nanami5513"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "ling1639040"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanamiao～",
+        "pinned_tweet_id": "1960235222831604043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949129357697630208/apEDxwfX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 512,
+          "like_count": 67595,
+          "listed_count": 1,
+          "media_count": 568,
+          "tweet_count": 5312
+        },
+        "username": "nanami_mua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1946377521726943331",
+    "created_at": "2025-07-19T08:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T09:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946481560611385459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1683330717038833664",
+          "start": 0,
+          "username": "qweqwe1877021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946481560611385459",
+    "in_reply_to_user_id": "1683330717038833664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946449975199826108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qweqwe1877021 应该不能吧("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1946377521726943331",
+        "created_at": "2025-07-19T08:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T09:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946481560611385459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1683330717038833664",
+              "start": 0,
+              "username": "qweqwe1877021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946481560611385459",
+        "in_reply_to_user_id": "1683330717038833664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946449975199826108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qweqwe1877021 应该不能吧("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683330717038833664",
+        "conversation_id": "1946377521726943331",
+        "created_at": "2025-07-19T06:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T07:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946449975199826108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946449975199826108",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946377521726943331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 老师苯二氮䓬类真的能致幻吗，之前焦虑发作吃了十几颗阿普唑仑和奥沙西泮还有思诺思和扎来普隆，怎么就直接晕过去了。第二天测了血药浓度还偏低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 307,
+          "like_count": 4621,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1657
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T04:18:23.000Z",
+        "description": "临期男高｜喜欢精神病学 心理学 是中v人｜欢迎找我聊天",
+        "id": "1683330717038833664",
+        "location": "星露谷",
+        "name": "五岛健助",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926630183924035585/dNXdJAMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 166,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 165
+        },
+        "username": "qweqwe1877021",
+        "verified": false
+      }
+    ]
+  }
+}

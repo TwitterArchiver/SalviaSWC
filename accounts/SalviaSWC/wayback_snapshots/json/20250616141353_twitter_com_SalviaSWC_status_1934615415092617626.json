@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1934597190598676611",
+    "created_at": "2025-06-16T14:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T15:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934615415092617626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482170742783746051",
+          "start": 0,
+          "username": "Vivo_Walker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934615415092617626",
+    "in_reply_to_user_id": "1482170742783746051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934597190598676611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vivo_Walker 暑假去两次日本,狠狠xm了🥺\n回来是要面试嘛......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1934597168733753345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkR4AHaEAENBNC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1934597168750555138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkR4ALacAIoNoh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1934597168750559232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkR4ALagAA6wYI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934597190598676611",
+        "created_at": "2025-06-16T14:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T15:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934615415092617626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482170742783746051",
+              "start": 0,
+              "username": "Vivo_Walker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934615415092617626",
+        "in_reply_to_user_id": "1482170742783746051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934597190598676611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vivo_Walker 暑假去两次日本,狠狠xm了🥺\n回来是要面试嘛......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934597168733753345",
+            "3_1934597168750555138",
+            "3_1934597168750559232"
+          ]
+        },
+        "author_id": "1482170742783746051",
+        "conversation_id": "1934597190598676611",
+        "created_at": "2025-06-16T13:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T14:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934597190598676611"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "VivoWalkerの日本游2025"
+            },
+            {
+              "end": 36,
+              "start": 21,
+              "tag": "VivoWalkerの废话条"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mBrTT5yMA",
+              "end": 84,
+              "expanded_url": "https://x.com/Vivo_Walker/status/1934597190598676611/photo/1",
+              "media_key": "3_1934597168733753345",
+              "start": 61,
+              "url": "https://t.co/9mBrTT5yMA"
+            },
+            {
+              "display_url": "pic.x.com/9mBrTT5yMA",
+              "end": 84,
+              "expanded_url": "https://x.com/Vivo_Walker/status/1934597190598676611/photo/1",
+              "media_key": "3_1934597168750555138",
+              "start": 61,
+              "url": "https://t.co/9mBrTT5yMA"
+            },
+            {
+              "display_url": "pic.x.com/9mBrTT5yMA",
+              "end": 84,
+              "expanded_url": "https://x.com/Vivo_Walker/status/1934597190598676611/photo/1",
+              "media_key": "3_1934597168750559232",
+              "start": 61,
+              "url": "https://t.co/9mBrTT5yMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934597190598676611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#VivoWalkerの日本游2025 \n#VivoWalkerの废话条 \n\n到着🛬\n八月份再见👋\n我还会回来的哦日本w https://t.co/9mBrTT5yMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 124,
+          "like_count": 2655,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1038
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T02:00:25.000Z",
+        "description": "Vivo Walker Aka. VWalker～♪ //中文&English 👌，日本語は勉強中/#ことリス，#Kotoha 大好き/#ハコニワリリィ 激推/#学マス/音ゲー/#Rotaeno/#オンゲキ/PCゲーム/#THEFINALS/大学生// サブ垢：@VivoWalker/友達：@cszyznb",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "ことリス"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "tag": "Kotoha"
+              },
+              {
+                "end": 76,
+                "start": 68,
+                "tag": "ハコニワリリィ"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "学マス"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "tag": "Rotaeno"
+              },
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "オンゲキ"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "tag": "THEFINALS"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "VivoWalker"
+              },
+              {
+                "end": 154,
+                "start": 146,
+                "username": "cszyznb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/vwalke…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/vwalker.bsky.social",
+                "start": 0,
+                "url": "https://t.co/kVsYsmCkPl"
+              }
+            ]
+          }
+        },
+        "id": "1482170742783746051",
+        "location": "宇宙を漫遊中",
+        "name": "ヴィウォーカー～♪🍀｜🇯🇵6/13～6/16",
+        "pinned_tweet_id": "1866490010230468616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758139107019194368/jQoiID-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1675,
+          "like_count": 59095,
+          "listed_count": 2,
+          "media_count": 787,
+          "tweet_count": 6386
+        },
+        "url": "https://t.co/kVsYsmCkPl",
+        "username": "Vivo_Walker",
+        "verified": false
+      }
+    ]
+  }
+}

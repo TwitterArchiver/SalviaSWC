@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1944250562096312346",
+    "created_at": "2025-07-13T18:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T19:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944461003036782775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916128320103890944",
+          "start": 0,
+          "username": "Angeldust_g"
+        },
+        {
+          "end": 24,
+          "id": "1867090453226721280",
+          "start": 13,
+          "username": "xiaoyieQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944461003036782775",
+    "in_reply_to_user_id": "1916128320103890944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944460458976755957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angeldust_g @xiaoyieQAQ 有品味👍()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1944250562096312346",
+        "created_at": "2025-07-13T18:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T19:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944461003036782775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916128320103890944",
+              "start": 0,
+              "username": "Angeldust_g"
+            },
+            {
+              "end": 24,
+              "id": "1867090453226721280",
+              "start": 13,
+              "username": "xiaoyieQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944461003036782775",
+        "in_reply_to_user_id": "1916128320103890944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944460458976755957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angeldust_g @xiaoyieQAQ 有品味👍()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916128320103890944",
+        "conversation_id": "1944250562096312346",
+        "created_at": "2025-07-13T18:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T19:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944460458976755957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 22,
+              "id": "1867090453226721280",
+              "start": 11,
+              "username": "xiaoyieQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944460458976755957",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944337546273529960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @xiaoyieQAQ 和我当朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 292,
+          "like_count": 4296,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1514
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T13:52:53.000Z",
+        "description": "存在于世界夹缝之中的幽灵",
+        "id": "1916128320103890944",
+        "name": "天使尘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934546666427916288/WzGE0zLt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 79,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 226
+        },
+        "username": "Angeldust_g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T06:13:58.000Z",
+        "description": "12mtf喵喵🍥｜✝️@xiaoeiQAQ @mengqing5735 @Nuominiang75884 @DOGYeah3376✝️ ｜雷家长党天赋党年龄党",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "xiaoeiQAQ"
+              },
+              {
+                "end": 35,
+                "start": 22,
+                "username": "mengqing5735"
+              },
+              {
+                "end": 52,
+                "start": 36,
+                "username": "Nuominiang75884"
+              },
+              {
+                "end": 65,
+                "start": 53,
+                "username": "DOGYeah3376"
+              }
+            ]
+          }
+        },
+        "id": "1867090453226721280",
+        "location": "喵喵喵",
+        "name": "杂鱼咲苡🍥",
+        "pinned_tweet_id": "1912881731172241581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940367643745058816/B-Lg8CYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 360,
+          "like_count": 4431,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 469
+        },
+        "username": "xiaoyieQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

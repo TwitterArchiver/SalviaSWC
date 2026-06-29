@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1993976252185620600",
+    "created_at": "2025-11-27T17:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T18:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994091116367630342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1641796973077618688",
+          "start": 0,
+          "username": "Madarame_NZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994091116367630342",
+    "in_reply_to_user_id": "1641796973077618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994090248620658795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Madarame_NZM 对啊，确实指的不仅仅是药效(甚至是减小药效)，还有很多别的东西\n\n窝是想问类似于食物，行为上的增益理念是否可以套用于药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1993976252185620600",
+        "created_at": "2025-11-27T17:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994091116367630342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1641796973077618688",
+              "start": 0,
+              "username": "Madarame_NZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994091116367630342",
+        "in_reply_to_user_id": "1641796973077618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994090248620658795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Madarame_NZM 对啊，确实指的不仅仅是药效(甚至是减小药效)，还有很多别的东西\n\n窝是想问类似于食物，行为上的增益理念是否可以套用于药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641796973077618688",
+        "conversation_id": "1993976252185620600",
+        "created_at": "2025-11-27T17:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994090248620658795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994090248620658795",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993976252185620600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 这很难说。🤔\n\n药物的作用往往不是单一效果的、\n在微观层面上、往往是多种作用、\n而是否服用、取决于该药物的利弊何价。\n\n就不说药物了、哪怕是食物、乃至是行为、\n亦是如此。🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 699,
+          "like_count": 14029,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 3832
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T13:38:24.000Z",
+        "description": "観察者であり、より深く、遠く彼方へ。\n\n不定期ゲーム実況動画を投稿します。\n\n投資・・・まあ。\n\n#收束系統\n\nYoutube：https://t.co/48vTFOCP1U\nニコニコ：https://t.co/jNaJNUuv2h",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 49,
+                "tag": "收束系統"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-nzm",
+                "end": 87,
+                "expanded_url": "https://www.youtube.com/@user-nzm",
+                "start": 64,
+                "url": "https://t.co/48vTFOCP1U"
+              },
+              {
+                "display_url": "nicovideo.jp/user/132089277",
+                "end": 116,
+                "expanded_url": "https://www.nicovideo.jp/user/132089277",
+                "start": 93,
+                "url": "https://t.co/jNaJNUuv2h"
+              }
+            ]
+          }
+        },
+        "id": "1641796973077618688",
+        "name": "班目望",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641797093739364353/l-9WCqgl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 733,
+          "like_count": 8624,
+          "listed_count": 2,
+          "media_count": 627,
+          "tweet_count": 4198
+        },
+        "username": "Madarame_NZM",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2044943947265704312",
+    "created_at": "2026-04-20T07:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046135564995318104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "978546324323762177",
+          "start": 0,
+          "username": "d1yum1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046135564995318104",
+    "in_reply_to_user_id": "978546324323762177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044943947265704312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d1yum1d 好欸🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2044943947265704312",
+        "created_at": "2026-04-20T07:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046135564995318104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "978546324323762177",
+              "start": 0,
+              "username": "d1yum1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046135564995318104",
+        "in_reply_to_user_id": "978546324323762177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044943947265704312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d1yum1d 好欸🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "978546324323762177",
+        "conversation_id": "2044943947265704312",
+        "created_at": "2026-04-17T01:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044943947265704312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044943947265704312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "编辑 FreeODwiki 上瘾了怎么办（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3855,
+          "following_count": 984,
+          "like_count": 22260,
+          "listed_count": 8,
+          "media_count": 444,
+          "tweet_count": 7040
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-27T08:16:39.000Z",
+        "description": "念旧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/downwind_dnVj8…",
+                "end": 23,
+                "expanded_url": "https://t.me/downwind_dnVj8rHnbfaPccWQLkUBAjB",
+                "start": 0,
+                "url": "https://t.co/vfNFrvUnpw"
+              }
+            ]
+          }
+        },
+        "id": "978546324323762177",
+        "location": "nowhere",
+        "name": "零℃可乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034222946865328128/KcZL-1YP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 2076,
+          "like_count": 18494,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/vfNFrvUnpw",
+        "username": "d1yum1d",
+        "verified": false
+      }
+    ]
+  }
+}

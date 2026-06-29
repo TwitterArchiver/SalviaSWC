@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981330724440461312"
+      ],
+      "media_source_tweet_id": [
+        "1981330727531958414"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1981377333324832838",
+    "created_at": "2025-10-23T15:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T16:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981377333324832838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1462208415837655043",
+          "start": 3,
+          "username": "Prechaska"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EMXKDlx3Ko",
+          "end": 72,
+          "expanded_url": "https://x.com/Prechaska/status/1981330727531958414/photo/1",
+          "media_key": "3_1981330724440461312",
+          "start": 49,
+          "url": "https://t.co/EMXKDlx3Ko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981377333324832838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981330727531958414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Prechaska: “好奇心强烈，追求新奇刺激，自控能力差，难以抵御诱惑。”\n真傲慢啊 https://t.co/EMXKDlx3Ko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1038,
+        "media_key": "3_1981330724440461312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G38Zy9zXUAAV4gj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981330724440461312"
+          ],
+          "media_source_tweet_id": [
+            "1981330727531958414"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1981377333324832838",
+        "created_at": "2025-10-23T15:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981377333324832838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1462208415837655043",
+              "start": 3,
+              "username": "Prechaska"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMXKDlx3Ko",
+              "end": 72,
+              "expanded_url": "https://x.com/Prechaska/status/1981330727531958414/photo/1",
+              "media_key": "3_1981330724440461312",
+              "start": 49,
+              "url": "https://t.co/EMXKDlx3Ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981377333324832838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981330727531958414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Prechaska: “好奇心强烈，追求新奇刺激，自控能力差，难以抵御诱惑。”\n真傲慢啊 https://t.co/EMXKDlx3Ko"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981330724440461312"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "1981330727531958414",
+        "created_at": "2025-10-23T12:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T13:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981330727531958414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EMXKDlx3Ko",
+              "end": 57,
+              "expanded_url": "https://x.com/Prechaska/status/1981330727531958414/photo/1",
+              "media_key": "3_1981330724440461312",
+              "start": 34,
+              "url": "https://t.co/EMXKDlx3Ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981330727531958414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“好奇心强烈，追求新奇刺激，自控能力差，难以抵御诱惑。”\n真傲慢啊 https://t.co/EMXKDlx3Ko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 521,
+          "like_count": 8818,
+          "listed_count": 7,
+          "media_count": 122,
+          "tweet_count": 2837
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 71,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 365
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

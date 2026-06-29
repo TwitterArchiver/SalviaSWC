@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2027251347012386874",
+    "created_at": "2026-02-27T11:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027345505810837564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1897151262161825792",
+          "start": 0,
+          "username": "lollipop2931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027345505810837564",
+    "in_reply_to_user_id": "1897151262161825792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027345162423402792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lollipop2931 你有没有什么史料嘛，或你知道有地方有👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2027251347012386874",
+        "created_at": "2026-02-27T11:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027345505810837564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1897151262161825792",
+              "start": 0,
+              "username": "lollipop2931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027345505810837564",
+        "in_reply_to_user_id": "1897151262161825792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027345162423402792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lollipop2931 你有没有什么史料嘛，或你知道有地方有👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897151262161825792",
+        "conversation_id": "2027251347012386874",
+        "created_at": "2026-02-27T11:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027345162423402792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027345162423402792",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027344401983291602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 他应该是主动退的圈（泪\n毕竟主营右美 彻底管控后再卖风险太大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨OD知识开源化↓来FreeODwiki看看吧！|Say Know to Drugs 💊丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 898,
+          "like_count": 20034,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 5773
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T05:04:54.000Z",
+        "description": "姐妹你不要跟我扯，我告诉你，我有公主病，有小仙女人格，我体内住着一个顺直男",
+        "id": "1897151262161825792",
+        "location": "天堂，前列县",
+        "name": "原野森清",
+        "pinned_tweet_id": "2012613339856110005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984872203616468992/bGl9pFzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 30,
+          "like_count": 19188,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1349
+        },
+        "username": "lollipop2931",
+        "verified": false
+      }
+    ]
+  }
+}

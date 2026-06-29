@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1983488668494168461",
+    "created_at": "2025-10-29T11:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T12:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983499552888856935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1016552943774920704",
+          "start": 0,
+          "username": "Akinoyo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983499552888856935",
+    "in_reply_to_user_id": "1016552943774920704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983488668494168461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_ 别尬黑，要是人家户口本只有一个人，那么怎么会害怕断供生活费?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1973,
+        "media_key": "3_1983488654971408384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4bEbDeWkAAz_mB.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1983488668494168461",
+        "created_at": "2025-10-29T11:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T12:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983499552888856935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1016552943774920704",
+              "start": 0,
+              "username": "Akinoyo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983499552888856935",
+        "in_reply_to_user_id": "1016552943774920704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983488668494168461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_ 别尬黑，要是人家户口本只有一个人，那么怎么会害怕断供生活费?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983488654971408384"
+          ]
+        },
+        "author_id": "1016552943774920704",
+        "conversation_id": "1983488668494168461",
+        "created_at": "2025-10-29T10:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T11:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983488668494168461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7qV9mgqrC",
+              "end": 62,
+              "expanded_url": "https://x.com/Akinoyo_/status/1983488668494168461/photo/1",
+              "media_key": "3_1983488654971408384",
+              "start": 39,
+              "url": "https://t.co/o7qV9mgqrC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983488668494168461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推上的神人们一轮一轮再一轮，鸡哥不语，只是矗立在那，它的户口本仍独守着孤城🤓 https://t.co/o7qV9mgqrC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 552,
+          "like_count": 9260,
+          "listed_count": 7,
+          "media_count": 126,
+          "tweet_count": 2944
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-10T05:21:23.000Z",
+        "description": "死亡才是歸處/MTF/INFP/Overdose/剩下不知道寫什麼就這樣吧",
+        "id": "1016552943774920704",
+        "location": "天國",
+        "name": "仿生喹硫平",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978517410857488384/TtfwoOdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 880,
+          "like_count": 1937,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 1257
+        },
+        "username": "Akinoyo_",
+        "verified": false
+      }
+    ]
+  }
+}

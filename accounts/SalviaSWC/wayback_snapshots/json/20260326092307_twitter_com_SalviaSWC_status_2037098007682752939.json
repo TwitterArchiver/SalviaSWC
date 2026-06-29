@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2037098007682752939",
+    "created_at": "2026-03-26T09:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037098007682752939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1849183768445353984",
+          "start": 3,
+          "username": "B17w153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037098007682752939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928039167310856628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B17w153: 死吗了，大部分人又无知又犟，话也不知道什么该说什么不该说，交了也不听，也懒得自学，脑残就该多吃苯海索，金刚烷胺，苯海拉明，遵循自然规律，尊重他人命运，中国还是防傻措施做太好了，这些人早该被达尔文筛选了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2037098007682752939",
+        "created_at": "2026-03-26T09:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037098007682752939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1849183768445353984",
+              "start": 3,
+              "username": "B17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037098007682752939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928039167310856628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B17w153: 死吗了，大部分人又无知又犟，话也不知道什么该说什么不该说，交了也不听，也懒得自学，脑残就该多吃苯海索，金刚烷胺，苯海拉明，遵循自然规律，尊重他人命运，中国还是防傻措施做太好了，这些人早该被达尔文筛选了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1928039167310856628",
+        "created_at": "2025-05-29T10:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T11:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928039167310856628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928039167310856628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "死吗了，大部分人又无知又犟，话也不知道什么该说什么不该说，交了也不听，也懒得自学，脑残就该多吃苯海索，金刚烷胺，苯海拉明，遵循自然规律，尊重他人命运，中国还是防傻措施做太好了，这些人早该被达尔文筛选了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂为2026中推模拟大选🗳️OD党临时发言号📢|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "pinned_tweet_id": "2036091782501433723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3634,
+          "following_count": 991,
+          "like_count": 21700,
+          "listed_count": 9,
+          "media_count": 397,
+          "tweet_count": 6516
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "c'est la vie 09.16.23 apocalypse",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "pinned_tweet_id": "2037080843722907919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917862637607718912/s4EWT3Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 143,
+          "like_count": 362,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 341
+        },
+        "username": "B17w153",
+        "verified": false
+      }
+    ]
+  }
+}

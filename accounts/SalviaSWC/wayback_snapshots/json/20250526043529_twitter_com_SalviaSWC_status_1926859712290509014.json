@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1926613104235847877",
+    "created_at": "2025-05-26T04:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T05:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926859712290509014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "Yesmynamehaer1"
+        },
+        {
+          "end": 26,
+          "id": "1597257668313260033",
+          "start": 16,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926859712290509014",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926854029495132417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yesmynamehaer1 @Minokakay 这样啊......"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1926613104235847877",
+        "created_at": "2025-05-26T04:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T05:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926859712290509014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            },
+            {
+              "end": 26,
+              "id": "1597257668313260033",
+              "start": 16,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926859712290509014",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926854029495132417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 @Minokakay 这样啊......"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1926613104235847877",
+        "created_at": "2025-05-26T04:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T05:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926854029495132417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 21,
+              "id": "1597257668313260033",
+              "start": 11,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926854029495132417",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926847361784926597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @Minokakay 这个在正常剂量使用下成瘾性确实很低，但是要用来od的话，，之前倒是在哪看到过用安非他酮替代咖啡因用于提神结果产生心理依赖，大剂量服用最后送医的案例。而且我本人也是这么使用的，我很难说我对安非他酮没有什么依赖性，所以在长期高剂量或者曾经有滥用史的情况下还是多多少少会有一点心理依赖的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 74,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 698
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "你好，我是白鳥/白鳥形人。\n个人药物使用/日常推，中立友善单位。\nFTX /@Dopppelaganger /Unitarian Universalists /Fyrir frelsi, fyrir mig, fyrir @Coccus_Swamer /I'll never stop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "Dopppelaganger"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "Coccus_Swamer"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1914957098028335440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925858560669290496/wmJaLq_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 493,
+          "like_count": 21301,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 2175
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠/抗抑郁找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 97,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1925566748516024652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7110,
+          "following_count": 883,
+          "like_count": 42708,
+          "listed_count": 30,
+          "media_count": 1042,
+          "tweet_count": 17921
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1903618683827884260",
+    "created_at": "2025-03-23T14:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T15:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903817280623985054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760626620417839104",
+          "start": 0,
+          "username": "nyaruchen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903817280623985054",
+    "in_reply_to_user_id": "1760626620417839104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903618683827884260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaruchen 绝大多数游戏都是单核的，剩下的少数游戏是加载/渲染多核，主进程单核\n充分利用多核运算需要并行算法，但是除了少部分特例，现有的并行算法的效率不优于非并行算法，导致多核运行表现比单核反倒更差\n好消息是，现在很多研究都投入了这一类并行算法，所以先期待一波()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1903618683827884260",
+        "created_at": "2025-03-23T14:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T15:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903817280623985054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760626620417839104",
+              "start": 0,
+              "username": "nyaruchen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903817280623985054",
+        "in_reply_to_user_id": "1760626620417839104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903618683827884260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaruchen 绝大多数游戏都是单核的，剩下的少数游戏是加载/渲染多核，主进程单核\n充分利用多核运算需要并行算法，但是除了少部分特例，现有的并行算法的效率不优于非并行算法，导致多核运行表现比单核反倒更差\n好消息是，现在很多研究都投入了这一类并行算法，所以先期待一波()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760626620417839104",
+        "conversation_id": "1903618683827884260",
+        "created_at": "2025-03-23T01:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T02:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903618683827884260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903618683827884260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷，玩了十几年才知道jvav版mc是严格单核的游戏，单核性能直接决定一个世界流畅不流畅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 34,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 108
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T11:24:40.000Z",
+        "description": "OGLE-2005-BLG-390Lb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/chennyaru",
+                "end": 23,
+                "expanded_url": "https://x.com/chennyaru",
+                "start": 0,
+                "url": "https://t.co/MbUffaJH4I"
+              }
+            ]
+          }
+        },
+        "id": "1760626620417839104",
+        "location": "Malaysia",
+        "name": "Nyaru Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853445849776611328/zv-ML-jT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 769,
+          "like_count": 8372,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 4507
+        },
+        "url": "https://t.co/MbUffaJH4I",
+        "username": "nyaruchen",
+        "verified": false
+      }
+    ]
+  }
+}

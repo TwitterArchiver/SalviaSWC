@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1994622251715416306",
+    "created_at": "2025-11-29T09:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T10:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994705627872895472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4125904453",
+          "start": 0,
+          "username": "colorfulnian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994705627872895472",
+    "in_reply_to_user_id": "4125904453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994679252512600168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@colorfulnian 没错，要不是因为这事儿涉及毒品，我就不说了()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1994622251715416306",
+        "created_at": "2025-11-29T09:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994705627872895472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4125904453",
+              "start": 0,
+              "username": "colorfulnian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994705627872895472",
+        "in_reply_to_user_id": "4125904453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994679252512600168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@colorfulnian 没错，要不是因为这事儿涉及毒品，我就不说了()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4125904453",
+        "conversation_id": "1994622251715416306",
+        "created_at": "2025-11-29T08:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994679252512600168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994679252512600168",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 365,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994622251715416306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 这个事的重点不在于禁毒，你把这吸毒换成嫖娼，语境也不变；上下文表达的是对权贵不满，虽然这个决策也可能和权贵无关。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 699,
+          "like_count": 14158,
+          "listed_count": 6,
+          "media_count": 179,
+          "tweet_count": 3859
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-04T16:47:23.000Z",
+        "description": "周杰倫 · 𝒮ℱ · 氷菓 · 乙一 · BABYMETAL",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@07030",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@07030",
+                "start": 0,
+                "url": "https://t.co/ZLMj6K0spf"
+              }
+            ]
+          }
+        },
+        "id": "4125904453",
+        "location": "New Jersey, USA",
+        "name": "Terry Taro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859643633240051712/858CacVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 488,
+          "like_count": 30982,
+          "listed_count": 7,
+          "media_count": 692,
+          "tweet_count": 10051
+        },
+        "url": "https://t.co/ZLMj6K0spf",
+        "username": "colorfulnian",
+        "verified": false
+      }
+    ]
+  }
+}

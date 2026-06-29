@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1983506269785780622",
+    "created_at": "2025-10-30T08:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T09:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983814806004965474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1444302813870186501",
+          "start": 0,
+          "username": "hfuarwj684zzg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983814806004965474",
+    "in_reply_to_user_id": "1444302813870186501",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983776964516442566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfuarwj684zzg 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1983506269785780622",
+        "created_at": "2025-10-30T08:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T09:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983814806004965474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1444302813870186501",
+              "start": 0,
+              "username": "hfuarwj684zzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983814806004965474",
+        "in_reply_to_user_id": "1444302813870186501",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983776964516442566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfuarwj684zzg 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444302813870186501",
+        "conversation_id": "1983506269785780622",
+        "created_at": "2025-10-30T06:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T07:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983776964516442566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983776964516442566",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983769557472051365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我其实觉得能量饮料的营销超炫酷的，词条被解构的亚文化占领让我有种旧角色被忽略的感觉💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 565,
+          "like_count": 9322,
+          "listed_count": 7,
+          "media_count": 128,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-02T14:06:55.000Z",
+        "description": "🌈｜初学电吉他｜不建政(因为看不懂)｜人中之龙重度依赖｜音游萌新｜耳机发烧友｜传说中的索尼Xperia机主｜牛仔裤养成ing🔥｜胶佬｜迷恋金属核的男子｜邦多利大手子💀｜金属核嗓修行中⚡⚡⚡",
+        "id": "1444302813870186501",
+        "location": "東京都新宿区神室町昭和通り6番地",
+        "name": "姓名不能为空",
+        "pinned_tweet_id": "1887836108802912428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717946503355142144/3JiN3SN8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 660,
+          "like_count": 75237,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 6091
+        },
+        "username": "hfuarwj684zzg",
+        "verified": false
+      }
+    ]
+  }
+}

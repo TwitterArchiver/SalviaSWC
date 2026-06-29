@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1952640795049075193",
+    "created_at": "2025-08-06T06:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T07:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952983504150774082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "756406740",
+          "start": 0,
+          "username": "asya_abdoel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952983504150774082",
+    "in_reply_to_user_id": "756406740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952924806346883453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asya_abdoel 是在说窝嘛🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1952640795049075193",
+        "created_at": "2025-08-06T06:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T07:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952983504150774082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "756406740",
+              "start": 0,
+              "username": "asya_abdoel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952983504150774082",
+        "in_reply_to_user_id": "756406740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952924806346883453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asya_abdoel 是在说窝嘛🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "756406740",
+        "conversation_id": "1952640795049075193",
+        "created_at": "2025-08-06T02:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952924806346883453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952924806346883453",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952640795049075193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我觉得如果连pr也无了的话，就有人会去搞家实了。\n对于新手而言，做点一锅出的东西也不难。同时试剂商也在售卖很多种前体，这降低了家实的难度。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1952002613244735810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 370,
+          "like_count": 5454,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 1965
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-14T03:51:38.000Z",
+        "description": "",
+        "id": "756406740",
+        "name": "tears in rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680793925894938625/BViUh8vU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 254,
+          "like_count": 878,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 74
+        },
+        "username": "asya_abdoel",
+        "verified": false
+      }
+    ]
+  }
+}

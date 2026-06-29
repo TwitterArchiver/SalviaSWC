@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2000025645653602630",
+    "created_at": "2025-12-14T02:11:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T03:11:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000025808057061420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 32,
+          "expanded_url": "https://x.com/SalviaSWC/status/1977674168507461987",
+          "start": 9,
+          "url": "https://t.co/v0D0z0IJhO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000025808057061420",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977674168507461987",
+        "type": "quoted"
+      },
+      {
+        "id": "2000025645653602630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以防你不知道*2🤓https://t.co/v0D0z0IJhO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1421,
+        "media_key": "3_1977669980515602432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IYXn-WEAARVhw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1493,
+        "media_key": "3_1977669986626711552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3IYX-vWMAA95Xz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 578,
+        "media_key": "3_2000025376223813638",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8GEe6uWYAYVRGx.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2000025645653602630",
+        "created_at": "2025-12-14T02:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000025808057061420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 32,
+              "expanded_url": "https://x.com/SalviaSWC/status/1977674168507461987",
+              "start": 9,
+              "url": "https://t.co/v0D0z0IJhO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000025808057061420",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977674168507461987",
+            "type": "quoted"
+          },
+          {
+            "id": "2000025645653602630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以防你不知道*2🤓https://t.co/v0D0z0IJhO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977669980515602432",
+            "3_1977669986626711552"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1977674168507461987",
+        "created_at": "2025-10-13T09:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T10:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977674168507461987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811690667720212480",
+              "start": 4,
+              "username": "y0zarashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAsU8FGY81",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/1977674168507461987/photo/1",
+              "media_key": "3_1977669980515602432",
+              "start": 152,
+              "url": "https://t.co/gAsU8FGY81"
+            },
+            {
+              "display_url": "pic.x.com/gAsU8FGY81",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/1977674168507461987/photo/1",
+              "media_key": "3_1977669986626711552",
+              "start": 152,
+              "url": "https://t.co/gAsU8FGY81"
+            },
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1976162098297352517",
+              "start": 176,
+              "url": "https://t.co/wib7tO24YF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977674168507461987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 29485,
+          "like_count": 191,
+          "quote_count": 12,
+          "reply_count": 30,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976162098297352517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于此人@y0zarashi(以防你不知道)\n据某人开出的信息，此人此前是贴吧账号\"天才少女伊蕾娜\"的号主。此人在贴吧活动的特点是引战、哗众取宠，故意唱反调以博取流量.\n他的特点在此段对话中体现得很好:\n你说药娘多，他说药娘坏;你说药娘不坏，他说他自己是老药娘.\n希望大家了解此事，并对此类行为不予理睬 https://t.co/gAsU8FGY81 https://t.co/wib7tO24YF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000025376223813638"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2000025645653602630",
+        "created_at": "2025-12-14T02:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000025645653602630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3P8hniGe83",
+              "end": 84,
+              "expanded_url": "https://x.com/SalviaSWC/status/2000025645653602630/photo/1",
+              "media_key": "3_2000025376223813638",
+              "start": 61,
+              "url": "https://t.co/3P8hniGe83"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2000008845448692208",
+              "start": 85,
+              "url": "https://t.co/pheGfuScAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000025645653602630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000008845448692208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个幽灵，老资历的幽灵，在中推游荡\n严肃建议所有推u都联合起来，对老资历进行神圣的围剿😡\n👇老资历宣言原文，以防你不知道 https://t.co/3P8hniGe83 https://t.co/pheGfuScAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1969,
+          "following_count": 716,
+          "like_count": 15804,
+          "listed_count": 7,
+          "media_count": 188,
+          "tweet_count": 4274
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

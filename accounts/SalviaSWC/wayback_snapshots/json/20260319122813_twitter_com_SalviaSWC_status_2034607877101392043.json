@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2034544150700540266",
+    "created_at": "2026-03-19T12:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034607877101392043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681902931564703744",
+          "start": 0,
+          "username": "aim20371231"
+        }
+      ],
+      "urls": [
+        {
+          "description": "多巴胺能兴奋剂（如哌醋甲酯/利他林、苯丙胺类药物等）主要通过阻断多巴胺转运蛋白（DAT）或促进多巴胺释放，显著提高突触间隙多巴胺浓度，从而抑制食欲。其机制涉及大脑奖励系统和下丘脑摄食调控中心的协同作用，并非单纯“饿不饿”，而是同时降低食物“吸引力”和直接调控饥饿/饱腹信号。 1. 奖励系统（hedonic appetite）抑制机制（中脑边缘多巴胺通路） 食物摄入本身会激活中脑腹侧被盖区（VTA）投射到伏隔核（NAc）和前额叶的多巴胺释放，产生愉悦感和进食动机（强化作用）。 兴奋剂大幅提升多巴胺水平，使奖励系统处于“饱和”状态，导致食物作为自然奖励的强化价值（reinforcing value）显著降低。 结果：即使饥饿信号存在，个体对食物的“想吃”动机下降，进食量减少（尤其是高脂高糖食物）。 这符合“奖励缺乏模型”（reward deficiency model）：低多巴胺状态易导致过度进食，而药物提升多巴胺则逆转此过程，减少能量摄入（临床研究显示哌醋甲酯可使能量摄入减少约11%、脂肪摄入减少17%）。 此效应不依赖饥饿感变化，而是直接减弱食物奖赏动机。 2. 下丘脑直接调控机制（homeostatic appetite） 下丘脑是摄食中枢核心，包含外侧下丘脑区（LHA，饥饿中心）和腹内侧核（VMN，饱腹中心），以及弓状核（ARC）的NPY/AgRP（促食欲神经元）和POMC（抑食欲神经元）。 兴奋剂升高多巴胺后： 作用于LHA和VMN的多巴胺D1/D2受体，改变多巴胺与血清素浓度动态，促进餐食终止、减少餐食大小，而非单纯改变餐次。 可间接抑制NPY/AgRP（促食欲肽）释放，或通过D1/D2受体激活POMC途径，增强饱腹信号。 食物剥夺时下丘脑多巴胺神经元活性变化进一步支持其在能量稳态中的作用。 结果：饥饿信号被抑制，饱腹感提前出现，导致整体食欲减退。 许多兴奋剂同时升高去甲肾上腺素（NE），通过下丘脑α1受体进一步强化此抑制效应。 3. 辅助机制（岛叶皮层等） 升高多巴胺/去甲肾上腺素还可激活岛叶皮层（负责味觉加工和厌食感），产生“食物不再诱人”或轻微厌恶感，进一步抑制进食欲望。 总结与临床意义 以上机制解释了为何ADHD治疗药物常有食欲抑制副作用（有时用于辅助减重，但需医生指导）。急性效应明显，慢性使用可能因耐受而减弱。注意：纯多巴胺能作用为主，但实际药物多",
+          "display_url": "x.com/i/grok/share/b…",
+          "end": 71,
+          "expanded_url": "https://x.com/i/grok/share/b1b16db1b0504e92b3adb7d8097e89b6",
+          "start": 48,
+          "status": 200,
+          "title": "解释多巴胺能兴奋剂抑制食欲的机理",
+          "unwound_url": "https://x.com/i/grok/share/b1b16db1b0504e92b3adb7d8097e89b6",
+          "url": "https://t.co/GqdW7gjRWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034607877101392043",
+    "in_reply_to_user_id": "1681902931564703744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034601635813691497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aim20371231 因为多巴胺能兴奋剂具有这个效果🥺窝不太清楚具体机理，所以问了Grok\nhttps://t.co/GqdW7gjRWC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2034544150700540266",
+        "created_at": "2026-03-19T12:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034607877101392043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681902931564703744",
+              "start": 0,
+              "username": "aim20371231"
+            }
+          ],
+          "urls": [
+            {
+              "description": "多巴胺能兴奋剂（如哌醋甲酯/利他林、苯丙胺类药物等）主要通过阻断多巴胺转运蛋白（DAT）或促进多巴胺释放，显著提高突触间隙多巴胺浓度，从而抑制食欲。其机制涉及大脑奖励系统和下丘脑摄食调控中心的协同作用，并非单纯“饿不饿”，而是同时降低食物“吸引力”和直接调控饥饿/饱腹信号。 1. 奖励系统（hedonic appetite）抑制机制（中脑边缘多巴胺通路） 食物摄入本身会激活中脑腹侧被盖区（VTA）投射到伏隔核（NAc）和前额叶的多巴胺释放，产生愉悦感和进食动机（强化作用）。 兴奋剂大幅提升多巴胺水平，使奖励系统处于“饱和”状态，导致食物作为自然奖励的强化价值（reinforcing value）显著降低。 结果：即使饥饿信号存在，个体对食物的“想吃”动机下降，进食量减少（尤其是高脂高糖食物）。 这符合“奖励缺乏模型”（reward deficiency model）：低多巴胺状态易导致过度进食，而药物提升多巴胺则逆转此过程，减少能量摄入（临床研究显示哌醋甲酯可使能量摄入减少约11%、脂肪摄入减少17%）。 此效应不依赖饥饿感变化，而是直接减弱食物奖赏动机。 2. 下丘脑直接调控机制（homeostatic appetite） 下丘脑是摄食中枢核心，包含外侧下丘脑区（LHA，饥饿中心）和腹内侧核（VMN，饱腹中心），以及弓状核（ARC）的NPY/AgRP（促食欲神经元）和POMC（抑食欲神经元）。 兴奋剂升高多巴胺后： 作用于LHA和VMN的多巴胺D1/D2受体，改变多巴胺与血清素浓度动态，促进餐食终止、减少餐食大小，而非单纯改变餐次。 可间接抑制NPY/AgRP（促食欲肽）释放，或通过D1/D2受体激活POMC途径，增强饱腹信号。 食物剥夺时下丘脑多巴胺神经元活性变化进一步支持其在能量稳态中的作用。 结果：饥饿信号被抑制，饱腹感提前出现，导致整体食欲减退。 许多兴奋剂同时升高去甲肾上腺素（NE），通过下丘脑α1受体进一步强化此抑制效应。 3. 辅助机制（岛叶皮层等） 升高多巴胺/去甲肾上腺素还可激活岛叶皮层（负责味觉加工和厌食感），产生“食物不再诱人”或轻微厌恶感，进一步抑制进食欲望。 总结与临床意义 以上机制解释了为何ADHD治疗药物常有食欲抑制副作用（有时用于辅助减重，但需医生指导）。急性效应明显，慢性使用可能因耐受而减弱。注意：纯多巴胺能作用为主，但实际药物多",
+              "display_url": "x.com/i/grok/share/b…",
+              "end": 71,
+              "expanded_url": "https://x.com/i/grok/share/b1b16db1b0504e92b3adb7d8097e89b6",
+              "start": 48,
+              "status": 200,
+              "title": "解释多巴胺能兴奋剂抑制食欲的机理",
+              "unwound_url": "https://x.com/i/grok/share/b1b16db1b0504e92b3adb7d8097e89b6",
+              "url": "https://t.co/GqdW7gjRWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034607877101392043",
+        "in_reply_to_user_id": "1681902931564703744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034601635813691497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aim20371231 因为多巴胺能兴奋剂具有这个效果🥺窝不太清楚具体机理，所以问了Grok\nhttps://t.co/GqdW7gjRWC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681902931564703744",
+        "conversation_id": "2034544150700540266",
+        "created_at": "2026-03-19T12:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034601635813691497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034601635813691497",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034544150700540266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 为什么要用这个来抑制食欲？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂用于第四次中推模拟大选🗳️|中推OD党官号🏁|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3422,
+          "following_count": 964,
+          "like_count": 21333,
+          "listed_count": 10,
+          "media_count": 377,
+          "tweet_count": 6340
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "天之道其犹张弓与？高者抑之，下者举之，有余者损之，不足者补之。天之道损有余而补不足，人之道则不然，损不足以奉有余。",
+        "id": "1681902931564703744",
+        "name": "川和工团安卡🚩🇦🇶🔥",
+        "pinned_tweet_id": "2033323598698713239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992538557588832256/6UUyCwoP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 2276,
+          "like_count": 166789,
+          "listed_count": 22,
+          "media_count": 2592,
+          "tweet_count": 52946
+        },
+        "username": "aim20371231",
+        "verified": false
+      }
+    ]
+  }
+}

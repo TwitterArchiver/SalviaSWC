@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1909974652207935662",
+    "created_at": "2025-04-09T14:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T15:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909981563787383007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843510989964369920",
+          "start": 0,
+          "username": "mylzhichuanggao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909981563787383007",
+    "in_reply_to_user_id": "1843510989964369920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909974652207935662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mylzhichuanggao 是不是直接把药片塞进去了......\n不要直接直肠给药阿🥺\n用于片剂成型的物质不怎么溶于水，不会被直肠分泌的那一点肠液吸收的\n要先把药片溶于水，再把水射进直肠，才可以的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1909974652207935662",
+        "created_at": "2025-04-09T14:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T15:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909981563787383007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843510989964369920",
+              "start": 0,
+              "username": "mylzhichuanggao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909981563787383007",
+        "in_reply_to_user_id": "1843510989964369920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909974652207935662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mylzhichuanggao 是不是直接把药片塞进去了......\n不要直接直肠给药阿🥺\n用于片剂成型的物质不怎么溶于水，不会被直肠分泌的那一点肠液吸收的\n要先把药片溶于水，再把水射进直肠，才可以的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843510989964369920",
+        "conversation_id": "1909974652207935662",
+        "created_at": "2025-04-09T14:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T15:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909974652207935662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mylzhichuangga…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/mylzhichuanggao/status/1909964132717146538",
+              "start": 23,
+              "url": "https://t.co/2GakQPEMsc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909974652207935662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909964132717146538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结果：浪费了十几片药而且肠壁好像有点刮伤了🙃 https://t.co/2GakQPEMsc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 49,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 282
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T04:37:47.000Z",
+        "description": "无证含糖mtx，hrt2025.1.11/08捏/新东方小厨娘已休学(゜∇   °)/什么都发一点/酒鬼（已被od代替）/中强度赛博碎碎念/事一个一个一个绝望的文盲啊啊啊/喝醉了会乱发推耍酒疯🙏🙏/超大号互联网垃圾桶/偶尔会哈气🥲\n可爱小绿猫🥰 @NagiVictoria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 123,
+                "username": "NagiVictoria"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaajiancaipifa1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aaajiancaipifa1",
+                "start": 0,
+                "url": "https://t.co/356g9XFjWy"
+              }
+            ]
+          }
+        },
+        "id": "1843510989964369920",
+        "location": "距离你1.14514km",
+        "name": "byd劳朢天天做菜翻大车♿♿🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854830853115068416/dQAVE-1F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 183,
+          "like_count": 11037,
+          "listed_count": 1,
+          "media_count": 581,
+          "tweet_count": 4600
+        },
+        "url": "https://t.co/356g9XFjWy",
+        "username": "mylzhichuanggao",
+        "verified": false
+      }
+    ]
+  }
+}

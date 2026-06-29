@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935718861006946304",
+        "3_1935718861220827136"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1935718991017685432",
+    "created_at": "2025-06-19T15:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T16:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935719001033719844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OKexHjRvVz",
+          "end": 173,
+          "expanded_url": "https://x.com/SalviaSWC/status/1935719001033719844/photo/1",
+          "media_key": "3_1935718861006946304",
+          "start": 150,
+          "url": "https://t.co/OKexHjRvVz"
+        },
+        {
+          "display_url": "pic.x.com/OKexHjRvVz",
+          "end": 173,
+          "expanded_url": "https://x.com/SalviaSWC/status/1935719001033719844/photo/1",
+          "media_key": "3_1935718861220827136",
+          "start": 150,
+          "url": "https://t.co/OKexHjRvVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935719001033719844",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935718991017685432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后果已经有了,亚硝酸钠又买不到了;图中的试剂店(罗恩试剂),已暂停发任何化学品.你们鼓励化学自杀的人,不仅是害想自杀的人,还是害其他可能搞化学的无辜人.\n我不管其他自杀方法.明知危害还鼓励化学自杀的,我诅咒你们因为自己这辈子害人深重,下辈子投胎还投到中国,结果因为化学品都列管,想死还没门.\n结束. https://t.co/OKexHjRvVz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1341,
+        "media_key": "3_1935718861006946304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0ODFdXwAAsU6K.jpg",
+        "width": 1080
+      },
+      {
+        "height": 486,
+        "media_key": "3_1935718861220827136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0ODGQXUAA7lND.jpg",
+        "width": 631
+      },
+      {
+        "height": 926,
+        "media_key": "3_1935714194097131520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0Jzb3XUAAA7jZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935718861006946304",
+            "3_1935718861220827136"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1935718991017685432",
+        "created_at": "2025-06-19T15:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935719001033719844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKexHjRvVz",
+              "end": 173,
+              "expanded_url": "https://x.com/SalviaSWC/status/1935719001033719844/photo/1",
+              "media_key": "3_1935718861006946304",
+              "start": 150,
+              "url": "https://t.co/OKexHjRvVz"
+            },
+            {
+              "display_url": "pic.x.com/OKexHjRvVz",
+              "end": 173,
+              "expanded_url": "https://x.com/SalviaSWC/status/1935719001033719844/photo/1",
+              "media_key": "3_1935718861220827136",
+              "start": 150,
+              "url": "https://t.co/OKexHjRvVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935719001033719844",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935718991017685432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后果已经有了,亚硝酸钠又买不到了;图中的试剂店(罗恩试剂),已暂停发任何化学品.你们鼓励化学自杀的人,不仅是害想自杀的人,还是害其他可能搞化学的无辜人.\n我不管其他自杀方法.明知危害还鼓励化学自杀的,我诅咒你们因为自己这辈子害人深重,下辈子投胎还投到中国,结果因为化学品都列管,想死还没门.\n结束. https://t.co/OKexHjRvVz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935714194097131520"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1935718991017685432",
+        "created_at": "2025-06-19T15:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935718991017685432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eujbGIn6nJ",
+              "end": 175,
+              "expanded_url": "https://x.com/SalviaSWC/status/1935718991017685432/photo/1",
+              "media_key": "3_1935714194097131520",
+              "start": 152,
+              "url": "https://t.co/eujbGIn6nJ"
+            },
+            {
+              "display_url": "x.com/Meer19002/stat…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/Meer19002/status/1934886481643909435",
+              "start": 176,
+              "url": "https://t.co/0gsej6dvlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935718991017685432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934886481643909435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要再鼓励用亚硝酸钠自杀了😅\n首先,亚硝酸钠属于危化品,个人购买违法.鼓励买亚硝酸钠自杀就是教唆别人违法,懂?被抓拘留起步.如果人死了,或是未成年,那么你的下场如图所示.\n然后,买化学品属于灰产.法律存在,本应强制执行.警察给你们脸,当这件事不存在.结果有人却用它来自杀,这他妈不是给脸不要?\n(继续) https://t.co/eujbGIn6nJ https://t.co/0gsej6dvlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 154,
+          "like_count": 3010,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1161
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

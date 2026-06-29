@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2045349523455688840",
+    "created_at": "2026-04-18T03:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045349527603777646"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045349527603777646",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045349523455688840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前发过一遍，不过我要再发一遍🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 803,
+        "media_key": "3_2045349370476875776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKKamzX0AAJs2h.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2045349523455688840",
+        "created_at": "2026-04-18T03:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045349527603777646"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045349527603777646",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045349523455688840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前发过一遍，不过我要再发一遍🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045349370476875776"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2045349523455688840",
+        "created_at": "2026-04-18T03:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045349523455688840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhEzPeFQxA",
+              "end": 31,
+              "expanded_url": "https://x.com/SalviaSWC/status/2045349523455688840/photo/1",
+              "media_key": "3_2045349370476875776",
+              "start": 8,
+              "url": "https://t.co/yhEzPeFQxA"
+            },
+            {
+              "display_url": "x.com/APsychedelics/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/APsychedelics/status/2043900848497971417",
+              "start": 32,
+              "url": "https://t.co/1wB5PoZ1nb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045349523455688840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043900848497971417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“药物的形状” https://t.co/yhEzPeFQxA https://t.co/1wB5PoZ1nb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3800,
+          "following_count": 980,
+          "like_count": 22110,
+          "listed_count": 8,
+          "media_count": 439,
+          "tweet_count": 6978
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042825810709786624"
+      ],
+      "media_source_tweet_id": [
+        "2042825815541584388"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2042904298120446314",
+    "created_at": "2026-04-11T09:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042904298120446314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LiHP1iHm0G",
+          "end": 94,
+          "expanded_url": "https://x.com/amecandy_x/status/2042825815541584388/photo/1",
+          "media_key": "3_2042825810709786624",
+          "start": 71,
+          "url": "https://t.co/LiHP1iHm0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042904298120446314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042825815541584388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 鸡哥你牛大了，出发点是好的？你觉得一群无视甚至助推，充当戒网瘾学校保护伞的晶哥和政府医疗机构出发点会是好的？ https://t.co/LiHP1iHm0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 775,
+        "media_key": "3_2042825810709786624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmTQGFbMAA8-N6.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042825810709786624"
+          ],
+          "media_source_tweet_id": [
+            "2042825815541584388"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2042904298120446314",
+        "created_at": "2026-04-11T09:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042904298120446314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LiHP1iHm0G",
+              "end": 94,
+              "expanded_url": "https://x.com/amecandy_x/status/2042825815541584388/photo/1",
+              "media_key": "3_2042825810709786624",
+              "start": 71,
+              "url": "https://t.co/LiHP1iHm0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042904298120446314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042825815541584388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 鸡哥你牛大了，出发点是好的？你觉得一群无视甚至助推，充当戒网瘾学校保护伞的晶哥和政府医疗机构出发点会是好的？ https://t.co/LiHP1iHm0G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042825810709786624"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2042825815541584388",
+        "created_at": "2026-04-11T04:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042825815541584388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LiHP1iHm0G",
+              "end": 78,
+              "expanded_url": "https://x.com/amecandy_x/status/2042825815541584388/photo/1",
+              "media_key": "3_2042825810709786624",
+              "start": 55,
+              "url": "https://t.co/LiHP1iHm0G"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2042825815541584388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2611,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "鸡哥你牛大了，出发点是好的？你觉得一群无视甚至助推，充当戒网瘾学校保护伞的晶哥和政府医疗机构出发点会是好的？ https://t.co/LiHP1iHm0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3696,
+          "following_count": 993,
+          "like_count": 22010,
+          "listed_count": 9,
+          "media_count": 412,
+          "tweet_count": 6686
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "自由意志左翼🚩/ 大模型工程师 /  药百GPT开发者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5808,
+          "following_count": 2058,
+          "like_count": 26856,
+          "listed_count": 15,
+          "media_count": 1398,
+          "tweet_count": 9953
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

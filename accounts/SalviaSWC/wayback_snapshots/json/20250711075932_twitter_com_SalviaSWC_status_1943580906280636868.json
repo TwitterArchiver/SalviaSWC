@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1943580906280636868",
+    "created_at": "2025-07-11T07:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T08:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943580906280636868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/1943559549358682527",
+          "start": 20,
+          "url": "https://t.co/x9mPm6eUPl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943580906280636868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943559549358682527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么没流量，是不是被限流了，捞一下() https://t.co/x9mPm6eUPl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_1943547703062831106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvjeVq0WIAIFN1c.png",
+        "width": 556
+      },
+      {
+        "height": 510,
+        "media_key": "3_1943547894461575168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvjegz1XMAAvZ3W.png",
+        "width": 540
+      },
+      {
+        "height": 492,
+        "media_key": "3_1943550156630085632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvjgkfEXUAAmWk3.png",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1943580906280636868",
+        "created_at": "2025-07-11T07:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T08:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943580906280636868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1943559549358682527",
+              "start": 20,
+              "url": "https://t.co/x9mPm6eUPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943580906280636868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943559549358682527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么没流量，是不是被限流了，捞一下() https://t.co/x9mPm6eUPl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943547703062831106",
+            "3_1943547894461575168",
+            "3_1943550156630085632"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1943559549358682527",
+        "created_at": "2025-07-11T06:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T07:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943559549358682527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7lrfkCnd1F",
+              "end": 173,
+              "expanded_url": "https://x.com/SalviaSWC/status/1943559549358682527/photo/1",
+              "media_key": "3_1943547703062831106",
+              "start": 150,
+              "url": "https://t.co/7lrfkCnd1F"
+            },
+            {
+              "display_url": "pic.x.com/7lrfkCnd1F",
+              "end": 173,
+              "expanded_url": "https://x.com/SalviaSWC/status/1943559549358682527/photo/1",
+              "media_key": "3_1943547894461575168",
+              "start": 150,
+              "url": "https://t.co/7lrfkCnd1F"
+            },
+            {
+              "display_url": "pic.x.com/7lrfkCnd1F",
+              "end": 173,
+              "expanded_url": "https://x.com/SalviaSWC/status/1943559549358682527/photo/1",
+              "media_key": "3_1943550156630085632",
+              "start": 150,
+              "url": "https://t.co/7lrfkCnd1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943559549358682527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日💊科普(day2)依替唑仑\n依替唑仑属于镇定剂，尽管机理类似，它严格上不属于苯二氮䓬类药物。它是三唑仑的氯苯基被2-乙基噻吩基替换，或是氯噻西泮的唑仑版\n它在日本被用于治疗失眠(\"安神片\")，在其他地区属于策划药。药效5-7小时。服用者经常报告自己意识模糊，甚至不知道自己服了药，做出危险行为. https://t.co/7lrfkCnd1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 246,
+          "like_count": 3971,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1439
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

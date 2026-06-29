@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049874656312868864"
+      ],
+      "media_source_tweet_id": [
+        "2049874676646916259"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2049874844607451504",
+    "created_at": "2026-04-30T15:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049874844607451504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "978546324323762177",
+          "start": 3,
+          "username": "d1yum1d"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wZ5bXlglM4",
+          "end": 41,
+          "expanded_url": "https://x.com/d1yum1d/status/2049874676646916259/photo/1",
+          "media_key": "3_2049874656312868864",
+          "start": 18,
+          "url": "https://t.co/wZ5bXlglM4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049874844607451504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049874676646916259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d1yum1d: 目前而言 https://t.co/wZ5bXlglM4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3408,
+        "media_key": "3_2049874656312868864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKeI6OawAAi4J7.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049874656312868864"
+          ],
+          "media_source_tweet_id": [
+            "2049874676646916259"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2049874844607451504",
+        "created_at": "2026-04-30T15:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049874844607451504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "978546324323762177",
+              "start": 3,
+              "username": "d1yum1d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZ5bXlglM4",
+              "end": 41,
+              "expanded_url": "https://x.com/d1yum1d/status/2049874676646916259/photo/1",
+              "media_key": "3_2049874656312868864",
+              "start": 18,
+              "url": "https://t.co/wZ5bXlglM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049874844607451504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049874676646916259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d1yum1d: 目前而言 https://t.co/wZ5bXlglM4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049874656312868864"
+          ]
+        },
+        "author_id": "978546324323762177",
+        "conversation_id": "2049874676646916259",
+        "created_at": "2026-04-30T15:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049874676646916259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wZ5bXlglM4",
+              "end": 28,
+              "expanded_url": "https://x.com/d1yum1d/status/2049874676646916259/photo/1",
+              "media_key": "3_2049874656312868864",
+              "start": 5,
+              "url": "https://t.co/wZ5bXlglM4"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2022575536736764018",
+              "start": 29,
+              "url": "https://t.co/pfcaPLQfcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049874676646916259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022575536736764018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前而言 https://t.co/wZ5bXlglM4 https://t.co/pfcaPLQfcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4186,
+          "following_count": 999,
+          "like_count": 22845,
+          "listed_count": 11,
+          "media_count": 477,
+          "tweet_count": 7342
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-27T08:16:39.000Z",
+        "description": "Telegram 个人频道：https://t.co/sHMo6L43nJ\nFreeODwiki——可自由编辑的开源 Overdose 百科：https://t.co/cfOVefgmpA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/downwind_hmy5v…",
+                "end": 37,
+                "expanded_url": "https://t.me/downwind_hmy5voZrUneRUNePjEqQpBg",
+                "start": 14,
+                "url": "https://t.co/sHMo6L43nJ"
+              },
+              {
+                "display_url": "freeodwiki.org",
+                "end": 94,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 71,
+                "url": "https://t.co/cfOVefgmpA"
+              }
+            ]
+          }
+        },
+        "id": "978546324323762177",
+        "location": "nowhere",
+        "name": "零℃可乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034222946865328128/KcZL-1YP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 2085,
+          "like_count": 19219,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 514
+        },
+        "username": "d1yum1d",
+        "verified": false
+      }
+    ]
+  }
+}

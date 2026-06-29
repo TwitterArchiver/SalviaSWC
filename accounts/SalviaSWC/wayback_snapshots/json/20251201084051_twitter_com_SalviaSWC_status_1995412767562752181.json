@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995412754199425024"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1995400976686293454",
+    "created_at": "2025-12-01T08:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995412767562752181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971208789853675520",
+          "start": 0,
+          "username": "seroglumax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vt3ssInUlD",
+          "end": 101,
+          "expanded_url": "https://x.com/SalviaSWC/status/1995412767562752181/photo/1",
+          "media_key": "3_1995412754199425024",
+          "start": 78,
+          "url": "https://t.co/Vt3ssInUlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995412767562752181",
+    "in_reply_to_user_id": "1971208789853675520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995406376366219352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seroglumax 视频没看，但是论文看了\n这论文是在讲鼻腔喷雾的作用阿，不是鼻吸粉末，而且主要讲的是头部位置，似乎也没提吸管在鼻腔中的位置的作用() https://t.co/Vt3ssInUlD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_1995412754199425024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EhU-pXMAAybMU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 846,
+        "media_key": "3_1995406022022926336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EbNHVaEAA_MGo.png",
+        "width": 788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995412754199425024"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1995400976686293454",
+        "created_at": "2025-12-01T08:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995412767562752181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971208789853675520",
+              "start": 0,
+              "username": "seroglumax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vt3ssInUlD",
+              "end": 101,
+              "expanded_url": "https://x.com/SalviaSWC/status/1995412767562752181/photo/1",
+              "media_key": "3_1995412754199425024",
+              "start": 78,
+              "url": "https://t.co/Vt3ssInUlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995412767562752181",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995406376366219352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seroglumax 视频没看，但是论文看了\n这论文是在讲鼻腔喷雾的作用阿，不是鼻吸粉末，而且主要讲的是头部位置，似乎也没提吸管在鼻腔中的位置的作用() https://t.co/Vt3ssInUlD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995406022022926336"
+          ]
+        },
+        "author_id": "1971208789853675520",
+        "conversation_id": "1995400976686293454",
+        "created_at": "2025-12-01T08:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995406376366219352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Intranasal corticosteroids are the most effective medication for hay fever, but patients need to use their nasal spray correctly to feel the full effects.Her...",
+              "display_url": "youtube.com/watch?v=_ytYj1…",
+              "end": 48,
+              "expanded_url": "https://www.youtube.com/watch?v=_ytYj1TLojM",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1995406380287819776/5bRx4BqG?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1995406380287819776/5bRx4BqG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "Teaching patients to use nasal sprays | BMJ Learning",
+              "unwound_url": "https://www.youtube.com/watch?v=_ytYj1TLojM",
+              "url": "https://t.co/sReiqkJFOU"
+            },
+            {
+              "description": "PDF | Objectives First-line treatment of chronic rhinosinusitis includes topical corticosteroids aimed at decreasing inflammation of sinonasal mucosa.... | Find, read and cite all the research you need on ResearchGate",
+              "display_url": "researchgate.net/publication/34…",
+              "end": 73,
+              "expanded_url": "https://www.researchgate.net/publication/344381688_Positional_Installation_of_Intranasal_Corticosteroids_in_the_Treatment_of_Chronic_Rhinosinusitis_A_Systematic_Review_of_the_Literature",
+              "images": [
+                {
+                  "height": 1121,
+                  "url": "https://pbs.twimg.com/news_img/1995406377632870400/8yphTNNt?format=png&name=orig",
+                  "width": 850
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1995406377632870400/8yphTNNt?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "(PDF) Positional Installation of Intranasal Corticosteroids in the Treatment of Chronic Rhinosinusitis: A Systematic Review of the Literature",
+              "unwound_url": "https://www.researchgate.net/publication/344381688_Positional_Installation_of_Intranasal_Corticosteroids_in_the_Treatment_of_Chronic_Rhinosinusitis_A_Systematic_Review_of_the_Literature",
+              "url": "https://t.co/1QlK6eH5kw"
+            },
+            {
+              "display_url": "pic.x.com/q4cf09mS0R",
+              "end": 104,
+              "expanded_url": "https://x.com/seroglumax/status/1995406376366219352/photo/1",
+              "media_key": "3_1995406022022926336",
+              "start": 81,
+              "url": "https://t.co/q4cf09mS0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995406376366219352",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995402971522470006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 可以参考这个视频和这篇论文\nhttps://t.co/sReiqkJFOU\n\nhttps://t.co/1QlK6eH5kw\nAI的解释： https://t.co/q4cf09mS0R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 711,
+          "like_count": 14349,
+          "listed_count": 7,
+          "media_count": 183,
+          "tweet_count": 3907
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Quantum Space Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "pinned_tweet_id": "1978987904866087169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 124,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 704
+        },
+        "username": "seroglumax",
+        "verified": false
+      }
+    ]
+  }
+}

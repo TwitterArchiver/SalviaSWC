@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042600214410989574",
+        "3_2042600215014969344"
+      ],
+      "media_source_tweet_id": [
+        "2042600217799987572",
+        "2042600217799987572"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042632028214993017",
+    "created_at": "2026-04-10T15:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042632028214993017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472219833261772801",
+          "start": 3,
+          "username": "xxx_jjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HhYMICZ7uM",
+          "end": 82,
+          "expanded_url": "https://x.com/xxx_jjkk/status/2042600217799987572/photo/1",
+          "media_key": "3_2042600214410989574",
+          "start": 59,
+          "url": "https://t.co/HhYMICZ7uM"
+        },
+        {
+          "display_url": "pic.x.com/HhYMICZ7uM",
+          "end": 82,
+          "expanded_url": "https://x.com/xxx_jjkk/status/2042600217799987572/photo/1",
+          "media_key": "3_2042600215014969344",
+          "start": 59,
+          "url": "https://t.co/HhYMICZ7uM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042632028214993017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042600217799987572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_jjkk: 神了 这次广州禁毒还有来源介绍直接把主播女孩重度依赖这个名字打在上面了\n官方推荐了属于是 https://t.co/HhYMICZ7uM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2042600214410989574",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjGEqYakAYYPai.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1965,
+        "media_key": "3_2042600215014969344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjGEsoakAACLGC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042600214410989574",
+            "3_2042600215014969344"
+          ],
+          "media_source_tweet_id": [
+            "2042600217799987572",
+            "2042600217799987572"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042632028214993017",
+        "created_at": "2026-04-10T15:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042632028214993017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472219833261772801",
+              "start": 3,
+              "username": "xxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HhYMICZ7uM",
+              "end": 82,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2042600217799987572/photo/1",
+              "media_key": "3_2042600214410989574",
+              "start": 59,
+              "url": "https://t.co/HhYMICZ7uM"
+            },
+            {
+              "display_url": "pic.x.com/HhYMICZ7uM",
+              "end": 82,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2042600217799987572/photo/1",
+              "media_key": "3_2042600215014969344",
+              "start": 59,
+              "url": "https://t.co/HhYMICZ7uM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042632028214993017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042600217799987572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxx_jjkk: 神了 这次广州禁毒还有来源介绍直接把主播女孩重度依赖这个名字打在上面了\n官方推荐了属于是 https://t.co/HhYMICZ7uM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042600214410989574",
+            "3_2042600215014969344"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042600217799987572",
+        "created_at": "2026-04-10T13:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042600217799987572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HhYMICZ7uM",
+              "end": 68,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2042600217799987572/photo/1",
+              "media_key": "3_2042600214410989574",
+              "start": 45,
+              "url": "https://t.co/HhYMICZ7uM"
+            },
+            {
+              "display_url": "pic.x.com/HhYMICZ7uM",
+              "end": 68,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2042600217799987572/photo/1",
+              "media_key": "3_2042600215014969344",
+              "start": 45,
+              "url": "https://t.co/HhYMICZ7uM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042600217799987572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2338,
+          "like_count": 59,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "神了 这次广州禁毒还有来源介绍直接把主播女孩重度依赖这个名字打在上面了\n官方推荐了属于是 https://t.co/HhYMICZ7uM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 995,
+          "like_count": 21995,
+          "listed_count": 8,
+          "media_count": 410,
+          "tweet_count": 6674
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 412,
+          "like_count": 9507,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

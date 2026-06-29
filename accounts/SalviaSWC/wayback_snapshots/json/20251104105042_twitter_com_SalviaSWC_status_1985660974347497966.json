@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1985326185690112050",
+    "created_at": "2025-11-04T10:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T11:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985660974347497966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818868633759858688",
+          "start": 0,
+          "username": "Xxw3nSyxX_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985660974347497966",
+    "in_reply_to_user_id": "1818868633759858688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985660787076317378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxw3nSyxX_ 神圣的右美沙芬连接着我们每一个人!!!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1985326185690112050",
+        "created_at": "2025-11-04T10:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985660974347497966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818868633759858688",
+              "start": 0,
+              "username": "Xxw3nSyxX_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985660974347497966",
+        "in_reply_to_user_id": "1818868633759858688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985660787076317378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxw3nSyxX_ 神圣的右美沙芬连接着我们每一个人!!!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818868633759858688",
+        "conversation_id": "1985326185690112050",
+        "created_at": "2025-11-04T10:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985660787076317378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985660787076317378",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985326185690112050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 右美空间！右美意识！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 650,
+          "like_count": 10226,
+          "listed_count": 7,
+          "media_count": 147,
+          "tweet_count": 3200
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T04:37:40.000Z",
+        "description": "不给死藤水就捣蛋，还我命来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@fil_.3r1n",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@fil_.3r1n",
+                "start": 0,
+                "url": "https://t.co/mJm0EHjL2a"
+              }
+            ]
+          }
+        },
+        "id": "1818868633759858688",
+        "location": "云",
+        "name": "R3gu1u$#企鹅🐧",
+        "pinned_tweet_id": "1934573684087459915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879834337761488896/xWIDF-ej_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 141,
+          "like_count": 1770,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1218
+        },
+        "url": "https://t.co/mJm0EHjL2a",
+        "username": "Xxw3nSyxX_",
+        "verified": false
+      }
+    ]
+  }
+}

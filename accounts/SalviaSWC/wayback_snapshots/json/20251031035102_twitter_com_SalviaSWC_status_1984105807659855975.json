@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1984105805176565760"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1984105807659855975",
+    "created_at": "2025-10-31T03:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T04:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984105807659855975"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984105807659855975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "29.一名男子吸食某种毒品后，12分钟后有轻微恶心感，27分钟后视觉开始变形，28分钟后剧烈变形，在幻觉的作用下开始用刀割自己，不幸失血身亡。根据行为描述的特征，这名男子吸食的毒品最有可能是什么?\nA.DMT B.5-MeO-DMT C.4-HO-DMT D.4-AcO-DMT"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 4320,
+        "end_datetime": "2025-11-03T03:51:01.000Z",
+        "id": "1984105805176565760",
+        "options": [
+          {
+            "label": "DMT",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "5-MeO-DMT",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "4-HO-DMT",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "4-AcO-DMT",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1984105805176565760"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1984105807659855975",
+        "created_at": "2025-10-31T03:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T04:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984105807659855975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984105807659855975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "29.一名男子吸食某种毒品后，12分钟后有轻微恶心感，27分钟后视觉开始变形，28分钟后剧烈变形，在幻觉的作用下开始用刀割自己，不幸失血身亡。根据行为描述的特征，这名男子吸食的毒品最有可能是什么?\nA.DMT B.5-MeO-DMT C.4-HO-DMT D.4-AcO-DMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "#StandWithSpr1ngW1nd\n07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 0,
+                "tag": "StandWithSpr1ngW1nd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "Sᴀʟv1ᴀ～#鼠尾草",
+        "pinned_tweet_id": "1983831915678536138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983844815524581376/MlP6f7GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 602,
+          "like_count": 9449,
+          "listed_count": 7,
+          "media_count": 134,
+          "tweet_count": 2999
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

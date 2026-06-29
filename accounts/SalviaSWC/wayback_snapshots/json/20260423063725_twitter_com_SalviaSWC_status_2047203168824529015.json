@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2047201359724757345",
+    "created_at": "2026-04-23T06:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047203168824529015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+          "end": 28,
+          "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%8D%AF%E7%89%A9%E5%88%86%E7%B1%BB/%E8%8D%AF%E7%89%A9%E5%85%A8%E7%B4%A2%E5%BC%95.html",
+          "start": 5,
+          "status": 200,
+          "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%8D%AF%E7%89%A9%E5%88%86%E7%B1%BB/%E8%8D%AF%E7%89%A9%E5%85%A8%E7%B4%A2%E5%BC%95.html",
+          "url": "https://t.co/Gb0TBqEbiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047203168824529015",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047201359724757345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "网页链接：https://t.co/Gb0TBqEbiu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047200556360331264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkeDznW8AAyPP_.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2047201359724757345",
+        "created_at": "2026-04-23T06:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047203168824529015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+              "end": 28,
+              "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%8D%AF%E7%89%A9%E5%88%86%E7%B1%BB/%E8%8D%AF%E7%89%A9%E5%85%A8%E7%B4%A2%E5%BC%95.html",
+              "start": 5,
+              "status": 200,
+              "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E8%8D%AF%E7%89%A9%E5%88%86%E7%B1%BB/%E8%8D%AF%E7%89%A9%E5%85%A8%E7%B4%A2%E5%BC%95.html",
+              "url": "https://t.co/Gb0TBqEbiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047203168824529015",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047201359724757345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网页链接：https://t.co/Gb0TBqEbiu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047200556360331264"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2047201359724757345",
+        "created_at": "2026-04-23T06:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047201359724757345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcjGc3gVhg",
+              "end": 133,
+              "expanded_url": "https://x.com/SalviaSWC/status/2047201359724757345/photo/1",
+              "media_key": "3_2047200556360331264",
+              "start": 110,
+              "url": "https://t.co/UcjGc3gVhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047201359724757345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "FreeODwiki的药物补全计划&amp;精神活性植物的条目已经编写完成了哦🥹(感谢psywiki)。\n\n其中包含一些容易获取的非管制的物质，甚至还有一些非管制的、也无法有效管制的精神活性植物。\n\n欢迎大家来看看哦🥺 https://t.co/UcjGc3gVhg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3925,
+          "following_count": 989,
+          "like_count": 22638,
+          "listed_count": 10,
+          "media_count": 458,
+          "tweet_count": 7225
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

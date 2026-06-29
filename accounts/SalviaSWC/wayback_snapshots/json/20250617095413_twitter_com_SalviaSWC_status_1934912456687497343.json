@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1934877053536620926",
+    "created_at": "2025-06-17T09:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T10:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934912456687497343"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1934912456687497343",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934911736940753357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马上就要吃完所有固体了,都不是很苦.\n之前提纯右美的时候,经常发现右美会紧贴着容器壁蒸发.\n而目前吃的所有固体都是在碗中间的,估计大部分是盐杂质.\n(我用的盐都是无毒无精神活性的,但是可能会刺激消化道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934877053536620926",
+        "created_at": "2025-06-17T09:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934912456687497343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934912456687497343",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934911736940753357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马上就要吃完所有固体了,都不是很苦.\n之前提纯右美的时候,经常发现右美会紧贴着容器壁蒸发.\n而目前吃的所有固体都是在碗中间的,估计大部分是盐杂质.\n(我用的盐都是无毒无精神活性的,但是可能会刺激消化道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934877053536620926",
+        "created_at": "2025-06-17T09:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934911736940753357"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934911736940753357",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934908926232842344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前没有任何恶心想吐的感觉,但也没有什么好的感觉,心情提升肯定是有的,但是达不到欣快的地步.脑子思考变慢,想不起来之类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 129,
+          "like_count": 2749,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1088
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

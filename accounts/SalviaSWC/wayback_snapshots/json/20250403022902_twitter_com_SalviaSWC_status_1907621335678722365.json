@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1907563355210129860",
+    "created_at": "2025-04-03T02:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T03:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907621335678722365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1798017061131874304",
+          "start": 0,
+          "username": "cupric_oxide_"
+        },
+        {
+          "end": 28,
+          "id": "1806972371607474176",
+          "start": 15,
+          "username": "Acgbaka233Ba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907621335678722365",
+    "in_reply_to_user_id": "1798017061131874304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907563355210129860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cupric_oxide_ @Acgbaka233Ba ?\n补药啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_1907563347652050944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnkGwgtbAAAKC2J.png",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1907563355210129860",
+        "created_at": "2025-04-03T02:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T03:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907621335678722365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1798017061131874304",
+              "start": 0,
+              "username": "cupric_oxide_"
+            },
+            {
+              "end": 28,
+              "id": "1806972371607474176",
+              "start": 15,
+              "username": "Acgbaka233Ba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907621335678722365",
+        "in_reply_to_user_id": "1798017061131874304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907563355210129860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cupric_oxide_ @Acgbaka233Ba ?\n补药啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907563347652050944"
+          ]
+        },
+        "author_id": "1798017061131874304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907563355210129860",
+        "created_at": "2025-04-02T22:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T23:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907563355210129860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1806972371607474176",
+              "start": 4,
+              "username": "Acgbaka233Ba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DbX6rvcmZ2",
+              "end": 41,
+              "expanded_url": "https://x.com/cupric_oxide_/status/1907563355210129860/photo/1",
+              "media_key": "3_1907563347652050944",
+              "start": 18,
+              "url": "https://t.co/DbX6rvcmZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907563355210129860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 329,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "几个意思@Acgbaka233Ba https://t.co/DbX6rvcmZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 47,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 179
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T15:40:59.000Z",
+        "description": "穹璃：@Acgbaka233Ba\n此方： @ci_shang85157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "Acgbaka233Ba"
+              },
+              {
+                "end": 35,
+                "start": 21,
+                "username": "ci_shang85157"
+              }
+            ]
+          }
+        },
+        "id": "1798017061131874304",
+        "location": "wherever",
+        "name": "氧化铜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813853619403538432/6azYMx2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 1143,
+          "like_count": 21857,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 3578
+        },
+        "username": "cupric_oxide_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T08:46:10.000Z",
+        "description": "在网络的海洋里游啊,超级笨蛋，10后（10/06/15）14岁，必回关！想交朋友QAQ！辽宁海城人‖INFP‖可Q，想聊天！有偏执，容易怀疑别人『望涨fo』 |||提问我：https://t.co/HvlLXADoLR ||| 全是好朋友（无证含糖🍥）HRT:2025/3/19深柜中｛断糖｝⬇️赞赏码（小声",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qiongli",
+                "end": 109,
+                "expanded_url": "https://ngl.link/qiongli",
+                "start": 86,
+                "url": "https://t.co/HvlLXADoLR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/acgbaka233ba/s…",
+                "end": 23,
+                "expanded_url": "https://x.com/acgbaka233ba/status/1903093167500694007?s=46",
+                "start": 0,
+                "url": "https://t.co/44irzZpvFS"
+              }
+            ]
+          }
+        },
+        "id": "1806972371607474176",
+        "location": "fufu软软的脑袋上",
+        "name": "穹璃吖₍˄·͈༝·͈˄*₎◞ ̑̑🍥🏳‍⚧",
+        "pinned_tweet_id": "1903093167500694007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906186765280661504/0BIx0FSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 929,
+          "like_count": 6106,
+          "listed_count": 3,
+          "media_count": 129,
+          "tweet_count": 1918
+        },
+        "url": "https://t.co/44irzZpvFS",
+        "username": "Acgbaka233Ba",
+        "verified": false
+      }
+    ]
+  }
+}

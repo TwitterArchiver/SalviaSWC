@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2063797963546042485",
+    "created_at": "2026-06-10T02:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064537889937973366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2035280498617126912",
+          "start": 0,
+          "username": "yuki14spf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064537889937973366",
+    "in_reply_to_user_id": "2035280498617126912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064477218022277308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki14spf 好哦🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2063797963546042485",
+        "created_at": "2026-06-10T02:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064537889937973366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2035280498617126912",
+              "start": 0,
+              "username": "yuki14spf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064537889937973366",
+        "in_reply_to_user_id": "2035280498617126912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064477218022277308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki14spf 好哦🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035280498617126912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2063797963546042485",
+        "created_at": "2026-06-09T22:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064477218022277308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064477218022277308",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063797963546042485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 物化生🥺之后上大学想学化学／生物类的（自己弄药吃bushi)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4819,
+          "following_count": 1016,
+          "like_count": 24408,
+          "listed_count": 12,
+          "media_count": 550,
+          "tweet_count": 7873
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T09:03:23.000Z",
+        "description": "08 有🚪详细置顶 女孩子来和人家互转互fo好不好🥺 TG频道 https://t.co/42WioBMhSu TG聊天账号 https://t.co/m2o9cc4AZG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yukifurida3369",
+                "end": 55,
+                "expanded_url": "https://t.me/yukifurida3369",
+                "start": 32,
+                "url": "https://t.co/42WioBMhSu"
+              },
+              {
+                "display_url": "t.me/yukifurida",
+                "end": 86,
+                "expanded_url": "https://t.me/yukifurida",
+                "start": 63,
+                "url": "https://t.co/m2o9cc4AZG"
+              }
+            ]
+          }
+        },
+        "id": "2035280498617126912",
+        "location": "距离你800m",
+        "name": "yuki",
+        "pinned_tweet_id": "2061850538376093867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035281794229223424/Prp6g3X3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 14,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 55
+        },
+        "username": "yuki14spf",
+        "verified": false
+      }
+    ]
+  }
+}

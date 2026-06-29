@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1991420119361474789",
+    "created_at": "2025-11-21T05:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T06:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991738062238544329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1504047434502008835",
+          "start": 0,
+          "username": "q541542791"
+        },
+        {
+          "end": 25,
+          "id": "1701225401404801024",
+          "start": 12,
+          "username": "xhanjd145869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991738062238544329",
+    "in_reply_to_user_id": "1504047434502008835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991685244978885086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@q541542791 @xhanjd145869 某药物可以导致欣快的药效的性质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1991420119361474789",
+        "created_at": "2025-11-21T05:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991738062238544329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504047434502008835",
+              "start": 0,
+              "username": "q541542791"
+            },
+            {
+              "end": 25,
+              "id": "1701225401404801024",
+              "start": 12,
+              "username": "xhanjd145869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991738062238544329",
+        "in_reply_to_user_id": "1504047434502008835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991685244978885086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@q541542791 @xhanjd145869 某药物可以导致欣快的药效的性质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504047434502008835",
+        "conversation_id": "1991420119361474789",
+        "created_at": "2025-11-21T01:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991685244978885086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1701225401404801024",
+              "start": 0,
+              "username": "xhanjd145869"
+            },
+            {
+              "end": 24,
+              "id": "1659962043460354050",
+              "start": 14,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991685244978885086",
+        "in_reply_to_user_id": "1701225401404801024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991443197864861851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhanjd145869 @SalviaSWC 啥是娱乐性？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1859,
+          "following_count": 695,
+          "like_count": 13194,
+          "listed_count": 6,
+          "media_count": 168,
+          "tweet_count": 3699
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T10:51:14.000Z",
+        "description": "ethereum is good",
+        "id": "1504047434502008835",
+        "name": "马斯克",
+        "pinned_tweet_id": "1744364712131805430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848618945546452992/wHiNpRLV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 443,
+          "like_count": 3677,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1623
+        },
+        "username": "q541542791",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T13:25:25.000Z",
+        "description": "09年12月🍥\n不太会社交\n嗯对的 会射胶\n还是找到我了？",
+        "id": "1701225401404801024",
+        "name": "Spring风#天卫四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983923355578503168/I6sGCpS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 89,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 153
+        },
+        "username": "xhanjd145869",
+        "verified": false
+      }
+    ]
+  }
+}

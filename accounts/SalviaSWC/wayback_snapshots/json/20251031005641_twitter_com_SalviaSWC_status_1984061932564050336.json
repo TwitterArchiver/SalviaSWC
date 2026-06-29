@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984061885180792832"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1984061932564050336",
+    "created_at": "2025-10-31T00:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T01:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984061932564050336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BcpR4XBYdd",
+          "end": 44,
+          "expanded_url": "https://x.com/SalviaSWC/status/1984061932564050336/photo/1",
+          "media_key": "3_1984061885180792832",
+          "start": 21,
+          "url": "https://t.co/BcpR4XBYdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984061932564050336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "赛博算命\n话说推u都是什么mbti阿🥺👀 https://t.co/BcpR4XBYdd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984061885180792832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4jNxcaX0AA48-G.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984061885180792832"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1984061932564050336",
+        "created_at": "2025-10-31T00:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T01:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984061932564050336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcpR4XBYdd",
+              "end": 44,
+              "expanded_url": "https://x.com/SalviaSWC/status/1984061932564050336/photo/1",
+              "media_key": "3_1984061885180792832",
+              "start": 21,
+              "url": "https://t.co/BcpR4XBYdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984061932564050336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赛博算命\n话说推u都是什么mbti阿🥺👀 https://t.co/BcpR4XBYdd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "#StandWithSpr1ngW1nd\n07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 0,
+                "tag": "StandWithSpr1ngW1nd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "Sᴀʟv1ᴀ～#鼠尾草",
+        "pinned_tweet_id": "1983831915678536138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983844815524581376/MlP6f7GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 602,
+          "like_count": 9435,
+          "listed_count": 7,
+          "media_count": 133,
+          "tweet_count": 2988
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

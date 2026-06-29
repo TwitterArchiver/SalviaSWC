@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2064534061369159793",
+    "created_at": "2026-06-10T02:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064538067243823592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "OD_Sakura23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064538067243823592",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064534061369159793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OD_Sakura23333 对阿，好奇怪呢......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064534053718773760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKayyJKa0AAtCxd.jpg",
+        "width": 1274
+      },
+      {
+        "height": 1985,
+        "media_key": "3_2064534056239607808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKayySjbsAA71ff.jpg",
+        "width": 1428
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064534058332565505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKayyaWbsAEVlc3.jpg",
+        "width": 1291
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2064534061369159793",
+        "created_at": "2026-06-10T02:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064538067243823592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "OD_Sakura23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064538067243823592",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064534061369159793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OD_Sakura23333 对阿，好奇怪呢......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064534053718773760",
+            "3_2064534056239607808",
+            "3_2064534058332565505"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2064534061369159793",
+        "created_at": "2026-06-10T02:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064534061369159793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urbiWgcUpx",
+              "end": 184,
+              "expanded_url": "https://x.com/OD_Sakura23333/status/2064534061369159793/photo/1",
+              "media_key": "3_2064534053718773760",
+              "start": 161,
+              "url": "https://t.co/urbiWgcUpx"
+            },
+            {
+              "display_url": "pic.x.com/urbiWgcUpx",
+              "end": 184,
+              "expanded_url": "https://x.com/OD_Sakura23333/status/2064534061369159793/photo/1",
+              "media_key": "3_2064534056239607808",
+              "start": 161,
+              "url": "https://t.co/urbiWgcUpx"
+            },
+            {
+              "display_url": "pic.x.com/urbiWgcUpx",
+              "end": 184,
+              "expanded_url": "https://x.com/OD_Sakura23333/status/2064534061369159793/photo/1",
+              "media_key": "3_2064534058332565505",
+              "start": 161,
+              "url": "https://t.co/urbiWgcUpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064534061369159793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不可将迷幻药的强度仅以5HT-2A受体的结合亲和力来判断\n\n5-HT2A受体结合亲和力为\nDOI 0.65nM、DOB 1.17nM、LSD 3.50nM\n（数值越小，亲和性越高），但是一般剂量为\nLSD: 60–200μg、DOI: 1.5–3.0 mg、DOB: 1.0–3.0 mg，\nLSD以远少于此的量即可生效 https://t.co/urbiWgcUpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4819,
+          "following_count": 1016,
+          "like_count": 24409,
+          "listed_count": 12,
+          "media_count": 550,
+          "tweet_count": 7874
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 抗うつ | くず\n | 希死念慮 | 情緒不安定\n药物科普网站:https://t.co/rSxE9OBY6f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 79,
+                "expanded_url": "https://jile.bid/",
+                "start": 56,
+                "url": "https://t.co/rSxE9OBY6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 23,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 0,
+                "url": "https://t.co/iTaosAO9RF"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "Sakura⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059942253020459008/BuhfSavd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 1434,
+          "like_count": 25458,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 3313
+        },
+        "url": "https://t.co/iTaosAO9RF",
+        "username": "OD_Sakura23333",
+        "verified": false
+      }
+    ]
+  }
+}

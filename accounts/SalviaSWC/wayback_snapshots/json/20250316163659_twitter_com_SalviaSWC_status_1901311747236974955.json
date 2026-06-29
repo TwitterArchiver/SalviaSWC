@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1901249386069508416",
+    "created_at": "2025-03-16T16:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T17:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901311747236974955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1817198028018819072",
+          "start": 0,
+          "username": "1268716a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901311747236974955",
+    "in_reply_to_user_id": "1817198028018819072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901249386069508416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1268716a 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1901249386069508416",
+        "created_at": "2025-03-16T16:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T17:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901311747236974955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1817198028018819072",
+              "start": 0,
+              "username": "1268716a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901311747236974955",
+        "in_reply_to_user_id": "1817198028018819072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901249386069508416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1268716a 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817198028018819072",
+        "conversation_id": "1901249386069508416",
+        "created_at": "2025-03-16T12:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T13:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901249386069508416"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901249386069508416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求互fo喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 56
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T14:00:06.000Z",
+        "description": "169cm&54kg 09年生 | 含糖mtf",
+        "id": "1817198028018819072",
+        "name": "qwq🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851460296432553984/0iZrlSDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 96,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 267
+        },
+        "username": "1268716a",
+        "verified": false
+      }
+    ]
+  }
+}

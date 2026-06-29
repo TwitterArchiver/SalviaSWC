@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1952640795049075193",
+    "created_at": "2025-08-06T11:14:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T12:14:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953052111081500683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796427186557100032",
+          "start": 0,
+          "username": "brunsvigine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953052111081500683",
+    "in_reply_to_user_id": "1796427186557100032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953043318818119848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brunsvigine 我大概猜到你是在说什么了()\n这也是我发这个贴子，来讨论这个话题的原因\n如何搞到药不是最重要的问题，如何不要把健康搭进去才是\n窝第一次接触阿片类药物的时候，认为禁毒宣传中的“大毒贩都不吸毒，因为他们自己知道毒品的危害”是胡说八道，没有人能拒绝阿片类的快感\n直到最近，窝才同意这个说法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1952640795049075193",
+        "created_at": "2025-08-06T11:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T12:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953052111081500683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796427186557100032",
+              "start": 0,
+              "username": "brunsvigine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953052111081500683",
+        "in_reply_to_user_id": "1796427186557100032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953043318818119848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brunsvigine 我大概猜到你是在说什么了()\n这也是我发这个贴子，来讨论这个话题的原因\n如何搞到药不是最重要的问题，如何不要把健康搭进去才是\n窝第一次接触阿片类药物的时候，认为禁毒宣传中的“大毒贩都不吸毒，因为他们自己知道毒品的危害”是胡说八道，没有人能拒绝阿片类的快感\n直到最近，窝才同意这个说法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796427186557100032",
+        "conversation_id": "1952640795049075193",
+        "created_at": "2025-08-06T10:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953043318818119848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953043318818119848",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952657089249104065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 少吃，我建议你去猫市看看，那边有几个典型的兴奋剂瘾君子，和推上那个注射meth meph不一样 是那种磕concerta的，那种强烈的思维僵化感让我根本不想和他们打交道，一般只有让我感觉脑子好使的人才来接触"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1952002613244735810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 376,
+          "like_count": 5507,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1975
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T06:23:36.000Z",
+        "description": "Rfdiffudion Rfdirtyefan",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubmed.ncbi.nlm.nih.gov",
+                "end": 23,
+                "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/",
+                "start": 0,
+                "url": "https://t.co/E8tmKN4934"
+              }
+            ]
+          }
+        },
+        "id": "1796427186557100032",
+        "location": "Yakutat,Alaska",
+        "name": "みき さやか",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937174609129816064/bV0ci-3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 177,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/E8tmKN4934",
+        "username": "brunsvigine",
+        "verified": false
+      }
+    ]
+  }
+}

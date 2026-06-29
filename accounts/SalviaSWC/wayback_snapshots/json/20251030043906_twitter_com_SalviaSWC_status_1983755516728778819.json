@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1983503538152976447",
+    "created_at": "2025-10-30T04:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T05:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983755516728778819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1834254666840080384",
+          "start": 0,
+          "username": "Mo_www_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983755516728778819",
+    "in_reply_to_user_id": "1834254666840080384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983752011813417210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mo_www_ 那个味道真是牛磺酸的味道嘛()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1983503538152976447",
+        "created_at": "2025-10-30T04:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983755516728778819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1834254666840080384",
+              "start": 0,
+              "username": "Mo_www_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983755516728778819",
+        "in_reply_to_user_id": "1834254666840080384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983752011813417210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mo_www_ 那个味道真是牛磺酸的味道嘛()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834254666840080384",
+        "conversation_id": "1983503538152976447",
+        "created_at": "2025-10-30T04:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T05:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983752011813417210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983752011813417210",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983503538152976447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 黑的牛磺酸味道太重了qwq\n比红牛都重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 565,
+          "like_count": 9314,
+          "listed_count": 7,
+          "media_count": 128,
+          "tweet_count": 2962
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T15:36:12.000Z",
+        "description": "人在大陆 OIer | \n尊重历史 | \n两岸一家亲，反对武统 | \n社自B | \n碎碎念 | \n翻车友🏳️‍⚧️mtx😋 | \n同类贴贴😆 | \nINTP | \n互fo可以提醒我一下qwq | \n有主人啦ww | \n喜欢的妹妹🥰@KS_Nitori | \n不知道什么能的里推@Mo__w__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "KS_Nitori"
+              },
+              {
+                "end": 146,
+                "start": 138,
+                "username": "Mo__w__"
+              }
+            ]
+          }
+        },
+        "id": "1834254666840080384",
+        "location": "Xi'an Shaanxi China",
+        "name": "不知道叫什么反正跟墙内不一样的小Mo",
+        "pinned_tweet_id": "1947632764293157372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965700476151955457/wI9zgasX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 799,
+          "like_count": 8011,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1181
+        },
+        "username": "Mo_www_",
+        "verified": false
+      }
+    ]
+  }
+}

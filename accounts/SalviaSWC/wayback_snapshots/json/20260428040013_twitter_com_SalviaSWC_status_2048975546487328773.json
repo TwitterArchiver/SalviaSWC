@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048974585199198208"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2048975546487328773",
+    "created_at": "2026-04-28T04:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048975546487328773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MArPWkfkAK",
+          "end": 136,
+          "expanded_url": "https://x.com/SalviaSWC/status/2048975546487328773/photo/1",
+          "media_key": "3_2048974585199198208",
+          "start": 113,
+          "url": "https://t.co/MArPWkfkAK"
+        },
+        {
+          "display_url": "x.com/wangjupaian/st…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/wangjupaian/status/2048888172038533395",
+          "start": 137,
+          "url": "https://t.co/4oVfRrNvkI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048975546487328773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048888172038533395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这件事情可以结合前几天刚刚爆出的那件警察“钓鱼执法”事件来看(警察提供毒品，诱导他人吸毒，然后自己去抓人)。\n\n法律未能充分保护受害者，也未能充分惩罚该受罚的人。甚至法律自身沦为了坏人的作案动机和“凶器”，这种情况令人感叹。 https://t.co/MArPWkfkAK https://t.co/4oVfRrNvkI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048974585199198208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9rh4CaAAA7MqP.jpg",
+        "width": 971
+      },
+      {
+        "height": 707,
+        "media_key": "3_2048887483635834880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8cT5bboAAXDOR.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048887483618988033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8cT5XakAEa9EF.jpg",
+        "width": 592
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048887483627421696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8cT5ZbQAAsfgs.jpg",
+        "width": 880
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048887483619069952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8cT5Xb0AALzta.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048974585199198208"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2048975546487328773",
+        "created_at": "2026-04-28T04:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048975546487328773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MArPWkfkAK",
+              "end": 136,
+              "expanded_url": "https://x.com/SalviaSWC/status/2048975546487328773/photo/1",
+              "media_key": "3_2048974585199198208",
+              "start": 113,
+              "url": "https://t.co/MArPWkfkAK"
+            },
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2048888172038533395",
+              "start": 137,
+              "url": "https://t.co/4oVfRrNvkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048975546487328773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048888172038533395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这件事情可以结合前几天刚刚爆出的那件警察“钓鱼执法”事件来看(警察提供毒品，诱导他人吸毒，然后自己去抓人)。\n\n法律未能充分保护受害者，也未能充分惩罚该受罚的人。甚至法律自身沦为了坏人的作案动机和“凶器”，这种情况令人感叹。 https://t.co/MArPWkfkAK https://t.co/4oVfRrNvkI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048887483635834880",
+            "3_2048887483618988033",
+            "3_2048887483627421696",
+            "3_2048887483619069952"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2048888172038533395",
+        "created_at": "2026-04-27T22:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T23:10:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048887488308294100",
+          "2048888172038533395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eup0ufNjhj",
+              "end": 164,
+              "expanded_url": "https://x.com/wangjupaian/status/2048888172038533395/photo/1",
+              "media_key": "3_2048887483635834880",
+              "start": 141,
+              "url": "https://t.co/Eup0ufNjhj"
+            },
+            {
+              "display_url": "pic.x.com/Eup0ufNjhj",
+              "end": 164,
+              "expanded_url": "https://x.com/wangjupaian/status/2048888172038533395/photo/1",
+              "media_key": "3_2048887483618988033",
+              "start": 141,
+              "url": "https://t.co/Eup0ufNjhj"
+            },
+            {
+              "display_url": "pic.x.com/Eup0ufNjhj",
+              "end": 164,
+              "expanded_url": "https://x.com/wangjupaian/status/2048888172038533395/photo/1",
+              "media_key": "3_2048887483627421696",
+              "start": 141,
+              "url": "https://t.co/Eup0ufNjhj"
+            },
+            {
+              "display_url": "pic.x.com/Eup0ufNjhj",
+              "end": 164,
+              "expanded_url": "https://x.com/wangjupaian/status/2048888172038533395/photo/1",
+              "media_key": "3_2048887483619069952",
+              "start": 141,
+              "url": "https://t.co/Eup0ufNjhj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048888172038533395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【15岁少女酒吧配侍，被喂投迷奸水“滴滴原液”身亡：涉案者最高获刑才一年十个月？】4月27日消息，通过中国裁判文书网查询，据去年底公布的一份判决书显示，深圳曾发生一起因误饮“滴滴原液”致人死亡的悲剧，年仅15岁的少女刘某甲，在酒吧过量摄入含该成分的饮品后，因y-羟基丁酸中毒身亡。\n\n文章信息量大到令人窒息：15岁少女酒吧“维护女”、“滴滴原液”、误饮、过失致人死亡、最高刑罚一年十个月。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 22675,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【15岁少女酒吧配侍，被喂投迷奸水“滴滴原液”身亡：涉案者最高获刑才一年十个月？】4月27日消息，通过中国裁判文书网查询，据去年底公布的一份判决书显示，深圳曾发生一起因误饮“滴滴原液”致人死亡的悲剧，年仅15岁的少女刘某甲，在酒吧过量摄入含该成分的饮品后，因y-羟基丁酸中毒身亡。 https://t.co/Eup0ufNjhj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4059,
+          "following_count": 995,
+          "like_count": 22702,
+          "listed_count": 11,
+          "media_count": 467,
+          "tweet_count": 7274
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jWWoT"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2048192776014283134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129690,
+          "following_count": 299,
+          "like_count": 259,
+          "listed_count": 374,
+          "media_count": 6363,
+          "tweet_count": 7064
+        },
+        "url": "https://t.co/FWdZ3jWWoT",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

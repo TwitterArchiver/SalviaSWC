@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2021569378454507749",
+    "created_at": "2026-02-11T12:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T13:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021569378454507749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 25,
+          "id": "1608294527453876225",
+          "start": 15,
+          "username": "Paris1Von"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021569378454507749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021488036673094138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: @Paris1Von 爱德华和他的服务器永远留在了2026年2月😭\n\n我们会铭记故人，继续向前🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2021569378454507749",
+        "created_at": "2026-02-11T12:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T13:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021569378454507749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 25,
+              "id": "1608294527453876225",
+              "start": 15,
+              "username": "Paris1Von"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021569378454507749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021488036673094138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: @Paris1Von 爱德华和他的服务器永远留在了2026年2月😭\n\n我们会铭记故人，继续向前🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2021440809518711262",
+        "created_at": "2026-02-11T07:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021488036673094138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608294527453876225",
+              "start": 0,
+              "username": "Paris1Von"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021488036673094138",
+        "in_reply_to_user_id": "1608294527453876225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021453531161690152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paris1Von 爱德华和他的服务器永远留在了2026年2月😭\n\n我们会铭记故人，继续向前🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰没回fo的话，请私信我哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨OD知识开源&去污名化↓请关注FreeODwiki喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 787,
+          "like_count": 18737,
+          "listed_count": 9,
+          "media_count": 270,
+          "tweet_count": 5322
+        },
+        "url": "https://t.co/ki2TerCl7C",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T02:51:18.000Z",
+        "description": "一只mtx🇹🇼🇪🇺🇨🇵🏳️；Français/國語/閩語\n「理想主義者的反義詞，是心中沒有愛的人~」Geology & Astronomy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cDU8vC1gOSk2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+cDU8vC1gOSk2ODQ1",
+                "start": 0,
+                "url": "https://t.co/o9s26ajvpI"
+              }
+            ]
+          }
+        },
+        "id": "1608294527453876225",
+        "location": "Foochow, Taipei-Min;Chicago IL",
+        "name": "Parish Orit V 🇨🇵🇪🇺",
+        "pinned_tweet_id": "1998692744240443873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015269147387768832/XFWJB8Oo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 910,
+          "like_count": 77667,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 3304
+        },
+        "url": "https://t.co/o9s26ajvpI",
+        "username": "Paris1Von",
+        "verified": false
+      }
+    ]
+  }
+}

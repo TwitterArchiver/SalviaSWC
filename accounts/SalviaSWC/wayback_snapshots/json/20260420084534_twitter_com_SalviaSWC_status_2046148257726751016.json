@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2046141820879692130",
+    "created_at": "2026-04-20T08:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T09:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046148257726751016"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046148257726751016",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046141820879692130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天为420特辑（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2046135409185284096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVVUFLWYAABQrh.png",
+        "width": 902
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2046135409218850816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVVUFTWkAAF6fq.png",
+        "width": 923
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2046135409420210176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVVUGDXEAAY40T.jpg",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2046141820879692130",
+        "created_at": "2026-04-20T08:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046148257726751016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046148257726751016",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046141820879692130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天为420特辑（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046135409185284096",
+            "3_2046135409218850816",
+            "3_2046135409420210176"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2046141820879692130",
+        "created_at": "2026-04-20T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046141820879692130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wayrEbyTvd",
+              "end": 171,
+              "expanded_url": "https://x.com/SalviaSWC/status/2046141820879692130/photo/1",
+              "media_key": "3_2046135409185284096",
+              "start": 148,
+              "url": "https://t.co/wayrEbyTvd"
+            },
+            {
+              "display_url": "pic.x.com/wayrEbyTvd",
+              "end": 171,
+              "expanded_url": "https://x.com/SalviaSWC/status/2046141820879692130/photo/1",
+              "media_key": "3_2046135409218850816",
+              "start": 148,
+              "url": "https://t.co/wayrEbyTvd"
+            },
+            {
+              "display_url": "pic.x.com/wayrEbyTvd",
+              "end": 171,
+              "expanded_url": "https://x.com/SalviaSWC/status/2046141820879692130/photo/1",
+              "media_key": "3_2046135409420210176",
+              "start": 148,
+              "url": "https://t.co/wayrEbyTvd"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2045788126254072263",
+              "start": 172,
+              "url": "https://t.co/BW8DP0ZdVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046141820879692130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 187,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045788126254072263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day 4——大麻味的学生时代\n\n作者高中时，因父母离婚、女友分手而陷入抑郁。他转向大麻和药物来逃避，并走向成瘾。他的大麻成瘾愈演愈烈，在大学时期达到高峰。最终，在他退了学、破了产之后，决定戒掉大麻，把生活的碎片拼好。\n\n将药物作为逃避的手段，会导致悲剧...所以大家补药这么做，好嘛🥹 https://t.co/wayrEbyTvd https://t.co/BW8DP0ZdVn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3855,
+          "following_count": 984,
+          "like_count": 22266,
+          "listed_count": 8,
+          "media_count": 445,
+          "tweet_count": 7042
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

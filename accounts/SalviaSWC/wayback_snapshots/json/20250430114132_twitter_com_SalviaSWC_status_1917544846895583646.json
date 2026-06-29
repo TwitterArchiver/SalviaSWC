@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1917515351069450448",
+    "created_at": "2025-04-30T11:41:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T12:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917544846895583646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917544846895583646",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917515351069450448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki 有一次我吃了7t，然后心脏狂跳，只有轻微解离感，没有其他现象\n于是再也没试过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 497,
+        "media_key": "3_1917515316357390336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpxiBVLaYAAx2D-.png",
+        "width": 265
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1917515351069450448",
+        "created_at": "2025-04-30T11:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T12:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917544846895583646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917544846895583646",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917515351069450448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki 有一次我吃了7t，然后心脏狂跳，只有轻微解离感，没有其他现象\n于是再也没试过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917515316357390336"
+          ]
+        },
+        "author_id": "1804587925805596672",
+        "conversation_id": "1917515351069450448",
+        "created_at": "2025-04-30T09:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T10:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917515351069450448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2skGCGjUKW",
+              "end": 60,
+              "expanded_url": "https://x.com/OverSpeed_Wiki/status/1917515351069450448/photo/1",
+              "media_key": "3_1917515316357390336",
+              "start": 37,
+              "url": "https://t.co/2skGCGjUKW"
+            },
+            {
+              "display_url": "x.com/AnIncandescenc…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/AnIncandescence/status/1917181167889186833",
+              "start": 61,
+              "url": "https://t.co/fJBxV5jNX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917515351069450448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 426,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917181167889186833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ODer请注意，psywiki给出的金刚烷胺用量上限是600mg（6t） https://t.co/2skGCGjUKW https://t.co/fJBxV5jNX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 64,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 473
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1903403105963872404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3489,
+          "following_count": 536,
+          "like_count": 9291,
+          "listed_count": 6,
+          "media_count": 199,
+          "tweet_count": 2690
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

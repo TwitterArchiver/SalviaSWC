@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016465061968039936"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2016466447720145246",
+    "created_at": "2026-01-28T11:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T12:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016466447720145246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Explore the GitHub Discussions forum for SalviaSWC FreeODwiki. Discuss code, ask questions & collaborate with the developer community.",
+          "display_url": "github.com/SalviaSWC/Free…",
+          "end": 170,
+          "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/discussions",
+          "images": [
+            {
+              "height": 615,
+              "url": "https://pbs.twimg.com/news_img/2016466451331485696/sJZ6NCaF?format=png&name=orig",
+              "width": 686
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2016466451331485696/sJZ6NCaF?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 147,
+          "status": 200,
+          "title": "SalviaSWC FreeODwiki · Discussions",
+          "unwound_url": "https://github.com/SalviaSWC/FreeODwiki/discussions",
+          "url": "https://t.co/ue0eEBhGkw"
+        },
+        {
+          "display_url": "pic.x.com/6BagOVHPoj",
+          "end": 194,
+          "expanded_url": "https://x.com/SalviaSWC/status/2016466447720145246/photo/1",
+          "media_key": "3_2016465061968039936",
+          "start": 171,
+          "url": "https://t.co/6BagOVHPoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016466447720145246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "FreeODwiki论坛重磅发布！\n\n只需一个Github账号，即可访问并参与这个有关od药物的论坛。任何人都可以发表贴子，无需邀请或权限。Discussion贴子的形式不像推特推文，注重的是板块而不是发布者，便于浏览重要信息。现设有5个板块，如图\n\n欢迎大家来FOW论坛畅所欲言哦🥰\n\n链接：https://t.co/ue0eEBhGkw https://t.co/6BagOVHPoj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2016465061968039936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vsSkiXUAAUEgK.jpg",
+        "width": 2422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016465061968039936"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2016466447720145246",
+        "created_at": "2026-01-28T11:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T12:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016466447720145246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Explore the GitHub Discussions forum for SalviaSWC FreeODwiki. Discuss code, ask questions & collaborate with the developer community.",
+              "display_url": "github.com/SalviaSWC/Free…",
+              "end": 170,
+              "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/discussions",
+              "images": [
+                {
+                  "height": 615,
+                  "url": "https://pbs.twimg.com/news_img/2016466451331485696/sJZ6NCaF?format=png&name=orig",
+                  "width": 686
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2016466451331485696/sJZ6NCaF?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 147,
+              "status": 200,
+              "title": "SalviaSWC FreeODwiki · Discussions",
+              "unwound_url": "https://github.com/SalviaSWC/FreeODwiki/discussions",
+              "url": "https://t.co/ue0eEBhGkw"
+            },
+            {
+              "display_url": "pic.x.com/6BagOVHPoj",
+              "end": 194,
+              "expanded_url": "https://x.com/SalviaSWC/status/2016466447720145246/photo/1",
+              "media_key": "3_2016465061968039936",
+              "start": 171,
+              "url": "https://t.co/6BagOVHPoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016466447720145246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "FreeODwiki论坛重磅发布！\n\n只需一个Github账号，即可访问并参与这个有关od药物的论坛。任何人都可以发表贴子，无需邀请或权限。Discussion贴子的形式不像推特推文，注重的是板块而不是发布者，便于浏览重要信息。现设有5个板块，如图\n\n欢迎大家来FOW论坛畅所欲言哦🥰\n\n链接：https://t.co/ue0eEBhGkw https://t.co/6BagOVHPoj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2477,
+          "following_count": 793,
+          "like_count": 18452,
+          "listed_count": 8,
+          "media_count": 245,
+          "tweet_count": 5141
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

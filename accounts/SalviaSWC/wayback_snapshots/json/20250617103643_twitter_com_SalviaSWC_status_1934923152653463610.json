@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1934877053536620926",
+    "created_at": "2025-06-17T10:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T11:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934923152653463610"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1934923152653463610",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934918313173205285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对身体的运动感知开始变得奇怪,大概和右美第一高原差不多\n但是解离已经很高了,虽然不至于自我死亡,我可以开始不带情感地评价我过去做过的各种各样的事,没有任何障碍承认自己的不足,进行自我批评,好像之前做这个事情的人不是我一样.很类似于右美较高的高原的程度,但不是很影响正常功能."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934877053536620926",
+        "created_at": "2025-06-17T10:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T11:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934923152653463610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934923152653463610",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934918313173205285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对身体的运动感知开始变得奇怪,大概和右美第一高原差不多\n但是解离已经很高了,虽然不至于自我死亡,我可以开始不带情感地评价我过去做过的各种各样的事,没有任何障碍承认自己的不足,进行自我批评,好像之前做这个事情的人不是我一样.很类似于右美较高的高原的程度,但不是很影响正常功能."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934877053536620926",
+        "created_at": "2025-06-17T10:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T11:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934918313173205285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934918313173205285",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934916976889180527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全泡水喝了!\n藏在碗壁上的DXO出来吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 129,
+          "like_count": 2756,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1092
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

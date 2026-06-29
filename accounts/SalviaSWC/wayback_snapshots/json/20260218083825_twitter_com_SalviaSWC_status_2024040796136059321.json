@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023685100756455424",
+        "3_2023685100790046720"
+      ],
+      "media_source_tweet_id": [
+        "2023685120541016479",
+        "2023685120541016479"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2024040796136059321",
+    "created_at": "2026-02-18T08:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T09:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024040796136059321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1146194352395493378",
+          "start": 3,
+          "username": "5I_can"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ae8xtFvPwG",
+          "end": 81,
+          "expanded_url": "https://x.com/5I_can/status/2023685120541016479/photo/1",
+          "media_key": "3_2023685100756455424",
+          "start": 58,
+          "url": "https://t.co/Ae8xtFvPwG"
+        },
+        {
+          "display_url": "pic.x.com/Ae8xtFvPwG",
+          "end": 81,
+          "expanded_url": "https://x.com/5I_can/status/2023685120541016479/photo/1",
+          "media_key": "3_2023685100790046720",
+          "start": 58,
+          "url": "https://t.co/Ae8xtFvPwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024040796136059321",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023685120541016479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5I_can: In the world there are two types of addiction https://t.co/Ae8xtFvPwG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_2023685100756455424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWS4I_W0AAzR5i.jpg",
+        "width": 1599
+      },
+      {
+        "height": 619,
+        "media_key": "3_2023685100790046720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWS4JHXYAA3ZVb.jpg",
+        "width": 1637
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023685100756455424",
+            "3_2023685100790046720"
+          ],
+          "media_source_tweet_id": [
+            "2023685120541016479",
+            "2023685120541016479"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2024040796136059321",
+        "created_at": "2026-02-18T08:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T09:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024040796136059321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1146194352395493378",
+              "start": 3,
+              "username": "5I_can"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ae8xtFvPwG",
+              "end": 81,
+              "expanded_url": "https://x.com/5I_can/status/2023685120541016479/photo/1",
+              "media_key": "3_2023685100756455424",
+              "start": 58,
+              "url": "https://t.co/Ae8xtFvPwG"
+            },
+            {
+              "display_url": "pic.x.com/Ae8xtFvPwG",
+              "end": 81,
+              "expanded_url": "https://x.com/5I_can/status/2023685120541016479/photo/1",
+              "media_key": "3_2023685100790046720",
+              "start": 58,
+              "url": "https://t.co/Ae8xtFvPwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024040796136059321",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023685120541016479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5I_can: In the world there are two types of addiction https://t.co/Ae8xtFvPwG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023685100756455424",
+            "3_2023685100790046720"
+          ]
+        },
+        "author_id": "1146194352395493378",
+        "conversation_id": "2023685120541016479",
+        "created_at": "2026-02-17T09:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023685120541016479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ae8xtFvPwG",
+              "end": 69,
+              "expanded_url": "https://x.com/5I_can/status/2023685120541016479/photo/1",
+              "media_key": "3_2023685100756455424",
+              "start": 46,
+              "url": "https://t.co/Ae8xtFvPwG"
+            },
+            {
+              "display_url": "pic.x.com/Ae8xtFvPwG",
+              "end": 69,
+              "expanded_url": "https://x.com/5I_can/status/2023685120541016479/photo/1",
+              "media_key": "3_2023685100790046720",
+              "start": 46,
+              "url": "https://t.co/Ae8xtFvPwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023685120541016479",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "In the world there are two types of addiction"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1113,
+          "impression_count": 2767705,
+          "like_count": 10783,
+          "quote_count": 68,
+          "reply_count": 122,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "In the world there are two types of addiction https://t.co/Ae8xtFvPwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨OD知识开源化↓请支持FreeODwiki喵！|Say Know to Drugs 💊丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2728,
+          "following_count": 808,
+          "like_count": 19173,
+          "listed_count": 10,
+          "media_count": 291,
+          "tweet_count": 5492
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-02T23:10:03.000Z",
+        "description": "عنيدهـ لا تبالـيي",
+        "id": "1146194352395493378",
+        "name": "Renad",
+        "pinned_tweet_id": "2023685120541016479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972298558746300416/KxL6ovI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6727,
+          "following_count": 324,
+          "like_count": 129023,
+          "listed_count": 3,
+          "media_count": 652,
+          "tweet_count": 24961
+        },
+        "username": "5I_can",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1971209634934554727",
+    "created_at": "2025-09-25T13:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T14:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971209634934554727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/hsn8086/status/1970638870858568053",
+          "start": 64,
+          "url": "https://t.co/fsTu0WTfYl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971209634934554727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970638870858568053",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "墙内人对毒品的刻板印象+1😅\n造毒品哪里需要学化学?在网上查一下不就知道了嘛(当然是在墙外搜一搜，而不是用禁毒来搞团结的墙内) https://t.co/fsTu0WTfYl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_1970638862214172672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1kdmrLbEAAINIr.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1971209634934554727",
+        "created_at": "2025-09-25T13:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T14:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971209634934554727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/hsn8086/status/1970638870858568053",
+              "start": 64,
+              "url": "https://t.co/fsTu0WTfYl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971209634934554727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970638870858568053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "墙内人对毒品的刻板印象+1😅\n造毒品哪里需要学化学?在网上查一下不就知道了嘛(当然是在墙外搜一搜，而不是用禁毒来搞团结的墙内) https://t.co/fsTu0WTfYl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970638862214172672"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1970638870858568053",
+        "created_at": "2025-09-23T23:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T00:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970638870858568053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zdM5u9OHO6",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1970638870858568053/photo/1",
+              "media_key": "3_1970638862214172672",
+              "start": 0,
+              "url": "https://t.co/zdM5u9OHO6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970638870858568053",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 631042,
+          "like_count": 2958,
+          "quote_count": 11,
+          "reply_count": 132,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zdM5u9OHO6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1266,
+          "following_count": 488,
+          "like_count": 7766,
+          "listed_count": 5,
+          "media_count": 107,
+          "tweet_count": 2620
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97220,
+          "following_count": 988,
+          "like_count": 44384,
+          "listed_count": 219,
+          "media_count": 15948,
+          "tweet_count": 23388
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

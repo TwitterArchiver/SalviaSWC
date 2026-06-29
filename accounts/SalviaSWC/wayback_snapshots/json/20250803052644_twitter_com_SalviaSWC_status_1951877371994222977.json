@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1951872626143514926",
+    "created_at": "2025-08-03T05:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T06:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951877371994222977"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1951877371994222977",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951872626143514926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药瘾存在的进化来源()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1951872626143514926",
+        "created_at": "2025-08-03T05:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T06:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951877371994222977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951877371994222977",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951872626143514926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药瘾存在的进化来源()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1951872626143514926",
+        "created_at": "2025-08-03T05:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T06:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951872626143514926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1951851864405733668",
+              "start": 144,
+              "url": "https://t.co/aj4eW6ThxC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951872626143514926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951851864405733668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自然界中有些植物，服用后，会有相似的减轻痛苦的效果\n有些远古人沉迷于吃这些植物，不去性交了\n他们不是你的祖先\n你的祖先的身体存在一种机制，使他们对于能减轻痛苦的物质，产生长期、无上限的耐受性。他们只有性交，把痛苦的基因传给后代，自己的痛苦才能暂时缓解\n这就是进化——以双螺旋型上升的痛苦 https://t.co/aj4eW6ThxC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 358,
+          "like_count": 5231,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1873
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

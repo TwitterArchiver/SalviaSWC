@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2067255283865231610",
+    "created_at": "2026-06-17T14:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067255283865231610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2020690859948163073",
+          "start": 3,
+          "username": "kageroumado"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067255283865231610",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067231838997787032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kageroumado: New Piru release!\nIt adds colorful cards for each class in the Library UI, improved search and substance info cards, and F…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2067230007336869888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBGvTBXoAAWbm7.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2067230058251522048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBGyQsXkAAFGSj.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2067255283865231610",
+        "created_at": "2026-06-17T14:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067255283865231610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2020690859948163073",
+              "start": 3,
+              "username": "kageroumado"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067255283865231610",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067231838997787032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kageroumado: New Piru release!\nIt adds colorful cards for each class in the Library UI, improved search and substance info cards, and F…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067230007336869888",
+            "3_2067230058251522048"
+          ]
+        },
+        "author_id": "2020690859948163073",
+        "conversation_id": "2067231838997787032",
+        "created_at": "2026-06-17T13:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067231838997787032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 163,
+              "id": "1659962043460354050",
+              "start": 153,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrJGHmvYd0",
+              "end": 187,
+              "expanded_url": "https://x.com/kageroumado/status/2067231838997787032/photo/1",
+              "media_key": "3_2067230007336869888",
+              "start": 164,
+              "url": "https://t.co/jrJGHmvYd0"
+            },
+            {
+              "display_url": "pic.x.com/jrJGHmvYd0",
+              "end": 187,
+              "expanded_url": "https://x.com/kageroumado/status/2067231838997787032/photo/1",
+              "media_key": "3_2067230058251522048",
+              "start": 164,
+              "url": "https://t.co/jrJGHmvYd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067231838997787032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "New Piru release!\nIt adds colorful cards for each class in the Library UI, improved search and substance info cards, and FreeODWiki as a new data source @SalviaSWC https://t.co/jrJGHmvYd0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4851,
+          "following_count": 1016,
+          "like_count": 24568,
+          "listed_count": 12,
+          "media_count": 554,
+          "tweet_count": 7914
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T02:47:44.000Z",
+        "description": "the Internet is still around. you can’t see it now, but it’s not like they could just turn it off",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kagerou.glass",
+                "end": 23,
+                "expanded_url": "https://kagerou.glass",
+                "start": 0,
+                "url": "https://t.co/kPkhvFwWQ7"
+              }
+            ]
+          }
+        },
+        "id": "2020690859948163073",
+        "name": "Kagerou",
+        "pinned_tweet_id": "2060351905985905133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036597812066967553/B6P50n57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 409,
+          "like_count": 5823,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 521
+        },
+        "url": "https://t.co/kPkhvFwWQ7",
+        "username": "kageroumado",
+        "verified": true
+      }
+    ]
+  }
+}

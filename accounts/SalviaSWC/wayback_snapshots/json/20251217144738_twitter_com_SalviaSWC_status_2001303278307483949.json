@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2000883055821484389",
+    "created_at": "2025-12-17T14:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T15:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001303278307483949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975125847339315200",
+          "start": 0,
+          "username": "ji00000zi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001303278307483949",
+    "in_reply_to_user_id": "1975125847339315200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001298755115733166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji00000zi 同意喵🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2000883055821484389",
+        "created_at": "2025-12-17T14:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001303278307483949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975125847339315200",
+              "start": 0,
+              "username": "ji00000zi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001303278307483949",
+        "in_reply_to_user_id": "1975125847339315200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001298755115733166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji00000zi 同意喵🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975125847339315200",
+        "conversation_id": "2000883055821484389",
+        "created_at": "2025-12-17T14:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001298755115733166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001298755115733166",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000883055821484389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 骗你的，有人陪也od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 722,
+          "like_count": 16082,
+          "listed_count": 7,
+          "media_count": 189,
+          "tweet_count": 4338
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:08:02.000Z",
+        "description": "退圈xyn？ 精神状态还行？ 可以找我打三角洲 06 168 60\n🚪20(聊天打游戏)\n前3个千of号去世，现在老实了\n同类会回关的啦\n乱七八糟涩涩发电号 @ji0000zi  这号暂时不用了(被标记了)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "ji0000zi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ji1zi1",
+                "end": 23,
+                "expanded_url": "https://t.me/ji1zi1",
+                "start": 0,
+                "url": "https://t.co/ZVJNbGmmsy"
+              }
+            ]
+          }
+        },
+        "id": "1975125847339315200",
+        "location": "4km",
+        "name": "💊好吃的小猫咪🍥",
+        "pinned_tweet_id": "2001278282038440353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998140604539342848/oYEsf5X1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 140,
+          "like_count": 350,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/ZVJNbGmmsy",
+        "username": "ji00000zi",
+        "verified": false
+      }
+    ]
+  }
+}

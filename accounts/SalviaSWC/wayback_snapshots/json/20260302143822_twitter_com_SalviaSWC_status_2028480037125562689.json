@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028472810960834561",
+        "3_2028473461459562496"
+      ],
+      "media_source_tweet_id": [
+        "2028474008119787773",
+        "2028474008119787773"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2028480037125562689",
+    "created_at": "2026-03-02T14:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T15:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028480037125562689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A9IoKTdfto",
+          "end": 110,
+          "expanded_url": "https://x.com/bghtnya/status/2028474008119787773/photo/1",
+          "media_key": "3_2028472810960834561",
+          "start": 87,
+          "url": "https://t.co/A9IoKTdfto"
+        },
+        {
+          "display_url": "pic.x.com/A9IoKTdfto",
+          "end": 110,
+          "expanded_url": "https://x.com/bghtnya/status/2028474008119787773/photo/1",
+          "media_key": "3_2028473461459562496",
+          "start": 87,
+          "url": "https://t.co/A9IoKTdfto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028480037125562689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028474008119787773",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: 总有些人误以为od、歌手是药娘圈的刻板印象，其实并非如此，这只是餐券和药圈交融的结果。反而餐券女、地雷女数量可不少，直接切中如图这位的逻辑漏洞。… https://t.co/A9IoKTdfto"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "3_2028472810960834561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaVRjXb0AEgA2B.png",
+        "width": 389
+      },
+      {
+        "height": 459,
+        "media_key": "3_2028473461459562496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCaV3aqasAAOb0t.png",
+        "width": 555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028472810960834561",
+            "3_2028473461459562496"
+          ],
+          "media_source_tweet_id": [
+            "2028474008119787773",
+            "2028474008119787773"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2028480037125562689",
+        "created_at": "2026-03-02T14:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028480037125562689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9IoKTdfto",
+              "end": 110,
+              "expanded_url": "https://x.com/bghtnya/status/2028474008119787773/photo/1",
+              "media_key": "3_2028472810960834561",
+              "start": 87,
+              "url": "https://t.co/A9IoKTdfto"
+            },
+            {
+              "display_url": "pic.x.com/A9IoKTdfto",
+              "end": 110,
+              "expanded_url": "https://x.com/bghtnya/status/2028474008119787773/photo/1",
+              "media_key": "3_2028473461459562496",
+              "start": 87,
+              "url": "https://t.co/A9IoKTdfto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028480037125562689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028474008119787773",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: 总有些人误以为od、歌手是药娘圈的刻板印象，其实并非如此，这只是餐券和药圈交融的结果。反而餐券女、地雷女数量可不少，直接切中如图这位的逻辑漏洞。… https://t.co/A9IoKTdfto"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028472810960834561",
+            "3_2028473461459562496"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2028474008119787773",
+        "created_at": "2026-03-02T14:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T15:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028474008119787773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9IoKTdfto",
+              "end": 96,
+              "expanded_url": "https://x.com/bghtnya/status/2028474008119787773/photo/1",
+              "media_key": "3_2028472810960834561",
+              "start": 73,
+              "url": "https://t.co/A9IoKTdfto"
+            },
+            {
+              "display_url": "pic.x.com/A9IoKTdfto",
+              "end": 96,
+              "expanded_url": "https://x.com/bghtnya/status/2028474008119787773/photo/1",
+              "media_key": "3_2028473461459562496",
+              "start": 73,
+              "url": "https://t.co/A9IoKTdfto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028474008119787773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "总有些人误以为od、歌手是药娘圈的刻板印象，其实并非如此，这只是餐券和药圈交融的结果。反而餐券女、地雷女数量可不少，直接切中如图这位的逻辑漏洞。\n另一方面，又有人有一种自高高在上、无知、站着说话不腰疼的降智观点，去歧视餐券，批评od歌手。其实这就是一种典型的右逼思维，社会达尔文主义，一种靠着自己心理健康一点去歧视不那么健康的人，但它们这是生活的有多悲惨才能去歧视餐券换取优越感？\n常见的那些健全b也就这个成分"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "总有些人误以为od、歌手是药娘圈的刻板印象，其实并非如此，这只是餐券和药圈交融的结果。反而餐券女、地雷女数量可不少，直接切中如图这位的逻辑漏洞。 https://t.co/A9IoKTdfto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 921,
+          "like_count": 20292,
+          "listed_count": 10,
+          "media_count": 327,
+          "tweet_count": 5850
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9081,
+          "following_count": 2097,
+          "like_count": 175299,
+          "listed_count": 18,
+          "media_count": 3795,
+          "tweet_count": 46368
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      }
+    ]
+  }
+}

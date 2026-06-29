@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2032771744289710457",
+    "created_at": "2026-03-14T10:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032771744289710457"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 142,
+          "start": 135,
+          "tag": "中推模拟选举"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/fayoubaike666/…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/fayoubaike666/status/2032760985946370438",
+          "start": 143,
+          "url": "https://t.co/PgPWUcDSru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032771744289710457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032760985946370438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我猜不出半个月，网络上就会有各种药物代购商出现。药物代购因为需求小、利润小，所以没人干。今后，会有越来越多的人干这活。于是，右美沙芬和普瑞巴林的购买门槛反而会进一步减小，药物滥用的情况反而会加大。当局恰恰是搬起石头砸自己的脚。\n\n一味禁止并不会有效，接纳才是解决之道🥹\n#中推模拟选举 https://t.co/PgPWUcDSru"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2032760976848867328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXRVqJaUAA75Hf.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2032771744289710457",
+        "created_at": "2026-03-14T10:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032771744289710457"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 135,
+              "tag": "中推模拟选举"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fayoubaike666/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/fayoubaike666/status/2032760985946370438",
+              "start": 143,
+              "url": "https://t.co/PgPWUcDSru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032771744289710457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032760985946370438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我猜不出半个月，网络上就会有各种药物代购商出现。药物代购因为需求小、利润小，所以没人干。今后，会有越来越多的人干这活。于是，右美沙芬和普瑞巴林的购买门槛反而会进一步减小，药物滥用的情况反而会加大。当局恰恰是搬起石头砸自己的脚。\n\n一味禁止并不会有效，接纳才是解决之道🥹\n#中推模拟选举 https://t.co/PgPWUcDSru"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032760976848867328"
+          ]
+        },
+        "author_id": "1916824571128287232",
+        "conversation_id": "2032760985946370438",
+        "created_at": "2026-03-14T10:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032760985946370438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A5vBPgii7B",
+              "end": 151,
+              "expanded_url": "https://x.com/fayoubaike666/status/2032760985946370438/photo/1",
+              "media_key": "3_2032760976848867328",
+              "start": 128,
+              "url": "https://t.co/A5vBPgii7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032760985946370438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 727,
+          "like_count": 25,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "严格规范经营行为自2026年4月1日起，各药品零售企业严格管控含右美沙芬复方制剂、普瑞巴林销售行为，\n\n严禁直接向未满18周岁未成年人销售上述药品，未成年人确需购买的，须监护人在场、凭处方购买并核验身份信息。含右美沙芬复方制剂、普瑞巴林不得进行网络零售。 https://t.co/A5vBPgii7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3235,
+          "following_count": 960,
+          "like_count": 20965,
+          "listed_count": 10,
+          "media_count": 358,
+          "tweet_count": 6153
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T11:59:48.000Z",
+        "description": "由法友百科Sakura与meng运营\n个人博客：https://t.co/N5OWFEYlEo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 47,
+                "expanded_url": "https://pr80.bid/",
+                "start": 24,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 23,
+                "expanded_url": "https://pr80.bid/",
+                "start": 0,
+                "url": "https://t.co/N5OWFEYlEo"
+              }
+            ]
+          }
+        },
+        "id": "1916824571128287232",
+        "location": "Japan",
+        "name": "法友百科#物质研究",
+        "pinned_tweet_id": "2031291592368337051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 312,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/N5OWFEYlEo",
+        "username": "fayoubaike666",
+        "verified": false
+      }
+    ]
+  }
+}

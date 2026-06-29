@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1922264744062328832",
+    "created_at": "2025-05-13T12:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T13:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922271984521547935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1901299981518286848",
+          "start": 0,
+          "username": "kami18181818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922271984521547935",
+    "in_reply_to_user_id": "1901299981518286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922264744062328832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kami18181818 别试🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1922264744062328832",
+        "created_at": "2025-05-13T12:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T13:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922271984521547935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1901299981518286848",
+              "start": 0,
+              "username": "kami18181818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922271984521547935",
+        "in_reply_to_user_id": "1901299981518286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922264744062328832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kami18181818 别试🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901299981518286848",
+        "conversation_id": "1922264744062328832",
+        "created_at": "2025-05-13T12:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T13:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922264744062328832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanzhiqi07/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/lanzhiqi07/status/1921586985308758417",
+              "start": 17,
+              "url": "https://t.co/4aLa1d4Ji1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922264744062328832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921586985308758417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要好好活着的原因：还没试过阿片类 https://t.co/4aLa1d4Ji1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 72,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 586
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:50:27.000Z",
+        "description": "You wasn't alone in space. https://t.co/0OTkgW5lG2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/npc93484",
+                "end": 50,
+                "expanded_url": "https://ngl.link/npc93484",
+                "start": 27,
+                "url": "https://t.co/0OTkgW5lG2"
+              }
+            ]
+          }
+        },
+        "id": "1901299981518286848",
+        "location": "平壤",
+        "name": "kami",
+        "pinned_tweet_id": "1917852735053127804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909312547976888320/uoGqMJXa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 353,
+          "like_count": 1333,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 654
+        },
+        "username": "kami18181818",
+        "verified": false
+      }
+    ]
+  }
+}

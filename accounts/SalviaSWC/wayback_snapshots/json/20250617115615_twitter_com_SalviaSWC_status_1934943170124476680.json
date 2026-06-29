@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1934877053536620926",
+    "created_at": "2025-06-17T11:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T12:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934943170124476680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1934943170124476680",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934942201110290549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉这次DXO的产率不是太高(未反应的DXM已经萃取并丢弃了),估计是多次萃取导致的,ph也没调好.虽然用了48t愈美,产生的效果也是较轻解离,但是本应该是更深的解离的\n以后再说吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934877053536620926",
+        "created_at": "2025-06-17T11:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934943170124476680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934943170124476680",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934942201110290549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉这次DXO的产率不是太高(未反应的DXM已经萃取并丢弃了),估计是多次萃取导致的,ph也没调好.虽然用了48t愈美,产生的效果也是较轻解离,但是本应该是更深的解离的\n以后再说吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934877053536620926",
+        "created_at": "2025-06-17T11:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T12:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934942201110290549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934942201110290549",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934935644905644136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整个体感是在右美药效快结束的时候的感觉.由于DXM和DXO的代谢且药效不同的原因,右美被分为4个高原,但是DXO只是简单地代谢,个人感觉,在今天持续加量的过程药效没分高原,解离感与药量成正比,没有别的因素......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 129,
+          "like_count": 2775,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1102
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

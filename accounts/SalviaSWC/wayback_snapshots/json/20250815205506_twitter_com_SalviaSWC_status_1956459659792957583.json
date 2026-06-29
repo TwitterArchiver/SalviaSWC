@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1956456854315249839",
+    "created_at": "2025-08-15T20:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T21:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956459659792957583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1905621891370680320",
+          "start": 0,
+          "username": "Dukain184322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956459659792957583",
+    "in_reply_to_user_id": "1905621891370680320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956458889224057174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dukain184322 窝是第一次就bad trip了，之后就很少用了()🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1956456854315249839",
+        "created_at": "2025-08-15T20:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T21:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956459659792957583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1905621891370680320",
+              "start": 0,
+              "username": "Dukain184322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956459659792957583",
+        "in_reply_to_user_id": "1905621891370680320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956458889224057174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dukain184322 窝是第一次就bad trip了，之后就很少用了()🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905621891370680320",
+        "conversation_id": "1956456854315249839",
+        "created_at": "2025-08-15T20:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T21:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956458889224057174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956458889224057174",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956456854315249839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 确实，经历了一次bad trip之后就再也没敢滥用过了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1952002613244735810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 401,
+          "like_count": 5921,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 2103
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T14:04:17.000Z",
+        "description": "你好我是小坞🎺\n不知道开这个号干嘛的，保不准哪天信息接收过度头疼了就销号了",
+        "id": "1905621891370680320",
+        "location": "坞",
+        "name": "坞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930325950102941696/J_4ot6Un_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 49,
+          "like_count": 1157,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 342
+        },
+        "username": "Dukain184322",
+        "verified": false
+      }
+    ]
+  }
+}

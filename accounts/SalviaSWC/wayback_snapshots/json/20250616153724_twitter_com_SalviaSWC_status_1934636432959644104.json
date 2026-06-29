@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1934249642650439770",
+    "created_at": "2025-06-16T15:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T16:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934636432959644104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1434036934079307778",
+          "start": 0,
+          "username": "XZX628496"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934636432959644104",
+    "in_reply_to_user_id": "1434036934079307778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934633923876942193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XZX628496 差不多,但是鉴于今天出的事情,我准备稍作调整\n液烃不行,DXO溶解性在液烃中很低,得用四氯化碳之类的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934249642650439770",
+        "created_at": "2025-06-16T15:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934636432959644104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1434036934079307778",
+              "start": 0,
+              "username": "XZX628496"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934636432959644104",
+        "in_reply_to_user_id": "1434036934079307778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934633923876942193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XZX628496 差不多,但是鉴于今天出的事情,我准备稍作调整\n液烃不行,DXO溶解性在液烃中很低,得用四氯化碳之类的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434036934079307778",
+        "conversation_id": "1934249642650439770",
+        "created_at": "2025-06-16T15:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934633923876942193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934633923876942193",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934629918731616414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 流程大概是这样？\n\n1.TsOH，加热\n2.分液，水相调pH至10\n3.用液烃萃取，取有机相蒸发溶剂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 124,
+          "like_count": 2676,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1047
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-04T06:13:56.000Z",
+        "description": "",
+        "id": "1434036934079307778",
+        "name": "628496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845134398842339328/dslGFZj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 18,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 108
+        },
+        "username": "XZX628496",
+        "verified": false
+      }
+    ]
+  }
+}

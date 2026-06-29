@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986782933328293889",
+        "3_1986783028203384832"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1986785657411272884",
+    "created_at": "2025-11-07T13:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T14:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986785657411272884"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 0,
+          "tag": "OurDose2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TaAc8jWBwd",
+          "end": 186,
+          "expanded_url": "https://x.com/SalviaSWC/status/1986785657411272884/photo/1",
+          "media_key": "3_1986782933328293889",
+          "start": 163,
+          "url": "https://t.co/TaAc8jWBwd"
+        },
+        {
+          "display_url": "pic.x.com/TaAc8jWBwd",
+          "end": 186,
+          "expanded_url": "https://x.com/SalviaSWC/status/1986785657411272884/photo/1",
+          "media_key": "3_1986783028203384832",
+          "start": 163,
+          "url": "https://t.co/TaAc8jWBwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986785657411272884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#OurDose2022 开发日志#2\n非最终成品，如有异议欢迎提出!\n《OurDose2022》是一个模拟类游戏，因此它需要模拟的OD者加入OD圈的途径，即OD向无关人员的扩散。OD的扩散会产生许多后果，但我们先关注它的类型🤓\n按照有意/无意分，OD的扩散分为OD的直接扩散和间接扩散，其中间接扩散有4种会被游戏模拟，如下 https://t.co/TaAc8jWBwd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_1986782933328293889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J4jSrXcAEWx-P.png",
+        "width": 1268
+      },
+      {
+        "height": 1652,
+        "media_key": "3_1986783028203384832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J4o0HWcAAGGVP.png",
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986782933328293889",
+            "3_1986783028203384832"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1986785657411272884",
+        "created_at": "2025-11-07T13:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986785657411272884"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "OurDose2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaAc8jWBwd",
+              "end": 186,
+              "expanded_url": "https://x.com/SalviaSWC/status/1986785657411272884/photo/1",
+              "media_key": "3_1986782933328293889",
+              "start": 163,
+              "url": "https://t.co/TaAc8jWBwd"
+            },
+            {
+              "display_url": "pic.x.com/TaAc8jWBwd",
+              "end": 186,
+              "expanded_url": "https://x.com/SalviaSWC/status/1986785657411272884/photo/1",
+              "media_key": "3_1986783028203384832",
+              "start": 163,
+              "url": "https://t.co/TaAc8jWBwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986785657411272884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#OurDose2022 开发日志#2\n非最终成品，如有异议欢迎提出!\n《OurDose2022》是一个模拟类游戏，因此它需要模拟的OD者加入OD圈的途径，即OD向无关人员的扩散。OD的扩散会产生许多后果，但我们先关注它的类型🤓\n按照有意/无意分，OD的扩散分为OD的直接扩散和间接扩散，其中间接扩散有4种会被游戏模拟，如下 https://t.co/TaAc8jWBwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 666,
+          "like_count": 10631,
+          "listed_count": 7,
+          "media_count": 155,
+          "tweet_count": 3347
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

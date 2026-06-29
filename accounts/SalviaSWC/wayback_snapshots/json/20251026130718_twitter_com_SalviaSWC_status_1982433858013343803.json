@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1982431947491258384",
+    "created_at": "2025-10-26T13:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T14:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982433858013343803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741220157463379968",
+          "start": 0,
+          "username": "xialing253446"
+        },
+        {
+          "end": 28,
+          "id": "1963867793776070656",
+          "start": 15,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982433858013343803",
+    "in_reply_to_user_id": "1741220157463379968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982431947491258384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xialing253446 @drug_artist1 这些策划药的体验大多可以在r/ResearchChemicals,Bluelight,Drugs-Forum,Erowid上面找，上面一堆什么药都搞得到还敢吃外国人，绝大多数药都能找得到，你的方案只适用于极少数找不到的药\n担心的是某些策划药商怕你找，把策划药做成神秘物质。药圈绝大多数策划药都是神秘物质，所以要先解决神秘物质问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1982431947491258384",
+        "created_at": "2025-10-26T13:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T14:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982433858013343803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741220157463379968",
+              "start": 0,
+              "username": "xialing253446"
+            },
+            {
+              "end": 28,
+              "id": "1963867793776070656",
+              "start": 15,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982433858013343803",
+        "in_reply_to_user_id": "1741220157463379968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982431947491258384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xialing253446 @drug_artist1 这些策划药的体验大多可以在r/ResearchChemicals,Bluelight,Drugs-Forum,Erowid上面找，上面一堆什么药都搞得到还敢吃外国人，绝大多数药都能找得到，你的方案只适用于极少数找不到的药\n担心的是某些策划药商怕你找，把策划药做成神秘物质。药圈绝大多数策划药都是神秘物质，所以要先解决神秘物质问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741220157463379968",
+        "conversation_id": "1982431947491258384",
+        "created_at": "2025-10-26T12:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T13:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982431947491258384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            },
+            {
+              "end": 24,
+              "id": "1659962043460354050",
+              "start": 14,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982431947491258384",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 @SalviaSWC 俺寻思可以建立一个策划药RP库，收录RP特别是坏旅行体验的RP。可以建立一个独立的wiki项目，针对策划药本身的安全性和药理毒理以及通过总结RP列出经验科学性质的wiki文案。\n我觉得这样可以一定程度上保证策划药的安全性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 533,
+          "like_count": 9029,
+          "listed_count": 7,
+          "media_count": 123,
+          "tweet_count": 2881
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T22:10:20.000Z",
+        "description": "配乐方向的沙币/免费药物滥用咨询/日本語勉強中/mtf欢迎/现役oder/FOW参与者/日留准备中/烂片爱好者/求互fo\n✝天国行超特急✝",
+        "id": "1741220157463379968",
+        "location": "✝天国✝",
+        "name": "xialingXD🚥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965480250667663361/ozz54mUl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 184,
+          "like_count": 535,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 409
+        },
+        "username": "xialing253446",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主 投稿请私信我 提问箱:https://t.co/ez10SQHDdD 愿每一位药物滥用者都能脱离深渊 提供药物咨询 im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 44,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 21,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1980936658594996695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 56,
+          "like_count": 305,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

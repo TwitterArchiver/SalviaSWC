@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2015972546144043159",
+    "created_at": "2026-01-27T02:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T03:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015972546144043159"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015972546144043159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然想起当时某人对我某贴子的回复，才发现了大家可能有一个重大误会⚠️：\n\nFreeODwiki名字中的“Free”不是说我们wiki主张“自由随意OD”，正确的理解是我们主张“OD的知识被公开的自由，和大家参与编写被公开的OD的知识的自由”\n\n我现在就有关事项做了澄清，很抱歉之前的误会。大家以后不要再理解错误了哦😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2015972546144043159",
+        "created_at": "2026-01-27T02:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T03:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015972546144043159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015972546144043159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起当时某人对我某贴子的回复，才发现了大家可能有一个重大误会⚠️：\n\nFreeODwiki名字中的“Free”不是说我们wiki主张“自由随意OD”，正确的理解是我们主张“OD的知识被公开的自由，和大家参与编写被公开的OD的知识的自由”\n\n我现在就有关事项做了澄清，很抱歉之前的误会。大家以后不要再理解错误了哦😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2431,
+          "following_count": 791,
+          "like_count": 18361,
+          "listed_count": 7,
+          "media_count": 238,
+          "tweet_count": 5094
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

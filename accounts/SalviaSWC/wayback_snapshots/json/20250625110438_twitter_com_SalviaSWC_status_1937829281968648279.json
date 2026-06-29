@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1936387264377958584",
+    "created_at": "2025-06-25T11:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T12:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937829281968648279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1725560516544798720",
+          "start": 0,
+          "username": "XKzhZpMqCW28348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937829281968648279",
+    "in_reply_to_user_id": "1725560516544798720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937828897141539240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XKzhZpMqCW28348 我是用水浴搅拌锅()\n但是用普通的锅也可以，只要不断加水就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1936387264377958584",
+        "created_at": "2025-06-25T11:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937829281968648279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1725560516544798720",
+              "start": 0,
+              "username": "XKzhZpMqCW28348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937829281968648279",
+        "in_reply_to_user_id": "1725560516544798720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937828897141539240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XKzhZpMqCW28348 我是用水浴搅拌锅()\n但是用普通的锅也可以，只要不断加水就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725560516544798720",
+        "conversation_id": "1936387264377958584",
+        "created_at": "2025-06-25T11:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T12:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937828897141539240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937828897141539240",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936999163624861861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 一直煮沸24个小时吗，老师，您是用什么一只煮沸的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 205,
+          "like_count": 3516,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1297
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T17:04:32.000Z",
+        "description": "又在偷看我!!!\n🚪5元🥺（不给算了）",
+        "id": "1725560516544798720",
+        "location": "😘😘😘",
+        "name": "苍迎拍紫",
+        "pinned_tweet_id": "1756399087568482770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725560688611880960/iDGffqKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 123,
+          "like_count": 1882,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 99
+        },
+        "username": "XKzhZpMqCW28348",
+        "verified": false
+      }
+    ]
+  }
+}

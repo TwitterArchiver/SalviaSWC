@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2028045958961934406",
+    "created_at": "2026-03-01T09:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T10:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028045958961934406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1951222944278978560",
+          "start": 3,
+          "username": "xllmango"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028045958961934406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027979789601243150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xllmango: 🔸 精神活性物质戒断难度梯度报告🔸\nA Study on the Gradient of Withdrawal Difficulty of Psychoactive Substances\n研究者基于多种精神活性物质使用与自然戒断的亲身体验，深知戒断痛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3500,
+        "media_key": "3_2027979776322129920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTU3KNbUAAtfH9.jpg",
+        "width": 1240
+      },
+      {
+        "height": 3484,
+        "media_key": "3_2027979776343117824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTU3KSbkAAAFzB.jpg",
+        "width": 1240
+      },
+      {
+        "height": 3380,
+        "media_key": "3_2027979776783486978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTU3L7bEAITiqS.jpg",
+        "width": 1240
+      },
+      {
+        "height": 3532,
+        "media_key": "3_2027979776330498048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTU3KPbAAA5hhC.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2028045958961934406",
+        "created_at": "2026-03-01T09:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T10:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028045958961934406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1951222944278978560",
+              "start": 3,
+              "username": "xllmango"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028045958961934406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027979789601243150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xllmango: 🔸 精神活性物质戒断难度梯度报告🔸\nA Study on the Gradient of Withdrawal Difficulty of Psychoactive Substances\n研究者基于多种精神活性物质使用与自然戒断的亲身体验，深知戒断痛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027979776322129920",
+            "3_2027979776343117824",
+            "3_2027979776783486978",
+            "3_2027979776330498048"
+          ]
+        },
+        "author_id": "1951222944278978560",
+        "conversation_id": "2027979789601243150",
+        "created_at": "2026-03-01T05:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027979789601243150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uW4SvEcimK",
+              "end": 171,
+              "expanded_url": "https://x.com/xllmango/status/2027979789601243150/photo/1",
+              "media_key": "3_2027979776322129920",
+              "start": 148,
+              "url": "https://t.co/uW4SvEcimK"
+            },
+            {
+              "display_url": "pic.x.com/uW4SvEcimK",
+              "end": 171,
+              "expanded_url": "https://x.com/xllmango/status/2027979789601243150/photo/1",
+              "media_key": "3_2027979776343117824",
+              "start": 148,
+              "url": "https://t.co/uW4SvEcimK"
+            },
+            {
+              "display_url": "pic.x.com/uW4SvEcimK",
+              "end": 171,
+              "expanded_url": "https://x.com/xllmango/status/2027979789601243150/photo/1",
+              "media_key": "3_2027979776783486978",
+              "start": 148,
+              "url": "https://t.co/uW4SvEcimK"
+            },
+            {
+              "display_url": "pic.x.com/uW4SvEcimK",
+              "end": 171,
+              "expanded_url": "https://x.com/xllmango/status/2027979789601243150/photo/1",
+              "media_key": "3_2027979776330498048",
+              "start": 148,
+              "url": "https://t.co/uW4SvEcimK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027979789601243150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 733,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🔸 精神活性物质戒断难度梯度报告🔸\nA Study on the Gradient of Withdrawal Difficulty of Psychoactive Substances\n研究者基于多种精神活性物质使用与自然戒断的亲身体验，深知戒断痛苦，故撰写本报告，为戒断人群提供参考与支持。 https://t.co/uW4SvEcimK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 909,
+          "like_count": 20167,
+          "listed_count": 10,
+          "media_count": 322,
+          "tweet_count": 5807
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-01T10:06:23.000Z",
+        "description": "",
+        "id": "1951222944278978560",
+        "name": "ShikkokuHara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027929254097522689/vG7edjW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 115,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 103
+        },
+        "username": "xllmango",
+        "verified": false
+      }
+    ]
+  }
+}

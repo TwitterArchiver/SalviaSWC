@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1934917416032911592",
+    "created_at": "2025-06-17T10:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T11:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934923747116339269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1890780517735473152",
+          "start": 0,
+          "username": "wtswaishiteruyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934923747116339269",
+    "in_reply_to_user_id": "1890780517735473152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934917416032911592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtswaishiteruyo 很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1934917416032911592",
+        "created_at": "2025-06-17T10:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T11:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934923747116339269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1890780517735473152",
+              "start": 0,
+              "username": "wtswaishiteruyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934923747116339269",
+        "in_reply_to_user_id": "1890780517735473152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934917416032911592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtswaishiteruyo 很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890780517735473152",
+        "conversation_id": "1934917416032911592",
+        "created_at": "2025-06-17T10:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T11:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934917416032911592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934917416032911592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我没有精神病 我从来没磕过药也不清楚那种是什么感觉 对不起我骗了大家 我以前的药的照片都是偷我列表里惨圈妹的照片 很抱歉 我在这里声明一下 希望大家可以原谅我 我不会再犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 129,
+          "like_count": 2764,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1095
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "我来自天堂。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sbchickenDonHan.com",
+                "end": 23,
+                "expanded_url": "http://sbchickenDonHan.com",
+                "start": 0,
+                "url": "https://t.co/vj6S6F8p77"
+              }
+            ]
+          }
+        },
+        "id": "1890780517735473152",
+        "location": "天堂会有毒品",
+        "name": "I love You",
+        "pinned_tweet_id": "1931117926675030349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931271395851554816/YaPlBkSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 356,
+          "like_count": 13650,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 5364
+        },
+        "url": "https://t.co/vj6S6F8p77",
+        "username": "wtswaishiteruyo",
+        "verified": false
+      }
+    ]
+  }
+}

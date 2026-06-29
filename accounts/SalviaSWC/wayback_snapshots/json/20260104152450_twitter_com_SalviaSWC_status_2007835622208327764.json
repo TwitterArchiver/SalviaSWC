@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2007257351330709880",
+    "created_at": "2026-01-04T15:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T16:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007835622208327764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1859900440403410944",
+          "start": 0,
+          "username": "qiangqiangjj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "en.wikipedia.org/wiki/Psychoact…",
+          "end": 103,
+          "expanded_url": "https://en.wikipedia.org/wiki/Psychoactive_drug",
+          "images": [
+            {
+              "height": 400,
+              "url": "https://pbs.twimg.com/news_img/2007835624502702080/rbsIDM1o?format=jpg&name=orig",
+              "width": 457
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2007835624502702080/rbsIDM1o?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 80,
+          "status": 200,
+          "title": "Psychoactive drug - Wikipedia",
+          "unwound_url": "https://en.wikipedia.org/wiki/Psychoactive_drug",
+          "url": "https://t.co/qOFMmf5Wsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007835622208327764",
+    "in_reply_to_user_id": "1859900440403410944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007833376775168443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiangqiangjj 这张图是左边按照药效分类，跟化学成分无关，谵妄剂是致幻剂的一个子类，不是我随便起的名字。谵妄剂的化学成分有很多类型，你可以自己去看\nhttps://t.co/qOFMmf5Wsl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2007257351330709880",
+        "created_at": "2026-01-04T15:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007835622208327764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1859900440403410944",
+              "start": 0,
+              "username": "qiangqiangjj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "en.wikipedia.org/wiki/Psychoact…",
+              "end": 103,
+              "expanded_url": "https://en.wikipedia.org/wiki/Psychoactive_drug",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2007835624502702080/rbsIDM1o?format=jpg&name=orig",
+                  "width": 457
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007835624502702080/rbsIDM1o?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "Psychoactive drug - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/Psychoactive_drug",
+              "url": "https://t.co/qOFMmf5Wsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007835622208327764",
+        "in_reply_to_user_id": "1859900440403410944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007833376775168443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiangqiangjj 这张图是左边按照药效分类，跟化学成分无关，谵妄剂是致幻剂的一个子类，不是我随便起的名字。谵妄剂的化学成分有很多类型，你可以自己去看\nhttps://t.co/qOFMmf5Wsl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859900440403410944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2007257351330709880",
+        "created_at": "2026-01-04T15:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007833376775168443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007833376775168443",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007705461068575050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我说的是化学成分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 725,
+          "like_count": 17289,
+          "listed_count": 7,
+          "media_count": 204,
+          "tweet_count": 4657
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T10:03:22.000Z",
+        "description": "",
+        "id": "1859900440403410944",
+        "name": "荧幻珊瑚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921562957235773440/5B1nh0QP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 9,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 80
+        },
+        "username": "qiangqiangjj",
+        "verified": false
+      }
+    ]
+  }
+}

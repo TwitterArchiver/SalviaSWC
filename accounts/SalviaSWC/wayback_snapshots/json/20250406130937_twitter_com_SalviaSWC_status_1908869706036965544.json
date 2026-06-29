@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1908558852196647026",
+    "created_at": "2025-04-06T13:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T14:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908869706036965544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692013623319969792",
+          "start": 0,
+          "username": "Sugita_Midoriko"
+        },
+        {
+          "end": 28,
+          "id": "1850772146177576960",
+          "start": 17,
+          "username": "Chunier520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908869706036965544",
+    "in_reply_to_user_id": "1692013623319969792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908756306393223341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sugita_Midoriko @Chunier520 哪壶不开提哪壶()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1908558852196647026",
+        "created_at": "2025-04-06T13:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T14:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908869706036965544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692013623319969792",
+              "start": 0,
+              "username": "Sugita_Midoriko"
+            },
+            {
+              "end": 28,
+              "id": "1850772146177576960",
+              "start": 17,
+              "username": "Chunier520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908869706036965544",
+        "in_reply_to_user_id": "1692013623319969792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908756306393223341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sugita_Midoriko @Chunier520 哪壶不开提哪壶()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692013623319969792",
+        "conversation_id": "1908558852196647026",
+        "created_at": "2025-04-06T05:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T06:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908756306393223341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850772146177576960",
+              "start": 0,
+              "username": "Chunier520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908756306393223341",
+        "in_reply_to_user_id": "1850772146177576960",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908558852196647026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunier520 od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 49,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 251
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T03:21:22.000Z",
+        "description": "妹@_AkitaYura💓IloveTsukasa 电波系、跨性别🏳️‍⚧️、二次元、非人类\n|she/they|mtf|无性别主义|女权主义|hrt2025.3.21|基督徒💮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "_AkitaYura"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/koshian_green",
+                "end": 23,
+                "expanded_url": "http://ngl.link/koshian_green",
+                "start": 0,
+                "url": "https://t.co/ELFVWyur34"
+              }
+            ]
+          }
+        },
+        "id": "1692013623319969792",
+        "location": "夏の大三角",
+        "name": "🎀杉綠福司♓🍥💊🚬",
+        "pinned_tweet_id": "1896007649743028437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907707757370949632/L4CzkdPo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 533,
+          "like_count": 21357,
+          "listed_count": 6,
+          "media_count": 365,
+          "tweet_count": 4388
+        },
+        "url": "https://t.co/ELFVWyur34",
+        "username": "Sugita_Midoriko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "我们呼吁大家 #关注救助者健康 ，呼吁大家 #关注家暴受害者\n旨在帮助没有流量的跨女获得流量\n爱党爱国，坚决拥护中国共产党领导。请不要把账号内容用于政治目的。\n接约文。\n自杀干预请找 @lianyiganyu \n扭转干预右转 @lwrdhyyuxr22499\nbot没办法帮你，常住运营者A，不常住运营C，A比你还差",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 7,
+                "tag": "关注救助者健康"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "关注家暴受害者"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lianyiganyu"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "lwrdhyyuxr22499"
+              }
+            ]
+          }
+        },
+        "id": "1850772146177576960",
+        "name": "MTF转发bot［本平台外均为冒充］",
+        "pinned_tweet_id": "1906191374552121414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904469897620701184/IBaWTsyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 356,
+          "like_count": 1897,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 3422
+        },
+        "username": "Chunier520",
+        "verified": false
+      }
+    ]
+  }
+}

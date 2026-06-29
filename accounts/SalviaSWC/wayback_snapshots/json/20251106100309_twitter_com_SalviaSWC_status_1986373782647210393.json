@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1986373782647210393",
+    "created_at": "2025-11-06T10:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T11:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986373782647210393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/1986267678311625197",
+          "start": 5,
+          "url": "https://t.co/Mk4fXKlYoI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986373782647210393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986267678311625197",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味😢 https://t.co/Mk4fXKlYoI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1986267671474966528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Cj7GsbkAAlZdq.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1986373782647210393",
+        "created_at": "2025-11-06T10:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T11:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986373782647210393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/1986267678311625197",
+              "start": 5,
+              "url": "https://t.co/Mk4fXKlYoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986373782647210393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986267678311625197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味😢 https://t.co/Mk4fXKlYoI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986267671474966528"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "conversation_id": "1986267678311625197",
+        "created_at": "2025-11-06T03:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986267678311625197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/56nVm1ClBH",
+              "end": 40,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1986267678311625197/photo/1",
+              "media_key": "3_1986267671474966528",
+              "start": 17,
+              "url": "https://t.co/56nVm1ClBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986267678311625197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5663,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求互关们不要和黄推/od推互动了 https://t.co/56nVm1ClBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 655,
+          "like_count": 10514,
+          "listed_count": 7,
+          "media_count": 151,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1986113872122814747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7755,
+          "following_count": 3090,
+          "like_count": 61972,
+          "listed_count": 14,
+          "media_count": 1277,
+          "tweet_count": 14458
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

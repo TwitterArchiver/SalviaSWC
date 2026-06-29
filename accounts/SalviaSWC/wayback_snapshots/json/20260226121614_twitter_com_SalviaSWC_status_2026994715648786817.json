@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2026994715648786817",
+    "created_at": "2026-02-26T12:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T13:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026994715648786817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 150,
+          "id": "1700948552078467072",
+          "start": 137,
+          "username": "Overdose_DBD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2026579571957469622",
+          "start": 151,
+          "url": "https://t.co/e8pGWfVyAL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026994715648786817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026579571957469622",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后藤，窝不骂你了🥺\n\n因为，你过去一直是个好人，而且，你从来不会以aoe形式骂人b人。但是，那一次，鸡哥在我的推下发激将你的贴子，导致你推特封号，你才开始b我的。现在，对于可能和我关系好的人，你是又骂又b，严重危害到高原的和平与稳定。\n\n有鉴于此，窝以后不会再骂你了，好嘛🥹@Overdose_DBD https://t.co/e8pGWfVyAL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1726,
+        "media_key": "3_2026577104863641600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_ZI71WQAA0ay1.jpg",
+        "width": 2172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2026994715648786817",
+        "created_at": "2026-02-26T12:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026994715648786817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 150,
+              "id": "1700948552078467072",
+              "start": 137,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2026579571957469622",
+              "start": 151,
+              "url": "https://t.co/e8pGWfVyAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026994715648786817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026579571957469622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后藤，窝不骂你了🥺\n\n因为，你过去一直是个好人，而且，你从来不会以aoe形式骂人b人。但是，那一次，鸡哥在我的推下发激将你的贴子，导致你推特封号，你才开始b我的。现在，对于可能和我关系好的人，你是又骂又b，严重危害到高原的和平与稳定。\n\n有鉴于此，窝以后不会再骂你了，好嘛🥹@Overdose_DBD https://t.co/e8pGWfVyAL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026577104863641600"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2026579571957469622",
+        "created_at": "2026-02-25T08:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026579571957469622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FuPKsM5Alb",
+              "end": 156,
+              "expanded_url": "https://x.com/SalviaSWC/status/2026579571957469622/photo/1",
+              "media_key": "3_2026577104863641600",
+              "start": 133,
+              "url": "https://t.co/FuPKsM5Alb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026579571957469622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1731,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "后藤章节已更新😈（只写了头尾，中间没有；目前误用了后藤现在的头像，以后会改\n\n好怪哦，为什么odwiki的官号被冻结了呢🤔怎么回事呢，难道......😨😰\n\n窝药起诉某位逝者毁坏文物了，虽然我记得那个官号上似乎没什么重要内容，除了那个宣布后藤已经被优化掉了的推文（ https://t.co/FuPKsM5Alb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨OD知识开源化↓来FreeODwiki看看吧！|Say Know to Drugs 💊丨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 890,
+          "like_count": 19939,
+          "listed_count": 10,
+          "media_count": 314,
+          "tweet_count": 5744
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 62,
+          "like_count": 2,
+          "listed_count": 11,
+          "media_count": 707,
+          "tweet_count": 6958
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

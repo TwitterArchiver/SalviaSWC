@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2014680966309241184",
+    "created_at": "2026-01-23T12:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T13:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014680966309241184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WinbornN94577/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/WinbornN94577/status/2014653816768233899",
+          "start": 36,
+          "url": "https://t.co/SE5kD7vy3B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014680966309241184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014653816768233899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "整个推特药圈上唯一一个不需要别人替他魂兮归来，也会自己回来的男人走了🤓 https://t.co/SE5kD7vy3B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2014653809877041152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_V890sbwAAfVjz.jpg",
+        "width": 1088
+      },
+      {
+        "height": 994,
+        "media_key": "3_2014653814092058626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_V8-EZX0AIDh7o.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2014680966309241184",
+        "created_at": "2026-01-23T12:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014680966309241184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WinbornN94577/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/WinbornN94577/status/2014653816768233899",
+              "start": 36,
+              "url": "https://t.co/SE5kD7vy3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014680966309241184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014653816768233899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整个推特药圈上唯一一个不需要别人替他魂兮归来，也会自己回来的男人走了🤓 https://t.co/SE5kD7vy3B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014653809877041152",
+            "3_2014653814092058626"
+          ]
+        },
+        "author_id": "1976224313339777024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014653816768233899",
+        "created_at": "2026-01-23T10:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T11:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014653816768233899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b3XdcPa85S",
+              "end": 31,
+              "expanded_url": "https://x.com/WinbornN94577/status/2014653816768233899/photo/1",
+              "media_key": "3_2014653809877041152",
+              "start": 8,
+              "url": "https://t.co/b3XdcPa85S"
+            },
+            {
+              "display_url": "pic.x.com/b3XdcPa85S",
+              "end": 31,
+              "expanded_url": "https://x.com/WinbornN94577/status/2014653816768233899/photo/1",
+              "media_key": "3_2014653814092058626",
+              "start": 8,
+              "url": "https://t.co/b3XdcPa85S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014653816768233899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新oD日报。 https://t.co/b3XdcPa85S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨请关注FreeODwiki喵😼👍⬇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 779,
+          "like_count": 18131,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 4973
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T09:52:52.000Z",
+        "description": "药物Wiki混子🏴‍☠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Freeod.Wiki",
+                "end": 23,
+                "expanded_url": "http://Freeod.Wiki",
+                "start": 0,
+                "url": "https://t.co/00oa1doxAd"
+              }
+            ]
+          }
+        },
+        "id": "1976224313339777024",
+        "location": "🚪52",
+        "name": "屠荼徒堍兎",
+        "pinned_tweet_id": "2013973274686890316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009203275032350726/PGYv_RPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 69,
+          "like_count": 1959,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/00oa1doxAd",
+        "username": "WinbornN94577",
+        "verified": false
+      }
+    ]
+  }
+}

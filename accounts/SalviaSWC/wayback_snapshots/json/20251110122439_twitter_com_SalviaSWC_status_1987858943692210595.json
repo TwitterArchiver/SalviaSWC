@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1987597667405582336"
+      ],
+      "media_source_tweet_id": [
+        "1987598086378778961"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987858943692210595",
+    "created_at": "2025-11-10T12:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T13:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987858943692210595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484072544009347072",
+          "start": 3,
+          "username": "BelovedUren8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ACp3Vh3U6X",
+          "end": 82,
+          "expanded_url": "https://x.com/BelovedUren8964/status/1987598086378778961/video/1",
+          "media_key": "13_1987597667405582336",
+          "start": 59,
+          "url": "https://t.co/ACp3Vh3U6X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987858943692210595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987598086378778961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BelovedUren8964: 请各位观看，接下来的，游戏机制介绍！！！！\n类CoC跑团之CoS！！！！！ https://t.co/ACp3Vh3U6X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 114404,
+        "height": 1080,
+        "media_key": "13_1987597667405582336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987597667405582336/img/FF71qe1DY0ecZe8O.jpg",
+        "public_metrics": {
+          "view_count": 232
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987597667405582336/vid/avc1/360x270/oz_65SKtiqJwAWhq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987597667405582336/vid/avc1/480x360/aSXyj8Zcdy-UY0Fn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987597667405582336/vid/avc1/960x720/XAyPvdlor02PW6z8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987597667405582336/pl/fNu-jgvKQCXH8yLS.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987597667405582336"
+          ],
+          "media_source_tweet_id": [
+            "1987598086378778961"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987858943692210595",
+        "created_at": "2025-11-10T12:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T13:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987858943692210595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484072544009347072",
+              "start": 3,
+              "username": "BelovedUren8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACp3Vh3U6X",
+              "end": 82,
+              "expanded_url": "https://x.com/BelovedUren8964/status/1987598086378778961/video/1",
+              "media_key": "13_1987597667405582336",
+              "start": 59,
+              "url": "https://t.co/ACp3Vh3U6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987858943692210595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987598086378778961",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BelovedUren8964: 请各位观看，接下来的，游戏机制介绍！！！！\n类CoC跑团之CoS！！！！！ https://t.co/ACp3Vh3U6X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987597667405582336"
+          ]
+        },
+        "author_id": "1484072544009347072",
+        "conversation_id": "1987598086378778961",
+        "created_at": "2025-11-09T19:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T20:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987598086378778961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACp3Vh3U6X",
+              "end": 61,
+              "expanded_url": "https://x.com/BelovedUren8964/status/1987598086378778961/video/1",
+              "media_key": "13_1987597667405582336",
+              "start": 38,
+              "url": "https://t.co/ACp3Vh3U6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987598086378778961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 723,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "请各位观看，接下来的，游戏机制介绍！！！！\n类CoC跑团之CoS！！！！！ https://t.co/ACp3Vh3U6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 675,
+          "like_count": 11084,
+          "listed_count": 6,
+          "media_count": 161,
+          "tweet_count": 3452
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/自由万岁！自由永远高于一切/这还用说吗，我是汉奸哪🇯🇵 / 台湾支那，一边一国🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个是无辜的/Soulmate 真正的知音 忘れられないの:@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTrKH9"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "1808346704829468916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984506531275300864/Xx-IuiTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 516,
+          "like_count": 4693,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 3461
+        },
+        "url": "https://t.co/DgJHLTrKH9",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

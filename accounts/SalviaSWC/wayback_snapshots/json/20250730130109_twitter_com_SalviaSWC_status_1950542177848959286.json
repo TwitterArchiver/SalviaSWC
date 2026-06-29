@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1833933476950618113",
+          "name": "Super Bowl LIX: Chiefs at Eagles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1886871025104621571",
+          "name": "Halftime Show Super Bowl LIX"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "689566314835259392",
+          "name": "NFL"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304458033888505856",
+          "name": "Super Bowl"
+        }
+      }
+    ],
+    "conversation_id": "1950526584391143433",
+    "created_at": "2025-07-30T13:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T14:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950542177848959286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "yumeng0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950542177848959286",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950526584391143433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumeng0721 搞错了吧，4-FA/4-FPM根本不是这个物质，也没有任何关于这个物质的信息\n而且这个物质也不太可能有兴奋剂的精神活性。一种物质需要有一个在人体环境下带正电荷的氨基和一个疏水部分，才有抑制再摄取或释放多巴胺的可能\n而且这个物质是碘代烷烃，会与DNA上的氨基反应，毒性与致癌性极强\n再仔细查查?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "1950526584391143433",
+        "created_at": "2025-07-30T13:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950542177848959286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "yumeng0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950542177848959286",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950526584391143433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeng0721 搞错了吧，4-FA/4-FPM根本不是这个物质，也没有任何关于这个物质的信息\n而且这个物质也不太可能有兴奋剂的精神活性。一种物质需要有一个在人体环境下带正电荷的氨基和一个疏水部分，才有抑制再摄取或释放多巴胺的可能\n而且这个物质是碘代烷烃，会与DNA上的氨基反应，毒性与致癌性极强\n再仔细查查?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "1950526584391143433",
+        "created_at": "2025-07-30T11:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950526584391143433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950526584391143433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "4-FA/4-FPM（1-碘-3,3,3-三氟丙烷）\n\n中文别名\n3,3,3-三氟丙基碘 | 三氟碘丙烷 | 3-碘-1,1,1-三氟丙烷 | 3,3,3-三氟碘代丙烷 | 1,1,1-三氟-3-碘丙烷\n\n英文名 1-iodo-3,3,3-trifluoropropane\n\nCAS号460-37-7\n分子式 C3H4F3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 340,
+          "like_count": 4849,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1721
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "生日 2009.12.20 | ACG爱好者/业余评论家 | 米游人 | 坐标河北 | 休假中 | Thinking MtX | INFJ | od | 自残 | 抑郁 | 焦虑 | OCD | ASD | 请和我交朋友 | 梦想是当歌姬吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yumeng0721",
+                "end": 23,
+                "expanded_url": "http://t.me/yumeng0721",
+                "start": 0,
+                "url": "https://t.co/1FVEnlkvBm"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "location": "Japan",
+        "name": "Meng",
+        "pinned_tweet_id": "1949388092760318270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939203974260768768/sFFZD2jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 609,
+          "like_count": 19257,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1931
+        },
+        "url": "https://t.co/1FVEnlkvBm",
+        "username": "yumeng0721",
+        "verified": false
+      }
+    ]
+  }
+}

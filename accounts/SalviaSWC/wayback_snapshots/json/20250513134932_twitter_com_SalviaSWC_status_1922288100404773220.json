@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1922196192903008288",
+    "created_at": "2025-05-13T13:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T14:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922288100404773220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "EffieLindraDom"
+        },
+        {
+          "end": 32,
+          "id": "1272405078683430913",
+          "start": 16,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922288100404773220",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922199410051530910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EffieLindraDom @PaitangOfficial 可以检测IPPH的异构体嘛，对这个比较关心()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1922196192903008288",
+        "created_at": "2025-05-13T13:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T14:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922288100404773220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "EffieLindraDom"
+            },
+            {
+              "end": 32,
+              "id": "1272405078683430913",
+              "start": 16,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922288100404773220",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922199410051530910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EffieLindraDom @PaitangOfficial 可以检测IPPH的异构体嘛，对这个比较关心()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429405137198452736",
+        "conversation_id": "1922196192903008288",
+        "created_at": "2025-05-13T07:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T08:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922199410051530910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922199410051530910",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 177,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922198655055888740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial Isopropylphenidate(IPPH)\n——\n来源：送测\nHPLC+Q-TOF-MS结果：紫外吸收曲线和保留时间对比论文基本一致，Q-TOF-MS推测分子式和分子量可交叉验证样品为Isopropylphenidate。\n备注：也许是个例，打出来有两个杂峰，推测为类似物杂质。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 72,
+          "like_count": 1183,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 588
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "I can drink nitric acid cause, it won't hurt me./Biohacker💉/Computer-Aided Drug Design…/Psychonaut/Cryptoanarchist/Konstruante potencon kun simboloj/Oder/🧬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "systemspaces.top",
+                "end": 23,
+                "expanded_url": "http://systemspaces.top",
+                "start": 0,
+                "url": "https://t.co/Rnqnch2leD"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "OtokonokoNeko Pharma (ØNPH)",
+        "name": "Effie Lingley Dorme🧬🔬",
+        "pinned_tweet_id": "1918368455381926271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909109028254621696/ozLT6GKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9033,
+          "following_count": 840,
+          "like_count": 123578,
+          "listed_count": 35,
+          "media_count": 3349,
+          "tweet_count": 19611
+        },
+        "url": "https://t.co/Rnqnch2leD",
+        "username": "EffieLindraDom",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/促智药 （nootropics）发烧/神经科学 精神药理学习中/娱乐用药反对/不择手段的自我提升/睡眠科学狂热研究中/抗衰研究中/重度ADHD+阿斯伯格/TO级创造力者/化学物理白痴/极端的营养食物和补剂/博弈论&逻辑学 擅长/科学主义者 X/✈️客服：@paipaipaitang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "一个ADHD、从事逆转衰老、认知提升剂研发",
+        "name": "☯️🧬無極 Hanshirō Tsugumo",
+        "pinned_tweet_id": "1921606596347494759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917519720225394688/2jVCu-Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9095,
+          "following_count": 362,
+          "like_count": 7275,
+          "listed_count": 25,
+          "media_count": 1491,
+          "tweet_count": 12289
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

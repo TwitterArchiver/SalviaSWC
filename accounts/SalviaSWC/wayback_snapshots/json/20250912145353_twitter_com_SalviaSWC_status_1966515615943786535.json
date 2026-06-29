@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966515600324251648"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1966513974096044482",
+    "created_at": "2025-09-12T14:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T15:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966515615943786535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PcX88PbcST",
+          "end": 39,
+          "expanded_url": "https://x.com/SalviaSWC/status/1966515615943786535/photo/1",
+          "media_key": "3_1966515600324251648",
+          "start": 16,
+          "url": "https://t.co/PcX88PbcST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966515615943786535",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966513974096044482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感言的开头被窝漏掉了，补上() https://t.co/PcX88PbcST"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_1966515600324251648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0p3hPqXUAAtc4n.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966512795429519360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0p09-nWQAAEUZo.jpg",
+        "width": 344
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966513144911613953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0p1SUiX0AEQjMt.jpg",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966515600324251648"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1966513974096044482",
+        "created_at": "2025-09-12T14:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966515615943786535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PcX88PbcST",
+              "end": 39,
+              "expanded_url": "https://x.com/SalviaSWC/status/1966515615943786535/photo/1",
+              "media_key": "3_1966515600324251648",
+              "start": 16,
+              "url": "https://t.co/PcX88PbcST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966515615943786535",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966513974096044482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感言的开头被窝漏掉了，补上() https://t.co/PcX88PbcST"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966512795429519360",
+            "3_1966513144911613953"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1966513974096044482",
+        "created_at": "2025-09-12T14:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966513974096044482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Explore this post and more from the dissociatives community",
+              "display_url": "reddit.com/r/dissociative…",
+              "end": 129,
+              "expanded_url": "https://www.reddit.com/r/dissociatives/comments/1n9rmxa/china_needs_to_slow_tf_down_with_these_new_dissos/",
+              "images": [
+                {
+                  "height": 584,
+                  "url": "https://pbs.twimg.com/news_img/1966513977602502656/eqzpqzQD?format=jpg&name=orig",
+                  "width": 1120
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966513977602502656/eqzpqzQD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "From the dissociatives community on Reddit",
+              "unwound_url": "https://www.reddit.com/r/dissociatives/comments/1n9rmxa/china_needs_to_slow_tf_down_with_these_new_dissos/",
+              "url": "https://t.co/5XOF9GmoJx"
+            },
+            {
+              "display_url": "pic.x.com/5qnuWz7Sw8",
+              "end": 158,
+              "expanded_url": "https://x.com/SalviaSWC/status/1966513974096044482/photo/1",
+              "media_key": "3_1966512795429519360",
+              "start": 135,
+              "url": "https://t.co/5qnuWz7Sw8"
+            },
+            {
+              "display_url": "pic.x.com/5qnuWz7Sw8",
+              "end": 158,
+              "expanded_url": "https://x.com/SalviaSWC/status/1966513974096044482/photo/1",
+              "media_key": "3_1966513144911613953",
+              "start": 135,
+              "url": "https://t.co/5qnuWz7Sw8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966513974096044482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Reddit解离剂板块:中国快停停手吧，补药再推出新型解离剂了，太好吸了，我要吸不过来了😭(最近发的)\n\nDeepseek翻译版，附带ai写的感言一篇\n\n(ai感言完全是认真写的，恰恰反而有点离谱了)\n\n原文网址https://t.co/5XOF9GmoJx\n\n原贴: https://t.co/5qnuWz7Sw8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1952002613244735810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 435,
+          "like_count": 6361,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 2225
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1927005148397658160",
+    "created_at": "2025-05-26T14:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T15:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927005148397658160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545736499597307904",
+          "start": 3,
+          "username": "Andy1782010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927005148397658160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926966787167424785",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Andy1782010: 每位上海学生的必经之路：\n《先走一步》——上海市各区 初三/高三 第一学期期末质量抽查试卷精编\n《走向失败》——上海市各区 中考/高考 考前质量抽查试卷精编\n《烂在六月》——上海市最新中考模拟强化测试精编/上海高考真卷\n（纯属玩笑，切勿当真）…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 476,
+        "media_key": "3_1926966517565935616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr311pWW0AAGKzw.png",
+        "width": 680
+      },
+      {
+        "height": 740,
+        "media_key": "3_1926966536218046464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr312u1XcAA2F4O.jpg",
+        "width": 1052
+      },
+      {
+        "height": 741,
+        "media_key": "3_1926966550969397248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr313lyXMAASynC.jpg",
+        "width": 1053
+      },
+      {
+        "height": 733,
+        "media_key": "3_1926966642652684288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3187VXIAAJNnW.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1927005148397658160",
+        "created_at": "2025-05-26T14:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T15:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927005148397658160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545736499597307904",
+              "start": 3,
+              "username": "Andy1782010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927005148397658160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926966787167424785",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Andy1782010: 每位上海学生的必经之路：\n《先走一步》——上海市各区 初三/高三 第一学期期末质量抽查试卷精编\n《走向失败》——上海市各区 中考/高考 考前质量抽查试卷精编\n《烂在六月》——上海市最新中考模拟强化测试精编/上海高考真卷\n（纯属玩笑，切勿当真）…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926966517565935616",
+            "3_1926966536218046464",
+            "3_1926966550969397248",
+            "3_1926966642652684288"
+          ]
+        },
+        "author_id": "1545736499597307904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1926966787167424785",
+        "created_at": "2025-05-26T11:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T12:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926966787167424785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYn784uksg",
+              "end": 178,
+              "expanded_url": "https://x.com/Andy1782010/status/1926966787167424785/photo/1",
+              "media_key": "3_1926966517565935616",
+              "start": 155,
+              "url": "https://t.co/gYn784uksg"
+            },
+            {
+              "display_url": "pic.x.com/gYn784uksg",
+              "end": 178,
+              "expanded_url": "https://x.com/Andy1782010/status/1926966787167424785/photo/1",
+              "media_key": "3_1926966536218046464",
+              "start": 155,
+              "url": "https://t.co/gYn784uksg"
+            },
+            {
+              "display_url": "pic.x.com/gYn784uksg",
+              "end": 178,
+              "expanded_url": "https://x.com/Andy1782010/status/1926966787167424785/photo/1",
+              "media_key": "3_1926966550969397248",
+              "start": 155,
+              "url": "https://t.co/gYn784uksg"
+            },
+            {
+              "display_url": "pic.x.com/gYn784uksg",
+              "end": 178,
+              "expanded_url": "https://x.com/Andy1782010/status/1926966787167424785/photo/1",
+              "media_key": "3_1926966642652684288",
+              "start": 155,
+              "url": "https://t.co/gYn784uksg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926966787167424785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 724,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "每位上海学生的必经之路：\n《先走一步》——上海市各区 初三/高三 第一学期期末质量抽查试卷精编\n《走向失败》——上海市各区 中考/高考 考前质量抽查试卷精编\n《烂在六月》——上海市最新中考模拟强化测试精编/上海高考真卷\n（纯属玩笑，切勿当真）\n注：距2025年上海中考还有19天，2025年上海高考还有12天 https://t.co/gYn784uksg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 74,
+          "like_count": 1519,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 704
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T11:48:14.000Z",
+        "description": "与你的日常，就是奇迹！\n上海市某中学在读ENTP初三牲喵（2010.06）\n（🚪9.9元 同类免费\n猫猫@AGeSang2008\ncrush @guo_lao32576\n杂鱼@mhtqwq\n妈咪@zzzChumo\n里推@Andy1782025\n距2025年上海市初中学业水平考试还有19天（2025.6.14-15）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "AGeSang2008"
+              },
+              {
+                "end": 84,
+                "start": 71,
+                "username": "guo_lao32576"
+              },
+              {
+                "end": 94,
+                "start": 87,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zzzChumo"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Andy1782025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/andy17820101",
+                "end": 23,
+                "expanded_url": "http://ngl.link/andy17820101",
+                "start": 0,
+                "url": "https://t.co/G9B0EMYl1T"
+              }
+            ]
+          }
+        },
+        "id": "1545736499597307904",
+        "location": "永恒之地-翁法罗斯 AMPHOREUS",
+        "name": "Andy1782010（备战中考）",
+        "pinned_tweet_id": "1876669495902917098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870824253593194496/Xhiu7ZRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1804,
+          "following_count": 3898,
+          "like_count": 10637,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/G9B0EMYl1T",
+        "username": "Andy1782010",
+        "verified": false
+      }
+    ]
+  }
+}

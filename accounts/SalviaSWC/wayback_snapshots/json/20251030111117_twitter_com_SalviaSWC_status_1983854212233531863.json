@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983847937429139457"
+      ],
+      "media_source_tweet_id": [
+        "1983847941258584480"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1983854212233531863",
+    "created_at": "2025-10-30T11:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983854212233531863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1796937387899064320",
+          "start": 3,
+          "username": "CleverFf050755"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t7wjhoMOqJ",
+          "end": 74,
+          "expanded_url": "https://x.com/CleverFf050755/status/1983847941258584480/photo/1",
+          "media_key": "3_1983847937429139457",
+          "start": 51,
+          "url": "https://t.co/t7wjhoMOqJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983854212233531863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983847941258584480",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CleverFf050755: 我们万圣夜一起戴着春风头像去后后后藤评论区发不给死藤水就捣蛋 https://t.co/t7wjhoMOqJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1983847937429139457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gLMC7a8AE8hYW.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983847937429139457"
+          ],
+          "media_source_tweet_id": [
+            "1983847941258584480"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1983854212233531863",
+        "created_at": "2025-10-30T11:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983854212233531863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1796937387899064320",
+              "start": 3,
+              "username": "CleverFf050755"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7wjhoMOqJ",
+              "end": 74,
+              "expanded_url": "https://x.com/CleverFf050755/status/1983847941258584480/photo/1",
+              "media_key": "3_1983847937429139457",
+              "start": 51,
+              "url": "https://t.co/t7wjhoMOqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983854212233531863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983847941258584480",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CleverFf050755: 我们万圣夜一起戴着春风头像去后后后藤评论区发不给死藤水就捣蛋 https://t.co/t7wjhoMOqJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983847937429139457"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "1983847941258584480",
+        "created_at": "2025-10-30T10:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983847941258584480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7wjhoMOqJ",
+              "end": 54,
+              "expanded_url": "https://x.com/CleverFf050755/status/1983847941258584480/photo/1",
+              "media_key": "3_1983847937429139457",
+              "start": 31,
+              "url": "https://t.co/t7wjhoMOqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983847941258584480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 50,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们万圣夜一起戴着春风头像去后后后藤评论区发不给死藤水就捣蛋 https://t.co/t7wjhoMOqJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "#StandWithSpr1ngW1nd\n07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 0,
+                "tag": "StandWithSpr1ngW1nd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "Sᴀʟv1ᴀ～#鼠尾草",
+        "pinned_tweet_id": "1983831915678536138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983844815524581376/MlP6f7GJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 574,
+          "like_count": 9380,
+          "listed_count": 7,
+          "media_count": 131,
+          "tweet_count": 2981
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造车间",
+        "name": "Texas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983832999369306115/JjI93gS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 123,
+          "like_count": 39,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 1005
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

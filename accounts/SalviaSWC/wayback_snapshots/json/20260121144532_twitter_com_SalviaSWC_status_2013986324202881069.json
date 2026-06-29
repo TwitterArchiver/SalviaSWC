@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2013647827155755340",
+    "created_at": "2026-01-21T14:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013986324202881069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012619448855760896",
+          "start": 0,
+          "username": "FreeOD_wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013986324202881069",
+    "in_reply_to_user_id": "2012619448855760896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013647827155755340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeOD_wiki 氨酚待因分离术是吧(\n\n其实比愈美分离术简单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2013647827155755340",
+        "created_at": "2026-01-21T14:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013986324202881069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012619448855760896",
+              "start": 0,
+              "username": "FreeOD_wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013986324202881069",
+        "in_reply_to_user_id": "2012619448855760896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013647827155755340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeOD_wiki 氨酚待因分离术是吧(\n\n其实比愈美分离术简单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012619448855760896",
+        "conversation_id": "2013647827155755340",
+        "created_at": "2026-01-20T16:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013647827155755340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/2013640566668489061",
+              "start": 58,
+              "url": "https://t.co/T2W5PVWELJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013647827155755340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013640566668489061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "TIP：氨酚待因可利用溶解度分离\n这个我个人不准备写入教程，只写入一个提示：“二者在特定状态下溶解度具有显著差别” https://t.co/T2W5PVWELJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2302,
+          "following_count": 751,
+          "like_count": 17967,
+          "listed_count": 7,
+          "media_count": 224,
+          "tweet_count": 4906
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T20:14:17.000Z",
+        "description": "FreeODwiki是一个以药物科普为目的的非盈利去中心化开源项目，我们拥有一个GitHub仓库和一个网页版本，我们将从客观公正的角度对精神活性物质进行介绍，遵从CC-BY-SA 4.0协议 我们没有官方账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/JNJcHcqc0k"
+              }
+            ]
+          }
+        },
+        "id": "2012619448855760896",
+        "location": "Nonexistent",
+        "name": "FreeODwiki_unofficial",
+        "pinned_tweet_id": "2013268705061573120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012645127257243648/cY-ofaUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 9,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/JNJcHcqc0k",
+        "username": "FreeOD_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

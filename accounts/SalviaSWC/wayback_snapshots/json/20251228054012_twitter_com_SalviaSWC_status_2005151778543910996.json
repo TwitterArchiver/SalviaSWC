@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005150562203971584"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2005151778543910996",
+    "created_at": "2025-12-28T05:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T06:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005151778543910996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PlIiID9mBt",
+          "end": 80,
+          "expanded_url": "https://x.com/SalviaSWC/status/2005151778543910996/photo/1",
+          "media_key": "3_2005150562203971584",
+          "start": 57,
+          "url": "https://t.co/PlIiID9mBt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005151778543910996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从化学结构上来看，巴氯芬也算是苯乙胺的衍生物呢，虽然它的药效更主要是加巴喷丁类🧐\n这是否对于od有价值，暂且未知 https://t.co/PlIiID9mBt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 456,
+        "media_key": "3_2005150562203971584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9O50AVXsAAH6fo.jpg",
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005150562203971584"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2005151778543910996",
+        "created_at": "2025-12-28T05:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T06:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005151778543910996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PlIiID9mBt",
+              "end": 80,
+              "expanded_url": "https://x.com/SalviaSWC/status/2005151778543910996/photo/1",
+              "media_key": "3_2005150562203971584",
+              "start": 57,
+              "url": "https://t.co/PlIiID9mBt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005151778543910996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从化学结构上来看，巴氯芬也算是苯乙胺的衍生物呢，虽然它的药效更主要是加巴喷丁类🧐\n这是否对于od有价值，暂且未知 https://t.co/PlIiID9mBt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 728,
+          "like_count": 16776,
+          "listed_count": 7,
+          "media_count": 196,
+          "tweet_count": 4485
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

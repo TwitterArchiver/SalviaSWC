@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      }
+    ],
+    "conversation_id": "1979400217914151353",
+    "created_at": "2025-10-18T04:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T05:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979400217914151353"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ODhakase/statu…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/ODhakase/status/1979136896174338553",
+          "start": 70,
+          "url": "https://t.co/tIxHniFkkT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979400217914151353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979136896174338553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本居然还可以o哌甲酯和曲马多阿，羡慕了🥺\n不过他们的普瑞巴林的处方似乎很难开()\n(话说别的是什么，窝就看出来C行有一个右美沙芬，别的呢 https://t.co/tIxHniFkkT"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "※こちらの表は社会風刺を目的として作成しており、乱用を助長する意図はございません。\n\n基準...\nS:極めて強力かつユーザーからの支持も厚いが、処方ハードルが高く実物を拝むのは難しい。処方されていたらメンヘラ界隈で羨ましがられるレベルでレアリティが高い\n\nA:[処方]強力かつユーザーからの支持も厚いが健忘等の副作用リスクが極めて高い。[個人輸入]強力かつユーザーからの支持が厚い。言わずもがなSよりレアリティは低い。\n\nB:[処方]強力かつユーザーからの支持も厚いがAほどではないといった意見が多数見られる。[個人輸入]使用される頻度は高いがユーザーからの支持の厚さはAに劣る、または市販でも同成分が購入可能であるため相対的レアリティが低い\n\nC:[処方]ユーザーからの一定の支持はあるがBよりは劣る。処方ハードルもSABに比べ低い。[個人輸入]同成分のBや市販の薬に比べて品質で劣る。\n\nD:[共通]もはやここに並ぶのが悪口レベルで酷い。\n[左上２つ]悪夢、効かないといった声が多く評価は散々である。\n[右上２つ]とにかく食欲が増加して太るといった声が多く他の精神薬に比べて忌避されがち。\n[左下２つ]吸収が錠剤より早いとされる液体タイプだが味が酷いと言われることが多くユーザーからするとネックである。ちなみに統合失調症に用いられるシクレスト舌下錠はもっと酷い。本当に酷い。\n[右下1]ユーザーからの支持は微妙。副作用でなぜか口の中が苦くなるという声が多く、体験すると最悪な気分になる。\n[右下2]他のADHD治療薬に比べて効果を実感しづらいユーザーが多い。間違えて多く飲んでしまおうものならかなり酷い気分になる。",
+        "height": 1656,
+        "media_key": "3_1979136888951730176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dOg7vW8AAoXkq.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "1979400217914151353",
+        "created_at": "2025-10-18T04:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T05:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979400217914151353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ODhakase/statu…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/ODhakase/status/1979136896174338553",
+              "start": 70,
+              "url": "https://t.co/tIxHniFkkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979400217914151353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979136896174338553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本居然还可以o哌甲酯和曲马多阿，羡慕了🥺\n不过他们的普瑞巴林的处方似乎很难开()\n(话说别的是什么，窝就看出来C行有一个右美沙芬，别的呢 https://t.co/tIxHniFkkT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979136888951730176"
+          ]
+        },
+        "author_id": "1905470786951073792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1979136896174338553",
+        "created_at": "2025-10-17T10:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979136896174338553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0iONx3gARm",
+              "end": 62,
+              "expanded_url": "https://x.com/ODhakase/status/1979136896174338553/photo/1",
+              "media_key": "3_1979136888951730176",
+              "start": 39,
+              "url": "https://t.co/0iONx3gARm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979136896174338553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 35390,
+          "like_count": 774,
+          "quote_count": 65,
+          "reply_count": 8,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "処方薬/個人輸入 tier表\n(Rx/personal import JP) https://t.co/0iONx3gARm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 517,
+          "like_count": 8611,
+          "listed_count": 7,
+          "media_count": 120,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T04:03:52.000Z",
+        "description": "ODや精神疾患についての知識をばら撒くゾイ！DMにて質問も受付中じゃ！(質問が採用されたらネタ画像にするが、いいかのう？) #0Dハカセの質問コーナー ※このアカウントは複数人で運営しています 【💊@remBZD404 🐱@gaysex_siyo 🍮@yu_ri_anata 🥕@Ninjin_kariba_2】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 62,
+                "tag": "0Dハカセの質問コーナー"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "remBZD404"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "gaysex_siyo"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "yu_ri_anata"
+              },
+              {
+                "end": 155,
+                "start": 139,
+                "username": "Ninjin_kariba_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qr.paypay.ne.jp/p2p01_UqpnZSA6…",
+                "end": 23,
+                "expanded_url": "https://qr.paypay.ne.jp/p2p01_UqpnZSA6OaNTU6PK",
+                "start": 0,
+                "url": "https://t.co/v2k8mROFpB"
+              }
+            ]
+          }
+        },
+        "id": "1905470786951073792",
+        "location": "投げ銭するとひなねこ氏が太ります。",
+        "name": "オーバー・D・ハカセV4.0",
+        "pinned_tweet_id": "1976924257210056719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976771552965541897/uGOHOG4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 141,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/v2k8mROFpB",
+        "username": "ODhakase",
+        "verified": false
+      }
+    ]
+  }
+}

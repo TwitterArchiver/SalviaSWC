@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1911725115512963485",
+    "created_at": "2025-04-14T10:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T11:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911726771801637235"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1911726771801637235",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911725115512963485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "(之前看到推上有人提出过量服用策划药自杀，swc对此感到不妥。看到这个贴子之后结合感想，随便写的，如有错误敬请谅解🥺\n也欢迎大家各抒己见，关于模仿管制药品的功效，用途“仅供科研或收藏，禁止人类服用”的灰产策划药的看法)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1911725115512963485",
+        "created_at": "2025-04-14T10:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T11:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911726771801637235"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911726771801637235",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911725115512963485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "(之前看到推上有人提出过量服用策划药自杀，swc对此感到不妥。看到这个贴子之后结合感想，随便写的，如有错误敬请谅解🥺\n也欢迎大家各抒己见，关于模仿管制药品的功效，用途“仅供科研或收藏，禁止人类服用”的灰产策划药的看法)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1911725115512963485",
+        "created_at": "2025-04-14T10:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T11:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911725115512963485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Benzyl_titaniu…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Benzyl_titanium/status/1905255052479967703",
+              "start": 142,
+              "url": "https://t.co/5nimc0Ipjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911725115512963485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905255052479967703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和别的国家相比，中国的管制药品清单其实很少，差异的部分主要是策划药。\n这不是因为别的，就是因为中国是全球策划药第一大产国。中国政府从策划药厂中获得利益，当然禁得少。\n但是对于非策划药，中国对于第一类精神药品和第二类精神药品的管制，可以说是非常混乱和严格，限制人体研究，限制处方数量等 https://t.co/5nimc0Ipjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 52,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 326
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

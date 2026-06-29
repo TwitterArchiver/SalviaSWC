@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033288525076889600"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2033470325057319291",
+    "created_at": "2026-03-16T09:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T10:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033470325057319291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DQG99n0YIr",
+          "end": 110,
+          "expanded_url": "https://x.com/SalviaSWC/status/2033470325057319291/photo/1",
+          "media_key": "3_2033288525076889600",
+          "start": 87,
+          "url": "https://t.co/DQG99n0YIr"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2033138863435071635",
+          "start": 111,
+          "url": "https://t.co/iLDSJSbyX2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033470325057319291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033138863435071635",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药物报告连载day6——解离剂\n\n好欸，窝野喜欢解离剂能够让人彻底消失的感觉，那种彻底的逃离感🤤\n\n不过文中的660mg右美沙芬的剂量感觉太大了，不需要那么多就能有药效的🥹 https://t.co/DQG99n0YIr https://t.co/iLDSJSbyX2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_2033288525076889600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDexJAcWAAAJVhG.png",
+        "width": 2024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2033138000192823296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDcoPTjXYAA2n5_.jpg",
+        "width": 1193
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033288525076889600"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2033470325057319291",
+        "created_at": "2026-03-16T09:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033470325057319291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQG99n0YIr",
+              "end": 110,
+              "expanded_url": "https://x.com/SalviaSWC/status/2033470325057319291/photo/1",
+              "media_key": "3_2033288525076889600",
+              "start": 87,
+              "url": "https://t.co/DQG99n0YIr"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2033138863435071635",
+              "start": 111,
+              "url": "https://t.co/iLDSJSbyX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033470325057319291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033138863435071635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告连载day6——解离剂\n\n好欸，窝野喜欢解离剂能够让人彻底消失的感觉，那种彻底的逃离感🤤\n\n不过文中的660mg右美沙芬的剂量感觉太大了，不需要那么多就能有药效的🥹 https://t.co/DQG99n0YIr https://t.co/iLDSJSbyX2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033138000192823296"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2033138863435071635",
+        "created_at": "2026-03-15T11:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033138863435071635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFyCopONZr",
+              "end": 137,
+              "expanded_url": "https://x.com/SalviaSWC/status/2033138863435071635/photo/1",
+              "media_key": "3_2033138000192823296",
+              "start": 114,
+              "url": "https://t.co/iFyCopONZr"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2032769175077154863",
+              "start": 138,
+              "url": "https://t.co/JU8ZBqfr3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033138863435071635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9956,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032769175077154863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告连载day5——无辜的朋友剧烈变形\n\n贴主把装了DMT电子烟油的电子烟放在桌上，结果被不知情的朋友吸了，剧烈变形。\n\n这个DMT电子烟油在哪买(bushi)🤤。推友有没有出现过类似的情况，自己想吃的药被别人不小心吃了？ https://t.co/iFyCopONZr https://t.co/JU8ZBqfr3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3350,
+          "following_count": 958,
+          "like_count": 21132,
+          "listed_count": 10,
+          "media_count": 363,
+          "tweet_count": 6225
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

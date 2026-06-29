@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2005151778543910996",
+    "created_at": "2025-12-28T14:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T15:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005285911454515366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "707194644803751937",
+          "start": 0,
+          "username": "xiaoz010203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005285911454515366",
+    "in_reply_to_user_id": "707194644803751937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005281977403056331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoz010203 这样嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2005151778543910996",
+        "created_at": "2025-12-28T14:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005285911454515366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "707194644803751937",
+              "start": 0,
+              "username": "xiaoz010203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005285911454515366",
+        "in_reply_to_user_id": "707194644803751937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005281977403056331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoz010203 这样嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "707194644803751937",
+        "conversation_id": "2005151778543910996",
+        "created_at": "2025-12-28T14:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005281977403056331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005281977403056331",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005151778543910996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 多了个亚甲基羧基空间位阻太大了，可能卡不进通道，可以去查查作用靶点的冷冻电镜图。\n苯乙胺没研究过，研究过NMDA受体和氯胺酮的冷冻电镜图。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM\nFreeODwiki: https://t.co/ki2TerCl7C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 134,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 111,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 729,
+          "like_count": 16830,
+          "listed_count": 7,
+          "media_count": 196,
+          "tweet_count": 4502
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-08T13:21:57.000Z",
+        "description": "“人的一生要经历太多的生离死别，那些突如其来的离别往往将人伤得措手不及。”｜可以叫我小z｜INFJ｜双鱼｜卡莫纳香狙仔｜在合理的范围内包容一切群体｜抽象、具体、感性、理性   取决于最近的药量｜应用化学专业 免费提供药理毒理/药代动力学分析(仅供参考)\n｜人生苦短，及时行乐，赢则大乐",
+        "id": "707194644803751937",
+        "name": "Zzzzzzzzzzz",
+        "pinned_tweet_id": "1866747340687806543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1392075377099644929/k80-Ta1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 47,
+          "like_count": 3619,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 1988
+        },
+        "username": "xiaoz010203",
+        "verified": false
+      }
+    ]
+  }
+}

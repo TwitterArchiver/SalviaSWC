@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949446031974051840"
+      ],
+      "media_source_tweet_id": [
+        "1949446039397941376"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1949719448023105787",
+    "created_at": "2025-07-28T06:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T07:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949719448023105787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1491549894066143233",
+          "start": 3,
+          "username": "Themistospace"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yUV5s32Sfn",
+          "end": 51,
+          "expanded_url": "https://x.com/Themistospace/status/1949446039397941376/photo/1",
+          "media_key": "3_1949446031974051840",
+          "start": 28,
+          "url": "https://t.co/yUV5s32Sfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949719448023105787",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949446039397941376",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Themistospace: OVERDOSE https://t.co/yUV5s32Sfn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949446031974051840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3S1mSbsAArxDI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949446031974051840"
+          ],
+          "media_source_tweet_id": [
+            "1949446039397941376"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1949719448023105787",
+        "created_at": "2025-07-28T06:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T07:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949719448023105787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1491549894066143233",
+              "start": 3,
+              "username": "Themistospace"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yUV5s32Sfn",
+              "end": 51,
+              "expanded_url": "https://x.com/Themistospace/status/1949446039397941376/photo/1",
+              "media_key": "3_1949446031974051840",
+              "start": 28,
+              "url": "https://t.co/yUV5s32Sfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949719448023105787",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949446039397941376",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Themistospace: OVERDOSE https://t.co/yUV5s32Sfn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949446031974051840"
+          ]
+        },
+        "author_id": "1491549894066143233",
+        "conversation_id": "1949446039397941376",
+        "created_at": "2025-07-27T12:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949446039397941376"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "OVERDOSE",
+              "probability": 0.4781,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yUV5s32Sfn",
+              "end": 32,
+              "expanded_url": "https://x.com/Themistospace/status/1949446039397941376/photo/1",
+              "media_key": "3_1949446031974051840",
+              "start": 9,
+              "url": "https://t.co/yUV5s32Sfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949446039397941376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "OVERDOSE https://t.co/yUV5s32Sfn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 339,
+          "like_count": 4821,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1709
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T23:09:59.000Z",
+        "description": "Now I know the perfect kiss is the kiss of death. —— New Order",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/78214420",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/78214420",
+                "start": 0,
+                "url": "https://t.co/Vd6vBPf33X"
+              }
+            ]
+          }
+        },
+        "id": "1491549894066143233",
+        "location": "🇺🇳",
+        "name": "Themisto space🏳️‍⚧️🇺🇦",
+        "pinned_tweet_id": "1918445974076477683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812745371598127104/UpyoBz2Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 447,
+          "like_count": 15803,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 2299
+        },
+        "url": "https://t.co/Vd6vBPf33X",
+        "username": "Themistospace",
+        "verified": false
+      }
+    ]
+  }
+}

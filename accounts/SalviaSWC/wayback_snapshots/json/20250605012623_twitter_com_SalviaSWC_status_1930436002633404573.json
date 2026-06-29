@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1930430601464820039",
+    "created_at": "2025-06-05T01:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T02:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930436002633404573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930436002633404573",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930430601464820039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo xm\n小燕子可爱捏🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1930430471437213696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspESTGa4AAcEnx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1930430475828637703",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspESjdasAc0z73.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 8475,
+        "height": 720,
+        "media_key": "7_1930430474977193984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1930430474977193984/pu/img/gM-LgWAfSGd2ZMME.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930430474977193984/pu/vid/avc1/480x270/AuXe89t1cnfXb3LX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930430474977193984/pu/vid/avc1/640x360/Q8hXT_WZIoMaXMAi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1930430474977193984/pu/vid/avc1/1280x720/4H2IXl3o1d7HBP4D.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1930430474977193984/pu/pl/TVEKuyBvP8Takpo7.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1930430601464820039",
+        "created_at": "2025-06-05T01:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T02:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930436002633404573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930436002633404573",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930430601464820039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo xm\n小燕子可爱捏🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930430471437213696",
+            "3_1930430475828637703",
+            "7_1930430474977193984"
+          ]
+        },
+        "author_id": "1882563916632666112",
+        "conversation_id": "1930430601464820039",
+        "created_at": "2025-06-05T01:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T02:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930430601464820039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7sCdjuGFSx",
+              "end": 125,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1930430601464820039/video/1",
+              "media_key": "3_1930430471437213696",
+              "start": 102,
+              "url": "https://t.co/7sCdjuGFSx"
+            },
+            {
+              "display_url": "pic.x.com/7sCdjuGFSx",
+              "end": 125,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1930430601464820039/video/1",
+              "media_key": "3_1930430475828637703",
+              "start": 102,
+              "url": "https://t.co/7sCdjuGFSx"
+            },
+            {
+              "display_url": "pic.x.com/7sCdjuGFSx",
+              "end": 125,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1930430601464820039/video/1",
+              "media_key": "7_1930430474977193984",
+              "start": 102,
+              "url": "https://t.co/7sCdjuGFSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930430601464820039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好久没有发燕子了，这几个月我家的这窝燕子又在我家电灯泡的地方重新搭了一个窝，今年的蛋都下到电灯泡上的这个窝里了，今年的第一窝小燕子已经会飞了，现在每天傍晚都能看见很多小燕子在我家门哪里飞进去又飞出来呢🥰 https://t.co/7sCdjuGFSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 83,
+          "like_count": 1938,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 818
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "学过国学、美术、c/c++、古建筑的小学五年级辍学废物，也是一名诗人，同时还是一位心学家，热爱中国文化，逍遥自在，无为无不为。喜欢交朋友，欢迎大家找我玩。😋\n挚友@Konekoutena",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Konekoutena"
+              }
+            ]
+          }
+        },
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 371,
+          "like_count": 110880,
+          "listed_count": 7,
+          "media_count": 88,
+          "tweet_count": 13957
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

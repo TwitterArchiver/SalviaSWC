@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1950945984730759169",
+    "created_at": "2025-07-31T16:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T17:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950962599849259210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1614594152062406656",
+          "start": 0,
+          "username": "fnggnjn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950962599849259210",
+    "in_reply_to_user_id": "1614594152062406656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950945984730759169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnggnjn1 我认为，蛋白质毕竟量少，小分子的亲和力再高，只要不是差好几个数量级，小分子与某种蛋白质的结合是不会严重影响它与另一种蛋白质的结合的\n不过，这俩都是脏药，确实没什么娱乐价值，甚至没有人在网上写关于它的报告。但是根据LD50数据，色胺的急性毒性和苯乙胺差不多，表明还是存在一些安全性的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1950945984730759169",
+        "created_at": "2025-07-31T16:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T17:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950962599849259210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1614594152062406656",
+              "start": 0,
+              "username": "fnggnjn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950962599849259210",
+        "in_reply_to_user_id": "1614594152062406656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950945984730759169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnggnjn1 我认为，蛋白质毕竟量少，小分子的亲和力再高，只要不是差好几个数量级，小分子与某种蛋白质的结合是不会严重影响它与另一种蛋白质的结合的\n不过，这俩都是脏药，确实没什么娱乐价值，甚至没有人在网上写关于它的报告。但是根据LD50数据，色胺的急性毒性和苯乙胺差不多，表明还是存在一些安全性的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614594152062406656",
+        "conversation_id": "1950945984730759169",
+        "created_at": "2025-07-31T15:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T16:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950945984730759169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1950824057978704283",
+              "start": 143,
+              "url": "https://t.co/HOMM7U2b3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950945984730759169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950824057978704283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这涉及到“脱靶效应”\n横向对比苯乙胺与色胺，虽然同为单胺释放剂(MRA) 发挥作用，但是当在maoi作用下，二者浓度提高，色胺分子会被血清素受体优先捕获，起血清素激动剂效果，而苯乙胺则会更多起到单胺释放的作用。\n其次，ki值只能表示与受体的亲和力，不能区分拮抗，部分激动，与完全激动。 https://t.co/HOMM7U2b3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 344,
+          "like_count": 4958,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1760
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化药设研究者 物种：蛆 可以叫我蛆老师 提供用药及药理咨询（不包括任何已列管毒品！） 蛆蛆要涨粉🥺🥺🥺 不推荐任何人使用我提到的药品",
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium⌬",
+        "pinned_tweet_id": "1919232126148362586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920055699050221568/hsi-1UL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 49,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 706
+        },
+        "username": "fnggnjn1",
+        "verified": false
+      }
+    ]
+  }
+}

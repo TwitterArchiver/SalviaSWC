@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2050128087254442345",
+    "created_at": "2026-05-01T08:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T09:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050129121078890970"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050129121078890970",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050128087254442345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这图片怎么又被压糊了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2049916322700517376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHLECNnW4AAkpqF.jpg",
+        "width": 421
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2049916322708877312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHLECNpWcAAx2xZ.jpg",
+        "width": 363
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2050128087254442345",
+        "created_at": "2026-05-01T08:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050129121078890970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050129121078890970",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050128087254442345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这图片怎么又被压糊了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049916322700517376",
+            "3_2049916322708877312"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2050128087254442345",
+        "created_at": "2026-05-01T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050128087254442345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+              "end": 169,
+              "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/3mmc_is_the_best_drug_ever_outside_of_psychedelics.html",
+              "start": 146,
+              "status": 502,
+              "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/3mmc_is_the_best_drug_ever_outside_of_psychedelics.html",
+              "url": "https://t.co/s849j2aOmf"
+            },
+            {
+              "display_url": "pic.x.com/93OLpisGew",
+              "end": 193,
+              "expanded_url": "https://x.com/SalviaSWC/status/2050128087254442345/photo/1",
+              "media_key": "3_2049916322700517376",
+              "start": 170,
+              "url": "https://t.co/93OLpisGew"
+            },
+            {
+              "display_url": "pic.x.com/93OLpisGew",
+              "end": 193,
+              "expanded_url": "https://x.com/SalviaSWC/status/2050128087254442345/photo/1",
+              "media_key": "3_2049916322708877312",
+              "start": 170,
+              "url": "https://t.co/93OLpisGew"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 217,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2049765699443376625",
+              "start": 194,
+              "url": "https://t.co/jkP04on8tb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050128087254442345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049765699443376625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day13——Reddit上对3-MMC的极力赞美\n\n一外国小哥把3-MMC吹得天花乱坠，显然他对3-MMC非常喜爱。然而，文字读起来令人不安，不少评论也怀疑贴主成瘾了，担忧贴主的精神状态。\n\n1年后，贴主果然发贴，称自己未能察觉情况，而现在为时已晚了😢\n\n大家一定要警惕这种情况哦🥺https://t.co/s849j2aOmf https://t.co/93OLpisGew https://t.co/jkP04on8tb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4214,
+          "following_count": 996,
+          "like_count": 22868,
+          "listed_count": 11,
+          "media_count": 478,
+          "tweet_count": 7350
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

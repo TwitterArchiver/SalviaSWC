@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016404110019383296",
+        "3_2016403756896710656"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2016404135869087870",
+    "created_at": "2026-01-28T06:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T07:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016404135869087870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1zOeoKNAAX",
+          "end": 172,
+          "expanded_url": "https://x.com/SalviaSWC/status/2016404135869087870/photo/1",
+          "media_key": "3_2016404110019383296",
+          "start": 149,
+          "url": "https://t.co/1zOeoKNAAX"
+        },
+        {
+          "display_url": "pic.x.com/1zOeoKNAAX",
+          "end": 172,
+          "expanded_url": "https://x.com/SalviaSWC/status/2016404135869087870/photo/1",
+          "media_key": "3_2016403756896710656",
+          "start": 149,
+          "url": "https://t.co/1zOeoKNAAX"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 196,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2016397471858241559",
+          "start": 173,
+          "url": "https://t.co/sNsPK0yUHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016404135869087870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016397471858241559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其他兴奋剂存在的问题：\n\n苯基α-吡咯烷基酮类物质以及3,4-亚甲双氧基苯基α-吡咯烷基酮类(尤其是碳链较长的物质)是抗胆碱类药物，碳链越长，抗胆碱作用越大，它们的影响在娱乐剂量下影响就越显著，导致记忆损害、高血压等不良反应。\n\n在另一个文献中，α-乙氨基苯基酮类物质有细胞毒性，此处不展开讲了。 https://t.co/1zOeoKNAAX https://t.co/sNsPK0yUHA"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ACS Chem. Neurosci. 2020, 11, 960−968",
+        "height": 852,
+        "media_key": "3_2016404110019383296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_u02s1X0AAzr8G.jpg",
+        "width": 1756
+      },
+      {
+        "alt_text": "ACS Chem. Neurosci. 2020, 11, 960−968",
+        "height": 788,
+        "media_key": "3_2016403756896710656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_u0iJWXcAAyRvK.png",
+        "width": 884
+      },
+      {
+        "height": 450,
+        "media_key": "3_2016396256487342081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uttkJbAAEIBw2.jpg",
+        "width": 1742
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016404110019383296",
+            "3_2016403756896710656"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2016404135869087870",
+        "created_at": "2026-01-28T06:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T07:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016404135869087870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zOeoKNAAX",
+              "end": 172,
+              "expanded_url": "https://x.com/SalviaSWC/status/2016404135869087870/photo/1",
+              "media_key": "3_2016404110019383296",
+              "start": 149,
+              "url": "https://t.co/1zOeoKNAAX"
+            },
+            {
+              "display_url": "pic.x.com/1zOeoKNAAX",
+              "end": 172,
+              "expanded_url": "https://x.com/SalviaSWC/status/2016404135869087870/photo/1",
+              "media_key": "3_2016403756896710656",
+              "start": 149,
+              "url": "https://t.co/1zOeoKNAAX"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2016397471858241559",
+              "start": 173,
+              "url": "https://t.co/sNsPK0yUHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016404135869087870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016397471858241559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其他兴奋剂存在的问题：\n\n苯基α-吡咯烷基酮类物质以及3,4-亚甲双氧基苯基α-吡咯烷基酮类(尤其是碳链较长的物质)是抗胆碱类药物，碳链越长，抗胆碱作用越大，它们的影响在娱乐剂量下影响就越显著，导致记忆损害、高血压等不良反应。\n\n在另一个文献中，α-乙氨基苯基酮类物质有细胞毒性，此处不展开讲了。 https://t.co/1zOeoKNAAX https://t.co/sNsPK0yUHA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016396256487342081"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2016397471858241559",
+        "created_at": "2026-01-28T06:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T07:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016397471858241559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iv2FWvshT3",
+              "end": 171,
+              "expanded_url": "https://x.com/SalviaSWC/status/2016397471858241559/photo/1",
+              "media_key": "3_2016396256487342081",
+              "start": 148,
+              "url": "https://t.co/Iv2FWvshT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016397471858241559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物使用的污名化问题，其实在圈内也存在，比如很多人认为哌甲酯类能益智，别的兴奋剂则不行🤔\n\n后者可能确实存在一些问题，但在科学文献中，最常和哌甲酯相提并论的其实是可卡因，二者结构相似，与多巴胺转运体的结合也相似。但是相比可卡因，哌甲酯更纯(DA选择性高)、更持久(代谢慢)、更强效(IC50低) https://t.co/Iv2FWvshT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 793,
+          "like_count": 18437,
+          "listed_count": 7,
+          "media_count": 243,
+          "tweet_count": 5131
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

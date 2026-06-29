@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2044357146309959827",
+    "created_at": "2026-04-15T10:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T11:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044357146309959827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974865605204586498",
+          "start": 3,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044357146309959827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043961773993406769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Krktmk_8964: 还有很显然几期广州禁毒都想抓住社群文化批判什么\n 但他们好像不具备社会调查最基本的严谨,还是只会用惯有的审判态度  过目凡是符合大众对社会不安定分子臆想的东西,做的研究像仅限于在社媒搜索药物滥的相关推送一样^^甚至误触攻击日本外来文化的底层代码…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1384,
+        "media_key": "3_2043961344865820672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2cA4dbYAAR8jD.jpg",
+        "width": 813
+      },
+      {
+        "height": 1091,
+        "media_key": "3_2043961344882507776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2cA4haAAAm7w4.jpg",
+        "width": 777
+      },
+      {
+        "height": 750,
+        "media_key": "3_2043961344874164224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2cA4fasAAjEL1.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2044357146309959827",
+        "created_at": "2026-04-15T10:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044357146309959827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974865605204586498",
+              "start": 3,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044357146309959827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043961773993406769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Krktmk_8964: 还有很显然几期广州禁毒都想抓住社群文化批判什么\n 但他们好像不具备社会调查最基本的严谨,还是只会用惯有的审判态度  过目凡是符合大众对社会不安定分子臆想的东西,做的研究像仅限于在社媒搜索药物滥的相关推送一样^^甚至误触攻击日本外来文化的底层代码…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043961344865820672",
+            "3_2043961344882507776",
+            "3_2043961344874164224"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043961773993406769",
+        "created_at": "2026-04-14T07:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043961773993406769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGX7RV83Zu",
+              "end": 166,
+              "expanded_url": "https://x.com/Krktmk_8964/status/2043961773993406769/photo/1",
+              "media_key": "3_2043961344865820672",
+              "start": 143,
+              "url": "https://t.co/AGX7RV83Zu"
+            },
+            {
+              "display_url": "pic.x.com/AGX7RV83Zu",
+              "end": 166,
+              "expanded_url": "https://x.com/Krktmk_8964/status/2043961773993406769/photo/1",
+              "media_key": "3_2043961344882507776",
+              "start": 143,
+              "url": "https://t.co/AGX7RV83Zu"
+            },
+            {
+              "display_url": "pic.x.com/AGX7RV83Zu",
+              "end": 166,
+              "expanded_url": "https://x.com/Krktmk_8964/status/2043961773993406769/photo/1",
+              "media_key": "3_2043961344874164224",
+              "start": 143,
+              "url": "https://t.co/AGX7RV83Zu"
+            },
+            {
+              "display_url": "x.com/Krktmk_8964/st…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/Krktmk_8964/status/2043955462039908523",
+              "start": 167,
+              "url": "https://t.co/t0CIouTYrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043961773993406769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2232,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043955462039908523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有很显然几期广州禁毒都想抓住社群文化批判什么\n 但他们好像不具备社会调查最基本的严谨,还是只会用惯有的审判态度  过目凡是符合大众对社会不安定分子臆想的东西,做的研究像仅限于在社媒搜索药物滥的相关推送一样^^甚至误触攻击日本外来文化的底层代码\n恳请有关部门停止自取其辱  停止刷推！ https://t.co/AGX7RV83Zu https://t.co/t0CIouTYrz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3766,
+          "following_count": 971,
+          "like_count": 21944,
+          "listed_count": 8,
+          "media_count": 431,
+          "tweet_count": 6878
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2043404058648826188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 2305,
+          "like_count": 36768,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 3763
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

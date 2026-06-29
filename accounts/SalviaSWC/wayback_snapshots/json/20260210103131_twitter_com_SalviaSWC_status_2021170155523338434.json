@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021169356575477760"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2021170155523338434",
+    "created_at": "2026-02-10T10:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T11:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021170155523338434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "FreeODwiki, 人人都可以编辑的OD百科全书. Contribute to SalviaSWC/FreeODwiki development by creating an account on GitHub.",
+          "display_url": "github.com/SalviaSWC/Free…",
+          "end": 169,
+          "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%96%87%E6%A1%A3/TiHKAL/home.md",
+          "images": [
+            {
+              "height": 615,
+              "url": "https://pbs.twimg.com/news_img/2021170159264620545/5mPdzwXV?format=png&name=orig",
+              "width": 686
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2021170159264620545/5mPdzwXV?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 146,
+          "status": 200,
+          "title": "FreeODwiki/文档/TiHKAL/home.md at main · SalviaSWC/FreeODwiki",
+          "unwound_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%96%87%E6%A1%A3/TiHKAL/home.md",
+          "url": "https://t.co/tuuOsg2G9h"
+        },
+        {
+          "display_url": "pic.x.com/buF5V6J6KX",
+          "end": 193,
+          "expanded_url": "https://x.com/SalviaSWC/status/2021170155523338434/photo/1",
+          "media_key": "3_2021169356575477760",
+          "start": 170,
+          "url": "https://t.co/buF5V6J6KX"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 217,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/1950496690831569050",
+          "start": 194,
+          "url": "https://t.co/ojjgYHHHs5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021170155523338434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950496690831569050",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "亚历山大·舒尔金的《我所见识过与爱过的色胺类物质们：化学仍在继续》(英文：TiHKAL) 我已经翻译完成，并上传到Github，欢迎大家来看哦🥹\n\n里面有很多色胺类物质的食用报告和评价，很值得一看呢......😋\n\n马上翻译苯乙胺类物质的PiHKAL，翻译完成了就发，届时敬请大家光临哦~\n\nhttps://t.co/tuuOsg2G9h https://t.co/buF5V6J6KX https://t.co/ojjgYHHHs5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1636,
+        "media_key": "3_2021169356575477760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAyi0jmWEAATULN.jpg",
+        "width": 3200
+      },
+      {
+        "height": 1654,
+        "media_key": "3_1950496423255916545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGOKavWwAEFqCx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021169356575477760"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2021170155523338434",
+        "created_at": "2026-02-10T10:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021170155523338434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki, 人人都可以编辑的OD百科全书. Contribute to SalviaSWC/FreeODwiki development by creating an account on GitHub.",
+              "display_url": "github.com/SalviaSWC/Free…",
+              "end": 169,
+              "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%96%87%E6%A1%A3/TiHKAL/home.md",
+              "images": [
+                {
+                  "height": 615,
+                  "url": "https://pbs.twimg.com/news_img/2021170159264620545/5mPdzwXV?format=png&name=orig",
+                  "width": 686
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2021170159264620545/5mPdzwXV?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 146,
+              "status": 200,
+              "title": "FreeODwiki/文档/TiHKAL/home.md at main · SalviaSWC/FreeODwiki",
+              "unwound_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E6%96%87%E6%A1%A3/TiHKAL/home.md",
+              "url": "https://t.co/tuuOsg2G9h"
+            },
+            {
+              "display_url": "pic.x.com/buF5V6J6KX",
+              "end": 193,
+              "expanded_url": "https://x.com/SalviaSWC/status/2021170155523338434/photo/1",
+              "media_key": "3_2021169356575477760",
+              "start": 170,
+              "url": "https://t.co/buF5V6J6KX"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 217,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1950496690831569050",
+              "start": 194,
+              "url": "https://t.co/ojjgYHHHs5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021170155523338434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950496690831569050",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "亚历山大·舒尔金的《我所见识过与爱过的色胺类物质们：化学仍在继续》(英文：TiHKAL) 我已经翻译完成，并上传到Github，欢迎大家来看哦🥹\n\n里面有很多色胺类物质的食用报告和评价，很值得一看呢......😋\n\n马上翻译苯乙胺类物质的PiHKAL，翻译完成了就发，届时敬请大家光临哦~\n\nhttps://t.co/tuuOsg2G9h https://t.co/buF5V6J6KX https://t.co/ojjgYHHHs5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950496423255916545"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1950496690831569050",
+        "created_at": "2025-07-30T10:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T11:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950496690831569050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "erowid.org/library/books_…",
+              "end": 124,
+              "expanded_url": "https://www.erowid.org/library/books_online/tihkal/tihkal.shtml",
+              "start": 101,
+              "status": 200,
+              "unwound_url": "https://www.erowid.org/library/books_online/tihkal/tihkal.shtml",
+              "url": "https://t.co/4KP985PEAH"
+            },
+            {
+              "display_url": "pic.x.com/IxXh8FSqhb",
+              "end": 157,
+              "expanded_url": "https://x.com/SalviaSWC/status/1950496690831569050/photo/1",
+              "media_key": "3_1950496423255916545",
+              "start": 134,
+              "url": "https://t.co/IxXh8FSqhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950496690831569050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 5093,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "推荐一本书《TiHKAL(我认识和爱过的色胺类物质们)》，可以在网页上免费看🥹\n书中有五十多种色胺衍生物(包括DMT，LSD)的合成、用量、药效、体验报告，对色胺衍生物感兴趣的推u们可以看看哦~\n网址:https://t.co/4KP985PEAH\n(仅供教育用途) https://t.co/IxXh8FSqhb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰没回fo的话，请私信我哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨OD知识开源&去污名化↓请关注FreeODwiki喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2648,
+          "following_count": 786,
+          "like_count": 18690,
+          "listed_count": 9,
+          "media_count": 267,
+          "tweet_count": 5294
+        },
+        "url": "https://t.co/ki2TerCl7C",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

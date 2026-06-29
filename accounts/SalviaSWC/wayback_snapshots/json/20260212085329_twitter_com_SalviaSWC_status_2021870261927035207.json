@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021595760224313345"
+      ],
+      "media_source_tweet_id": [
+        "2021595783909265906"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2021870261927035207",
+    "created_at": "2026-02-12T08:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T09:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021870261927035207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1678171777409875968",
+          "start": 3,
+          "username": "420420420CTL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xl1AIBYsjr",
+          "end": 44,
+          "expanded_url": "https://x.com/420420420CTL/status/2021595783909265906/photo/1",
+          "media_key": "3_2021595760224313345",
+          "start": 21,
+          "url": "https://t.co/Xl1AIBYsjr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021870261927035207",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021595783909265906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @420420420CTL: 支持 https://t.co/Xl1AIBYsjr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2021595760224313345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4mog-bIAExopz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021595760224313345"
+          ],
+          "media_source_tweet_id": [
+            "2021595783909265906"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2021870261927035207",
+        "created_at": "2026-02-12T08:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021870261927035207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1678171777409875968",
+              "start": 3,
+              "username": "420420420CTL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xl1AIBYsjr",
+              "end": 44,
+              "expanded_url": "https://x.com/420420420CTL/status/2021595783909265906/photo/1",
+              "media_key": "3_2021595760224313345",
+              "start": 21,
+              "url": "https://t.co/Xl1AIBYsjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021870261927035207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021595783909265906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @420420420CTL: 支持 https://t.co/Xl1AIBYsjr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021595760224313345"
+          ]
+        },
+        "author_id": "1678171777409875968",
+        "conversation_id": "2021595783909265906",
+        "created_at": "2026-02-11T14:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T15:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021595783909265906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xl1AIBYsjr",
+              "end": 26,
+              "expanded_url": "https://x.com/420420420CTL/status/2021595783909265906/photo/1",
+              "media_key": "3_2021595760224313345",
+              "start": 3,
+              "url": "https://t.co/Xl1AIBYsjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021595783909265906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4660,
+          "like_count": 130,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "支持 https://t.co/Xl1AIBYsjr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰没回fo的话，请私信我哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨OD知识开源&去污名化↓请关注FreeODwiki喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 785,
+          "like_count": 18755,
+          "listed_count": 9,
+          "media_count": 270,
+          "tweet_count": 5325
+        },
+        "url": "https://t.co/ki2TerCl7C",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T22:38:41.000Z",
+        "description": "支持亞洲大麻合法化，大麻除罪，正視醫療大麻用途，MTF🏳️‍⚧️🏳️‍🌈LGBTQ友好🧑‍🤝‍🧑👭只有x和谷歌電郵聯繫方式，會回私信，社群：https://t.co/YwMarw2XdU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 93,
+                "expanded_url": "https://x.com/i/communities/2002034506979750304",
+                "start": 70,
+                "url": "https://t.co/YwMarw2XdU"
+              }
+            ]
+          }
+        },
+        "id": "1678171777409875968",
+        "location": "Los Angeles, CA",
+        "name": "邦尼兔weed_420（大麻/電子煙）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018807810830770177/xgp8x96H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 657,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 889
+        },
+        "username": "420420420CTL",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1907925450107826517",
+    "created_at": "2025-04-04T00:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T01:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907953519186817502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1870447511539785728",
+          "start": 0,
+          "username": "miku668866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907953519186817502",
+    "in_reply_to_user_id": "1870447511539785728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907925450107826517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miku668866 不是哥们🥺......\n不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1907925450107826517",
+        "created_at": "2025-04-04T00:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T01:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907953519186817502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1870447511539785728",
+              "start": 0,
+              "username": "miku668866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907953519186817502",
+        "in_reply_to_user_id": "1870447511539785728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907925450107826517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miku668866 不是哥们🥺......\n不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870447511539785728",
+        "conversation_id": "1907925450107826517",
+        "created_at": "2025-04-03T22:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T23:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907925450107826517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907925450107826517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 259,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "100G亚硝酸钠跟这个世界再见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 48,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 197
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T12:33:47.000Z",
+        "description": "MTF Partner：@chianyu57i    坐标：苏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "chianyu57i"
+              }
+            ]
+          }
+        },
+        "id": "1870447511539785728",
+        "name": "Missing🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "1890640998247571829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870661187815591936/eUgtfTjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 56,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 96
+        },
+        "username": "miku668866",
+        "verified": false
+      }
+    ]
+  }
+}

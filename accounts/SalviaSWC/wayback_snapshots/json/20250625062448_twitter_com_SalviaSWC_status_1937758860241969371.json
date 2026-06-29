@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1937758825613762560"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1937758860241969371",
+    "created_at": "2025-06-25T06:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T07:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937758860241969371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cn1uOf3Iyz",
+          "end": 50,
+          "expanded_url": "https://x.com/SalviaSWC/status/1937758860241969371/photo/1",
+          "media_key": "3_1937758825613762560",
+          "start": 27,
+          "url": "https://t.co/cn1uOf3Iyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937758860241969371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“严禁用于食品和饲料加工”\n怎么窝也用上这种东西了😋 https://t.co/cn1uOf3Iyz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937758825613762560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuRNYp0WIAAZrhj.jpg",
+        "width": 1443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937758825613762560"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1937758860241969371",
+        "created_at": "2025-06-25T06:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T07:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937758860241969371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cn1uOf3Iyz",
+              "end": 50,
+              "expanded_url": "https://x.com/SalviaSWC/status/1937758860241969371/photo/1",
+              "media_key": "3_1937758825613762560",
+              "start": 27,
+              "url": "https://t.co/cn1uOf3Iyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937758860241969371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“严禁用于食品和饲料加工”\n怎么窝也用上这种东西了😋 https://t.co/cn1uOf3Iyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 202,
+          "like_count": 3497,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1291
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

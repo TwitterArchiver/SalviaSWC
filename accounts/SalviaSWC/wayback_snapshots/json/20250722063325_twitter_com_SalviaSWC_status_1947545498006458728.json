@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1947523770027282673",
+    "created_at": "2025-07-22T06:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T07:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947545498006458728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802931870218502144",
+          "start": 0,
+          "username": "Ranran4223"
+        },
+        {
+          "end": 26,
+          "id": "1879395690230738944",
+          "start": 12,
+          "username": "6thCuteK1tten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947545498006458728",
+    "in_reply_to_user_id": "1802931870218502144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 35,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947543384610029842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ranran4223 @6thCuteK1tten 你再看一下，中国没有禁止苯丙胺类似物，这个物质既没有单独列管，又不是合成大麻素，又不是芬太尼，又不是尼秦类物质\ndeepseek又没有执法权，又不是写一个条例上去它说的就是对的了\n不然为什么苯乙胺可以在淘宝上公然卖不怕被抓?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1947523770027282673",
+        "created_at": "2025-07-22T06:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T07:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947545498006458728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802931870218502144",
+              "start": 0,
+              "username": "Ranran4223"
+            },
+            {
+              "end": 26,
+              "id": "1879395690230738944",
+              "start": 12,
+              "username": "6thCuteK1tten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947545498006458728",
+        "in_reply_to_user_id": "1802931870218502144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947543384610029842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ranran4223 @6thCuteK1tten 你再看一下，中国没有禁止苯丙胺类似物，这个物质既没有单独列管，又不是合成大麻素，又不是芬太尼，又不是尼秦类物质\ndeepseek又没有执法权，又不是写一个条例上去它说的就是对的了\n不然为什么苯乙胺可以在淘宝上公然卖不怕被抓?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802931870218502144",
+        "conversation_id": "1947523770027282673",
+        "created_at": "2025-07-22T06:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T07:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947543384610029842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 25,
+              "id": "1879395690230738944",
+              "start": 11,
+              "username": "6thCuteK1tten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947543384610029842",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947542331516747826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @6thCuteK1tten 你再仔细看一眼上面写的条例就是中国的（）而且中国的灵活执法甚至可以把复方制剂和明令禁止的单方制剂混为一谈\n这个口子就意味着确实禁止了\ndeepseek在老中法律这块拿捏的还是挺准的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 333,
+          "like_count": 4770,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1699
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-18T05:10:47.000Z",
+        "description": "冉冉：新任健全b 无偿接精神分析",
+        "id": "1802931870218502144",
+        "name": "失血过多死了",
+        "pinned_tweet_id": "1894077620217606633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893062550545158145/ngy8a6TU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 750,
+          "like_count": 7221,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 4545
+        },
+        "username": "Ranran4223",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "病み垢｜只过活人｜🍧好闺蜜:@Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Chufeinya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/zAEKkueaV9"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "name": "Mercy",
+        "pinned_tweet_id": "1945776404764696633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943325043074961408/QeU1S_yU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 398,
+          "like_count": 6258,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2630
+        },
+        "url": "https://t.co/zAEKkueaV9",
+        "username": "6thCuteK1tten",
+        "verified": false
+      }
+    ]
+  }
+}

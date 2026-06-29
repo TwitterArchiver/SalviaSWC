@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1897678560065908875",
+    "created_at": "2025-03-07T11:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T12:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897979610442199327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697903165570686976",
+          "start": 0,
+          "username": "kikoxts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897979610442199327",
+    "in_reply_to_user_id": "1697903165570686976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897678560065908875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikoxts 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1897645732288434178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlXKvUaWkAImLwk.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1897678560065908875",
+        "created_at": "2025-03-07T11:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T12:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897979610442199327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697903165570686976",
+              "start": 0,
+              "username": "kikoxts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897979610442199327",
+        "in_reply_to_user_id": "1697903165570686976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897678560065908875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikoxts 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897645732288434178"
+          ]
+        },
+        "author_id": "1697903165570686976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1897678560065908875",
+        "created_at": "2025-03-06T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897678560065908875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D201THczmR",
+              "end": 26,
+              "expanded_url": "https://x.com/kikoxts/status/1897678560065908875/photo/1",
+              "media_key": "3_1897645732288434178",
+              "start": 3,
+              "url": "https://t.co/D201THczmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897678560065908875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 19998,
+          "like_count": 153,
+          "quote_count": 10,
+          "reply_count": 42,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "晚安 https://t.co/D201THczmR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨虚无主义丨没想好名字和头像，于是随便选了头像和名字丨\n互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 19,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T09:24:11.000Z",
+        "description": "INF是固定，J/P随时刷新。休学中。想要变成女孩子。精神封印不稳定。渴望安全感。永远的好朋友@ringochichidim和@HJS_2403_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "HJS_2403_0"
+              }
+            ]
+          }
+        },
+        "id": "1697903165570686976",
+        "location": "随机刷新在你身边1000米以内",
+        "name": "是kiko哦~🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895111547455762433/svnvayy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 243,
+          "like_count": 3025,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 1601
+        },
+        "username": "kikoxts",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2028325642379407498",
+    "created_at": "2026-03-02T06:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028355875916701925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1773934439414018048",
+          "start": 0,
+          "username": "liki24003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028355875916701925",
+    "in_reply_to_user_id": "1773934439414018048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028353818333991161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liki24003 补药似阿🥺\n\n水合氯醛也很难受，应该和酒精中毒差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2028325642379407498",
+        "created_at": "2026-03-02T06:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028355875916701925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1773934439414018048",
+              "start": 0,
+              "username": "liki24003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028355875916701925",
+        "in_reply_to_user_id": "1773934439414018048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028353818333991161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liki24003 补药似阿🥺\n\n水合氯醛也很难受，应该和酒精中毒差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773934439414018048",
+        "conversation_id": "2028325642379407498",
+        "created_at": "2026-03-02T06:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028353818333991161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028353818333991161",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028352675348156857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 感觉这样的死法不是我想要的，请问水合氯醛致死会不会难受🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2025450228590190608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2874,
+          "following_count": 915,
+          "like_count": 20215,
+          "listed_count": 10,
+          "media_count": 324,
+          "tweet_count": 5827
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T04:45:15.000Z",
+        "description": "海鸥鸥，这里是海鸥鸥，非常温柔的一枚大龄mtf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liki240003",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liki240003",
+                "start": 0,
+                "url": "https://t.co/zcBBVJJ8sO"
+              }
+            ]
+          }
+        },
+        "id": "1773934439414018048",
+        "location": "木卫六-冰川上狂奔",
+        "name": "海鸥鸥欧欧🍊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863038364779261952/IjUxzCXz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1820,
+          "like_count": 9103,
+          "listed_count": 6,
+          "media_count": 145,
+          "tweet_count": 3256
+        },
+        "url": "https://t.co/zcBBVJJ8sO",
+        "username": "liki24003",
+        "verified": false
+      }
+    ]
+  }
+}

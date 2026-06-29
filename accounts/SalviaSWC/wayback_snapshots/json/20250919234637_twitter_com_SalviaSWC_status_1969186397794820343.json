@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1969112750979785167",
+    "created_at": "2025-09-19T23:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T00:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969186397794820343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1625030759395524608",
+          "start": 0,
+          "username": "pandyingg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969186397794820343",
+    "in_reply_to_user_id": "1625030759395524608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969112750979785167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pandyingg 摸摸......🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1969112750979785167",
+        "created_at": "2025-09-19T23:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T00:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969186397794820343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1625030759395524608",
+              "start": 0,
+              "username": "pandyingg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969186397794820343",
+        "in_reply_to_user_id": "1625030759395524608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969112750979785167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pandyingg 摸摸......🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625030759395524608",
+        "conversation_id": "1969112750979785167",
+        "created_at": "2025-09-19T18:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T19:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969112750979785167"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969112750979785167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好害怕\n在被失语和冷漠慢慢吞噬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 467,
+          "like_count": 6985,
+          "listed_count": 5,
+          "media_count": 101,
+          "tweet_count": 2437
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-13T07:15:16.000Z",
+        "description": "⭐/05(˵¯͒〰¯͒˵)🌈//本科CS在读///睡觉中毒 //rock//兴趣点广泛//只聊风月不谈政治//清水推一枚/Shanghai🎈\n/💧🐟。o 〇@Romanorum_\n          Wish you were here",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Romanorum_"
+              }
+            ]
+          }
+        },
+        "id": "1625030759395524608",
+        "name": "神樂坂🌸心海",
+        "pinned_tweet_id": "1683819322228244482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811843884693037056/v8vgdG6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 685,
+          "like_count": 5738,
+          "listed_count": 3,
+          "media_count": 461,
+          "tweet_count": 2494
+        },
+        "username": "pandyingg",
+        "verified": false
+      }
+    ]
+  }
+}

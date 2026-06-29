@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2034250071529685358",
+    "created_at": "2026-03-19T10:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034574068452667405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1243728830889517056",
+          "start": 0,
+          "username": "MisakaNo8964"
+        },
+        {
+          "end": 25,
+          "id": "1574621581606850560",
+          "start": 14,
+          "username": "LibertyU36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034574068452667405",
+    "in_reply_to_user_id": "1243728830889517056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034250071529685358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaNo8964 @LibertyU36 严肃考虑中🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1650,
+        "media_key": "3_2034250058778988544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDsbponW0AA6cF7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2034250071529685358",
+        "created_at": "2026-03-19T10:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034574068452667405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1243728830889517056",
+              "start": 0,
+              "username": "MisakaNo8964"
+            },
+            {
+              "end": 25,
+              "id": "1574621581606850560",
+              "start": 14,
+              "username": "LibertyU36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034574068452667405",
+        "in_reply_to_user_id": "1243728830889517056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034250071529685358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaNo8964 @LibertyU36 严肃考虑中🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034250058778988544"
+          ]
+        },
+        "author_id": "1243728830889517056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2034250071529685358",
+        "created_at": "2026-03-18T12:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034250071529685358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "国民未来党"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "政党联合"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 61,
+              "id": "1659962043460354050",
+              "start": 51,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 90,
+              "id": "1574621581606850560",
+              "start": 79,
+              "username": "LibertyU36"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fxdkw1GhYy",
+              "end": 114,
+              "expanded_url": "https://x.com/MisakaNo8964/status/2034250071529685358/photo/1",
+              "media_key": "3_2034250058778988544",
+              "start": 91,
+              "url": "https://t.co/Fxdkw1GhYy"
+            },
+            {
+              "display_url": "x.com/MisakaNo8964/s…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/MisakaNo8964/status/2034247984964059349",
+              "start": 115,
+              "url": "https://t.co/MCCLgnZktu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034250071529685358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034247984964059349",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "＃国民未来党\n＃政党联合\n\n我方向贵党发出的邀请函，特此对社会公众和各位选民公示🤝\n\n贵党主席阁下: @SalviaSWC \n贵党政治部长兼全权谈判代表阁下:@LibertyU36 https://t.co/Fxdkw1GhYy https://t.co/MCCLgnZktu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂用于第四次中推模拟大选🗳️|中推OD党官号🏁|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034558865375682560/Xbh1UbpO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3419,
+          "following_count": 967,
+          "like_count": 21322,
+          "listed_count": 10,
+          "media_count": 377,
+          "tweet_count": 6330
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T02:37:26.000Z",
+        "description": "You forget a thousand things every day.\nHow about you make sure this is one of them?",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/DemocraticSoci…",
+                "end": 23,
+                "expanded_url": "https://t.me/DemocraticSocialist",
+                "start": 0,
+                "url": "https://t.co/qOm76Zl8EE"
+              }
+            ]
+          }
+        },
+        "id": "1243728830889517056",
+        "location": "Pyongyang DPRK",
+        "name": "Destroy-🌹↙️↙️↙️",
+        "pinned_tweet_id": "1557392236278878208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032163773633404928/p55ovD0w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5166,
+          "following_count": 5015,
+          "like_count": 12019,
+          "listed_count": 40,
+          "media_count": 1276,
+          "tweet_count": 13790
+        },
+        "url": "https://t.co/qOm76Zl8EE",
+        "username": "MisakaNo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T04:47:24.000Z",
+        "description": "世界如此乏味，那么不妨让祂寂静。",
+        "id": "1574621581606850560",
+        "name": "Ultraman Liberty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574622025963954176/4MmLXrDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 88,
+          "like_count": 6894,
+          "listed_count": 5,
+          "media_count": 116,
+          "tweet_count": 10927
+        },
+        "username": "LibertyU36",
+        "verified": false
+      }
+    ]
+  }
+}

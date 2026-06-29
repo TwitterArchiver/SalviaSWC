@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1952532505627861304",
+    "created_at": "2025-08-05T00:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T01:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1952532505627861304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "github.com/SalviaSWC/Free…",
+          "end": 57,
+          "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E4%B8%AD%E5%BF%83%E9%A1%B5/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99_%E4%B8%AD%E5%BF%83%E9%A1%B5.md#%E8%8D%AF%E7%89%A9%E6%8A%A5%E5%91%8A%E6%8A%95%E7%A8%BF%E6%8C%87%E5%8D%97",
+          "start": 34,
+          "url": "https://t.co/eZrwiRirdj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952532505627861304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "FreeODwiki现在接受投稿药物报告\n\n详情可见链接内的文档\n\nhttps://t.co/eZrwiRirdj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1952532505627861304",
+        "created_at": "2025-08-05T00:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T01:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952532505627861304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "github.com/SalviaSWC/Free…",
+              "end": 57,
+              "expanded_url": "https://github.com/SalviaSWC/FreeODwiki/blob/main/%E4%B8%AD%E5%BF%83%E9%A1%B5/%E5%85%B3%E4%BA%8E%E6%9C%AC%E7%AB%99_%E4%B8%AD%E5%BF%83%E9%A1%B5.md#%E8%8D%AF%E7%89%A9%E6%8A%A5%E5%91%8A%E6%8A%95%E7%A8%BF%E6%8C%87%E5%8D%97",
+              "start": 34,
+              "url": "https://t.co/eZrwiRirdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952532505627861304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "FreeODwiki现在接受投稿药物报告\n\n详情可见链接内的文档\n\nhttps://t.co/eZrwiRirdj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1952002613244735810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 366,
+          "like_count": 5362,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

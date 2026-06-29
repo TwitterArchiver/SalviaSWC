@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987049265319874561"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1987050519052087509",
+    "created_at": "2025-11-08T06:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T07:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987050519052087509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jOVv6L3lGW",
+          "end": 145,
+          "expanded_url": "https://x.com/SalviaSWC/status/1987050519052087509/photo/1",
+          "media_key": "3_1987049265319874561",
+          "start": 122,
+          "url": "https://t.co/jOVv6L3lGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987050519052087509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“普瑞巴林已经被列管了”\n大家真的少用点ai吧，尤其是这些事实性的东西，ai最爱在这方面瞎编乱造。自己动动手，查查列管清单是什么很难的事情嘛?(还是太心虚不敢查?)\n不知道是这人自己被ai坑了，还是被ai坑的人以讹传讹，认为普瑞巴林已经列管了 https://t.co/jOVv6L3lGW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_1987049265319874561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Nqx2qXkAEgqJe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987049265319874561"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1987050519052087509",
+        "created_at": "2025-11-08T06:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T07:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987050519052087509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jOVv6L3lGW",
+              "end": 145,
+              "expanded_url": "https://x.com/SalviaSWC/status/1987050519052087509/photo/1",
+              "media_key": "3_1987049265319874561",
+              "start": 122,
+              "url": "https://t.co/jOVv6L3lGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987050519052087509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“普瑞巴林已经被列管了”\n大家真的少用点ai吧，尤其是这些事实性的东西，ai最爱在这方面瞎编乱造。自己动动手，查查列管清单是什么很难的事情嘛?(还是太心虚不敢查?)\n不知道是这人自己被ai坑了，还是被ai坑的人以讹传讹，认为普瑞巴林已经列管了 https://t.co/jOVv6L3lGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 669,
+          "like_count": 10722,
+          "listed_count": 7,
+          "media_count": 157,
+          "tweet_count": 3377
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

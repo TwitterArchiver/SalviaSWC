@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030539745411948544"
+      ],
+      "media_source_tweet_id": [
+        "2030546790773043703"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030587712013500760",
+    "created_at": "2026-03-08T10:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T11:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030587712013500760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8aeYten7mj",
+          "end": 135,
+          "expanded_url": "https://x.com/SalviaSWC/status/2030546790773043703/video/1",
+          "media_key": "13_2030539745411948544",
+          "start": 112,
+          "url": "https://t.co/8aeYten7mj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030587712013500760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030546790773043703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 比如上面提到的，后土百科的《嗑药？自残？他们为何“乐此不疲”地毒害自己？》中的这个片段\n\n严重怀疑制作者是知道这个刻板印象的，别有用心哈😅\n\n建议大家看看房间里的大象吧，不要再自己伤害自己了🥹 https://t.co/8aeYten7mj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10333,
+        "height": 1120,
+        "media_key": "13_2030539745411948544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030539745411948544/img/b5KHBG0ObzXjrnWS.jpg",
+        "public_metrics": {
+          "view_count": 117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030539745411948544/vid/avc1/480x270/Q3x7yrkvHRqNDlLN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030539745411948544/vid/avc1/640x360/Hmh7oTD8dBnBcAv6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030539745411948544/vid/avc1/1280x720/kk90mSTbACXF85s6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030539745411948544/pl/2kdhMQPqsoQMMS3j.m3u8?tag=14"
+          }
+        ],
+        "width": 1992
+      },
+      {
+        "duration_ms": 10333,
+        "height": 1120,
+        "media_key": "13_2030539745411948544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030539745411948544/img/b5KHBG0ObzXjrnWS.jpg",
+        "public_metrics": {
+          "view_count": 122
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030539745411948544/vid/avc1/480x270/Q3x7yrkvHRqNDlLN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030539745411948544/vid/avc1/640x360/Hmh7oTD8dBnBcAv6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030539745411948544/vid/avc1/1280x720/kk90mSTbACXF85s6.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030539745411948544/pl/2kdhMQPqsoQMMS3j.m3u8?tag=14"
+          }
+        ],
+        "width": 1992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030539745411948544"
+          ],
+          "media_source_tweet_id": [
+            "2030546790773043703"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030587712013500760",
+        "created_at": "2026-03-08T10:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030587712013500760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8aeYten7mj",
+              "end": 135,
+              "expanded_url": "https://x.com/SalviaSWC/status/2030546790773043703/video/1",
+              "media_key": "13_2030539745411948544",
+              "start": 112,
+              "url": "https://t.co/8aeYten7mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030587712013500760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030546790773043703",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 比如上面提到的，后土百科的《嗑药？自残？他们为何“乐此不疲”地毒害自己？》中的这个片段\n\n严重怀疑制作者是知道这个刻板印象的，别有用心哈😅\n\n建议大家看看房间里的大象吧，不要再自己伤害自己了🥹 https://t.co/8aeYten7mj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030539745411948544"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2030529188138979382",
+        "created_at": "2026-03-08T07:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030546790773043703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8aeYten7mj",
+              "end": 120,
+              "expanded_url": "https://x.com/SalviaSWC/status/2030546790773043703/video/1",
+              "media_key": "13_2030539745411948544",
+              "start": 97,
+              "url": "https://t.co/8aeYten7mj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030546790773043703",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030529188138979382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比如上面提到的，后土百科的《嗑药？自残？他们为何“乐此不疲”地毒害自己？》中的这个片段\n\n严重怀疑制作者是知道这个刻板印象的，别有用心哈😅\n\n建议大家看看房间里的大象吧，不要再自己伤害自己了🥹 https://t.co/8aeYten7mj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n|Say Know to Drugs 💊丨OD知识开源化|来FreeODwiki看看吧！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 920,
+          "like_count": 20558,
+          "listed_count": 9,
+          "media_count": 340,
+          "tweet_count": 5952
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

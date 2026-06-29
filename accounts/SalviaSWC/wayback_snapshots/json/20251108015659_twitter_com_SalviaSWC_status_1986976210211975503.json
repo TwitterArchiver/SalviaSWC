@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986976182290563072",
+        "3_1986976182256988161"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1986976210211975503",
+    "created_at": "2025-11-08T01:56:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T02:56:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986976210211975503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oIyq0HDsvE",
+          "end": 204,
+          "expanded_url": "https://x.com/SalviaSWC/status/1986976210211975503/photo/1",
+          "media_key": "3_1986976182290563072",
+          "start": 181,
+          "url": "https://t.co/oIyq0HDsvE"
+        },
+        {
+          "display_url": "pic.x.com/oIyq0HDsvE",
+          "end": 204,
+          "expanded_url": "https://x.com/SalviaSWC/status/1986976210211975503/photo/1",
+          "media_key": "3_1986976182256988161",
+          "start": 181,
+          "url": "https://t.co/oIyq0HDsvE"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 228,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/1986691883599311250",
+          "start": 205,
+          "url": "https://t.co/bSnNUqmlqX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986976210211975503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986691883599311250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "话说DXO被译为\"右啡烷\"是不是误译?\n从化学结构上来看，DXO是右美沙芬的O-去甲产物:右美沙芬的苯甲醚(MeO-)部分被苯酚(HO-)替换，符合DXO的英文名字(Dextrorphan)比右美沙芬(Dextromethorphan)少\"Metho\"的命名规则🤓\n右美沙芬比DXO多个甲基，所以更“烷”，因此DXO更应被翻译为“右美沙酚”而非“右啡烷”吧() https://t.co/oIyq0HDsvE https://t.co/bSnNUqmlqX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_1986976182290563072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5MoT3KXQAA74S-.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1221,
+        "media_key": "3_1986976182256988161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5MoT3CW8AEhWVD.png",
+        "width": 1280
+      },
+      {
+        "height": 809,
+        "media_key": "3_1986691838653140992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ils4kWkAACgmK.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986976182290563072",
+            "3_1986976182256988161"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1986976210211975503",
+        "created_at": "2025-11-08T01:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T02:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986976210211975503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIyq0HDsvE",
+              "end": 204,
+              "expanded_url": "https://x.com/SalviaSWC/status/1986976210211975503/photo/1",
+              "media_key": "3_1986976182290563072",
+              "start": 181,
+              "url": "https://t.co/oIyq0HDsvE"
+            },
+            {
+              "display_url": "pic.x.com/oIyq0HDsvE",
+              "end": 204,
+              "expanded_url": "https://x.com/SalviaSWC/status/1986976210211975503/photo/1",
+              "media_key": "3_1986976182256988161",
+              "start": 181,
+              "url": "https://t.co/oIyq0HDsvE"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 228,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1986691883599311250",
+              "start": 205,
+              "url": "https://t.co/bSnNUqmlqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986976210211975503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986691883599311250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说DXO被译为\"右啡烷\"是不是误译?\n从化学结构上来看，DXO是右美沙芬的O-去甲产物:右美沙芬的苯甲醚(MeO-)部分被苯酚(HO-)替换，符合DXO的英文名字(Dextrorphan)比右美沙芬(Dextromethorphan)少\"Metho\"的命名规则🤓\n右美沙芬比DXO多个甲基，所以更“烷”，因此DXO更应被翻译为“右美沙酚”而非“右啡烷”吧() https://t.co/oIyq0HDsvE https://t.co/bSnNUqmlqX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986691838653140992"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1986691883599311250",
+        "created_at": "2025-11-07T07:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T08:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986691883599311250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDsP2KCPwr",
+              "end": 177,
+              "expanded_url": "https://x.com/SalviaSWC/status/1986691883599311250/photo/1",
+              "media_key": "3_1986691838653140992",
+              "start": 154,
+              "url": "https://t.co/ZDsP2KCPwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986691883599311250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 4913,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布右美沙酚(DXO)是最完美的解离剂!🤤\n药效完美:轻度镇静，强力解离，心理内省，中度内幻😋\n副作用完美:没有呕吐等副作用，且它的副作用是右美沙芬的真子集。后者的副作用已被充分研究，无需担忧大脑空泡化😙\n来源完美:自己动手，丰衣足食，有成就感，更不需被药贩或毒贩宰🤓\n⬇️DXOvsDXMvsRC解离剂 https://t.co/ZDsP2KCPwr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 666,
+          "like_count": 10664,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 3361
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1943175059465502958",
+    "created_at": "2025-07-10T16:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T17:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943350348271227078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "378340116",
+          "start": 0,
+          "username": "4_ACO_DMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943350348271227078",
+    "in_reply_to_user_id": "378340116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943349108179374573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4_ACO_DMT 我知道你说的是mipt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1943175059465502958",
+        "created_at": "2025-07-10T16:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T17:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943350348271227078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "378340116",
+              "start": 0,
+              "username": "4_ACO_DMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943350348271227078",
+        "in_reply_to_user_id": "378340116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943349108179374573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4_ACO_DMT 我知道你说的是mipt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "378340116",
+        "conversation_id": "1943175059465502958",
+        "created_at": "2025-07-10T16:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T17:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943349108179374573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943349108179374573",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943238810378117450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我说的不是dpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 230,
+          "like_count": 3930,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1412
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-23T01:31:13.000Z",
+        "description": "https://t.co/PKH3fo0N8f副主编，欢迎私信咨询问题",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/PKH3fo0N8f"
+              }
+            ]
+          }
+        },
+        "id": "378340116",
+        "location": "https://www.overdose.day/",
+        "name": "✝️Sakura ✝️",
+        "pinned_tweet_id": "1942466107518116200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942454408991891456/6UbN_3JP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 76,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "4_ACO_DMT",
+        "verified": false
+      }
+    ]
+  }
+}

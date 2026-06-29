@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063486249781067776"
+      ],
+      "media_source_tweet_id": [
+        "2063486259356737996"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2064632604859502846",
+    "created_at": "2026-06-10T08:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064632604859502846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1372184630753853444",
+          "start": 3,
+          "username": "ptilopsis_xiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y5lMtjDAVE",
+          "end": 107,
+          "expanded_url": "https://x.com/ptilopsis_xiao/status/2063486259356737996/photo/1",
+          "media_key": "3_2063486249781067776",
+          "start": 84,
+          "url": "https://t.co/y5lMtjDAVE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064632604859502846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063486259356737996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ptilopsis_xiao: （中科院武汉植物园内合法种植合法拍摄）\n反正单从植物学的角度来讲，这个互生掌状复叶、狭披针状小叶、粗锯齿缘实在是太有几何美感了 https://t.co/y5lMtjDAVE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063486249781067776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL5z7UagAAxQ29.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063486249781067776"
+          ],
+          "media_source_tweet_id": [
+            "2063486259356737996"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2064632604859502846",
+        "created_at": "2026-06-10T08:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064632604859502846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1372184630753853444",
+              "start": 3,
+              "username": "ptilopsis_xiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5lMtjDAVE",
+              "end": 107,
+              "expanded_url": "https://x.com/ptilopsis_xiao/status/2063486259356737996/photo/1",
+              "media_key": "3_2063486249781067776",
+              "start": 84,
+              "url": "https://t.co/y5lMtjDAVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064632604859502846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063486259356737996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ptilopsis_xiao: （中科院武汉植物园内合法种植合法拍摄）\n反正单从植物学的角度来讲，这个互生掌状复叶、狭披针状小叶、粗锯齿缘实在是太有几何美感了 https://t.co/y5lMtjDAVE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063486249781067776"
+          ]
+        },
+        "author_id": "1372184630753853444",
+        "conversation_id": "2063486259356737996",
+        "created_at": "2026-06-07T05:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063486259356737996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5lMtjDAVE",
+              "end": 87,
+              "expanded_url": "https://x.com/ptilopsis_xiao/status/2063486259356737996/photo/1",
+              "media_key": "3_2063486249781067776",
+              "start": 64,
+              "url": "https://t.co/y5lMtjDAVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063486259356737996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 914,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "（中科院武汉植物园内合法种植合法拍摄）\n反正单从植物学的角度来讲，这个互生掌状复叶、狭披针状小叶、粗锯齿缘实在是太有几何美感了 https://t.co/y5lMtjDAVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4818,
+          "following_count": 1017,
+          "like_count": 24412,
+          "listed_count": 12,
+          "media_count": 551,
+          "tweet_count": 7882
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "一只黎博利｜HAM BH6RQG｜胶片摄影｜Bioscience",
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "氯鸮西泮🦉",
+        "pinned_tweet_id": "2051268550036529555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993287302626656261/tsaXIYnb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 1606,
+          "like_count": 36923,
+          "listed_count": 3,
+          "media_count": 499,
+          "tweet_count": 3865
+        },
+        "username": "ptilopsis_xiao",
+        "verified": false
+      }
+    ]
+  }
+}

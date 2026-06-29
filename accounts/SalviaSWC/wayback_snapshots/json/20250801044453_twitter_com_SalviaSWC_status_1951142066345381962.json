@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1950945984730759169",
+    "created_at": "2025-08-01T04:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T05:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951142066345381962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1614594152062406656",
+          "start": 0,
+          "username": "fnggnjn1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951142066345381962",
+    "in_reply_to_user_id": "1614594152062406656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951139640158871634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnggnjn1 在我上一个回复中，我质疑合成大麻素CB1和CB2的选择性对于药效是否存在影响，但我还质疑它们对于药效存在影响的机制是否是你说的那种情况“受体优先获取”，因为只有这种情况才能类推到我们讨论的色胺身上\n你只叫grok只回答了第一个问题。\n我拿神经胶质细胞是为了反驳你的“CB2只在外周表达”，没别的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1950945984730759169",
+        "created_at": "2025-08-01T04:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T05:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951142066345381962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1614594152062406656",
+              "start": 0,
+              "username": "fnggnjn1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951142066345381962",
+        "in_reply_to_user_id": "1614594152062406656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951139640158871634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnggnjn1 在我上一个回复中，我质疑合成大麻素CB1和CB2的选择性对于药效是否存在影响，但我还质疑它们对于药效存在影响的机制是否是你说的那种情况“受体优先获取”，因为只有这种情况才能类推到我们讨论的色胺身上\n你只叫grok只回答了第一个问题。\n我拿神经胶质细胞是为了反驳你的“CB2只在外周表达”，没别的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614594152062406656",
+        "conversation_id": "1950945984730759169",
+        "created_at": "2025-08-01T04:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T05:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951139640158871634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "description": "关键要点 研究表明，合成大麻素对CB1受体的选择性越高，其主观精神活性效果（如欣快感、意识改变）可能越强。 证据倾向于认为，选择性作用于CB2受体的合成大麻素可能产生较少的精神活性效果，更多与外周作用（如抗炎、镇痛）相关。 由于缺乏直接比较CB1和CB2选择性合成大麻素的临床试验，这一领域仍存在争议，需进一步研究。 合成大麻素对CB1和CB2受体的选择性影响 合成大麻素的选择性对使用者的主观感受有显著影响，主要因为CB1和CB2受体在人体中的分布和功能不同。CB1受体主要分布于中枢神经系统，涉及认知、情绪和奖赏机制，因此选择性作用于CB1的合成大麻素更可能产生精神活性效果，如欣快感或意识改变。相比之下，CB2受体主要分布于免疫系统和外周组织，其激活更多与抗炎和免疫调节相关，可能对主观感受影响较小。 临床观察与局限 目前，关于CB1选择性高的合成大麻素（如某些氨基烷基吲哚类化合物），研究显示其可能导致精神病性症状、焦虑和认知障碍。而CB2选择性高的合成大麻素（如某些苯甲酰吲哚类化合物）可能更多表现为外周作用，如减轻疼痛或炎症，但对主观感受的影响较弱。然而，由于缺乏直接比较两者的临床试验，具体差异仍需进一步研究。 详细调研报告 合成大麻素对CB1和CB2受体的选择性不同对使用者的主观感受有显著影响，这一领域的研究近年来受到广泛关注，尤其是在其潜在的治疗用途和滥用风险方面。以下是基于现有研究和文献的详细分析，涵盖合成大麻素的药理学特性、受体分布及其对主观感受的影响。 背景：CB1和CB2受体的分布与功能 大麻素受体是内源性大麻素系统（ECS）的重要组成部分，包括两种主要类型：CB1和CB2。CB1受体主要表达于中枢神经系统（CNS），特别是在大脑的基底神经节、海马和大脑皮质，这些区域与认知、记忆、情绪调节和奖赏机制密切相关。因此，CB1受体的激活通常与精神活性效果相关，如欣快感、意识改变和时间感扭曲。相比之下，CB2受体主要分布于免疫系统和外周组织，如脾脏、淋巴结和免疫细胞（如巨噬细胞和淋巴细胞），其激活更多与免疫调节、炎症抑制和外周疼痛调节相关。 合成大麻素的选择性与主观感受 合成大麻素（SCs）是一类设计用于模拟天然大麻素（如四氢大麻酚，THC）效果的化合物，其对CB1和CB2受体的选择性差异会显著影响其药理作用和使用者的主观感受。研究表明： CB1选择性高的合成大麻",
+              "display_url": "x.com/i/grok/share/K…",
+              "end": 56,
+              "expanded_url": "https://x.com/i/grok/share/KfPNuzkBBH8Y0WIXlZQV0HiEF",
+              "start": 33,
+              "status": 200,
+              "title": "合成大麻素对cb1cb2受体的选择性不同对使用者体感的影响",
+              "unwound_url": "https://x.com/i/grok/share/KfPNuzkBBH8Y0WIXlZQV0HiEF",
+              "url": "https://t.co/8OrklA9Fdj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951139640158871634",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951135629154132382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 希望你明白什么是神经小胶质细胞和她发挥的占用https://t.co/8OrklA9Fdj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 344,
+          "like_count": 4990,
+          "listed_count": 1,
+          "media_count": 60,
+          "tweet_count": 1784
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化药设研究者 物种：蛆 可以叫我蛆老师 提供用药及药理咨询（不包括任何已列管毒品！） 蛆蛆要涨粉🥺🥺🥺 不推荐任何人使用我提到的药品",
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium⌬",
+        "pinned_tweet_id": "1919232126148362586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920055699050221568/hsi-1UL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 50,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 716
+        },
+        "username": "fnggnjn1",
+        "verified": false
+      }
+    ]
+  }
+}

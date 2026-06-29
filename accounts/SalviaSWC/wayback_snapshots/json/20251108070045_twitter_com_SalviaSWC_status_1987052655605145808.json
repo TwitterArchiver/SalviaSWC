@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1987048046027272404",
+    "created_at": "2025-11-08T07:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T08:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987052655605145808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612680283332952064",
+          "start": 0,
+          "username": "xcs03563104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987052655605145808",
+    "in_reply_to_user_id": "1612680283332952064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987049863016817000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcs03563104 这狗是公的🌝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1987049860575739904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5NrUgKbQAA94oa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1987048046027272404",
+        "created_at": "2025-11-08T07:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T08:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987052655605145808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612680283332952064",
+              "start": 0,
+              "username": "xcs03563104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987052655605145808",
+        "in_reply_to_user_id": "1612680283332952064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987049863016817000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcs03563104 这狗是公的🌝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987049860575739904"
+          ]
+        },
+        "author_id": "1612680283332952064",
+        "conversation_id": "1987048046027272404",
+        "created_at": "2025-11-08T06:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T07:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987049863016817000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6KtbFnZPy3",
+              "end": 36,
+              "expanded_url": "https://x.com/xcs03563104/status/1987049863016817000/photo/1",
+              "media_key": "3_1987049860575739904",
+              "start": 13,
+              "url": "https://t.co/6KtbFnZPy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987049863016817000",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987048046027272404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 🐶 https://t.co/6KtbFnZPy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 669,
+          "like_count": 10724,
+          "listed_count": 7,
+          "media_count": 157,
+          "tweet_count": 3379
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T05:18:54.000Z",
+        "description": "中/ENG|個人口嗨用 啥都搞点 说话不过脑臭傻逼 友好一切|my art禁止轉載，保存，使用 嚴禁ai學習 不授權任何|I only post my arts on x|画自己想画的",
+        "id": "1612680283332952064",
+        "name": "🦌",
+        "pinned_tweet_id": "1974759335944499260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983781153221033984/lHWqoqYT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 215,
+          "like_count": 35243,
+          "listed_count": 3,
+          "media_count": 1059,
+          "tweet_count": 8107
+        },
+        "username": "xcs03563104",
+        "verified": false
+      }
+    ]
+  }
+}

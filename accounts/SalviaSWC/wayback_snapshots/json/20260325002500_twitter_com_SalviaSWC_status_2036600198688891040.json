@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036507793557954560",
+        "3_2036508423970287616"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2036600198688891040",
+    "created_at": "2026-03-25T00:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T01:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036600198688891040"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/96AHDR5tok",
+          "end": 146,
+          "expanded_url": "https://x.com/SalviaSWC/status/2036600198688891040/photo/1",
+          "media_key": "3_2036507793557954560",
+          "start": 123,
+          "url": "https://t.co/96AHDR5tok"
+        },
+        {
+          "display_url": "pic.x.com/96AHDR5tok",
+          "end": 146,
+          "expanded_url": "https://x.com/SalviaSWC/status/2036600198688891040/photo/1",
+          "media_key": "3_2036508423970287616",
+          "start": 123,
+          "url": "https://t.co/96AHDR5tok"
+        },
+        {
+          "display_url": "x.com/yaowubaike/sta…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/yaowubaike/status/2036422538436432030",
+          "start": 147,
+          "url": "https://t.co/NlKZMzI4C3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036600198688891040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036422538436432030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么还有人有这种想法，有意无意地散布焦虑?大家可看好了，全国药监局没有任何动态。这就意味着除非你是云南人，否则(目前)不会受到影响。\n\n建议大家别整天盯着李云齐看，人家的语言能力甚至无法让他利索地组织个标题，能传达给大家的信息的质量又能有多高? https://t.co/96AHDR5tok https://t.co/NlKZMzI4C3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2036507793557954560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMhDGFWIAAzvVw.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2036508423970287616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEMhnyjW8AAdchM.jpg",
+        "width": 965
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2036422529645182977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELTgFQagAEheO8.jpg",
+        "width": 503
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036507793557954560",
+            "3_2036508423970287616"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2036600198688891040",
+        "created_at": "2026-03-25T00:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T01:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036600198688891040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96AHDR5tok",
+              "end": 146,
+              "expanded_url": "https://x.com/SalviaSWC/status/2036600198688891040/photo/1",
+              "media_key": "3_2036507793557954560",
+              "start": 123,
+              "url": "https://t.co/96AHDR5tok"
+            },
+            {
+              "display_url": "pic.x.com/96AHDR5tok",
+              "end": 146,
+              "expanded_url": "https://x.com/SalviaSWC/status/2036600198688891040/photo/1",
+              "media_key": "3_2036508423970287616",
+              "start": 123,
+              "url": "https://t.co/96AHDR5tok"
+            },
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/yaowubaike/status/2036422538436432030",
+              "start": 147,
+              "url": "https://t.co/NlKZMzI4C3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036600198688891040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036422538436432030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么还有人有这种想法，有意无意地散布焦虑?大家可看好了，全国药监局没有任何动态。这就意味着除非你是云南人，否则(目前)不会受到影响。\n\n建议大家别整天盯着李云齐看，人家的语言能力甚至无法让他利索地组织个标题，能传达给大家的信息的质量又能有多高? https://t.co/96AHDR5tok https://t.co/NlKZMzI4C3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036422529645182977"
+          ]
+        },
+        "author_id": "1962425480612851712",
+        "conversation_id": "2036422538436432030",
+        "created_at": "2026-03-24T12:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036422538436432030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NaJTmwPBsF",
+              "end": 154,
+              "expanded_url": "https://x.com/yaowubaike/status/2036422538436432030/photo/1",
+              "media_key": "3_2036422529645182977",
+              "start": 131,
+              "url": "https://t.co/NaJTmwPBsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036422538436432030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8317,
+          "like_count": 77,
+          "quote_count": 7,
+          "reply_count": 22,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "oder们终于迎来了这一天 愈美片和普瑞巴林 4 月 1 号将被禁止在网络销售 咱们国家禁毒工作做的好啊 你们不知道就这样单纯的禁售 oder们会选择更危险的道路吗？金刚烷胺 苯海索 美金刚等等 哪个不比普瑞巴林危险？oder们囤货吧 不要走上更危险的道路啊… https://t.co/NaJTmwPBsF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n本号暂为2026中推模拟大选🗳️OD党临时发言号📢|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿（中推OD党版）",
+        "pinned_tweet_id": "2036091782501433723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3621,
+          "following_count": 979,
+          "like_count": 21583,
+          "listed_count": 9,
+          "media_count": 392,
+          "tweet_count": 6453
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | wiki主:凌雪@yng014522566684|副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Manglesuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2021588174720360802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2952,
+          "following_count": 36,
+          "like_count": 427,
+          "listed_count": 3,
+          "media_count": 59,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

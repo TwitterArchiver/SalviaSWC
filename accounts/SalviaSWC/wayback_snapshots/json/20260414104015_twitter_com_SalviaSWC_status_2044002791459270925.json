@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2044002791459270925",
+    "created_at": "2026-04-14T10:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044002791459270925"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 21,
+          "tag": "IncandescenceReader"
+        },
+        {
+          "end": 48,
+          "start": 42,
+          "tag": "白炽阅读器"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620506107306479617",
+          "start": 3,
+          "username": "Cheese_Ghostfox"
+        }
+      ],
+      "urls": [
+        {
+          "description": "第一个发布可供测试的「白炽阅读器」发行版. 开箱即用,附测试用档案",
+          "display_url": "github.com/CheeseGhostfox…",
+          "end": 133,
+          "expanded_url": "http://github.com/CheeseGhostfox/IncandescenceReader/releases/tag/Test",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2043978357487091712/pTPneRuo?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2043978357487091712/pTPneRuo?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 110,
+          "status": 200,
+          "title": "Release IncandescenceReader All-In-One v0.1.0 · CheeseGhostfox/IncandescenceReader",
+          "unwound_url": "https://github.com/CheeseGhostfox/IncandescenceReader/releases/tag/Test",
+          "url": "https://t.co/3b4szdfif5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044002791459270925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043978350495182995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheese_Ghostfox: #IncandescenceReader #白炽阅读器\n的第一个可用的封装成品版本已经完成!\n敬请诸君多加调矫测试,以帮助狐完善这个工具软件\n内附测试用档案\n万事皆备,静待东风\nhttps://t.co/3b4szdfif5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2044002791459270925",
+        "created_at": "2026-04-14T10:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044002791459270925"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 21,
+              "tag": "IncandescenceReader"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "白炽阅读器"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620506107306479617",
+              "start": 3,
+              "username": "Cheese_Ghostfox"
+            }
+          ],
+          "urls": [
+            {
+              "description": "第一个发布可供测试的「白炽阅读器」发行版. 开箱即用,附测试用档案",
+              "display_url": "github.com/CheeseGhostfox…",
+              "end": 133,
+              "expanded_url": "http://github.com/CheeseGhostfox/IncandescenceReader/releases/tag/Test",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2043978357487091712/pTPneRuo?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043978357487091712/pTPneRuo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "Release IncandescenceReader All-In-One v0.1.0 · CheeseGhostfox/IncandescenceReader",
+              "unwound_url": "https://github.com/CheeseGhostfox/IncandescenceReader/releases/tag/Test",
+              "url": "https://t.co/3b4szdfif5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044002791459270925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043978350495182995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheese_Ghostfox: #IncandescenceReader #白炽阅读器\n的第一个可用的封装成品版本已经完成!\n敬请诸君多加调矫测试,以帮助狐完善这个工具软件\n内附测试用档案\n万事皆备,静待东风\nhttps://t.co/3b4szdfif5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2043978350495182995",
+        "created_at": "2026-04-14T09:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043978350495182995"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "IncandescenceReader"
+            },
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "白炽阅读器"
+            }
+          ],
+          "urls": [
+            {
+              "description": "第一个发布可供测试的「白炽阅读器」发行版. 开箱即用,附测试用档案",
+              "display_url": "github.com/CheeseGhostfox…",
+              "end": 112,
+              "expanded_url": "http://github.com/CheeseGhostfox/IncandescenceReader/releases/tag/Test",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2043978357487091712/pTPneRuo?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2043978357487091712/pTPneRuo?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "Release IncandescenceReader All-In-One v0.1.0 · CheeseGhostfox/IncandescenceReader",
+              "unwound_url": "https://github.com/CheeseGhostfox/IncandescenceReader/releases/tag/Test",
+              "url": "https://t.co/3b4szdfif5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043978350495182995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 217,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#IncandescenceReader #白炽阅读器\n的第一个可用的封装成品版本已经完成!\n敬请诸君多加调矫测试,以帮助狐完善这个工具软件\n内附测试用档案\n万事皆备,静待东风\nhttps://t.co/3b4szdfif5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 1004,
+          "like_count": 22251,
+          "listed_count": 8,
+          "media_count": 426,
+          "tweet_count": 6834
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 1462,
+          "like_count": 16645,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 5251
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

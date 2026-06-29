@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1930084310931124395",
+    "created_at": "2025-06-04T06:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T07:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930154539237114156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "901896270",
+          "start": 0,
+          "username": "Ruizei_Ayan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930154539237114156",
+    "in_reply_to_user_id": "901896270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930084310931124395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruizei_Ayan 今天好像抓了很多人\n(窝在浦东"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930084288139276290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GskJbx0asAInJuh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1930084310931124395",
+        "created_at": "2025-06-04T06:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T07:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930154539237114156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "901896270",
+              "start": 0,
+              "username": "Ruizei_Ayan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930154539237114156",
+        "in_reply_to_user_id": "901896270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930084310931124395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruizei_Ayan 今天好像抓了很多人\n(窝在浦东"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930084288139276290"
+          ]
+        },
+        "author_id": "901896270",
+        "conversation_id": "1930084310931124395",
+        "created_at": "2025-06-04T02:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T03:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930084310931124395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gz2HItChnv",
+              "end": 31,
+              "expanded_url": "https://x.com/Ruizei_Ayan/status/1930084310931124395/photo/1",
+              "media_key": "3_1930084288139276290",
+              "start": 8,
+              "url": "https://t.co/Gz2HItChnv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930084310931124395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播被抓了—— https://t.co/Gz2HItChnv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 80,
+          "like_count": 1866,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 790
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-24T14:11:55.000Z",
+        "description": "冷泉狐🦊 | 04 | mtx🏳‍⚧ | 友跨 | 重度社恐 | INFP-T | 不鉴证 | 日常or发病推 | 重抑中焦 | 🐰@Mojester1984 | 认知重建中 | 前路无坎坷 归来有星光✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Mojester1984"
+              }
+            ]
+          }
+        },
+        "id": "901896270",
+        "location": "杭州",
+        "name": "凌波冷泉（🦊言乱语版）",
+        "pinned_tweet_id": "1926096616945045797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909505261695647747/6teDihf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 176,
+          "like_count": 2380,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1438
+        },
+        "username": "Ruizei_Ayan",
+        "verified": false
+      }
+    ]
+  }
+}

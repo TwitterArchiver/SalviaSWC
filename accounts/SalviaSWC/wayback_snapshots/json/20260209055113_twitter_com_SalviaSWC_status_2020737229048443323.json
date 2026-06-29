@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2020737229048443323",
+    "created_at": "2026-02-09T05:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020737229048443323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tianxiao0502/s…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/tianxiao0502/status/2020527152433709119",
+          "start": 149,
+          "url": "https://t.co/vCrbCwpqM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020737229048443323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020527152433709119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "典中典之禁毒媒体信口开河——“1g某某药物等于多少g海洛因”😅\n\n这个数据显然是贩毒处罚折算表里的比例。(热知识:我国法律规定，涉毒罪名量刑有折算表，将涉案毒品折算为冰毒或海洛因)\n\n不过广州禁毒很可能想指的是危害程度，只是随便找了个数据而已。\n\n这种逻辑背后的恐吓式宣传看似有效，却势必适得其反 https://t.co/vCrbCwpqM8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020527149665624065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApavMbaIAE3SRr.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2020737229048443323",
+        "created_at": "2026-02-09T05:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020737229048443323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tianxiao0502/s…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/tianxiao0502/status/2020527152433709119",
+              "start": 149,
+              "url": "https://t.co/vCrbCwpqM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020737229048443323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020527152433709119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "典中典之禁毒媒体信口开河——“1g某某药物等于多少g海洛因”😅\n\n这个数据显然是贩毒处罚折算表里的比例。(热知识:我国法律规定，涉毒罪名量刑有折算表，将涉案毒品折算为冰毒或海洛因)\n\n不过广州禁毒很可能想指的是危害程度，只是随便找了个数据而已。\n\n这种逻辑背后的恐吓式宣传看似有效，却势必适得其反 https://t.co/vCrbCwpqM8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020527149665624065"
+          ]
+        },
+        "author_id": "1556279645502427136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020527152433709119",
+        "created_at": "2026-02-08T15:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020527152433709119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxMjwVEfne",
+              "end": 62,
+              "expanded_url": "https://x.com/tianxiao0502/status/2020527152433709119/photo/1",
+              "media_key": "3_2020527149665624065",
+              "start": 39,
+              "url": "https://t.co/zxMjwVEfne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020527152433709119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4104,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒你无敌了，1g依托咪酯等于0.4g海洛因，合着我做手术还用过海洛因呢 https://t.co/zxMjwVEfne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2646,
+          "following_count": 788,
+          "like_count": 18648,
+          "listed_count": 9,
+          "media_count": 264,
+          "tweet_count": 5277
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T14:02:46.000Z",
+        "description": "cn天晓 成分复杂 音游玩家 overdose 墙内没账号但不常用推 /-PsyDrugsWiki参与者 编辑-/互fo谢谢喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psydrugs.org",
+                "end": 23,
+                "expanded_url": "http://psydrugs.org",
+                "start": 0,
+                "url": "https://t.co/kbttTgmTXj"
+              }
+            ]
+          }
+        },
+        "id": "1556279645502427136",
+        "location": "東京 新宿区 药物研究所",
+        "name": "Pr5ga6al1N",
+        "pinned_tweet_id": "2015445624033051032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014370395449942016/DvJfSMoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 130,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/kbttTgmTXj",
+        "username": "tianxiao0502",
+        "verified": false
+      }
+    ]
+  }
+}

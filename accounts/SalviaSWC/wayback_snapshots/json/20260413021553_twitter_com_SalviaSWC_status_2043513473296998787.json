@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2043299790486680007",
+    "created_at": "2026-04-13T02:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T03:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043513473296998787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1766412795808014336",
+          "start": 0,
+          "username": "mymod114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043513473296998787",
+    "in_reply_to_user_id": "1766412795808014336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043512293980590436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mymod114 其实我不清楚他到底是怎么回事，毕竟是他自己说自己被抓的。但是能确定的是他不玩了，打算毁圈了，而且向晶哥妥协了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043299790486680007",
+        "created_at": "2026-04-13T02:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043513473296998787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1766412795808014336",
+              "start": 0,
+              "username": "mymod114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043513473296998787",
+        "in_reply_to_user_id": "1766412795808014336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043512293980590436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mymod114 其实我不清楚他到底是怎么回事，毕竟是他自己说自己被抓的。但是能确定的是他不玩了，打算毁圈了，而且向晶哥妥协了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766412795808014336",
+        "conversation_id": "2043299790486680007",
+        "created_at": "2026-04-13T02:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043512293980590436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043512293980590436",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043299790486680007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 他真的被抓了吗？有原文出处吗 那他为什么昨天晚上的时候能有手机去加他前女友？如果是警察加的为什么不去找其他人？他根本都没有教过他前女友任何东西也没有卖给他前女友任何东西，我真的越来越感觉事情很奇怪，真进去了那又凭什么还能有手机玩？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3706,
+          "following_count": 997,
+          "like_count": 22105,
+          "listed_count": 8,
+          "media_count": 419,
+          "tweet_count": 6758
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T10:36:50.000Z",
+        "description": "你好呀朋友\n@zhngyxu67836448 宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "zhngyxu67836448"
+              }
+            ]
+          }
+        },
+        "id": "1766412795808014336",
+        "name": "超絶最かわてんしちゃん小糖糖！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039541411234869248/T5RCAj4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 332,
+          "like_count": 7272,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 789
+        },
+        "username": "mymod114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1929425960090407242",
+    "created_at": "2025-06-02T08:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T09:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929455163070136486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1901101174339891203",
+          "start": 0,
+          "username": "Rikka8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929455163070136486",
+    "in_reply_to_user_id": "1901101174339891203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929439859321573775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rikka8964 这样嘛()\n网上找个试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1929425960090407242",
+        "created_at": "2025-06-02T08:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T09:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929455163070136486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1901101174339891203",
+              "start": 0,
+              "username": "Rikka8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929455163070136486",
+        "in_reply_to_user_id": "1901101174339891203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929439859321573775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka8964 这样嘛()\n网上找个试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901101174339891203",
+        "conversation_id": "1929425960090407242",
+        "created_at": "2025-06-02T07:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T08:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929439859321573775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929439859321573775",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929433738284302397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 會報錯喔 (´･ω"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺\n会发各种东西 欢迎任何人🌈 互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 76,
+          "like_count": 1730,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 762
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T02:40:29.000Z",
+        "description": "INFP |  双鱼座 | 游戏爱好者 | 私信会回复（只能在假期回） | 10年出生 | 164cm |  |初三 | 欢迎各位来陪我聊天 | 秘密小号@RIKKA89648964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 77,
+                "username": "RIKKA89648964"
+              }
+            ]
+          }
+        },
+        "id": "1901101174339891203",
+        "name": "Rikka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901101234679148545/Q-icoBkL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 57,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 241
+        },
+        "username": "Rikka8964",
+        "verified": false
+      }
+    ]
+  }
+}

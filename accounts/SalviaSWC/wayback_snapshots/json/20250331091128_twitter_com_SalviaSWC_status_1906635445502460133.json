@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906634895461326848"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1906635445502460133",
+    "created_at": "2025-03-31T09:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T10:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906635445502460133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4y6Prj7FKM",
+          "end": 101,
+          "expanded_url": "https://x.com/SalviaSWC/status/1906635445502460133/photo/1",
+          "media_key": "3_1906634895461326848",
+          "start": 78,
+          "url": "https://t.co/4y6Prj7FKM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906635445502460133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拼多多上居然有卖槟榔碱纯粉的 买的人还不少\n怎么吃纯粉试剂的行为都跑到墙内去了，这样下去不行阿，要是那些更好吃的试剂被发现了，就离被禁不远了呢...... https://t.co/4y6Prj7FKM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906634895461326848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnW6VexWIAArsb7.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906634895461326848"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1906635445502460133",
+        "created_at": "2025-03-31T09:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T10:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906635445502460133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4y6Prj7FKM",
+              "end": 101,
+              "expanded_url": "https://x.com/SalviaSWC/status/1906635445502460133/photo/1",
+              "media_key": "3_1906634895461326848",
+              "start": 78,
+              "url": "https://t.co/4y6Prj7FKM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906635445502460133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拼多多上居然有卖槟榔碱纯粉的 买的人还不少\n怎么吃纯粉试剂的行为都跑到墙内去了，这样下去不行阿，要是那些更好吃的试剂被发现了，就离被禁不远了呢...... https://t.co/4y6Prj7FKM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n会发各种东西 欢迎任何人🌈 互fo🉑",
+        "id": "1659962043460354050",
+        "name": "鼠尾草🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 40,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 149
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

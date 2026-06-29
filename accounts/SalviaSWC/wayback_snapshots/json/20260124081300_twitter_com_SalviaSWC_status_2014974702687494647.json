@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014909354194124800"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2014974702687494647",
+    "created_at": "2026-01-24T08:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T09:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014974702687494647"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "撸管"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iDHS76jJLi",
+          "end": 189,
+          "expanded_url": "https://x.com/SalviaSWC/status/2014974702687494647/photo/1",
+          "media_key": "3_2014909354194124800",
+          "start": 166,
+          "url": "https://t.co/iDHS76jJLi"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 213,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2014612063427981387",
+          "start": 190,
+          "url": "https://t.co/laavjXTDvy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014974702687494647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014612063427981387",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《用来学习的4F-MPH变为了兴奋剂 #撸管 灾难》——4F-MPH\n\n“我”大量囤购4F-MPH，起初用来学习，后来却用它来协助自己撸管，情况愈发严重，最后只好把剩余存货烧掉作了断。(怎么找的Reddit上的报告全是这种炉管的，太邪恶了😈)\n\n所以嘛，适度od益脑，沉迷od伤身。养成合理od的良好习惯，从你我做起!(bushi https://t.co/iDHS76jJLi https://t.co/laavjXTDvy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2014909354194124800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZlYddaQAAtyGR.jpg",
+        "width": 868
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2014600198182600707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VMNNkbAAMb7y0.jpg",
+        "width": 1181
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2014600198182543360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VMNNkaIAAjcCs.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014909354194124800"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2014974702687494647",
+        "created_at": "2026-01-24T08:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T09:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014974702687494647"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 19,
+              "tag": "撸管"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iDHS76jJLi",
+              "end": 189,
+              "expanded_url": "https://x.com/SalviaSWC/status/2014974702687494647/photo/1",
+              "media_key": "3_2014909354194124800",
+              "start": 166,
+              "url": "https://t.co/iDHS76jJLi"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 213,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2014612063427981387",
+              "start": 190,
+              "url": "https://t.co/laavjXTDvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014974702687494647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014612063427981387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《用来学习的4F-MPH变为了兴奋剂 #撸管 灾难》——4F-MPH\n\n“我”大量囤购4F-MPH，起初用来学习，后来却用它来协助自己撸管，情况愈发严重，最后只好把剩余存货烧掉作了断。(怎么找的Reddit上的报告全是这种炉管的，太邪恶了😈)\n\n所以嘛，适度od益脑，沉迷od伤身。养成合理od的良好习惯，从你我做起!(bushi https://t.co/iDHS76jJLi https://t.co/laavjXTDvy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014600198182600707",
+            "3_2014600198182543360"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2014612063427981387",
+        "created_at": "2026-01-23T08:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T09:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014612063427981387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F8Byk3jVMF",
+              "end": 180,
+              "expanded_url": "https://x.com/SalviaSWC/status/2014612063427981387/photo/1",
+              "media_key": "3_2014600198182600707",
+              "start": 157,
+              "url": "https://t.co/F8Byk3jVMF"
+            },
+            {
+              "display_url": "pic.x.com/F8Byk3jVMF",
+              "end": 180,
+              "expanded_url": "https://x.com/SalviaSWC/status/2014612063427981387/photo/1",
+              "media_key": "3_2014600198182543360",
+              "start": 157,
+              "url": "https://t.co/F8Byk3jVMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014612063427981387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2290,
+          "like_count": 26,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "《好搭配，烂剂量》——普瑞巴林&amp;苯海拉明\n\n“我”服用600mg普瑞巴林和750mg苯海拉明之后强烈致幻，变得很欣快很困，躺床上倒头就睡。但医生说，这种吃法的呼吸抑制风险大。\n\n窝o普瑞也有文中提到的视觉线条感，不知道大家有没有🥺\n\n推u有吃过这个组合或类似的嘛，药效跟文中比怎么样?不过还是安全第一哦🥹 https://t.co/F8Byk3jVMF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨请关注FreeODwiki喵😼👍⬇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2379,
+          "following_count": 784,
+          "like_count": 18210,
+          "listed_count": 7,
+          "media_count": 234,
+          "tweet_count": 5007
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

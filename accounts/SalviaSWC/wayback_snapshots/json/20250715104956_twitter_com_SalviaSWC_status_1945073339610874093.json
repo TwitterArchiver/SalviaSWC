@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945023321315123200"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1945073339610874093",
+    "created_at": "2025-07-15T10:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T11:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945073339610874093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CuJfYwmm9H",
+          "end": 179,
+          "expanded_url": "https://x.com/SalviaSWC/status/1945073339610874093/photo/1",
+          "media_key": "3_1945023321315123200",
+          "start": 156,
+          "url": "https://t.co/CuJfYwmm9H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945073339610874093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每日💊科普(day6)苯乙胺\n苯乙胺是一种内源性物质。它是NDRA，属于兴奋剂。被一些人用于神经保健品。一些外国小哥报告，低剂量有抗抑郁效果。\n娱乐性使用导致的副作用多，研究表明它有神经毒性。药效类似于苯丙胺。由于被MAO-B迅速代谢，单独服用药效短(30分钟)，且起效剂量高(3g+)。\n因此，通常与\n(续) https://t.co/CuJfYwmm9H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 190,
+        "media_key": "3_1945023321315123200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv4cZ9LWoAAe4Ge.png",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945023321315123200"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1945073339610874093",
+        "created_at": "2025-07-15T10:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T11:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945073339610874093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CuJfYwmm9H",
+              "end": 179,
+              "expanded_url": "https://x.com/SalviaSWC/status/1945073339610874093/photo/1",
+              "media_key": "3_1945023321315123200",
+              "start": 156,
+              "url": "https://t.co/CuJfYwmm9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945073339610874093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日💊科普(day6)苯乙胺\n苯乙胺是一种内源性物质。它是NDRA，属于兴奋剂。被一些人用于神经保健品。一些外国小哥报告，低剂量有抗抑郁效果。\n娱乐性使用导致的副作用多，研究表明它有神经毒性。药效类似于苯丙胺。由于被MAO-B迅速代谢，单独服用药效短(30分钟)，且起效剂量高(3g+)。\n因此，通常与\n(续) https://t.co/CuJfYwmm9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 304,
+          "like_count": 4536,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1631
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

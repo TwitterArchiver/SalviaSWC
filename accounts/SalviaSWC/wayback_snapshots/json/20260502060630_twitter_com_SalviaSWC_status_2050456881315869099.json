@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050443314940563456"
+      ],
+      "media_source_tweet_id": [
+        "2050443378098401392"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2050456881315869099",
+    "created_at": "2026-05-02T06:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T07:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050456881315869099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5vfO4U0C83",
+          "end": 49,
+          "expanded_url": "https://x.com/bui_tu46916/status/2050443378098401392/photo/1",
+          "media_key": "3_2050443314940563456",
+          "start": 26,
+          "url": "https://t.co/5vfO4U0C83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050456881315869099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050443378098401392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 最纯粹的数值说是 https://t.co/5vfO4U0C83"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2050443314940563456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSjVMsbUAAmP1w.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050443314940563456"
+          ],
+          "media_source_tweet_id": [
+            "2050443378098401392"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2050456881315869099",
+        "created_at": "2026-05-02T06:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050456881315869099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vfO4U0C83",
+              "end": 49,
+              "expanded_url": "https://x.com/bui_tu46916/status/2050443378098401392/photo/1",
+              "media_key": "3_2050443314940563456",
+              "start": 26,
+              "url": "https://t.co/5vfO4U0C83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050456881315869099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050443378098401392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 最纯粹的数值说是 https://t.co/5vfO4U0C83"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050443314940563456"
+          ]
+        },
+        "author_id": "2029908828125548546",
+        "conversation_id": "2050443378098401392",
+        "created_at": "2026-05-02T05:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050443378098401392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vfO4U0C83",
+              "end": 32,
+              "expanded_url": "https://x.com/bui_tu46916/status/2050443378098401392/photo/1",
+              "media_key": "3_2050443314940563456",
+              "start": 9,
+              "url": "https://t.co/5vfO4U0C83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050443378098401392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最纯粹的数值说是 https://t.co/5vfO4U0C83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4251,
+          "following_count": 997,
+          "like_count": 22964,
+          "listed_count": 11,
+          "media_count": 482,
+          "tweet_count": 7385
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "你好/不见证/可能od/",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 202,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 639
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

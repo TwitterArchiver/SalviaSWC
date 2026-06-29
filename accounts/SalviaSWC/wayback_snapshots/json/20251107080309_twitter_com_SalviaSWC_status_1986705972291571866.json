@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986705577502728193"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1986705972291571866",
+    "created_at": "2025-11-07T08:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986705972291571866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S2tHYg4LQ0",
+          "end": 97,
+          "expanded_url": "https://x.com/SalviaSWC/status/1986705972291571866/photo/1",
+          "media_key": "3_1986705577502728193",
+          "start": 74,
+          "url": "https://t.co/S2tHYg4LQ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986705972291571866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "16:01 把剩下的粉色药水加了点柠檬酸和果味固体饮料喝了\n入口的那一刻，我想起了小时候喝的止咳糖浆的味道🤮想了想觉得也是，毕竟成分都基本是一样的 https://t.co/S2tHYg4LQ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 784,
+        "media_key": "3_1986705577502728193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5IyMlxWYAEi_WS.jpg",
+        "width": 844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986705577502728193"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1986705972291571866",
+        "created_at": "2025-11-07T08:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986705972291571866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S2tHYg4LQ0",
+              "end": 97,
+              "expanded_url": "https://x.com/SalviaSWC/status/1986705972291571866/photo/1",
+              "media_key": "3_1986705577502728193",
+              "start": 74,
+              "url": "https://t.co/S2tHYg4LQ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986705972291571866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "16:01 把剩下的粉色药水加了点柠檬酸和果味固体饮料喝了\n入口的那一刻，我想起了小时候喝的止咳糖浆的味道🤮想了想觉得也是，毕竟成分都基本是一样的 https://t.co/S2tHYg4LQ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 660,
+          "like_count": 10590,
+          "listed_count": 7,
+          "media_count": 154,
+          "tweet_count": 3331
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

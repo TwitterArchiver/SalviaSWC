@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2032979865457070357",
+    "created_at": "2026-03-15T00:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T01:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032979872042176971"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032979872042176971",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032979865457070357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简言之——Rush的化学成分与亚硝酸有关：亚硝酸酯。\n所有亚硝酸酯都是易挥发的，物态为气体或液体，不会是固体，这样才方便闻着用。\n因此，但凡是固体的东西，不让你闻，让你吃的，一定是假Rush。\n\n那假Rush会是啥呢?大概率是脏东西(懂得都懂)，虽然有效果，但是成瘾(真货不成瘾)。贩子就冲这点来卖呢。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1539,
+        "media_key": "3_2032968038132125699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDaNqNiWkAM9Feo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2032979865457070357",
+        "created_at": "2026-03-15T00:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T01:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032979872042176971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032979872042176971",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032979865457070357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简言之——Rush的化学成分与亚硝酸有关：亚硝酸酯。\n所有亚硝酸酯都是易挥发的，物态为气体或液体，不会是固体，这样才方便闻着用。\n因此，但凡是固体的东西，不让你闻，让你吃的，一定是假Rush。\n\n那假Rush会是啥呢?大概率是脏东西(懂得都懂)，虽然有效果，但是成瘾(真货不成瘾)。贩子就冲这点来卖呢。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032968038132125699"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2032979865457070357",
+        "created_at": "2026-03-15T00:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T01:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032979865457070357"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "Rush"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "男同"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "打假"
+            },
+            {
+              "end": 160,
+              "start": 152,
+              "tag": "Chemsex"
+            },
+            {
+              "end": 166,
+              "start": 161,
+              "tag": "药物科普"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eb1wSePcmC",
+              "end": 190,
+              "expanded_url": "https://x.com/SalviaSWC/status/2032979865457070357/photo/1",
+              "media_key": "3_2032968038132125699",
+              "start": 167,
+              "url": "https://t.co/Eb1wSePcmC"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 214,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2032054495828386169",
+              "start": 191,
+              "url": "https://t.co/vslcVq0e0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032979865457070357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032054495828386169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有推友问：固体的“Rush”是不是一定是假“Rush”？\n\n答案非常确定：是的，100%假。\n\n更广一点说——真Rush产品都是液体，打开一闻，味道很熏，几秒钟松肌上头，几分钟恢复。凡是叫你吞药、喝水、涂抹的所谓“Rush”，一律是假的。\n\n原因我写不下了，请点进推文中查看。#Rush #男同 #打假 #Chemsex #药物科普 https://t.co/Eb1wSePcmC https://t.co/vslcVq0e0m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 961,
+          "like_count": 21032,
+          "listed_count": 10,
+          "media_count": 360,
+          "tweet_count": 6168
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

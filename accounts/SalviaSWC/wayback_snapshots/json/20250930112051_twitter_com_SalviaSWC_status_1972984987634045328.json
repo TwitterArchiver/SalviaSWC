@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972984781722746880"
+      ],
+      "media_source_tweet_id": [
+        "1972984865760096267"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "1972984987634045328",
+    "created_at": "2025-09-30T11:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T12:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972984987634045328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 25,
+          "id": "1597257668313260033",
+          "start": 15,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cXMCKSi2QN",
+          "end": 126,
+          "expanded_url": "https://x.com/SalviaSWC/status/1972984865760096267/photo/1",
+          "media_key": "3_1972984781722746880",
+          "start": 103,
+          "url": "https://t.co/cXMCKSi2QN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972984987634045328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972984865760096267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: @Minokakay 在中国不合法的\n我国法律规定凡是某种管制精神物质的酯或酰胺都同属精神管制物质，1T-LSD属于LSD的1N-(噻吩-2)基甲酰胺，其管制级别与LSD等同 https://t.co/cXMCKSi2QN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_1972984781722746880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FzNKXWAAAopQF.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972984781722746880"
+          ],
+          "media_source_tweet_id": [
+            "1972984865760096267"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1972984987634045328",
+        "created_at": "2025-09-30T11:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972984987634045328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 25,
+              "id": "1597257668313260033",
+              "start": 15,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXMCKSi2QN",
+              "end": 126,
+              "expanded_url": "https://x.com/SalviaSWC/status/1972984865760096267/photo/1",
+              "media_key": "3_1972984781722746880",
+              "start": 103,
+              "url": "https://t.co/cXMCKSi2QN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972984987634045328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972984865760096267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: @Minokakay 在中国不合法的\n我国法律规定凡是某种管制精神物质的酯或酰胺都同属精神管制物质，1T-LSD属于LSD的1N-(噻吩-2)基甲酰胺，其管制级别与LSD等同 https://t.co/cXMCKSi2QN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972984781722746880"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1972979339269669312",
+        "created_at": "2025-09-30T11:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972984865760096267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXMCKSi2QN",
+              "end": 111,
+              "expanded_url": "https://x.com/SalviaSWC/status/1972984865760096267/photo/1",
+              "media_key": "3_1972984781722746880",
+              "start": 88,
+              "url": "https://t.co/cXMCKSi2QN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972984865760096267",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972979339269669312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 在中国不合法的\n我国法律规定凡是某种管制精神物质的酯或酰胺都同属精神管制物质，1T-LSD属于LSD的1N-(噻吩-2)基甲酰胺，其管制级别与LSD等同 https://t.co/cXMCKSi2QN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 495,
+          "like_count": 7986,
+          "listed_count": 5,
+          "media_count": 112,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX，长居🇭🇰🇯🇵。买HRT补佳乐色普龙诺坤复/减肥/促智找@ChosekiNoraneko，全球可寄，我朋友开的我在做客服。买电子烟找@weita2024。买抗癌药物找@LuciusPharmacy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 81,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "weita2024"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "LuciusPharmacy"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1966586801117671544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10524,
+          "following_count": 946,
+          "like_count": 44734,
+          "listed_count": 35,
+          "media_count": 1437,
+          "tweet_count": 21421
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1970750968347390217",
+    "created_at": "2025-09-24T08:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T09:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970761081342898485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1222546987108581376",
+          "start": 0,
+          "username": "sky_string"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970761081342898485",
+    "in_reply_to_user_id": "1222546987108581376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970750968347390217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sky_string 不知道为什么菲尼布特被归类为nootropic的，它完全是抑制剂阿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2214,
+        "media_key": "3_1970750964803186688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mDj53aMAAnjXD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1970750968347390217",
+        "created_at": "2025-09-24T08:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T09:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970761081342898485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1222546987108581376",
+              "start": 0,
+              "username": "sky_string"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970761081342898485",
+        "in_reply_to_user_id": "1222546987108581376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970750968347390217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sky_string 不知道为什么菲尼布特被归类为nootropic的，它完全是抑制剂阿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970750964803186688"
+          ]
+        },
+        "author_id": "1222546987108581376",
+        "conversation_id": "1970750968347390217",
+        "created_at": "2025-09-24T07:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T08:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970750968347390217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MaSmNxJ7Xh",
+              "end": 39,
+              "expanded_url": "https://x.com/sky_string/status/1970750968347390217/photo/1",
+              "media_key": "3_1970750964803186688",
+              "start": 16,
+              "url": "https://t.co/MaSmNxJ7Xh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970750968347390217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "菲尼布特，俄罗斯搞的得聪明药🤔 https://t.co/MaSmNxJ7Xh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 485,
+          "like_count": 7658,
+          "listed_count": 5,
+          "media_count": 107,
+          "tweet_count": 2600
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-29T15:48:23.000Z",
+        "description": "塑料推友🫶🏻🫰🏻💕 迷幻的bambi | bambi sleep😵‍💫 | good girl🥰",
+        "id": "1222546987108581376",
+        "name": "bambi_obey",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1222547214326587393/I9ir-8Gs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 151,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 390
+        },
+        "username": "sky_string",
+        "verified": false
+      }
+    ]
+  }
+}

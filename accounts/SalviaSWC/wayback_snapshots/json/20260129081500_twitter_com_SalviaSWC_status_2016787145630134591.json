@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016492779891732480"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Health, mind and body",
+          "id": "859532297376219136",
+          "name": "Health & wellness books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Health, mind and body",
+          "id": "859532297376219136",
+          "name": "Health & wellness books"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2016787145630134591",
+    "created_at": "2026-01-29T08:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T09:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016787145630134591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7XgfOOAxCc",
+          "end": 176,
+          "expanded_url": "https://x.com/SalviaSWC/status/2016787145630134591/photo/1",
+          "media_key": "3_2016492779891732480",
+          "start": 153,
+          "url": "https://t.co/7XgfOOAxCc"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 200,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/2016428532595937553",
+          "start": 177,
+          "url": "https://t.co/5OphVOkNW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016787145630134591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016428532595937553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《地狱中的永恒》——αMT&amp;锂盐\n\n\"我\"服用30mg的某种色胺类致幻剂，这剂量本不高，却造成严重恶劣幻觉和精神病发作，并被送入医院。日常服用的锂盐被怀疑是罪魁祸首。\n\n珍爱生命，禁止联用锂盐和血清素能致幻剂🥺否则，你可能会享受到文中的一样恐怖情形。如果你日常服用锂盐，请遵医嘱，不要服用迷幻剂哦 https://t.co/7XgfOOAxCc https://t.co/5OphVOkNW5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2016492779891732480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wFf92WMAA4XmI.jpg",
+        "width": 1769
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2016214300818313216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_sIOWdWkAAkVG3.jpg",
+        "width": 2106
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2016214299044413442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_sIOP2bAAIDmUT.jpg",
+        "width": 2130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016492779891732480"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2016787145630134591",
+        "created_at": "2026-01-29T08:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016787145630134591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XgfOOAxCc",
+              "end": 176,
+              "expanded_url": "https://x.com/SalviaSWC/status/2016787145630134591/photo/1",
+              "media_key": "3_2016492779891732480",
+              "start": 153,
+              "url": "https://t.co/7XgfOOAxCc"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2016428532595937553",
+              "start": 177,
+              "url": "https://t.co/5OphVOkNW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016787145630134591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016428532595937553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《地狱中的永恒》——αMT&amp;锂盐\n\n\"我\"服用30mg的某种色胺类致幻剂，这剂量本不高，却造成严重恶劣幻觉和精神病发作，并被送入医院。日常服用的锂盐被怀疑是罪魁祸首。\n\n珍爱生命，禁止联用锂盐和血清素能致幻剂🥺否则，你可能会享受到文中的一样恐怖情形。如果你日常服用锂盐，请遵医嘱，不要服用迷幻剂哦 https://t.co/7XgfOOAxCc https://t.co/5OphVOkNW5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016214300818313216",
+            "3_2016214299044413442"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2016428532595937553",
+        "created_at": "2026-01-28T08:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016428532595937553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WKqGrJt0hD",
+              "end": 168,
+              "expanded_url": "https://x.com/SalviaSWC/status/2016428532595937553/photo/1",
+              "media_key": "3_2016214300818313216",
+              "start": 145,
+              "url": "https://t.co/WKqGrJt0hD"
+            },
+            {
+              "display_url": "pic.x.com/WKqGrJt0hD",
+              "end": 168,
+              "expanded_url": "https://x.com/SalviaSWC/status/2016428532595937553/photo/1",
+              "media_key": "3_2016214299044413442",
+              "start": 145,
+              "url": "https://t.co/WKqGrJt0hD"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2016074701332955178",
+              "start": 169,
+              "url": "https://t.co/IXjiZj6DoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016428532595937553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4434,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016074701332955178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《成瘾和过量服药的真实危害》——右美沙芬\n\n“我”为压抑许久后才被重新发掘的童年被性侵的创伤记忆，每天滥用右美沙芬，虽然最终得以戒除，自己的身心健康却已经受到损害。\n\n唉，这个世界好残酷，我们什么时候才能有健全的心理卫生服务系统？😢如果你也在挣扎，一定要坚持住哦，让我们一起看到那一天吧🥹 https://t.co/WKqGrJt0hD https://t.co/IXjiZj6DoY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 792,
+          "like_count": 18461,
+          "listed_count": 8,
+          "media_count": 246,
+          "tweet_count": 5144
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

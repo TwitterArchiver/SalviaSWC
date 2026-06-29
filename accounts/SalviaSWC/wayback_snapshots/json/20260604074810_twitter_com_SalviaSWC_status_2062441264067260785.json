@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062395825511399424"
+      ],
+      "media_source_tweet_id": [
+        "2062395839650418836"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2062441264067260785",
+    "created_at": "2026-06-04T07:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062441264067260785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2044176423460515840",
+          "start": 3,
+          "username": "dupinkepu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vOWiWfJKS3",
+          "end": 38,
+          "expanded_url": "https://x.com/dupinkepu/status/2062395839650418836/photo/1",
+          "media_key": "3_2062395825511399424",
+          "start": 15,
+          "url": "https://t.co/vOWiWfJKS3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062441264067260785",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062395839650418836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dupinkepu: https://t.co/vOWiWfJKS3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2062395825511399424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8aE4XbAAALgGN.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062395825511399424"
+          ],
+          "media_source_tweet_id": [
+            "2062395839650418836"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2062441264067260785",
+        "created_at": "2026-06-04T07:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062441264067260785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2044176423460515840",
+              "start": 3,
+              "username": "dupinkepu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOWiWfJKS3",
+              "end": 38,
+              "expanded_url": "https://x.com/dupinkepu/status/2062395839650418836/photo/1",
+              "media_key": "3_2062395825511399424",
+              "start": 15,
+              "url": "https://t.co/vOWiWfJKS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062441264067260785",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062395839650418836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dupinkepu: https://t.co/vOWiWfJKS3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062395825511399424"
+          ]
+        },
+        "author_id": "2044176423460515840",
+        "conversation_id": "2062395839650418836",
+        "created_at": "2026-06-04T04:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062395839650418836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOWiWfJKS3",
+              "end": 23,
+              "expanded_url": "https://x.com/dupinkepu/status/2062395839650418836/photo/1",
+              "media_key": "3_2062395825511399424",
+              "start": 0,
+              "url": "https://t.co/vOWiWfJKS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062395839650418836",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vOWiWfJKS3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4767,
+          "following_count": 1013,
+          "like_count": 24258,
+          "listed_count": 12,
+          "media_count": 542,
+          "tweet_count": 7831
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T22:10:24.000Z",
+        "description": "知的强奸者",
+        "id": "2044176423460515840",
+        "name": "橘雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062369390272925696/pssWTzLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "dupinkepu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991788418926321664"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1991789182080200707",
+    "created_at": "2025-11-21T08:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T09:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991789182080200707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qtXwcdkCFu",
+          "end": 62,
+          "expanded_url": "https://x.com/SalviaSWC/status/1991789182080200707/photo/1",
+          "media_key": "3_1991788418926321664",
+          "start": 39,
+          "url": "https://t.co/qtXwcdkCFu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991789182080200707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个网站还能看推特账号给别人的点赞数诶\n原来窝在推上已经点了1.3万个赞嘛😱 https://t.co/qtXwcdkCFu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991788418926321664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6RBA5nXIAAdheU.jpg",
+        "width": 971
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991788418926321664"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991789182080200707",
+        "created_at": "2025-11-21T08:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T09:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991789182080200707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qtXwcdkCFu",
+              "end": 62,
+              "expanded_url": "https://x.com/SalviaSWC/status/1991789182080200707/photo/1",
+              "media_key": "3_1991788418926321664",
+              "start": 39,
+              "url": "https://t.co/qtXwcdkCFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991789182080200707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个网站还能看推特账号给别人的点赞数诶\n原来窝在推上已经点了1.3万个赞嘛😱 https://t.co/qtXwcdkCFu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1862,
+          "following_count": 695,
+          "like_count": 13276,
+          "listed_count": 6,
+          "media_count": 171,
+          "tweet_count": 3706
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

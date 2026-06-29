@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1944659775675080731",
+    "created_at": "2025-07-14T13:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T14:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944746700179935605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1476922484847001608",
+          "start": 0,
+          "username": "_QBilibili2580"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944746700179935605",
+    "in_reply_to_user_id": "1476922484847001608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944743898510925834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_QBilibili2580 祝你早日康复🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1944659775675080731",
+        "created_at": "2025-07-14T13:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T14:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944746700179935605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1476922484847001608",
+              "start": 0,
+              "username": "_QBilibili2580"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944746700179935605",
+        "in_reply_to_user_id": "1476922484847001608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944743898510925834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_QBilibili2580 祝你早日康复🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476922484847001608",
+        "conversation_id": "1944659775675080731",
+        "created_at": "2025-07-14T13:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T14:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944743898510925834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944743898510925834",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944659775675080731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 牛黄甲硝唑片和阿莫西林胶囊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰",
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1943305386372796756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 300,
+          "like_count": 4450,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1581
+        },
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T14:25:45.000Z",
+        "description": "白日不到处，青春恰自来。\n苔花如米小，也学牡丹开。",
+        "id": "1476922484847001608",
+        "location": "No Signal",
+        "name": "Hamster Little Mari",
+        "pinned_tweet_id": "1937174269882196210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922130401784692738/MH1OTI5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 385,
+          "like_count": 6383,
+          "listed_count": 3,
+          "media_count": 264,
+          "tweet_count": 2040
+        },
+        "username": "_QBilibili2580",
+        "verified": false
+      }
+    ]
+  }
+}
