@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2071749148961837403",
+    "created_at": "2026-06-30T00:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T01:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071749148961837403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1280001743162609664",
+          "start": 3,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071749148961837403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070729994670940463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Poca2381: 要填志愿了，给大家推荐一批就业前景光明的专业。\n1. 化学（070301）\n2. 应用化学（070302）\n3. 化学生物学（070303T）\n4. 分子科学与工程（070304T）\n5. 能源化学（070305T）\n6. 化学测量学与技术（0703…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2071749148961837403",
+        "created_at": "2026-06-30T00:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T01:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071749148961837403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1280001743162609664",
+              "start": 3,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071749148961837403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070729994670940463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Poca2381: 要填志愿了，给大家推荐一批就业前景光明的专业。\n1. 化学（070301）\n2. 应用化学（070302）\n3. 化学生物学（070303T）\n4. 分子科学与工程（070304T）\n5. 能源化学（070305T）\n6. 化学测量学与技术（0703…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2070729994670940463",
+        "created_at": "2026-06-27T04:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070729994670940463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070729994670940463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "要填志愿了，给大家推荐一批就业前景光明的专业。\n1. 化学（070301）\n2. 应用化学（070302）\n3. 化学生物学（070303T）\n4. 分子科学与工程（070304T）\n5. 能源化学（070305T）\n6. 化学测量学与技术（070306T）\n7. 化学工程与工艺（081301）\n8. 制药工程（081302）\n9. 资源循环科学与工程（081303T）\n10. 能源化学工程（081304T）\n11. 化学工程与工业生物工程（081305T）\n12. 化工安全工程（081306T）\n13. 涂料工程（081307T）\n14. 精细化工（081308T）\n15. 材料化学（080403）\n16. 高分子材料与工程（080407）\n17. 纳米材料与技术（080413T）\n18. 新能源材料与器件（080414T）\n19. 药物化学（100706T）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 37418,
+          "like_count": 183,
+          "quote_count": 12,
+          "reply_count": 68,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "要填志愿了，给大家推荐一批就业前景光明的专业。\n1. 化学（070301）\n2. 应用化学（070302）\n3. 化学生物学（070303T）\n4. 分子科学与工程（070304T）\n5. 能源化学（070305T）\n6. 化学测量学与技术（070306T）\n7. 化学工程与工艺（081301）\n8. 制药工程（081302）\n9. 资源循环科学与工程（081303T）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4980,
+          "following_count": 1030,
+          "like_count": 24816,
+          "listed_count": 11,
+          "media_count": 567,
+          "tweet_count": 7989
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22390,
+          "following_count": 9712,
+          "like_count": 152779,
+          "listed_count": 52,
+          "media_count": 5139,
+          "tweet_count": 52729
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}
