@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2073312559462076835",
+    "created_at": "2026-07-04T07:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T08:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073312563564081656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 28,
+          "expanded_url": "https://x.com/SalviaSWC/status/2072954662798410076",
+          "start": 5,
+          "url": "https://t.co/WtxjWv0xvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073312563564081656",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072954662798410076",
+        "type": "quoted"
+      },
+      {
+        "id": "2073312559462076835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "往期回顾：https://t.co/WtxjWv0xvm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072954227685552128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSc4xjXcAAf_mO.jpg",
+        "width": 1931
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2073310282248568832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXgt4KXQAA-FMF.jpg",
+        "width": 1913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2073312559462076835",
+        "created_at": "2026-07-04T07:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073312563564081656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 28,
+              "expanded_url": "https://x.com/SalviaSWC/status/2072954662798410076",
+              "start": 5,
+              "url": "https://t.co/WtxjWv0xvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073312563564081656",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072954662798410076",
+            "type": "quoted"
+          },
+          {
+            "id": "2073312559462076835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "往期回顾：https://t.co/WtxjWv0xvm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072954227685552128"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2072954662798410076",
+        "created_at": "2026-07-03T08:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072954662798410076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N14soUQoum",
+              "end": 112,
+              "expanded_url": "https://x.com/SalviaSWC/status/2072954662798410076/photo/1",
+              "media_key": "3_2072954227685552128",
+              "start": 89,
+              "url": "https://t.co/N14soUQoum"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072954662798410076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 961,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物报告day49——迷幻剂过量的后遗症\n\n迷幻剂服用过量后，作者初始感觉很新快，但逐渐陷入失控的状态。而且，之后还遭受了后遗症的困扰🥺\n\n（话说有推u经历过此类事情嘛，好奇） https://t.co/N14soUQoum"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073310282248568832"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2073312559462076835",
+        "created_at": "2026-07-04T07:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073312559462076835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CWNeJqicF",
+              "end": 134,
+              "expanded_url": "https://x.com/SalviaSWC/status/2073312559462076835/photo/1",
+              "media_key": "3_2073310282248568832",
+              "start": 111,
+              "url": "https://t.co/8CWNeJqicF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073312559462076835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物报告day50——服用酒精和依替唑仑后出车祸\n\n作者在喝了酒后，不知为何吃了依替唑仑，然后在药效下去飙车，结果出了车祸，给了他深深的教训。\n\n由此可见，不要联用抑制剂药物，否则，你会有很多有创意的方式变得不幸的🤓☝️ https://t.co/8CWNeJqicF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 1030,
+          "like_count": 24836,
+          "listed_count": 11,
+          "media_count": 573,
+          "tweet_count": 8014
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}
