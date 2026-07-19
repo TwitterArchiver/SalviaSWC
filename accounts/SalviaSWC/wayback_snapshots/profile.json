@@ -1,19 +1,29 @@
 {
   "name": "鼠尾草～🌿",
   "username": "@SalviaSWC",
-  "bio": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|  脑婆:@DXM8964LXM  丨药物知识开源化💊|来FreeODwiki看看吧！github.com/SalviaSWC/Free… |Say Know to Drugs 😼",
+  "bio": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://github.com/SalviaSWC/FreeODwiki |Say Know to Drugs 😼",
   "location": "",
-  "link": "freeodwiki.org",
+  "link": "https://freeodwiki.org",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
   "bio_entities": {
     "mentions": [
       {
-        "end": 98,
-        "start": 87,
+        "end": 65,
+        "start": 54,
         "username": "DXM8964LXM"
       }
+    ],
+    "urls": [
+      {
+        "display_url": "github.com/SalviaSWC/Free…",
+        "end": 115,
+        "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+        "start": 92,
+        "url": "https://t.co/ki2TerCl7C"
+      }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg"
 }
