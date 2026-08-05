@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2082709368659943856",
+    "created_at": "2026-07-30T14:02:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082829237061370048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "umehara02A01"
+        },
+        {
+          "end": 29,
+          "id": "1882563916632666112",
+          "start": 14,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082829237061370048",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082808972139172179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umehara02A01 @hhjnjkoguyunmo 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2082709368659943856",
+        "created_at": "2026-07-30T14:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082829237061370048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "umehara02A01"
+            },
+            {
+              "end": 29,
+              "id": "1882563916632666112",
+              "start": 14,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082829237061370048",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082808972139172179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umehara02A01 @hhjnjkoguyunmo 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766644305660420096",
+        "conversation_id": "2082709368659943856",
+        "created_at": "2026-07-30T12:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082808972139172179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 26,
+              "id": "1882563916632666112",
+              "start": 11,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082808972139172179",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082804865227501755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @hhjnjkoguyunmo 抱抱…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5230,
+          "following_count": 1044,
+          "like_count": 25190,
+          "listed_count": 10,
+          "media_count": 585,
+          "tweet_count": 8089
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "akaすいか/高校2年生/mtf🏳️‍⚧️🍥/地雷女/リスカ🔪🩸/お酒🍷依存/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/ 子猫🐱/ネコ民国の小統領/ zh-hant/ja/en /@happysugarlifeA 推し/裏垢@umeharaAC02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "happysugarlifeA"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "umeharaAC02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/BjCzmF32Js"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "Republic of Neko/ネコ民国 下海市 ",
+        "name": "🏳️‍⚧️梅原寒咲🐱",
+        "pinned_tweet_id": "2060350171293319289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 2178,
+          "like_count": 18298,
+          "listed_count": 6,
+          "media_count": 495,
+          "tweet_count": 9395
+        },
+        "url": "https://t.co/BjCzmF32Js",
+        "username": "umehara02A01",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "不管是什么群体，喜欢我的人我都喜欢哦🥰",
+        "id": "1882563916632666112",
+        "name": "顾云沫",
+        "pinned_tweet_id": "2031186524331716777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009577466348949504/Jb01L601_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 1001,
+          "like_count": 617286,
+          "listed_count": 7,
+          "media_count": 695,
+          "tweet_count": 49313
+        },
+        "url": "",
+        "username": "hhjnjkoguyunmo",
+        "verified": true
+      }
+    ]
+  }
+}

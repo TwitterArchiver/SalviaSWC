@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2081992550286610542",
+    "created_at": "2026-07-28T09:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082037197373337726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077346715313811457",
+          "start": 0,
+          "username": "Huishui666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082037197373337726",
+    "in_reply_to_user_id": "2077346715313811457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082030282082074653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huishui666 好哦🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2081992550286610542",
+        "created_at": "2026-07-28T09:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082037197373337726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077346715313811457",
+              "start": 0,
+              "username": "Huishui666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082037197373337726",
+        "in_reply_to_user_id": "2077346715313811457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082030282082074653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huishui666 好哦🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077346715313811457",
+        "conversation_id": "2081992550286610542",
+        "created_at": "2026-07-28T09:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082030282082074653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082030282082074653",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081992550286610542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 我已严肃阅读"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5218,
+          "following_count": 1039,
+          "like_count": 25057,
+          "listed_count": 10,
+          "media_count": 583,
+          "tweet_count": 8066
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T10:57:49.000Z",
+        "description": "药物的奴隶 cos 双向情感障碍 极致的疯批 类人 伪人 拟人 互fo 互fo 互fo 第n次归来主播因为神奇的原因丢失了n个账号 这次归来我要成为仙界大乘 /这就是我咋啦",
+        "id": "2077346715313811457",
+        "location": "沈",
+        "name": "Huishui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077347394929516544/Co1yaLwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 20,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "Huishui666",
+        "verified": false
+      }
+    ]
+  }
+}

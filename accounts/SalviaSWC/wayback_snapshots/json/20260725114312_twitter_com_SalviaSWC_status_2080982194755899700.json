@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "1943573123296579623",
+    "created_at": "2026-07-25T11:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080982194755899700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2547077232",
+          "start": 0,
+          "username": "TheSpagheddie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080982194755899700",
+    "in_reply_to_user_id": "2547077232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080739526079852777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSpagheddie 这样嘛......"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080739523554926592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOBFkoubYAA5wPL.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "1943573123296579623",
+        "created_at": "2026-07-25T11:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080982194755899700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2547077232",
+              "start": 0,
+              "username": "TheSpagheddie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982194755899700",
+        "in_reply_to_user_id": "2547077232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080739526079852777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSpagheddie 这样嘛......"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080739523554926592"
+          ]
+        },
+        "author_id": "2547077232",
+        "conversation_id": "1943573123296579623",
+        "created_at": "2026-07-24T19:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080739526079852777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4ARLvcb4w",
+              "end": 34,
+              "expanded_url": "https://x.com/TheSpagheddie/status/2080739526079852777/photo/1",
+              "media_key": "3_2080739523554926592",
+              "start": 11,
+              "url": "https://t.co/c4ARLvcb4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080739526079852777",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943573123296579623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC https://t.co/c4ARLvcb4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5192,
+          "following_count": 1028,
+          "like_count": 25004,
+          "listed_count": 10,
+          "media_count": 580,
+          "tweet_count": 8055
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-05T00:56:20.000Z",
+        "description": "Logic Leads to Truth | Music and Philosophy | Body Shaping | Longevity | Earth Citizen | Support Canada to be the 51st U.S. State",
+        "id": "2547077232",
+        "location": "Vancouver, British Columbia",
+        "name": "Spagheddie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737501394725470208/XBQYhHrM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 396,
+          "like_count": 1981,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 2395
+        },
+        "url": "",
+        "username": "TheSpagheddie",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082462590525980672",
+        "3_2082463708387725312"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2082464545495216597",
+    "created_at": "2026-07-29T13:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082464545495216597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+          "display_url": "freeodwiki.org/%E8%8D%AF%E7%8…",
+          "end": 132,
+          "expanded_url": "https://freeodwiki.org/%E8%8D%AF%E7%89%A9/%E5%8D%A1%E7%93%A6.html",
+          "images": [
+            {
+              "height": 90,
+              "url": "https://pbs.twimg.com/news_img/2082464556803047424/RSi6lmsP?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 90,
+              "url": "https://pbs.twimg.com/news_img/2082464556803047424/RSi6lmsP?format=png&name=150x150",
+              "width": 90
+            }
+          ],
+          "start": 109,
+          "status": 200,
+          "title": "卡瓦 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/%E8%8D%AF%E7%89%A9/%E5%8D%A1%E7%93%A6.html",
+          "url": "https://t.co/Cn4FAXNnEa"
+        },
+        {
+          "display_url": "pic.x.com/8N2ZD3GArt",
+          "end": 186,
+          "expanded_url": "https://x.com/SalviaSWC/status/2082464545495216597/photo/1",
+          "media_key": "3_2082462590525980672",
+          "start": 163,
+          "url": "https://t.co/8N2ZD3GArt"
+        },
+        {
+          "display_url": "pic.x.com/8N2ZD3GArt",
+          "end": 186,
+          "expanded_url": "https://x.com/SalviaSWC/status/2082464545495216597/photo/1",
+          "media_key": "3_2082463708387725312",
+          "start": 163,
+          "url": "https://t.co/8N2ZD3GArt"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 210,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2080498203682603262",
+          "start": 187,
+          "url": "https://t.co/3Dz2MoQzNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082464545495216597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080498203682603262",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来习大大也喜欢吃精神活性物质啊(bushi)\n\n卡瓦汁是一种精神活性饮料，作用于GABA受体、多巴胺受体、大麻素受体等靶点，具有镇定、抗焦虑功效🤤卡瓦汁被大洋洲的一些民族用于宗教致幻剂。\n\nFreeODwiki：卡瓦https://t.co/Cn4FAXNnEa（叠甲：仅供教育用途，并非建议任何人服用卡瓦等精神活性物质） https://t.co/8N2ZD3GArt https://t.co/3Dz2MoQzNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1728,
+        "media_key": "3_2082462590525980672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZksVZXQAAszMb.jpg",
+        "width": 3058
+      },
+      {
+        "height": 1730,
+        "media_key": "3_2082463708387725312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZltZwX0AA6azs.jpg",
+        "width": 3116
+      },
+      {
+        "duration_ms": 7894,
+        "height": 720,
+        "media_key": "13_2080363959916597248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080363959916597248/img/e0Di9UBlOQwrHK4U.jpg",
+        "public_metrics": {
+          "view_count": 386103
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080363959916597248/vid/avc1/360x270/iwsBk-iDjOjFc1uR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080363959916597248/vid/avc1/480x360/rnY6B7MgTCmiSuAz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080363959916597248/vid/avc1/960x720/6uJz9vjPAV4PilQu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080363959916597248/pl/TYhzIzSDPRPSTux_.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 930,
+        "media_key": "3_2080363959912374272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7v_9IaIAAmBOg.jpg",
+        "width": 1200
+      },
+      {
+        "height": 817,
+        "media_key": "3_2080363959904022528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7v_9GasAAsXAD.jpg",
+        "width": 778
+      },
+      {
+        "height": 1736,
+        "media_key": "3_2080363645327048704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7vtpNbAAAHqD-.jpg",
+        "width": 2520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082462590525980672",
+            "3_2082463708387725312"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2082464545495216597",
+        "created_at": "2026-07-29T13:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082464545495216597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E8%8D%AF%E7%8…",
+              "end": 132,
+              "expanded_url": "https://freeodwiki.org/%E8%8D%AF%E7%89%A9/%E5%8D%A1%E7%93%A6.html",
+              "images": [
+                {
+                  "height": 90,
+                  "url": "https://pbs.twimg.com/news_img/2082464556803047424/RSi6lmsP?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 90,
+                  "url": "https://pbs.twimg.com/news_img/2082464556803047424/RSi6lmsP?format=png&name=150x150",
+                  "width": 90
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "卡瓦 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E8%8D%AF%E7%89%A9/%E5%8D%A1%E7%93%A6.html",
+              "url": "https://t.co/Cn4FAXNnEa"
+            },
+            {
+              "display_url": "pic.x.com/8N2ZD3GArt",
+              "end": 186,
+              "expanded_url": "https://x.com/SalviaSWC/status/2082464545495216597/photo/1",
+              "media_key": "3_2082462590525980672",
+              "start": 163,
+              "url": "https://t.co/8N2ZD3GArt"
+            },
+            {
+              "display_url": "pic.x.com/8N2ZD3GArt",
+              "end": 186,
+              "expanded_url": "https://x.com/SalviaSWC/status/2082464545495216597/photo/1",
+              "media_key": "3_2082463708387725312",
+              "start": 163,
+              "url": "https://t.co/8N2ZD3GArt"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2080498203682603262",
+              "start": 187,
+              "url": "https://t.co/3Dz2MoQzNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082464545495216597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080498203682603262",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来习大大也喜欢吃精神活性物质啊(bushi)\n\n卡瓦汁是一种精神活性饮料，作用于GABA受体、多巴胺受体、大麻素受体等靶点，具有镇定、抗焦虑功效🤤卡瓦汁被大洋洲的一些民族用于宗教致幻剂。\n\nFreeODwiki：卡瓦https://t.co/Cn4FAXNnEa（叠甲：仅供教育用途，并非建议任何人服用卡瓦等精神活性物质） https://t.co/8N2ZD3GArt https://t.co/3Dz2MoQzNR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080363959916597248",
+            "3_2080363959912374272",
+            "3_2080363959904022528",
+            "3_2080363645327048704"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2080498203682603262",
+        "created_at": "2026-07-24T03:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080498203682603262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L0MczzQ1WJ",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080498203682603262/video/1",
+              "media_key": "13_2080363959916597248",
+              "start": 104,
+              "url": "https://t.co/L0MczzQ1WJ"
+            },
+            {
+              "display_url": "pic.x.com/L0MczzQ1WJ",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080498203682603262/video/1",
+              "media_key": "3_2080363959912374272",
+              "start": 104,
+              "url": "https://t.co/L0MczzQ1WJ"
+            },
+            {
+              "display_url": "pic.x.com/L0MczzQ1WJ",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080498203682603262/video/1",
+              "media_key": "3_2080363959904022528",
+              "start": 104,
+              "url": "https://t.co/L0MczzQ1WJ"
+            },
+            {
+              "display_url": "pic.x.com/L0MczzQ1WJ",
+              "end": 127,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2080498203682603262/video/1",
+              "media_key": "3_2080363645327048704",
+              "start": 104,
+              "url": "https://t.co/L0MczzQ1WJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080498203682603262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月23日，一段习近平身穿蓝色花衬衫、端碗饮用当地饮品的视频再次在网络流传。\n\n视频来自2014年11月习近平访问斐济期间。当时他参加当地传统欢迎仪式，穿着斐济传统“布拉衫”，饮用由洋格纳树根制成的卡瓦汁。\n\n时隔近12年，这段旧视频因其罕见造型再次被网友翻出，引发调侃：“这件花衬衫也太宝藏了。”“十人十色魔法老头战士来袭”“穿花衣服的猪在喝水”“镜头给到一班中共高官，那个神态太搞笑了”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 528,
+          "impression_count": 551514,
+          "like_count": 1625,
+          "quote_count": 20,
+          "reply_count": 283,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "7月23日，一段习近平身穿蓝色花衬衫、端碗饮用当地饮品的视频再次在网络流传。\n\n视频来自2014年11月习近平访问斐济期间。当时他参加当地传统欢迎仪式，穿着斐济传统“布拉衫”，饮用由洋格纳树根制成的卡瓦汁。 https://t.co/L0MczzQ1WJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5222,
+          "following_count": 1043,
+          "like_count": 25151,
+          "listed_count": 10,
+          "media_count": 585,
+          "tweet_count": 8080
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2081228505925492773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244592,
+          "following_count": 1081,
+          "like_count": 9821,
+          "listed_count": 8834,
+          "media_count": 51275,
+          "tweet_count": 58506
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}
