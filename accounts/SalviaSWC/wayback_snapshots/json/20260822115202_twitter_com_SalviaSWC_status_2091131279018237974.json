@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090829971401113600"
+      ],
+      "media_source_tweet_id": [
+        "2090829977738690851"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "conversation_id": "2091131279018237974",
+    "created_at": "2026-08-22T11:52:02.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091131279018237974"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "地雷系"
+        },
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "台灣大學"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2056068727624634368",
+          "start": 3,
+          "username": "lanfegye1106"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nj0y9m6c5l",
+          "end": 93,
+          "expanded_url": "https://x.com/lanfegye1106/status/2090829977738690851/photo/1",
+          "media_key": "3_2090829971401113600",
+          "start": 70,
+          "url": "https://t.co/nj0y9m6c5l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091131279018237974",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090829971401113600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090829977738690851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanfegye1106: 地雷系愛好者不只是會喝魔爪、od、改花刀、輟學、去牛郎店、當站街女，還可以上台大\n#地雷系 #台灣大學 https://t.co/nj0y9m6c5l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2090829971401113600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQeyAMagAA6yla.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090829971401113600"
+          ],
+          "media_source_tweet_id": [
+            "2090829977738690851"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2091131279018237974",
+        "created_at": "2026-08-22T11:52:02.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091131279018237974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "地雷系"
+            },
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "台灣大學"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2056068727624634368",
+              "start": 3,
+              "username": "lanfegye1106"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nj0y9m6c5l",
+              "end": 93,
+              "expanded_url": "https://x.com/lanfegye1106/status/2090829977738690851/photo/1",
+              "media_key": "3_2090829971401113600",
+              "start": 70,
+              "url": "https://t.co/nj0y9m6c5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091131279018237974",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090829971401113600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090829977738690851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lanfegye1106: 地雷系愛好者不只是會喝魔爪、od、改花刀、輟學、去牛郎店、當站街女，還可以上台大\n#地雷系 #台灣大學 https://t.co/nj0y9m6c5l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090829971401113600"
+          ]
+        },
+        "author_id": "2056068727624634368",
+        "conversation_id": "2090829977738690851",
+        "created_at": "2026-08-21T15:54:47.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090829977738690851"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "地雷系"
+            },
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "台灣大學"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nj0y9m6c5l",
+              "end": 75,
+              "expanded_url": "https://x.com/lanfegye1106/status/2090829977738690851/photo/1",
+              "media_key": "3_2090829971401113600",
+              "start": 52,
+              "url": "https://t.co/nj0y9m6c5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090829977738690851",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090829971401113600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 21841,
+          "like_count": 515,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "地雷系愛好者不只是會喝魔爪、od、改花刀、輟學、去牛郎店、當站街女，還可以上台大\n#地雷系 #台灣大學 https://t.co/nj0y9m6c5l"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091131279018237974",
+        "name": "鼠尾草～🌿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659962043460354050/1773318440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5332,
+          "following_count": 1028,
+          "like_count": 25473,
+          "listed_count": 10,
+          "media_count": 587,
+          "tweet_count": 8161
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T17:47:11.000Z",
+        "description": "暱稱：瀾楓夜\n生誕日：11月6日\n星座：天蠍座\n身高：165公分\n體重：43公斤\n性別：偽娘\nmbti：infp\n目前研究：塔羅牌、西方占星、盧恩符文、日式花牌占卜\n夢想：開一間魔法主題的餐廳、當一名作家、\n興趣：賽車游戲、女僕咖啡廳、上網、研究魔法\n擅長的科目：社會科\n最喜歡的服裝類型：地雷系、量產型、哥特系",
+        "id": "2056068727624634368",
+        "is_identity_verified": false,
+        "location": "台中",
+        "most_recent_tweet_id": "2090829977738690851",
+        "name": "瀾楓夜",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056069168840278016/IyqXm8Pu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 46,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "lanfegye1106",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093609930108362752"
+      ]
+    },
+    "author_id": "1659962043460354050",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2093614775909470404",
+    "created_at": "2026-08-29T08:20:34.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T09:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093614775909470404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+          "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+          "end": 82,
+          "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/tw_nsfw_discussion_this_game_gave_me_a_drug_kink.html",
+          "start": 59,
+          "status": 200,
+          "title": "（触发警告：不适宜内容讨论）这款游戏让我有了药物性癖 ☠️ - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/tw_nsfw_discussion_this_game_gave_me_a_drug_kink.html",
+          "url": "https://t.co/RYK5awbwAa"
+        },
+        {
+          "display_url": "pic.x.com/qlgwYvrygi",
+          "end": 106,
+          "expanded_url": "https://x.com/SalviaSWC/status/2093614775909470404/photo/1",
+          "media_key": "3_2093609930108362752",
+          "start": 83,
+          "url": "https://t.co/qlgwYvrygi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093614775909470404",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093609930108362752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "主播女孩重度依赖Reddit贴子：“这个游戏给了我药物性癖”下的神回复\n\n真是发人深省呢......🥺\n\n文字版链接：https://t.co/RYK5awbwAa https://t.co/qlgwYvrygi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093609930108362752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3_I5ZW4AACaRy.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093609930108362752"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2093614775909470404",
+        "created_at": "2026-08-29T08:20:34.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093614775909470404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+              "end": 82,
+              "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/tw_nsfw_discussion_this_game_gave_me_a_drug_kink.html",
+              "start": 59,
+              "status": 200,
+              "title": "（触发警告：不适宜内容讨论）这款游戏让我有了药物性癖 ☠️ - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/reddit/tw_nsfw_discussion_this_game_gave_me_a_drug_kink.html",
+              "url": "https://t.co/RYK5awbwAa"
+            },
+            {
+              "display_url": "pic.x.com/qlgwYvrygi",
+              "end": 106,
+              "expanded_url": "https://x.com/SalviaSWC/status/2093614775909470404/photo/1",
+              "media_key": "3_2093609930108362752",
+              "start": 83,
+              "url": "https://t.co/qlgwYvrygi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093614775909470404",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093609930108362752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主播女孩重度依赖Reddit贴子：“这个游戏给了我药物性癖”下的神回复\n\n真是发人深省呢......🥺\n\n文字版链接：https://t.co/RYK5awbwAa https://t.co/qlgwYvrygi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093614775909470404",
+        "name": "鼠尾草～🌿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659962043460354050/1773318440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5375,
+          "following_count": 1026,
+          "like_count": 25538,
+          "listed_count": 10,
+          "media_count": 592,
+          "tweet_count": 8178
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
