@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2103854604752691585",
+    "created_at": "2026-09-26T14:30:00.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T15:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103854604752691585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "94999172",
+          "start": 3,
+          "username": "toukorina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103854604752691585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103713534165275113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toukorina: 这导致严重的污名化：初高中生就天天解离剂烂在地上这正常吗 这tm不正常 正常社会里面年轻人干的是KTV吸点笑气飞点叶子那种传统意味上的“探索人生”而不是干脆把自己和现实切割什么都不想感受 这完全不合常理 但为什么？因为高压锅里大家都知道自己是被蒸的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2103854604752691585",
+        "created_at": "2026-09-26T14:30:00.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103854604752691585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "94999172",
+              "start": 3,
+              "username": "toukorina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103854604752691585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103713534165275113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toukorina: 这导致严重的污名化：初高中生就天天解离剂烂在地上这正常吗 这tm不正常 正常社会里面年轻人干的是KTV吸点笑气飞点叶子那种传统意味上的“探索人生”而不是干脆把自己和现实切割什么都不想感受 这完全不合常理 但为什么？因为高压锅里大家都知道自己是被蒸的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "94999172",
+        "conversation_id": "2103713534165275113",
+        "created_at": "2026-09-26T05:09:26.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103713534165275113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toukorina/stat…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/toukorina/status/2103711729238806533",
+              "start": 147,
+              "url": "https://t.co/bAIuuYdHnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103713534165275113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2626,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103711729238806533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这导致严重的污名化：初高中生就天天解离剂烂在地上这正常吗 这tm不正常 正常社会里面年轻人干的是KTV吸点笑气飞点叶子那种传统意味上的“探索人生”而不是干脆把自己和现实切割什么都不想感受 这完全不合常理 但为什么？因为高压锅里大家都知道自己是被蒸的螃蟹说不定还没黄 然后最后背锅的却是他们自己 https://t.co/bAIuuYdHnB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103854604752691585",
+        "name": "鼠尾草～🌿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659962043460354050/1773318440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5621,
+          "following_count": 1030,
+          "like_count": 25827,
+          "listed_count": 10,
+          "media_count": 605,
+          "tweet_count": 8267
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-12-06T13:33:23.000Z",
+        "description": "#ActuallyAutistic+ADHD+Bipolar. Transfem/Autigender/最好取消性别. 退学phd gamedev. 🐙@TamikoTomorika. 你太NT了我给你送精神病院关∞个月. 随机社交. #ハッピーシュガーライフ ジェルばんは♡ †昇天†",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "ActuallyAutistic"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "tag": "ハッピーシュガーライフ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "TamikoTomorika"
+              }
+            ]
+          }
+        },
+        "id": "94999172",
+        "is_identity_verified": false,
+        "location": "/橙子精神病院/Neurodivergent Dept.",
+        "most_recent_tweet_id": "2103801857625948503",
+        "name": "柚原橙子🍄🥕超绝躁郁橙子饼",
+        "pinned_tweet_id": "1527654707765792768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/94999172/1644518429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687704514131013632/B9KL8Hpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7443,
+          "following_count": 963,
+          "like_count": 179253,
+          "listed_count": 18,
+          "media_count": 1566,
+          "tweet_count": 45603
+        },
+        "url": "",
+        "username": "toukorina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

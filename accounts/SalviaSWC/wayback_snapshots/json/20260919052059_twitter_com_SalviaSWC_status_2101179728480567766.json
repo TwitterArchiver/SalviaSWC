@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2100963858605130077",
+    "created_at": "2026-09-19T05:20:59.000Z",
+    "display_text_range": [
+      11,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T06:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101179728480567766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847025525610762240",
+          "start": 0,
+          "username": "KS_Nitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101179728480567766",
+    "in_reply_to_user_id": "1847025525610762240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101157292771352759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KS_Nitori 是这样的()\n\n记得这个游戏里，是有大麻的🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2100963858605130077",
+        "created_at": "2026-09-19T05:20:59.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T06:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101179728480567766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847025525610762240",
+              "start": 0,
+              "username": "KS_Nitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101179728480567766",
+        "in_reply_to_user_id": "1847025525610762240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101157292771352759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KS_Nitori 是这样的()\n\n记得这个游戏里，是有大麻的🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847025525610762240",
+        "conversation_id": "2100963858605130077",
+        "created_at": "2026-09-19T03:51:50.000Z",
+        "display_text_range": [
+          11,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101157292771352759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101157292771352759",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100963858605130077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 大宋有没有疏肝解郁胶囊☝🤓\n\n开玩笑的，大宋应该有麻黄、罂粟、相思树皮吧😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101179728480567766",
+        "name": "鼠尾草～🌿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659962043460354050/1773318440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5566,
+          "following_count": 1028,
+          "like_count": 25766,
+          "listed_count": 10,
+          "media_count": 602,
+          "tweet_count": 8240
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ks_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/ks_nitori",
+                "start": 0,
+                "url": "https://t.co/Or6axjPT3h"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi, China",
+        "most_recent_tweet_id": "2101158442060968108",
+        "name": "Nitori",
+        "pinned_tweet_id": "2093053828015051191",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008188563092049923/XJF7Zd3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 1931,
+          "like_count": 16376,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 2866
+        },
+        "url": "https://t.co/Or6axjPT3h",
+        "username": "KS_Nitori",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

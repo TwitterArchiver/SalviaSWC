@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1659962043460354050",
+    "conversation_id": "2098982282921214268",
+    "created_at": "2026-09-13T03:55:39.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T04:55:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098983923569074288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1612680283332952064",
+          "start": 0,
+          "username": "xcs03563104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098983923569074288",
+    "in_reply_to_user_id": "1612680283332952064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098982282921214268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcs03563104 别死......"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098982282921214268].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098982282921214268",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098982282921214268"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659962043460354050",
+        "conversation_id": "2098982282921214268",
+        "created_at": "2026-09-13T03:55:39.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T04:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098983923569074288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1612680283332952064",
+              "start": 0,
+              "username": "xcs03563104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098983923569074288",
+        "in_reply_to_user_id": "1612680283332952064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098982282921214268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcs03563104 别死......"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098983923569074288",
+        "name": "鼠尾草～🌿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659962043460354050/1773318440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5528,
+          "following_count": 1026,
+          "like_count": 25736,
+          "listed_count": 10,
+          "media_count": 601,
+          "tweet_count": 8236
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-10T05:18:54.000Z",
+        "description": "個人口嗨用 啥都搞点 说话不过脑臭傻逼 一般路过点赞机 友好一切 最原终一重度依赖 神座出流重度依赖|my art禁止轉載，保存，使用 嚴禁ai學習 不授權任何|I only post my arts on x and cara",
+        "id": "1612680283332952064",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2022680770230505539",
+        "name": "超绝可爱超甜酱",
+        "pinned_tweet_id": "2037255109118419351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1612680283332952064/1761805257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037247513720479744/OjnKlSzX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 240,
+          "like_count": 40372,
+          "listed_count": 2,
+          "media_count": 1462,
+          "tweet_count": 10300
+        },
+        "url": "",
+        "username": "xcs03563104",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
